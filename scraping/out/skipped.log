@@ -1,0 +1,5 @@
+tradeford	network error fetching http://www.tradeford.com/robots.txt: [Errno 8] nodename nor servname provided, or not known
+chinaexporter	network error fetching http://www.chinaexporter.com/robots.txt: [Errno 8] nodename nor servname provided, or not known
+ecrobot	network error fetching https://www.ecrobot.com/robots.txt: [Errno 8] nodename nor servname provided, or not known
+chemnet	network error fetching https://www.chemnet.com/robots.txt: [Errno 8] nodename nor servname provided, or not known
+indiamart_export	network error fetching https://export.indiamart.com/robots.txt: [Errno 8] nodename nor servname provided, or not known
