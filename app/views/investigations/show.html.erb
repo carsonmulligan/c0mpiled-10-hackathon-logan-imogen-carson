@@ -1,0 +1,35 @@
+<% content_for :title, "Holocron — #{@investigation.name}" %>
+
+<div class="flex h-screen w-screen overflow-hidden">
+  <%= render "sidebar", investigation: @investigation, investigations: @investigations, offices: @offices %>
+
+  <section class="flex-1 flex flex-col min-w-0">
+    <header class="flex items-center justify-between border-b border-[#1d2640] px-5 py-3 bg-[#0a0e1a]">
+      <div>
+        <div class="text-[10px] uppercase tracking-[0.3em] text-slate-500 font-mono">Investigation</div>
+        <h1 class="text-lg font-mono text-slate-100"><%= @investigation.name %></h1>
+        <% if @investigation.description.present? %>
+          <p class="text-xs text-slate-400 max-w-2xl mt-1"><%= @investigation.description %></p>
+        <% end %>
+      </div>
+      <div class="flex items-center gap-2 text-xs font-mono text-slate-400">
+        <span class="px-2 py-1 border border-[#1d2640] rounded">id: <%= @investigation.id %></span>
+        <span class="px-2 py-1 border border-[#1d2640] rounded">updated <%= time_ago_in_words(@investigation.updated_at) %> ago</span>
+      </div>
+    </header>
+
+    <nav class="flex gap-1 border-b border-[#1d2640] px-5 bg-[#0a0e1a]">
+      <% %w[sources scrapers chat shares].each do |t| %>
+        <%= link_to t.upcase, investigation_path(@investigation, tab: t),
+              class: "tab #{'tab-active' if @tab == t}" %>
+      <% end %>
+      <div class="ml-auto py-2 text-[10px] uppercase tracking-widest font-mono text-slate-600">
+        <%= @investigation.sources.count %> sources · <%= @investigation.scrapers.count %> scrapers · <%= @investigation.shares.count %> shares
+      </div>
+    </nav>
+
+    <div class="flex-1 overflow-auto">
+      <%= render "tab_#{@tab}", investigation: @investigation, offices: @offices %>
+    </div>
+  </section>
+</div>

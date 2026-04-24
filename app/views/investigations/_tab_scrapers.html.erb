@@ -1,0 +1,49 @@
+<div class="p-5 space-y-4">
+  <div class="panel">
+    <div class="panel-h">New Scraper</div>
+    <%= form_with url: investigation_scrapers_path(investigation), method: :post, local: true, class: "p-3 grid grid-cols-12 gap-2" do |f| %>
+      <%= f.select :"scraper[kind]", Scraper::KINDS.map { |k| [k, k] }, {}, class: "input col-span-2" %>
+      <%= f.text_field :"scraper[name]", placeholder: "name (e.g. ChemNet supplier sweep)", class: "input col-span-4" %>
+      <%= f.text_field :"scraper[target_url]", placeholder: "https://target", class: "input col-span-5" %>
+      <%= f.submit "Create", class: "btn-accent col-span-1 justify-center" %>
+    <% end %>
+  </div>
+
+  <div class="panel">
+    <div class="panel-h">Configured Scrapers</div>
+    <table class="w-full">
+      <thead>
+        <tr>
+          <th class="grid-head w-20">Kind</th>
+          <th class="grid-head">Name</th>
+          <th class="grid-head">Target</th>
+          <th class="grid-head w-24">Status</th>
+          <th class="grid-head w-32">Last Run</th>
+          <th class="grid-head w-24"></th>
+        </tr>
+      </thead>
+      <tbody>
+        <% if investigation.scrapers.empty? %>
+          <tr><td colspan="6" class="grid-cell text-slate-600 italic text-center py-8">No scrapers configured.</td></tr>
+        <% end %>
+        <% investigation.scrapers.order(created_at: :desc).each do |sc| %>
+          <tr class="hover:bg-[#131a2c]">
+            <td class="grid-cell"><span class="px-1.5 py-0.5 rounded bg-[#1d2640] text-amber-300/80 text-[10px] uppercase"><%= sc.kind %></span></td>
+            <td class="grid-cell text-slate-100"><%= sc.name %></td>
+            <td class="grid-cell text-slate-500 truncate max-w-md"><%= sc.target_url %></td>
+            <td class="grid-cell">
+              <span class="text-[10px] uppercase <%= sc.status == 'completed' ? 'text-emerald-400' : sc.status == 'failed' ? 'text-red-400' : sc.status == 'running' ? 'text-amber-300' : 'text-slate-500' %>">
+                <%= sc.status %>
+              </span>
+            </td>
+            <td class="grid-cell text-slate-600"><%= sc.last_run_at&.strftime("%Y-%m-%d %H:%M") || "—" %></td>
+            <td class="grid-cell text-right space-x-1">
+              <%= button_to "Run", run_investigation_scraper_path(investigation, sc), method: :post, class: "btn-accent" %>
+              <%= button_to "×", investigation_scraper_path(investigation, sc), method: :delete, class: "btn", data: { turbo_confirm: "Delete?" } %>
+            </td>
+          </tr>
+        <% end %>
+      </tbody>
+    </table>
+  </div>
+</div>

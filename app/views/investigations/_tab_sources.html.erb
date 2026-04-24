@@ -1,0 +1,50 @@
+<div class="p-5 space-y-4">
+  <div class="panel">
+    <div class="panel-h flex items-center justify-between">
+      <span>Add Source</span>
+      <span class="text-slate-600 normal-case tracking-normal">document · dataset · url · note</span>
+    </div>
+    <%= form_with url: investigation_sources_path(investigation), method: :post, local: true, class: "p-3 grid grid-cols-12 gap-2" do |f| %>
+      <%= f.select :"source[kind]", Source::KINDS.map { |k| [k, k] }, {}, class: "input col-span-2" %>
+      <%= f.text_field :"source[title]", placeholder: "title", class: "input col-span-3" %>
+      <%= f.text_field :"source[url]", placeholder: "https://", class: "input col-span-4" %>
+      <%= f.text_field :"source[body]", placeholder: "notes / snippet", class: "input col-span-2" %>
+      <%= f.submit "Add", class: "btn-accent col-span-1 justify-center" %>
+    <% end %>
+  </div>
+
+  <div class="panel">
+    <div class="panel-h">Sources Grid</div>
+    <table class="w-full">
+      <thead>
+        <tr>
+          <th class="grid-head w-24">Kind</th>
+          <th class="grid-head">Title</th>
+          <th class="grid-head">URL</th>
+          <th class="grid-head">Notes</th>
+          <th class="grid-head w-32">Added</th>
+          <th class="grid-head w-16"></th>
+        </tr>
+      </thead>
+      <tbody>
+        <% if investigation.sources.empty? %>
+          <tr><td colspan="6" class="grid-cell text-slate-600 italic text-center py-8">No sources yet — add one above or run a scraper.</td></tr>
+        <% end %>
+        <% investigation.sources.order(created_at: :desc).each do |s| %>
+          <tr class="hover:bg-[#131a2c]">
+            <td class="grid-cell"><span class="px-1.5 py-0.5 rounded bg-[#1d2640] text-amber-300/80 text-[10px] uppercase"><%= s.kind %></span></td>
+            <td class="grid-cell text-slate-100"><%= s.title %></td>
+            <td class="grid-cell text-slate-500 truncate max-w-xs">
+              <% if s.url.present? %><%= link_to s.url, s.url, target: "_blank", class: "underline decoration-dotted hover:text-amber-300" %><% end %>
+            </td>
+            <td class="grid-cell text-slate-400 truncate max-w-md"><%= s.body %></td>
+            <td class="grid-cell text-slate-600"><%= s.created_at.strftime("%Y-%m-%d %H:%M") %></td>
+            <td class="grid-cell text-right">
+              <%= button_to "×", investigation_source_path(investigation, s), method: :delete, class: "btn", data: { turbo_confirm: "Delete?" } %>
+            </td>
+          </tr>
+        <% end %>
+      </tbody>
+    </table>
+  </div>
+</div>

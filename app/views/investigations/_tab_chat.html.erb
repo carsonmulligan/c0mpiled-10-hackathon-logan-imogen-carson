@@ -1,0 +1,26 @@
+<div class="p-5 max-w-4xl mx-auto space-y-4">
+  <div class="panel">
+    <div class="panel-h flex items-center justify-between">
+      <span>Talk to Data</span>
+      <span class="text-slate-600 normal-case tracking-normal">stub — wired to CRUSTDATA_API_KEY</span>
+    </div>
+    <div class="p-4 space-y-3 max-h-[60vh] overflow-y-auto">
+      <% if investigation.messages.empty? %>
+        <p class="text-xs text-slate-600 italic text-center py-8">Ask a question about the sources in this investigation.</p>
+      <% end %>
+      <% investigation.messages.each do |m| %>
+        <div class="flex <%= m.role == 'user' ? 'justify-end' : 'justify-start' %>">
+          <div class="max-w-[75%] px-3 py-2 rounded text-sm font-mono
+                      <%= m.role == 'user' ? 'bg-amber-500/10 border border-amber-500/30 text-amber-100' : 'bg-[#131a2c] border border-[#1d2640] text-slate-300' %>">
+            <div class="text-[9px] uppercase tracking-widest opacity-60 mb-1"><%= m.role %></div>
+            <div class="whitespace-pre-wrap"><%= m.content %></div>
+          </div>
+        </div>
+      <% end %>
+    </div>
+    <%= form_with url: investigation_messages_path(investigation), method: :post, local: true, class: "border-t border-[#1d2640] p-3 flex gap-2" do |f| %>
+      <%= f.text_field :"message[content]", placeholder: "Ask the data…", class: "input flex-1" %>
+      <%= f.submit "Send", class: "btn-accent" %>
+    <% end %>
+  </div>
+</div>

@@ -1,0 +1,41 @@
+<div class="p-5 space-y-4">
+  <div class="panel">
+    <div class="panel-h">Share With Office</div>
+    <%= form_with url: investigation_shares_path(investigation), method: :post, local: true, class: "p-3 grid grid-cols-12 gap-2" do |f| %>
+      <%= f.select :"share[office_id]", offices.map { |o| ["#{o.name} (#{o.code})", o.id] }, {}, class: "input col-span-7" %>
+      <%= f.select :"share[permission]", Share::PERMISSIONS.map { |p| [p, p] }, {}, class: "input col-span-3" %>
+      <%= f.submit "Share", class: "btn-accent col-span-2 justify-center" %>
+    <% end %>
+  </div>
+
+  <div class="panel">
+    <div class="panel-h">Active Shares</div>
+    <table class="w-full">
+      <thead>
+        <tr>
+          <th class="grid-head">Office</th>
+          <th class="grid-head w-24">Code</th>
+          <th class="grid-head w-32">Permission</th>
+          <th class="grid-head w-32">Granted</th>
+          <th class="grid-head w-16"></th>
+        </tr>
+      </thead>
+      <tbody>
+        <% if investigation.shares.empty? %>
+          <tr><td colspan="5" class="grid-cell text-slate-600 italic text-center py-8">Not shared with any office yet.</td></tr>
+        <% end %>
+        <% investigation.shares.includes(:office).order(created_at: :desc).each do |sh| %>
+          <tr class="hover:bg-[#131a2c]">
+            <td class="grid-cell text-slate-100"><%= sh.office.name %></td>
+            <td class="grid-cell text-slate-500"><%= sh.office.code %></td>
+            <td class="grid-cell"><span class="px-1.5 py-0.5 rounded bg-[#1d2640] text-amber-300/80 text-[10px] uppercase"><%= sh.permission %></span></td>
+            <td class="grid-cell text-slate-600"><%= sh.created_at.strftime("%Y-%m-%d") %></td>
+            <td class="grid-cell text-right">
+              <%= button_to "×", investigation_share_path(investigation, sh), method: :delete, class: "btn", data: { turbo_confirm: "Revoke?" } %>
+            </td>
+          </tr>
+        <% end %>
+      </tbody>
+    </table>
+  </div>
+</div>

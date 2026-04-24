@@ -1,0 +1,41 @@
+<aside class="w-72 shrink-0 border-r border-[#1d2640] bg-[#0a0e1a] flex flex-col">
+  <div class="px-4 py-4 border-b border-[#1d2640]">
+    <div class="text-[10px] uppercase tracking-[0.3em] text-amber-500/80 font-mono">Holocron</div>
+    <div class="text-xs text-slate-500 font-mono mt-0.5">Investigation Workspace</div>
+  </div>
+
+  <div class="px-4 py-3 border-b border-[#1d2640]">
+    <div class="flex items-center justify-between mb-2">
+      <span class="text-[10px] uppercase tracking-widest text-slate-500 font-mono">Investigations</span>
+      <%= button_to "+ New", investigations_path, method: :post, class: "btn-accent" %>
+    </div>
+    <ul class="space-y-1">
+      <% investigations.each do |inv| %>
+        <li>
+          <%= link_to inv.name,
+                investigation_path(inv),
+                class: "block px-2 py-1.5 rounded text-xs font-mono truncate #{inv.id == investigation.id ? 'bg-amber-500/10 text-amber-200 border border-amber-500/30' : 'text-slate-400 hover:bg-[#131a2c]'}" %>
+        </li>
+      <% end %>
+    </ul>
+  </div>
+
+  <div class="px-4 py-3 border-b border-[#1d2640]">
+    <div class="text-[10px] uppercase tracking-widest text-slate-500 font-mono mb-2">Offices</div>
+    <ul class="space-y-1">
+      <% offices.each do |o| %>
+        <li class="flex items-center justify-between text-xs font-mono">
+          <span class="text-slate-400"><%= o.name %></span>
+          <span class="text-slate-600"><%= o.code %></span>
+        </li>
+      <% end %>
+    </ul>
+  </div>
+
+  <div class="mt-auto px-4 py-3 border-t border-[#1d2640] text-[10px] font-mono text-slate-600">
+    crustdata key:
+    <span class="<%= ENV['CRUSTDATA_API_KEY'].present? ? 'text-emerald-400' : 'text-slate-500' %>">
+      <%= ENV['CRUSTDATA_API_KEY'].present? ? 'loaded' : 'missing' %>
+    </span>
+  </div>
+</aside>

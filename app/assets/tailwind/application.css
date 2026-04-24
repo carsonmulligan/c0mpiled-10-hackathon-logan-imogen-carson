@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #0a0e1a;
+  --color-panel: #0f1422;
+  --color-panel-2: #131a2c;
+  --color-line: #1d2640;
+  --color-accent: #f59e0b;
+  --color-accent-red: #ef4444;
+  --font-sans: "Inter", ui-sans-serif, system-ui;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+}
+
+@layer components {
+  .panel { @apply bg-[#0f1422] border border-[#1d2640] rounded-md; }
+  .panel-h { @apply px-3 py-2 border-b border-[#1d2640] text-[11px] uppercase tracking-widest text-slate-400 font-mono; }
+  .btn { @apply inline-flex items-center gap-1 px-2.5 py-1 text-xs border border-[#1d2640] rounded text-slate-200 hover:bg-[#1d2640] font-mono; }
+  .btn-accent { @apply inline-flex items-center gap-1 px-2.5 py-1 text-xs border border-amber-500/40 rounded text-amber-300 hover:bg-amber-500/10 font-mono; }
+  .input { @apply w-full bg-[#0a0e1a] border border-[#1d2640] rounded px-2 py-1 text-sm text-slate-200 focus:outline-none focus:border-amber-500/60 font-mono; }
+  .tab { @apply px-3 py-2 text-[11px] uppercase tracking-widest font-mono border-b-2 border-transparent text-slate-400 hover:text-slate-200; }
+  .tab-active { @apply border-amber-500 text-slate-100; }
+  .grid-cell { @apply px-3 py-2 text-xs font-mono border-b border-[#1d2640] text-slate-300; }
+  .grid-head { @apply px-3 py-2 text-[10px] uppercase tracking-widest font-mono border-b border-[#1d2640] text-slate-500 text-left; }
+}
