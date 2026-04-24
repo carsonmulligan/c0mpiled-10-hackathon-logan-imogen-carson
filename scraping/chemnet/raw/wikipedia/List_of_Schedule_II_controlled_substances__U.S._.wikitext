@@ -1,0 +1,315 @@
+{{Short description|none}}
+This is the '''list of Schedule II controlled substances''' in the United States as defined by the [[Controlled Substances Act]].<ref>{{Cite web |title=21 C.F.R. 1308.12 (Schedule II) |url=https://www.ecfr.gov/current/title-21/chapter-II/part-1308/subject-group-ECFRf62f8e189108c4d/section-1308.12 |access-date=September 7, 2023 |website=[[Code of Federal Regulations]]}}</ref> The following findings are required, by section 202 of that Act, for substances to be placed in this schedule:
+# The drug or other substance has a high potential for abuse.
+# The drug or other substance has a currently accepted medical use in treatment in the United States or a currently accepted medical use with severe restrictions.
+# Abuse of the drug or other substances may lead to severe psychological or physical dependence.
+
+The complete list of Schedule II substances is as follows. The [[Administrative Controlled Substances Code Number]] and [[Federal Register]] citation for each substance is included.
+
+==Drugs==
+{|class="wikitable sortable"
+|-
+! [[Administrative Controlled Substances Code Number|ACSCN]] !! Class !! Drug
+|-
+| 9050
+| opiate
+| [[Codeine]]<ref name=":0">{{Cite web |last=Ingersoll |first=John |date=September 29, 1971 |title=Schedules of Controlled Substances: Removal of Naloxone From Control |url=https://isomerdesign.com/Cdsa/FR/36FR19116.pdf |archive-url=https://web.archive.org/web/20210916175305/https://isomerdesign.com/Cdsa/FR/36FR19116.pdf |archive-date=September 16, 2021 |access-date=September 7, 2023 |website=Isomer Design |publisher=Bureau of Narcotics and Dangerous Drugs}}</ref>
+|-
+| 9334
+| opiate
+| [[Dihydroetorphine]]<ref>{{Cite web |last=Mercado |first=Julio |date=November 17, 2000 |title=Schedule II Control of Dihydroetorphine Under the Controlled Substances Act |url=https://www.federalregister.gov/documents/2000/11/17/00-29439/schedule-ii-control-of-dihydroetorphine-under-the-controlled-substances-act-csa |access-date=September 7, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 9190
+| opiate
+| [[Ethylmorphine]]<ref name=":0" />
+|-
+| 9059
+| opiate
+| [[Etorphine hydrochloride]]<ref>{{Cite web |last=Bartels, Jr. |first=John R. |date=March 29, 1974 |title=Etorphine Hydrochloride Transfer to Schedule II |url=https://isomerdesign.com/Cdsa/FR/39FR11535.pdf |archive-url=https://web.archive.org/web/20210926010118/https://isomerdesign.com/Cdsa/FR/39FR11535.pdf |archive-date=September 26, 2021 |access-date=September 7, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 9640
+| opiate
+| Granulated [[opium]]<ref name=":0" />
+|-
+| 9193
+| opiate
+| [[Hydrocodone]]<ref name=":0" />
+|-
+| 9150
+| opiate
+| [[Hydromorphone]]<ref name=":0" />
+|-
+| 9260
+| opiate
+| [[Metopon]]<ref name=":0" />
+|-
+| 9300
+| opiate
+| [[Morphine]]<ref name=":0" />
+|-
+|9668
+|opiate
+|Noroxymorphone<ref>{{Cite web |last=Dhillon |first=Uttam |date=August 16, 2019 |title=Listing of Noroxymorphone in the Code of Federal Regulations and Assignment of a Controlled Substances Code Number |url=https://www.federalregister.gov/documents/2019/08/16/2019-17623/listing-of-noroxymorphone-in-the-code-of-federal-regulations-and-assignment-of-a-controlled |access-date=September 7, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 9610
+| opiate
+| Opium extracts<ref name=":0" />
+|-
+| 9620
+| opiate
+| Opium fluid<ref name=":0" />
+|-
+| 9330
+| opiate
+| [[Oripavine]]<ref>{{Cite web |last=Leonhart |first=Michele |date=September 24, 2007 |title=Designation of Oripavine as a Basic Class of Controlled Substance |url=https://www.federalregister.gov/documents/2007/09/24/E7-18524/designation-of-oripavine-as-a-basic-class-of-controlled-substance |access-date=September 7, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 9143
+| opiate
+| [[Oxycodone]]<ref name=":0" />
+|-
+| 9652
+| opiate
+| [[Oxymorphone]]<ref name=":0" />
+|-
+| 9639
+| opiate
+| Powdered opium<ref name=":0" />
+|-
+| 9600
+| opiate
+| Raw opium<ref name=":0" />
+|-
+| 9333
+| opiate
+| [[Thebaine]]<ref name=":0" />
+|-
+| 9630
+| opiate
+| [[Tincture of opium]]<ref name=":0" />
+|-
+|9650<ref name=":7">{{Cite web |date=March 16, 2026 |title=Controlled Substance by DEA Code Number |url=https://www.deadiversion.usdoj.gov/schedules/orangebook/d_cs_drugcode.pdf |access-date=April 1, 2026 |publisher=[[Drug Enforcement Administration]] |format=PDF |publication-date=March 16, 2026|pages=3, 18}}</ref> {{Efn|This (previously) missing info was found by reverse searching the info still listed on the page.|group=note|name=Reverse}}
+| opiate
+| [[Opium poppy]] and [[poppy straw]]<ref name=":1">{{Cite web |last=Bartels Jr. |first=John R. |date=June 20, 1974 |title=PART 1308— SCHEDULES OF CONTROLLED SUBSTANCES: Annual Publication |url=https://archives.federalregister.gov/issue_slice/1974/6/20/22139-22143.pdf#page=2 |archive-url=https://web.archive.org/web/20230906194000/https://archives.federalregister.gov/issue_slice/1974/6/20/22139-22143.pdf |archive-date=September 6, 2023 |access-date=September 6, 2023 |website=[[Government Publishing Office]] |publisher=[[Drug Enforcement Administration]]}}</ref>{{Efn|This substance was expressly scheduled by the [[Controlled Substances Act]] on October 27, 1970. The 1974 [[Federal Register]] ruling (by Administrator John R. Bartels, Jr.) merely organized its listing in the [[Code of Federal Regulations]].|group=note|name=Bartels}}
+|-
+| 9040
+| stimulant
+| [[Coca]], leaves and any salt, compound, derivative or preparation of coca leaves<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9041
+| stimulant
+| [[Cocaine]], and its salts, isomers, derivatives and salts of isomers and derivatives<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9180
+| stimulant
+| [[Ecgonine]], and its salts, isomers, derivatives and salts of isomers and derivatives<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9670
+| opiate
+| Concentrate of poppy straw (the crude extract of poppy straw in either liquid, solid or powder form which contains the phenanthrene alkaloids of the opium poppy)<ref>{{Cite web |last=Bartels, Jr. |first=John R. |date=February 14, 1975 |title=Concentrate of Poppy Straw, Addition to Schedule II and Authorizing its Importation |url=https://isomerdesign.com/Cdsa/FR/40FR6779.pdf |archive-url=https://web.archive.org/web/20210926002647/https://isomerdesign.com/Cdsa/FR/40FR6779.pdf |archive-date=September 26, 2021 |access-date=September 7, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 9737
+| opiate
+| [[Alfentanil]]<ref>{{Cite web |last=Lawn |first=John |date=January 23, 1987 |title=Rescheduling of Alfentanil from Schedule I to Schedule II |url=https://isomerdesign.com/Cdsa/FR/52FR2516.pdf |archive-url=https://web.archive.org/web/20190728013952/https://isomerdesign.com/Cdsa/FR/52FR2516.pdf |archive-date=July 28, 2019 |access-date=September 7, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 9010
+| opiate
+| [[Alphaprodine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9020
+| opiate
+| [[Anileridine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9800
+| opiate
+| [[Bezitramide]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9273
+| opiate
+| Bulk [[dextropropoxyphene]] (non-dosage forms)<ref>{{Cite web |last=Bensinger |first=Peter |date=July 22, 1980 |title=Control of Bulk Dextropropoxyphene (Non-dosage Forms) in Schedule II as an Opiate |url=https://isomerdesign.com/Cdsa/FR/45FR48881.pdf |archive-url=https://web.archive.org/web/20160324042500/https://isomerdesign.com/Cdsa/FR/45FR48881.pdf |archive-date=March 24, 2016 |access-date=September 7, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 9743
+| opiate
+| [[Carfentanil]]<ref>{{Cite web |last=Lawn |first=John |date=October 28, 1988 |title=Placement of Carfentanil into Schedule II |url=https://isomerdesign.com/Cdsa/FR/53FR43684.pdf |archive-url=https://web.archive.org/web/20160322221649/https://isomerdesign.com/Cdsa/FR/53FR43684.pdf |archive-date=March 22, 2016 |access-date=September 7, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 9120
+| opiate
+| [[Dihydrocodeine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9170
+| opiate
+| [[Diphenoxylate]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9801
+| opiate
+| [[Fentanyl]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9226
+| opiate
+| [[Isomethadone]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9648
+| opiate
+| [[Levo-alphacetylmethadol]]<ref>{{Cite web |last=Bonner |first=Robert |date=August 18, 1993 |title=Schedules of Controlled Substances; Transfer of Levo-acetylmethadol from Schedule I into Schedule II |url=http://isomerdesign.com/Cdsa/FR/58FR43795.pdf |archive-url=https://web.archive.org/web/20190728014110/http://isomerdesign.com/Cdsa/FR/58FR43795.pdf |archive-date=July 28, 2019 |access-date=January 16, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 9210
+| opiate
+| [[Levomethorphan]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9220
+| opiate
+| [[Levorphanol]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9240
+| opiate
+| [[Metazocine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9250
+| opiate
+| [[Methadone]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9254
+| opiate 
+| [[Methadone intermediate]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9802
+| opiate
+| [[Moramide intermediate]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+|9245
+|opiate
+|[[Oliceridine]]<ref>{{Cite web |last=Evans |first=D. Christopher |date=July 12, 2021 |title=Schedules of Controlled Substances: Placement of Oliceridine in Schedule II |url=https://www.federalregister.gov/documents/2021/06/10/2021-11981/schedules-of-controlled-substances-placement-of-oliceridine-in-schedule-ii |access-date=September 7, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 9230
+| opiate
+| [[Pethidine]] (meperidine)<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9232
+| opiate 
+| [[Pethidine intermediate A]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9233
+| opiate 
+| [[Norpethidine|Pethidine intermediate B]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9234
+| opiate 
+| [[Pethidinic acid|Pethidine intermediate C]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9715
+| opiate
+| [[Phenazocine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9730
+| opiate
+| [[Piminodine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9732
+| opiate
+| [[Racemethorphan]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9733
+| opiate
+| [[Racemorphan]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9739
+| opiate
+| [[Remifentanil]]<ref>{{Cite web |last=Milford, Jr. |first=James S. |date=November 5, 1996 |title=Schedules of Controlled Substances: Placement of Remifentanil Into Schedule II |url=https://www.govinfo.gov/content/pkg/FR-1996-11-05/html/96-28294.htm |access-date=January 16, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 9740
+| opiate
+| [[Sufentanil]]<ref>{{Cite web |last=Mullen, Jr. |first=Francis M. |date=May 25, 1984 |title=Schedules of Controlled Substances; Rescheduling of Sufentanil into Schedule II |url=http://isomerdesign.com/Cdsa/FR/49FR22074.pdf |url-status=live |archive-url=https://web.archive.org/web/20190519024955/http://isomerdesign.com/Cdsa/FR/49FR22074.pdf |archive-date=May 19, 2019 |access-date=January 16, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 9780
+| opiate
+| [[Tapentadol]]<ref>{{Cite web |last=Leonhart |first=Michele |date=May 21, 2009 |title=Schedules of Controlled Substances: Placement of Tapentadol Into Schedule II |url=https://www.federalregister.gov/documents/2009/05/21/E9-11933/schedules-of-controlled-substances-placement-of-tapentadol-into-schedule-ii |access-date=January 16, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+|9729
+|opiate
+|[[Thiafentanil]]<ref>{{Cite web |last=Dhillon |first=Uttam |date=June 10, 2019 |title=Schedules of Controlled Substances: Placement of Thiafentanil in Schedule II |url=https://www.federalregister.gov/documents/2019/06/18/2019-12735/schedules-of-controlled-substances-placement-of-thiafentanil-in-schedule-ii |access-date=September 7, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 1100
+| stimulant
+| [[Amphetamine]], its salts, optical isomers, and salts of its optical isomers<ref name=":2">{{Cite web |last=Ingersoll |first=John |date=July 7, 1971 |title=Amphetamine, Methamphetamine, and Optical Isomers |url=http://isomerdesign.com/Cdsa/FR/36FR12734.pdf |url-status=live |archive-url=https://web.archive.org/web/20220303023154/http://isomerdesign.com/Cdsa/FR/36FR12734.pdf |archive-date=March 3, 2022 |access-date=January 16, 2023 |website=Isomer Design |publisher=Bureau of Narcotics and Dangerous Drugs}}</ref>
+|-
+| 1105
+| stimulant
+| [[Methamphetamine]], its salts, optical isomers, and salts of optical isomers<ref name=":2" />
+|-
+| 1631
+| stimulant
+| [[Phenmetrazine]] and its salts <ref name=":3">{{Cite web |last=Finlator |first=John |date=October 28, 1971 |title=Phenmetrazine and its salts, and Methylphenidate |url=https://isomerdesign.com/Cdsa/FR/36FR20686.pdf |url-status=live |archive-url=https://web.archive.org/web/20220303023153/http://isomerdesign.com/Cdsa/FR/36FR20686.pdf |archive-date=March 3, 2022 |access-date=January 16, 2023 |website=Isomer Design |publisher=Bureau of Narcotics and Dangerous Drugs}}</ref>
+|-
+| 1724
+| stimulant
+| [[Methylphenidate]]<ref name=":3" />
+|-
+| 1205
+| stimulant
+| [[Lisdexamfetamine]], its salts, isomers, and salts of its isomers<ref>{{Cite web |last=Leonhart |first=Michele |date=May 3, 2007 |title=Schedules of Controlled Substances: Placement of Lisdexamfetamine Into Schedule II |url=https://www.federalregister.gov/documents/2007/05/03/E7-8421/schedules-of-controlled-substances-placement-of-lisdexamfetamine-into-schedule-ii |url-status=live |archive-url=https://archive.today/20230116081337/https://www.federalregister.gov/documents/2007/05/03/E7-8421/schedules-of-controlled-substances-placement-of-lisdexamfetamine-into-schedule-ii |archive-date=January 16, 2023 |access-date=January 16, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 2125
+| depressant
+| [[Amobarbital]]<ref name=":4">{{Cite web |last=Bartels, Jr. |first=John R. |date=November 13, 1973 |title=Schedule II Control of Amobarbital, Pentobarbital, Secobarbital, and their salts |url=http://isomerdesign.com/Cdsa/FR/38FR31310.pdf |url-status=live |archive-url=https://web.archive.org/web/20220303023142/http://isomerdesign.com/Cdsa/FR/38FR31310.pdf |archive-date=March 3, 2022 |access-date=January 16, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 2550
+| depressant
+| [[Glutethimide]]<ref>{{Cite web |last=Bonner |first=Robert |date=March 21, 1991 |title=Schedules of Controlled Substances: Transfer of Glutethimide from Schedule III to Schedule II |url=http://isomerdesign.com/Cdsa/FR/56FR11930.pdf |url-status=live |archive-url=https://web.archive.org/web/20220303023106/http://isomerdesign.com/Cdsa/FR/56FR11930.pdf |archive-date=March 3, 2022 |access-date=January 16, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 2270
+| depressant
+|[[Pentobarbital]] / Nembutal<ref name=":7"/> {{Efn|name=Reverse| group=note}}
+|-
+| 7471
+| depressant
+| [[Phencyclidine]]<ref>{{Cite web |last=Bensinger |first=Peter |date=January 25, 1978 |title=Placement of Phencyclidine in Schedule II |url=http://isomerdesign.com/Cdsa/FR/43FR3359.pdf |url-status=live |archive-url=https://web.archive.org/web/20220303023116/http://isomerdesign.com/Cdsa/FR/43FR3359.pdf |archive-date=March 3, 2022 |access-date=January 16, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 2315
+| depressant
+| [[Secobarbital]]<ref name=":4" />
+|-
+| 7379
+| hallucinogen
+| [[Nabilone]]<ref>{{Cite web |last=Lawn |first=John |date=April 7, 1987 |title=Placement of Nabilone in Schedule II |url=https://www.govinfo.gov/content/pkg/FR-1987-04-07/pdf/FR-1987-04-07.pdf |archive-url=https://web.archive.org/web/20230430024311/https://www.govinfo.gov/content/pkg/FR-1987-04-07/pdf/FR-1987-04-07.pdf |archive-date=April 30, 2023 |access-date=September 7, 2023 |website=[[Government Publishing Office]] |publisher=[[Drug Enforcement Administration]] |pages=11042}}</ref>
+|-
+|7365
+|hallucinogen
+|[[Dronabinol]] oral solution<ref>{{Cite web |last=Patterson |first=Robert |date=November 22, 2017 |title=Schedules of Controlled Substances: Placement of FDA-Approved Products of Oral Solutions Containing Dronabinol [(-)-delta-9-trans-tetrahydrocannabinol (delta-9-THC)] in Schedule II |url=https://www.federalregister.gov/documents/2017/11/22/2017-25275/schedules-of-controlled-substances-placement-of-fda-approved-products-of-oral-solutions-containing |access-date=September 7, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 8501
+| precursor
+| [[Phenylacetone]]<ref name=":5">{{Cite web |last=Bensinger |first=Peter |date=February 11, 1980 |title=Schedules of Controlled Substances; Schedule II Placement of Phenylacetone; (Phenyl-2-propanone, P2P, methyl benzyl ketone, benzyl methyl ketone) |url=http://isomerdesign.com/Cdsa/FR/44FR71822.pdf |url-status=live |archive-url=https://web.archive.org/web/20220303023127/http://isomerdesign.com/Cdsa/FR/44FR71822.pdf |archive-date=March 3, 2022 |access-date=January 16, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 7460
+| precursor
+| [[1-phenylcyclohexylamine]]<ref name=":5" />
+|-
+| 8603
+| precursor
+| 1-piperidinocyclohexanecarbonitrile (PCC)<ref name=":5" />
+|-
+| 8333
+| precursor
+| 4-anilino-N-phenethyl-4-piperidine ([[4-ANPP]])<ref>{{Cite web |last=Leonhart |first=Michele |date=June 29, 2010 |title=Control of Immediate Precursor Used in the Illicit Manufacture of Fentanyl as a Schedule II Controlled Substance |url=https://www.federalregister.gov/documents/2010/06/29/2010-15520/control-of-immediate-precursor-used-in-the-illicit-manufacture-of-fentanyl-as-a-schedule-ii |url-status=live |archive-url=https://archive.today/20230116080523/https://www.federalregister.gov/documents/2010/06/29/2010-15520/control-of-immediate-precursor-used-in-the-illicit-manufacture-of-fentanyl-as-a-schedule-ii |archive-date=January 16, 2023 |access-date=January 16, 2023 |website=Federal Register |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+|8366
+|precursor
+|[[Norfentanyl]]<ref>{{Cite web |last=Dhillon |first=Uttam |date=April 17, 2020 |title=Control of the Immediate Precursor Norfentanyl Used in the Illicit Manufacture of Fentanyl as a Schedule II Controlled Substance |url=https://www.federalregister.gov/documents/2020/04/17/2020-07381/control-of-the-immediate-precursor-norfentanyl-used-in-the-illicit-manufacture-of-fentanyl-as-a |access-date=September 7, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|}
+
+==See also==
+* [[List of Schedule I controlled substances (U.S.)]]
+* [[List of Schedule III controlled substances (U.S.)]]
+* [[List of Schedule IV controlled substances (U.S.)]]
+* [[List of Schedule V controlled substances (U.S.)]]
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+{{Drug control laws}}
+
+{{DEFAULTSORT:Schedule II drugs (US)}}
+[[Category:Controlled Substances Act]]
+[[Category:Drug-related lists]]

@@ -1,0 +1,168 @@
+{{Short description|Hazmat labeling system}}
+{{Refimprove|date=April 2024}}
+[[File:NFPA-704-diamond-standard.svg|right|thumb|250x250px|Standard System for the Identification of the Hazards of Materials for Emergency Response]]
+
+'''NFPA 704: Standard System for the Identification of the Hazards of Materials for Emergency Response''' is a standard maintained by the [[United States|U.S.]]-based [[National Fire Protection Association]]. First tentatively adopted as a guide in 1960,<ref>{{cite web|url=https://www.nfpa.org/Assets/files/AboutTheCodes/704/TCRF-1975-704M.pdf|title=Proposed Amendments on Revisions to the Recommended System for the Identification of The Fire Hazards of Materials / NFPA No. 704M — 1969|first1=W. H. L.|last1=Dornette|first2=Miles E.|last2=Woodworth|year=1969|publisher=[[National Fire Protection Association]]|access-date=2016-03-04|url-status=dead|archive-date=2016-03-03|archive-url=https://web.archive.org/web/20160303232503/http://www.nfpa.org/Assets/files/AboutTheCodes/704/TCRF-1975-704M.pdf}}</ref> and revised several times since then, it defines the Safety Square or Fire Diamond which is used to quickly and easily identify the risks posed by hazardous materials. This helps determine what, if any, special equipment should be used, procedures followed, or precautions taken during the initial stages of an emergency response. It is an internationally accepted safety standard, and is crucial while transporting [[chemicals]].
+
+== <span class="anchor" id="Symbolism"></span><!-- Earlier section title, possibly #linked to --> Codes ==
+
+The four divisions of the square are typically color-coded, with red on top indicating [[flammability]], blue on the left indicating level of [[health hazard]], yellow on the right for [[reactivity (chemistry)|chemical reactivity]], and white containing codes for special hazards not covered by the first three squares. Each of health, flammability and reactivity is rated on a scale from 0 (no reasonable hazard) to 4 (severe hazard).<ref>{{Cite web |title=Hazardous Materials Identification {{!}} NFPA |url=https://www.nfpa.org/news-blogs-and-articles/blogs/2021/11/05/hazardous-materials-identification |access-date=2025-11-23 |website=www.nfpa.org |language=en}}</ref> The latest version of NFPA 704 sections 5, 6, 7 and 8 for the specifications of each classification are listed below. The numeric values in the first column are designated in the standard by "Degree of Hazard" using [[Arabic numerals]] (0, 1, 2, 3, 4), not to be confused with other classification systems, such as that in the NFPA 30 Flammable and Combustible Liquids Code, where flammable and combustible liquid categories are designated by "Class", using [[Roman numerals]] (I, II, III).<ref name="NFPA">{{cite web|url=https://link.nfpa.org/free-access/publications/704/2022|title=NFPA 704: Standard System for the Identification of the Hazards of Materials for Emergency Response|year=2022|language=en|url-access=registration}}</ref>
+
+{{anchor|Red}}
+{| class="wikitable" style="width:100%; vertical-align:center;"
+ ! colspan="2" style="color:white; background:red; width:75%; " | <big>Flammability (red)</big>
+ |-
+ ! style="max-width:10em" | <big>0</big>
+ | Materials that will not burn under typical fire conditions (e.g., [[carbon tetrachloride]], [[silicon dioxide]], [[perfluorohexane]], [[water]]), including intrinsically noncombustible materials such as concrete, stone, and sand.  Materials that will not burn in air unless exposed to a temperature of {{convert|1500|F|C|order=flip|-1}} for more than 5&nbsp;minutes.
+ |-
+ !<big>1</big>
+ | Materials that require considerable preheating, under all ambient temperature conditions, before ignition and combustion can occur (e.g., [[mineral oil]], [[ammonia]], [[ethylene glycol]]). Includes some finely divided suspended solids that do not require heating before ignition can occur. [[Flash point]] at or above {{convert|200|F|C|order=flip|1}}.
+ |-
+ !<big>2</big>
+ | Must be moderately heated or exposed to relatively high ambient temperature before ignition can occur (e.g., [[diesel fuel]], [[paper]], [[sulfur]] and some finely divided suspended solids that do not require heating before ignition can occur). Flash point between {{convert|100|and|200|F|C|order=flip|1}}.
+ |-
+ !<big>3</big>
+ | Materials (including finely divided suspended solids) that can be ignited under almost all ambient temperature conditions (e.g., [[acetone]], [[ethanol]]). Liquids having a flash point below {{convert|73|F|C|order=flip|1}} and having a boiling point at or above {{convert|100|F|C|order=flip|1}} or having a flash point between {{convert|73|and|100|F|C|order=flip|1}}.
+ |-
+ !<big>4</big>
+ | Will rapidly or completely vaporize at normal atmospheric pressure and temperature, or is readily dispersed in air and will burn readily (e.g., [[gasoline]], [[acetylene]], [[propane]], [[hydrogen gas]], [[diborane]], [[tert-Butyllithium]]). Includes [[Pyrophoricity|pyrophoric]] substances. Flash point below room temperature at {{convert|73|F|C|order=flip|1}}.
+ |}
+
+{{anchor|Blue}}
+{| class="wikitable" style="width:100%; vertical-align:center;"
+ ! colspan="2" style="color:white; background:blue; width:75%; " | <big>Health (blue)</big>
+ |-
+ ! style="max-width:10em" | <big>0</big>
+ | Poses no health hazard, requires no precautions, and would offer no hazard beyond that of ordinary combustible materials (e.g., [[wood]], [[sugar]], [[salt]], [[propylene glycol]])
+ |-
+ ! <big>1</big>
+ | Exposure would cause irritation with only minor residual injury (e.g., [[acetone]], [[sodium bromate]], [[potassium chloride]])
+ |-
+ ! <big>2</big>
+ | Intense or continued but not chronic exposure could cause temporary incapacitation or possible residual injury (e.g., [[diethyl ether]], [[ammonium phosphate]], [[carbon dioxide]], [[chloroform]], [[DEET]], [[capsaicin]]).
+ |-
+ ! <big>3</big>
+ | Short exposure could cause serious temporary or moderate residual injury (e.g., [[liquid hydrogen]], [[sulfuric acid]], [[calcium hypochlorite]], [[carbon monoxide]], [[hexafluorosilicic acid]], [[zinc chloride]], [[sodium hydroxide]])
+ |-
+ ! <big>4</big>
+ | Very short exposure could cause death or major residual injury (e.g. [[aluminum phosphide]], [[hydrogen cyanide]], [[phosgene]], [[diborane]], [[methyl isocyanate]], [[hydrofluoric acid]], [[sarin]], [[mustard gas]], [[tert-Butyllithium]])
+ |}
+
+{{anchor|Yellow}}
+{{anchor|Blue}}
+{| class="wikitable" style="width:100%; vertical-align:center;"
+ ! colspan="2" style="color:black; background:yellow; width:75%; " | <big>Instability–reactivity (yellow)</big>
+ |-
+ ! style="max-width:10em" | <big>0</big>
+ | Normally stable, even under fire exposure conditions, and is not reactive with water (e.g., [[helium]], [[Nitrogen|N<sub>2</sub>]], [[carbon dioxide]])
+ |-
+ ! <big>1</big>
+ | Normally stable, but can become unstable at elevated temperatures and pressures (e.g., [[propene]], [[ammonium acetate]], [[carbonic acid]])
+ |-
+ ! <big>2</big>
+ | Undergoes violent chemical change at elevated temperatures and pressures, reacts violently with water, or may form explosive mixtures with water (e.g., [[white phosphorus]], [[potassium]], [[sodium]])
+ |-
+ ! <big>3</big>
+ | Capable of detonation or explosive decomposition but requires a strong initiating source, must be heated under confinement before initiation, reacts explosively with water, or will detonate if severely shocked (e.g., [[ammonium nitrate]], [[caesium]], [[hydrogen peroxide]])
+ |-
+ ! <big>4</big>
+ | Readily capable of [[detonation]] or [[Explosive material#Chemical explosives|explosive decomposition]] at normal temperatures and pressures (e.g., [[nitroglycerin]], [[chlorine dioxide]], [[nitrogen triiodide]], [[manganese heptoxide]], [[TNT]],  [[Picric acid]], [[tert-Butyllithium]])
+
+ |}{{anchor|White}}
+{| class="wikitable" style="width:100%; vertical-align:center;"
+ ! colspan="2" style="color:black; background:#ffffff; width:100%; " | <big>Special notice (white)</big>
+|-
+| colspan=2 | The white "special notice" area can contain several symbols. The following symbols are defined by the NFPA 704 standard.
+|-
+! style="max-width:10em" | <big>OX</big>
+| [[Oxidizer]], allows chemicals to burn without an air supply (e.g., [[potassium perchlorate]], [[ammonium nitrate]], [[hydrogen peroxide]]).
+|-
+! <big><s>W</s></big>
+| [[Water-reactive substances|Reacts with water]] in an unusual or dangerous manner (e.g., [[caesium]], [[sodium]], [[diborane]], [[sulfuric acid]], [[tert-Butyllithium]]).
+|-
+! <big>SA</big>
+| Simple [[asphyxiant gas]] (specifically [[noble gases]] or [[nitrogen]]). The SA symbol is also used for liquified [[carbon dioxide]] vapor withdrawal systems and where large quantities of [[dry ice]] are used in confined areas.<ref name="NFPA"/>
+|}
+{| class="wikitable" style="width:100%; vertical-align:center;"
+ ! colspan="2" style="color:black; background:#ffffff; width:100%; " | <big>Non-standard symbols (white)</big>
+|-
+| colspan="2" | These hazard codes are not part of the NFPA 704 standard, but are occasionally used in an unofficial manner. The use of non-standard codes may be permitted, required or disallowed by the authority having jurisdiction (e.g., fire department).<ref>{{cite web | url=https://www.smithsonianmag.com/arts-culture/decoding-the-city-the-fire-diamond-18494224/ | title=Decoding the City: The Fire Diamond }}</ref>
+|-
+! <big>—</big>
+|  No special notice (the correct format is to leave the white square blank, but sometimes a [[dash]] is used)
+|-
+!  style="max-width:10em" | <big>OXY</big>
+| [[Oxidizer]], allows chemicals to burn without an air supply (the correct symbol is "OX")
+|-
+! style="max-width:10em" | <big>COR</big>
+| rowspan=3 | [[Corrosive]]; strong [[acid]] or [[base (chemistry)|base]] (e.g., [[sulfuric acid]], [[potassium hydroxide]])
+|-
+! style="max-width:10em" | <big>CORR</big>
+|-
+![[File:NBS 1983 - Corrosion.svg|30px]]
+|-
+! <big>ACID</big>
+|   [[Acid]] 
+|-
+! <big>ALK</big>
+|[[Alkaline]]
+|-
+! <big>BIO</big>
+| rowspan=2 | [[Biological hazard]] (e.g., [[flu virus]], [[rabies virus]])
+|-
+! [[File:Biohazard symbol.svg|18px]]
+|-
+! <big>POI</big>
+| rowspan=2 | [[Poison]]ous (e.g., [[strychnine]], [[alpha-Amanitin|alpha-amanitin]])
+|-
+![[File:Skull & crossbones.svg|20px]]
+|-
+! <big>RA</big>
+| rowspan=4 | [[Radioactive decay|Radioactive]] (e.g., [[plutonium]], [[cobalt-60]], [[carbon-14]])
+|-
+! <big>RAD</big>
+|-
+![[File:Radiation warning symbol2.svg|20px]]
+|-
+![[File:Radioactive Red.svg|20px]]
+|-
+! <big>CRY</big>
+| rowspan=2 | [[Cryogenic]] (e.g., [[liquid nitrogen]])
+|-
+! <big>CRYO</big>
+|-
+! <big>G OX</big>
+| [[Oxygen]] gas
+|}
+
+==History==
+[[File:NFPA 704 label of hydrofluosilicic acid.jpg|thumb|NFPA 704 placard of [[hydrofluosilicic acid]]. Notably, it is using the nonstandard COR sign.]]
+
+The development of NFPA 704 is credited to the [[Charlotte Fire Department]] after a fire at the Charlotte Chemical Company in 1959 led to severe injuries to many of the firefighters.<ref>{{Cite web|title=Fact Friday 153 - Charlotte's Haz-Mat History|url=https://704shop.com/blogs/fact-friday/fact-friday-153-charlottes-haz-mat-history|access-date=2022-02-22|website=704 Shop|date=22 June 2018 |language=en}}</ref><ref>{{Cite web|date=2021-06-28|title=July marks 62 years since Charlotte Fire invented Haz-Mat safety measure|url=https://www.fox46.com/news/local-news/july-marks-62-years-since-charlotte-fire-invented-haz-mat-safety-measure/|access-date=2022-02-22|website=Queen City News|language=en-US|archive-date=2022-05-08|archive-url=https://web.archive.org/web/20220508223907/https://www.fox46.com/news/local-news/july-marks-62-years-since-charlotte-fire-invented-haz-mat-safety-measure/|url-status=dead}}</ref> Upon arrival, the fire crew found a fire burning inside a vat that firefighters assumed to be burning kerosene. The crew tried to suppress the fire, which resulted in the vat exploding due to metallic sodium being stored in the kerosene. Thirteen firefighters were injured, several of whom had critical injuries while one lost both ears and most of his face from the incident.
+
+At the time, such vats were not labelled with the materials they contained, so firefighters did not have the necessary information to recognize that hazardous materials were present, which required a specific response. In this case, sodium was able to react with water to release hydrogen gas and large amounts of heat, which has the potential to explode.
+
+The Charlotte Fire Department developed training to respond to fires involving hazardous materials, ensured that protective clothing was available to those responding, and expanded the fire prevention inspection program. Fire Marshal J. F. Morris developed the diamond shaped placard as a marking system to indicate when a building contained hazardous materials, with their levels of flammability, reactivity and health effects.<ref>{{Cite web|title=History of the Charlotte Fire Department |url=https://charlottenc.gov/Fire/about-us/Documents/CFD%20History%20Final%20Jan%209%202014.pdf |access-date=2022-02-22|archive-date=2023-04-07|archive-url=https://web.archive.org/web/20230407222759/https://charlottenc.gov/Fire/about-us/Documents/CFD%20History%20Final%20Jan%209%202014.pdf|url-status=dead|language=en}}</ref>
+
+==See also==
+{{Portal|United States}}
+* [[Globally Harmonized System of Classification and Labeling of Chemicals]]
+* [[GHS hazard pictograms]]
+* [[Hazard symbol]]
+* [[Hazchem]]
+* [[Dangerous goods|Hazmat]]
+* [[HMIS Color Bar]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+* [https://link.nfpa.org/free-access/publications/704/2022 NFPA 704 (2022) Free Access] on NFPA.org {{registration required}}
+* {{cite web|url=http://www.nfpa.org/Assets/files/AboutTheCodes/704/704_FAQs.pdf|title=Frequently Asked Questions on NFPA 704|url-status=dead|access-date=2016-03-04|archive-date=2017-07-16|archive-url=https://archive.today/20170716160209/http://www.nfpa.org/assets/files/aboutthecodes/704/704_faqs.pdf}}
+* {{cite web|url=http://www.milwaukee.gov/ImageLibrary/User/dnscms/pdf/broc/hazmat12.pdf|title=Pamphlet produced by the City of Milwaukee summarizing NFPA 704 code requirements|publisher=[[Milwaukee|City of Milwaukee]]|language=en}}
+* {{cite web|url=https://www.osha.gov/dsg/hazcom/index.html|title=Hazard Communication|publisher=[[Occupational Safety and Health Administration]]|language=en}}
+* {{cite web|url=http://chemlabs.uoregon.edu/Safety/NFPA.html|title=Safety in the Chemistry Laboratory: NFPA 704 Hazard Identification System|publisher=[[University of Oregon]]|archive-url=https://web.archive.org/web/20150310145104/http://chemlabs.uoregon.edu/Safety/NFPA.html|archive-date=2015-03-10|url-status=dead|language=en}}
+
+[[Category:NFPA Standards]]
+[[Category:Safety codes]]

@@ -1,0 +1,817 @@
+{{Short description|none}}
+This is the '''list of Schedule I controlled substances''' in the United States as defined by the [[Controlled Substances Act]].<ref name="DOJ 1308.11">[[Title 21 of the Code of Federal Regulations|21 CFR]] [http://www.deadiversion.usdoj.gov/21cfr/cfr/1308/1308_11.htm 1308.11] {{Webarchive|url=https://web.archive.org/web/20090827043725/http://www.deadiversion.usdoj.gov/21cfr/cfr/1308/1308_11.htm |date=2009-08-27 }} (CSA Sched I) with changes through {{USFR|77|64032}} (Oct 18, 2012). Retrieved September 6, 2013.</ref> The following findings are required for substances to be placed in this schedule:<ref>{{uscsub|21|812|b|1}} [[United States Code]] via [[Cornell University]]'s [[Legal Information Institute]]. Retrieved on 2007-10-02.</ref>
+# The drug or other substance has a high potential for abuse.
+# The drug or other substance has no current accepted medical use in treatment in the United States.
+# There is a lack of accepted safety for use of the drug or other substance under medical supervision.
+
+The complete list of Schedule I substances is as follows.<ref name="DOJ 1308.11"/> The [[Administrative Controlled Substances Code Number]] for each substance is included.
+
+==Opioids==
+{|class="wikitable sortable"
+! [[Administrative Controlled Substances Code Number|ACSCN]] !! width="600"|Drug
+|-
+| 9815
+| [[Alphamethylacetylfentanyl|Acetyl-alpha-methylfentanyl]]<ref name=":0">{{Cite web |last=Lawn |first=John |date=May 29, 1987 |title=Schedules of Controlled Substances: Placement of Alpha-Acetyl-Methylfentanyl, Alpha-methylthiofentanyl, Beta-hydroxyfentanyl, 3-Methylthiofentanyl, Para-fluorofentanyl, and Thiofentanyl into Schedule I |url=https://isomerdesign.com/Cdsa/FR/52FR20070.pdf |archive-url=https://web.archive.org/web/20190728013902/https://isomerdesign.com/Cdsa/FR/52FR20070.pdf |archive-date=July 28, 2019 |access-date=September 6, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 9601
+| [[Acetylmethadol]]<ref name=":1">{{Cite web |last=Bartels Jr. |first=John R. |date=June 20, 1974 |title=PART 1308— SCHEDULES OF CONTROLLED SUBSTANCES: Annual Publication |url=https://archives.federalregister.gov/issue_slice/1974/6/20/22139-22143.pdf#page=2 |archive-url=https://web.archive.org/web/20230906194000/https://archives.federalregister.gov/issue_slice/1974/6/20/22139-22143.pdf |archive-date=September 6, 2023 |access-date=September 6, 2023 |website=[[Government Publishing Office]] |publisher=[[Drug Enforcement Administration]]}}</ref>{{Efn|This substance was expressly scheduled by the [[Controlled Substances Act]] on October 27, 1970. The 1974 [[Federal Register]] ruling (by Administrator John R. Bartels, Jr.) merely organized its listing in the [[Code of Federal Regulations]].|group=note|name=Bartels}}
+|-
+|9821
+|[[Acetylfentanyl]]<ref>{{Cite web |last=Rosenberg |first=Chuck |date=June 7, 2017 |title=Schedules of Controlled Substances: Placement of Acetyl Fentanyl Into Schedule I |url=https://www.federalregister.gov/documents/2017/06/07/2017-11795/schedules-of-controlled-substances-placement-of-acetyl-fentanyl-into-schedule-i |access-date=September 9, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+|9811
+|[[Acryl fentanyl]]<ref name=":3">{{Cite web |last=Dhillon |first=Uttam |date=November 29, 2018 |title=Schedules of Controlled Substances: Placement of Furanyl Fentanyl, 4-Fluoroisobutyryl Fentanyl, Acryl Fentanyl, Tetrahydrofuranyl Fentanyl, and Ocfentanil in Schedule I |url=https://www.federalregister.gov/documents/2018/11/29/2018-26045/schedules-of-controlled-substances-placement-of-furanyl-fentanyl-4-fluoroisobutyryl-fentanyl-acryl |access-date=September 9, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+|9551
+|[[AH-7921]]<ref>{{Cite web |last=Rosenberg |first=Chuck |date=May 16, 2016 |title=Schedules of Controlled Substances: Placement of AH-7921 Into Schedule I |url=https://www.federalregister.gov/documents/2016/04/14/2016-08566/schedules-of-controlled-substances-placement-of-ah-7921-into-schedule-i |access-date=September 6, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 9602
+| [[Allylprodine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9603
+| [[Alphacetylmethadol]] (except levo-alphacetylmethadol also known as levo-alpha-acetylmethadol, [[levomethadyl acetate]], or LAAM)<ref>{{Cite web |last=Bonner |first=Robert |date=August 18, 1993 |title=Schedules of Controlled Substances: Transfer of Levo-alpha-acetylmethadol from Schedule I to Schedule II |url=https://isomerdesign.com/Cdsa/FR/58FR43795.pdf |archive-url=https://web.archive.org/web/20190728014110/https://isomerdesign.com/Cdsa/FR/58FR43795.pdf |archive-date=July 28, 2019 |access-date=September 6, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 9604
+| [[Alphameprodine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9605
+| [[Alphamethadol]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9814
+| [[Alpha-methylfentanyl]]<ref>{{Cite web |last=Mullen, Jr. |first=Francis M. |date=September 22, 1981 |title=Schedules of Controlled Substances: Placement of Alpha-methylfentanyl in Schedule I |url=https://isomerdesign.com/Cdsa/FR/46FR46799.pdf |archive-url=https://web.archive.org/web/20190728022614/https://isomerdesign.com/Cdsa/FR/46FR46799.pdf |archive-date=July 28, 2019 |access-date=September 6, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 9832
+| [[Alpha-methylthiofentanyl]]<ref name=":0" />
+|-
+| 9606
+| [[Benzethidine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9607
+| [[Betacetylmethadol]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9830
+| [[Beta-hydroxyfentanyl]]<ref name=":0" />
+|-
+| 9831
+| [[Ohmefentanyl|Beta-hydroxy-3-methylfentanyl]]<ref>{{Cite web |last=Lawn |first=John |date=January 8, 1988 |title=Schedules of Controlled Substances: Placement of Beta-Hydroxy-3-Methylfentanyl in Schedule I |url=https://isomerdesign.com/Cdsa/FR/53FR500.pdf |archive-url=https://web.archive.org/web/20190728014034/https://isomerdesign.com/Cdsa/FR/53FR500.pdf |archive-date=July 28, 2019 |access-date=September 6, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+|9836
+|[[Beta-hydroxythiofentanyl]]<ref>{{Cite web |last=Dhillon |first=Uttam |date=May 8, 2019 |title=Schedules of Controlled Substances: Placement of beta-Hydroxythiofentanyl in Schedule I |url=https://www.federalregister.gov/documents/2019/05/08/2019-09479/schedules-of-controlled-substances-placement-of-beta-hydroxythiofentanyl-in-schedule-i |access-date=September 9, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 9608
+| [[Betameprodine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9609
+| [[Betamethadol]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+|9856
+|Beta-methylfentanyl<ref name=":2">{{Cite web |last=Evans |first=D. Christopher |date=April 27, 2021 |title=Schedules of Controlled Substances: Placement of 10 Specific Fentanyl-Related Substances in Schedule I |url=https://www.federalregister.gov/documents/2021/04/27/2021-08720/schedules-of-controlled-substances-placement-of-10-specific-fentanyl-related-substances-in-schedule |access-date=September 6, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+|9842
+|Beta-phenylfentanyl<ref name=":2" />
+|-
+| 9611
+| [[Betaprodine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+|9098
+|[[Brorphine]]<ref>{{Cite web |last=Milgram |first=Anne |date=April 5, 2023 |title=Schedules of Controlled Substances: Placement of Brorphine in Schedule I |url=https://www.federalregister.gov/documents/2023/03/06/2023-04364/schedules-of-controlled-substances-placement-of-brorphine-in-schedule-i |access-date=September 6, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+|9822
+|[[Butyryl Fentanyl]]<ref name=":7">{{Cite web |last=Patterson |first=Robert |date=April 20, 2018 |title=Schedules of Controlled Substances: Placement of Butyryl Fentanyl and U-47700 Into Schedule I |url=https://www.federalregister.gov/documents/2018/04/20/2018-08280/schedules-of-controlled-substances-placement-of-butyryl-fentanyl-and-u-47700-into-schedule-i |access-date=September 9, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 9612
+| [[Clonitazene]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+|9844
+|[[Crotonylfentanyl]]<ref>{{Cite web |last=Shea |first=TImothy |date=October 2, 2020 |title=Schedules of Controlled Substances: Placement of Crotonyl Fentanyl in Schedule I |url=https://www.federalregister.gov/documents/2020/10/02/2020-19305/schedules-of-controlled-substances-placement-of-crotonyl-fentanyl-in-schedule-i |access-date=September 9, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+|9847
+|[[Cyclopentyl fentanyl]]<ref name=":4">{{Cite web |last=Evans |first=D. Christopher |date=March 31, 2021 |title=Schedules of Controlled Substances: Placement of cyclopentyl fentanyl, isobutyryl fentanyl, para-chloroisobutyryl fentanyl, para-methoxybutyryl fentanyl, and valeryl fentanyl in Schedule I; Correction |url=https://www.federalregister.gov/documents/2021/03/31/2021-06596/schedules-of-controlled-substances-placement-of-cyclopentyl-fentanyl-isobutyryl-fentanyl |access-date=September 9, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+|9845
+|[[Cyclopropyl fentanyl]]<ref name=":5">{{Cite web |last=Dhillon |first=Uttam |date=October 25, 2019 |title=Schedules of Controlled Substances: Placement of Cyclopropyl Fentanyl, Methoxyacetyl fentanyl, ortho-Fluorofentanyl, and para-Fluorobutyryl Fentanyl in Schedule I |url=https://www.federalregister.gov/documents/2019/10/25/2019-23348/schedules-of-controlled-substances-placement-of-cyclopropyl-fentanyl-methoxyacetyl-fentanyl |access-date=September 9, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 9613
+| [[Dextromoramide]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9615
+| [[Diampromide]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9616
+| [[Diethylthiambutene]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9168
+| [[Difenoxin]]<ref>{{Cite web |last=Jenson |first=Jerry |date=May 7, 1975 |title=Schedules of Controlled Substances: Placement of Difenoxin in Schedule I |url=https://isomerdesign.com/Cdsa/FR/40FR19813.pdf |archive-url=https://web.archive.org/web/20190728022554/https://isomerdesign.com/Cdsa/FR/40FR19813.pdf |archive-date=July 28, 2019 |access-date=September 6, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 9617
+| [[Dimenoxadol]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9618
+| [[Dimepheptanol]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9619
+| [[Dimethylthiambutene]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9621
+| [[Dioxaphetyl Butyrate|Dioxaphetyl butyrate]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9622
+| [[Dipipanone]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9623
+| [[Ethylmethylthiambutene]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9624
+| [[Etonitazene]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9625
+| [[Etoxeridine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+|9851
+|[[Fentanyl carbamate]]<ref name=":6">{{Cite web |last=Evans |first=D. Christopher |date=May 4, 2021 |title=Schedules of Controlled Substances: Placement of Four Specific Fentanyl-Related Substances in Schedule I |url=https://www.federalregister.gov/documents/2021/05/04/2021-09402/schedules-of-controlled-substances-placement-of-four-specific-fentanyl-related-substances-in |access-date=September 9, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+|9824
+|[[4-Fluoroisobutyryl fentanyl]]<ref name=":6" />
+|-
+|9855
+|2′-Fluoro ''ortho''-fluorofentanyl<ref name=":2" />
+|-
+|9834
+|[[Furanyl fentanyl]]<ref name=":3" />
+|-
+| 9626
+| [[Furethidine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9627
+| [[Hydroxypethidine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+|9827
+|[[isobutyryl fentanyl|Isobutrylfentanyl]]<ref name=":4" />
+|-
+|9614
+|[[Isotonitazene]]<ref>{{Cite web |last=Milgram |first=Anne |date=November 4, 2021 |title=Schedules of Controlled Substances: Placement of Isotonitazene in Schedule I |url=https://www.federalregister.gov/documents/2021/11/04/2021-23848/schedules-of-controlled-substances-placement-of-isotonitazene-in-schedule-i |access-date=September 9, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 9628
+| [[Ketobemidone]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9629
+| [[Levomoramide]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9631
+| [[Levophenacylmorphan]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+|9825
+|[[Methoxyacetyl fentanyl]]<ref name=":5" />
+|-
+|9819
+|4′-Methyl acetyl fentanyl<ref name=":2" />
+|-
+|9664
+|2-Methyl AP-237
+|-
+| 9813
+| [[3-Methylfentanyl]]
+|-
+| 9833
+| [[3-methylthiofentanyl]] 
+|-
+|9757
+|[[Metonitazene]]<ref>{{Cite web |last=Milgram |first=Anne |date=August 18, 2023 |title=Schedules of Controlled Substances: Placement of Metonitazene in Schedule I |url=https://www.federalregister.gov/documents/2022/11/21/2022-25206/schedules-of-controlled-substances-placement-of-zipeprol-in-schedule-i |access-date=November 3, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 9632
+| [[Morpheridine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9661
+| [[MPPP]]<ref name=":8">{{Cite web |last=Lawn |first=John |date=January 23, 1987 |title=Placement of MPPP and PEPAP in Schedule I |url=https://isomerdesign.com/Cdsa/FR/52FR2515.pdf |archive-url=https://web.archive.org/web/20190718193352/https://isomerdesign.com/Cdsa/FR/52FR2515.pdf |archive-date=July 18, 2019 |access-date=September 9, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+|9560
+|[[MT-45]]<ref>{{Cite web |last=Patterson |first=Robert |date=December 13, 2017 |title=Schedules of Controlled Substances: Placement of MT-45 Into Schedule I |url=https://www.federalregister.gov/documents/2017/12/13/2017-26853/schedules-of-controlled-substances-placement-of-mt-45-into-schedule-i |access-date=September 9, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 9633
+| [[Noracymethadol]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9634
+| [[Norlevorphanol]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9635
+| [[Normethadone]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9636
+| [[Norpipanone]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9760
+| N-Desethyl Isotonitazene
+|-
+| 9761
+| N-Piperidinyl Etonitazene
+|-
+| 9762
+| N-Pyrrolidino Metonitazene
+|-
+| 9763
+| N-Pyrrolidino Protonitazene
+|-
+|9838
+|[[Ocfentanil]]<ref name=":3" />
+|-
+|9852
+|''ortho''-Fluoroacryl fentanyl<ref name=":6" />
+|-
+|9846
+|''ortho''-Fluorobutyryl fentanyl<ref name=":2" />
+|-
+|9816
+|''ortho''-Fluorofentanyl<ref name=":2" />
+|-
+|9853
+|''ortho''-Fluoroisobutyryl fentanyl<ref name=":6" />
+|-
+|9848
+|''ortho''-Methyl acetylfentanyl<ref name=":2" />
+|-
+|9820
+|''ortho''-Methyl methoxyacetyl fentanyl<ref name=":2" />
+|-
+|9826
+|''para''-Chloroisobutyryl fentanyl<ref>{{Cite web |last=Evans |first=D. Christopher |date=March 31, 2021 |title=Schedules of Controlled Substances: Placement of cyclopentyl fentanyl, isobutyryl fentanyl, para-chloroisobutyryl fentanyl, para-methoxybutyryl fentanyl, and valeryl fentanyl in Schedule I; Correction |url=https://www.federalregister.gov/documents/2021/03/31/2021-06596/schedules-of-controlled-substances-placement-of-cyclopentyl-fentanyl-isobutyryl-fentanyl |access-date=September 29, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+|9823
+|''para''-Fluorobutyryl fentanyl<ref name=":2" />
+|-
+| 9812
+| [[Parafluorofentanyl|Para-fluorofentanyl]]<ref name=":0" />
+|-
+|9854
+|''para''-Fluoro furanyl fentanyl<ref name=":6" />
+|-
+|9837
+|''para''-Methoxybutyryl fentanyl<ref name=":4" />
+|-
+|9817
+|''para''-Methylfentanyl<ref name=":2" />
+|-
+| 9663
+| [[PEPAP]]<ref name=":8" />
+|-
+| 9637
+| [[Phenadoxone]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9638
+| [[Phenampromide]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9647
+| [[Phenomorphan]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9641
+| [[Phenoperidine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+|9841
+|[[Benzoylfentanyl]]<ref name=":2" />
+|-
+| 9642
+| [[Piritramide]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9643
+| [[Proheptazine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9644
+| [[Properidine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9649
+| [[Propiram]]<ref>{{Cite web |last=Ingersoll |first=John |date=January 25, 1972 |title=Control of Propiram |url=https://isomerdesign.com/Cdsa/FR/37FR1468.pdf |archive-url=https://web.archive.org/web/20190718190659/https://isomerdesign.com/Cdsa/FR/37FR1468.pdf |archive-date=July 18, 2019 |access-date=September 30, 2023 |website=Isomer Design |publisher=Bureau of Narcotics and Dangerous Drugs}}</ref>
+|-
+| 9645
+| [[Racemoramide]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+|9843
+|Tetrahydrofuranyl fentanyl<ref name=":3" />
+|-
+| 9835
+| [[Thiofentanyl]]<ref name=":0" /> 
+|-
+|9839
+|Thiofuranyl fentanyl<ref name=":2" />
+|-
+| 9750
+| [[Tilidine]]<ref>{{Cite web |last=Bensinger |first=Peter |date=September 19, 1980 |title=Placement of Sufentanil and Tilidine in Schedule I |url=https://isomerdesign.com/Cdsa/FR/45FR64571.pdf |archive-url=https://web.archive.org/web/20190728013802/https://isomerdesign.com/Cdsa/FR/45FR64571.pdf |archive-date=July 28, 2019 |access-date=September 30, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 9646
+| [[Trimeperidine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+|9547
+|[[U-47700]]<ref name=":7" />
+|-
+|9840
+|[[Valerylfentanyl]]<ref name=":4" />
+|-
+|9873
+|[[Zipeprol]]<ref>{{Cite web |last=Milgram |first=Anne |date=November 21, 2022 |title=Schedules of Controlled Substances: Placement of Zipeprol in Schedule I |url=https://www.federalregister.gov/documents/2022/11/21/2022-25206/schedules-of-controlled-substances-placement-of-zipeprol-in-schedule-i |access-date=September 30, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|}
+
+==Opium derivatives==
+{|class="wikitable sortable"
+! [[Administrative Controlled Substances Code Number|ACSCN]] !! width="600"|Drug
+|-
+| 9319
+| [[Acetorphine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9051
+| [[Acetyldihydrocodeine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9052
+| [[Benzylmorphine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9070
+| [[Codeine methylbromide]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9053
+| [[Codeine-N-Oxide]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9054
+| [[Cyprenorphine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9055
+| [[Desomorphine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9145
+| [[Dihydromorphine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9335
+| [[Drotebanol]]<ref>{{Cite web |last=Ingersoll |first=John |date=June 27, 1972 |title=Control of Drotebanol |url=https://isomerdesign.com/Cdsa/FR/38FR17717.pdf |archive-url=https://web.archive.org/web/20220303023117/https://isomerdesign.com/Cdsa/FR/38FR17717.pdf |archive-date=March 3, 2022 |access-date=September 30, 2023 |website=Isomer Design |publisher=Bureau of Narcotics and Dangerous Drugs}}</ref>
+|-
+| 9056
+| [[Etorphine]] (except hydrochloride salt)<ref>{{Cite web |last=Bartels, Jr. |first=John R. |date=March 29, 1974 |title=Etorphine Hydrochloride Transfer to Schedule II |url=https://isomerdesign.com/Cdsa/FR/39FR11535.pdf |archive-url=https://web.archive.org/web/20220303023201/https://isomerdesign.com/Cdsa/FR/39FR11535.pdf |archive-date=March 3, 2022 |access-date=September 30, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 9200
+| [[Diacetylmorphine|Heroin]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9301
+| [[Hydromorphinol]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9302
+| [[Methyldesorphine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9304
+| [[Methyldihydromorphine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9305
+| [[Morphine methylbromide]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9306
+| [[Morphine methylsulfonate]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9307
+| [[Morphine-N-Oxide]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9308
+| [[Myrophine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9309
+| [[Nicocodeine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9312
+| [[Nicomorphine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9313
+| [[Normorphine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9314
+| [[Pholcodine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9315
+| [[Thebacon]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|}
+
+==Hallucinogenic or psychedelic substances==
+{|class="wikitable sortable"
+! [[Administrative Controlled Substances Code Number|ACSCN]] !! width="600"|Drug
+|-
+| 7249
+| [[Α-Ethyltryptamine|α-ET]]<ref>{{Cite web |last=Greene |first=Stephen |date=September 12, 1994 |title=Schedules of Controlled Substances; Placement of Alpha-Ethyltryptamine Into Schedule I |url=https://www.govinfo.gov/content/pkg/FR-1994-09-12/html/94-22417.htm |access-date=September 30, 2023 |website=[[Federal Register]] through the [[Government Publishing Office]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 7391
+| [[2,5-Dimethoxy-4-bromoamphetamine|4-bromo-2,5-dimethoxyamphetamine]] (DOB)<ref name=":9">{{Cite web |last=Bartels, Jr. |first=John R. |date=September 14, 1973 |title=Additions to Schedule I |url=https://isomerdesign.com/Cdsa/FR/38FR26447.pdf |archive-url=https://web.archive.org/web/20220303023114/https://isomerdesign.com/Cdsa/FR/38FR26447.pdf |archive-date=March 3, 2022 |access-date=September 30, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 7392
+| [[4-Bromo-2,5-dimethoxyphenethylamine|2C-B]]<ref>{{Cite web |last=Greene |first=Stephen |date=June 2, 1995 |title=Schedules of Controlled Substances; Placement of 4-Bromo-2,5-Dimethoxyphenethylamine Into Schedule I |url=https://www.govinfo.gov/content/pkg/FR-1995-06-02/html/95-13454.htm |access-date=September 30, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 7396
+| [[2,5-dimethoxyamphetamine]] (2,5-DMA)<ref name=":9" />
+|-
+| 7399
+| [[2,5-Dimethoxy-4-ethylamphetamine|DOET]]<ref>{{Cite web |last=Bonner |first=Robert |date=January 14, 1993 |title=Placement of Cathinone and 2,5-dimethoxy-4-ethylamphetamine (DOET) into Schedule I |url=https://isomerdesign.com/Cdsa/FR/58FR4316.pdf |archive-url=https://web.archive.org/web/20210926005615/https://isomerdesign.com/Cdsa/FR/58FR4316.pdf |archive-date=September 26, 2021 |access-date=November 3, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 7348
+| [[2,5-dimethoxy-4-(n)-propylthiophenethylamine|2C-T-7]]<ref>{{Cite web |last=Leonhart |first=Michele |date=March 18, 2004 |title=Schedules of Controlled Substances; Placement of 2,5-Dimethoxy-4-(n)-propylthiophenethylamine and N-Benzylpiperazine Into Schedule I of the Controlled Substances Act |url=https://www.federalregister.gov/documents/2004/03/18/04-6110/schedules-of-controlled-substances-placement-of-25-dimethoxy-4-n-propylthiophenethylamine-and |access-date=November 3, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 7411
+| [[4-methoxyamphetamine]] (PMA)<ref name=":9" />
+|-
+| 7401
+| [[MMDA (psychedelic)|5-methoxy-3,4-methylenedioxyamphetamine]] (MMDA)<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 7395
+| [[4-methyl-2,5-dimethoxyamphetamine]] (DOM; STP)<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 7400
+| [[3,4-methylenedioxyamphetamine]] (MDA)<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 7405
+| 3,4-methylenedioxymethamphetamine ([[MDMA]])<ref>{{Cite web |last=Lawn |first=John |date=February 22, 1988 |title=Scheduling of 3,4-methylenedioxymethamphetamine (MDMA) into Schedule I of the Controlled Substances Act; Remand |url=https://isomerdesign.com/Cdsa/FR/53FR5156.pdf |url-status=live |archive-url=https://web.archive.org/web/20220303023212/https://isomerdesign.com/Cdsa/FR/53FR5156.pdf |archive-date=March 3, 2022 |access-date=November 3, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 7404
+| [[3,4-methylenedioxy-N-ethylamphetamine]] (MDEA; MDE)<ref name=":10">{{Cite web |last=Lawn |first=John |date=April 13, 1989 |title=Placement of 3,4-Methylenedioxy-N-ethylamphetamine and N-hydroxy-3,4-methylenedioyamphetamine into Schedule I |url=https://isomerdesign.com/Cdsa/FR/54FR14797.pdf |url-status=live |archive-url=https://web.archive.org/web/20220303023243/https://isomerdesign.com/Cdsa/FR/54FR14797.pdf |archive-date=March 3, 2022 |access-date=August 3, 2024 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 7402
+| [[MDOH|N-hydroxy-3,4-methylenedioxyamphetamine]] (N-hydroxy MDA)<ref name=":10" />
+|-
+| 7390
+| [[3,4,5-trimethoxyamphetamine]] (TMA)<ref name=":1" />{{Efn|group=note|name=Bartels}}
+|-
+| 7431
+| [[5-MeO-DMT]]<ref>{{Cite web |last=Leonhart |first=Michele |date=December 20, 2010 |title=Placement of 5-Methoxy-N,N-Dimethyltryptamine into Schedule I of the Controlled Substances Act |url=https://www.federalregister.gov/documents/2010/12/20/2010-31854/schedules-of-controlled-substances-placement-of-5-methoxy-nn-dimethyltryptamine-into-schedule-i-of |access-date=August 3, 2024 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 7432
+| [[Alpha-methyltryptamine]] (αMT)<ref name=":11">{{Cite web |last=Leonhart |first=Michele |date=September 29, 2004 |title=Placement of Alpha-Methyltryptamine and 5-Methoxy-N,N-Diisopropyltryptamine Into Schedule I of the Controlled Substances Act |url=https://www.federalregister.gov/documents/2004/09/29/04-21755/schedules-of-controlled-substances-placement-of-alpha-methyltryptamine-and |access-date=August 3, 2024 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 7433
+| [[Bufotenine]]<ref name=":1" />{{Efn|group=note|name=Bartels}}
+|-
+| 7434
+| [[Diethyltryptamine]] (DET)<ref name=":1" />{{Efn|group=note|name=Bartels}}
+|-
+| 7435
+| [[Dimethyltryptamine]] (DMT)<ref name=":1" />{{Efn|group=note|name=Bartels}}
+|-
+| 7439
+| [[5-methoxy-N,N-diisopropyltryptamine]] (5-MeO-DIPT)<ref name=":11" />
+|-
+| 7260
+| [[Ibogaine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 7315
+| [[Lysergic acid diethylamide]] (LSD)<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 7360
+| [[Marijuana]]<ref name=":1" />{{Efn|name=Bartels|group=note}}{{Efn|name=MariExec|This substance was the subject of an executive order on December 19, 2025. The executive order directs the US Attorney General to begin the process of moving it from a Schedule I to a Schedule III drug|group=note}}<ref name=":12">{{cite web|title=INCREASING MEDICAL MARIJUANA AND CANNABIDIOL RESEARCH|url=https://www.whitehouse.gov/presidential-actions/2025/12/increasing-medical-marijuana-and-cannabidiol-research/|access-date=19 December 2025|at=Sec.2.(a)}}</ref>
+|-
+| 7381
+| [[Mescaline]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 7286
+| [[MXE]]
+|-
+| 7374
+| [[Parahexyl]]<ref>{{Cite web |last=Lawn |first=John |date=November 22, 1982 |title=Placement of Parahexyl into Schedule I |url=https://isomerdesign.com/Cdsa/FR/47FR52432.pdf |archive-url=https://web.archive.org/web/20240519095915/https://isomerdesign.com/Cdsa/FR/47FR52432.pdf |archive-date=May 19, 2024 |access-date=August 3, 2024 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 7415
+| [[Peyote]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 7482
+| [[N-ethyl-3-piperidyl benzilate]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 7484
+| [[N-methyl-3-piperidyl benzilate]]<ref name=":1" />{{Efn|group=note|name=Bartels}}
+|-
+| 7437
+| [[Psilocybin]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 7438
+| [[Psilocin]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 7370
+| [[Tetrahydrocannabinol]] ([[THC]]){{Efn|name=MariExec|group=note}}<ref name=":12"/>
+|-
+| 7455
+| [[Eticyclidine|Ethylamine analog of phencyclidine]] (Eticyclidine; PCE)
+|-
+| 7458
+| [[Rolicyclidine|Pyrrolidine analog of phencyclidine]] (PCPy)
+|-
+| 7470
+| [[Tenocyclidine|Thiophene analog of phencyclidine]] (TCP)
+|-
+| 7473
+| 1-[1-(2-thienyl)cyclohexyl]pyrrolidine (TCPy)
+|-
+| 1239
+| [[4-Chloromethcathinone]]
+|-
+| 1259
+| [[3-Methylmethcathinone]] (3-MMC)
+|-
+| 1248
+| 4-Methylmethcathinone ([[Mephedrone]])
+|-
+| 7535
+| 3,4-methylenedioxypyrovalerone ([[MDPV]])
+|-
+| 7509
+| 2-(2,5-Dimethoxy-4-ethylphenyl)ethanamine ([[2C-E]])
+|-
+| 7508
+| 2-(2,5-Dimethoxy-4-methylphenyl)ethanamine ([[2C-D]])
+|-
+| 7519
+| 2-(4-Chloro-2,5-dimethoxyphenyl)ethanamine ([[2C-C]])
+|-
+| 7518
+| 2-(4-Iodo-2,5-dimethoxyphenyl)ethanamine ([[2C-I]])
+|-
+| 7385
+| 2-[4-(Ethylthio)-2,5-dimethoxyphenyl]ethanamine ([[2C-T-2]])
+|-
+| 7532
+| 2-[4-(Isopropylthio)-2,5-dimethoxyphenyl]ethanamine ([[2C-T-4]])
+|-
+| 7517
+| 2-(2,5-Dimethoxyphenyl)ethanamine ([[2C-H]])
+|-
+| 7521
+| 2-(2,5-Dimethoxy-4-nitro-phenyl)ethanamine ([[2C-N]])
+|-
+| 7524
+| 2-(2,5-Dimethoxy-4-(n)-propylphenyl)ethanamine ([[2C-P]])
+|-
+| 7536
+| 2-(4-Bromo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)
+ethanamine ([[25B-NBOMe]])
+|-
+| 7537
+| 2-(4-Chloro-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)
+ethanamine ([[25C-NBOMe]])
+|-
+| 7538
+| 2-(4-Iodo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)
+ethanamine ([[25I-NBOMe]])
+|-
+| 7540
+| 3,4-Methylenedioxy-N-methylcathinone ([[methylone]])
+|}
+
+==Depressants==
+{|class="wikitable sortable"
+! [[Administrative Controlled Substances Code Number|ACSCN]] !! width="600"|Drug
+|-
+| 2010
+| [[gamma-Hydroxybutyric acid]] (GHB; sodium oxybate; sodium oxybutyrate) except formulations in an FDA-approved drug product are Schedule III
+|-
+| 2572
+| [[Mecloqualone]]
+|-
+| 2565
+| [[Methaqualone]]
+|}
+
+==Stimulants==
+{|class="wikitable sortable"
+! [[Administrative Controlled Substances Code Number|ACSCN]] !! width="600"|Drug
+|-
+| 1219
+| [[Amineptine]]
+|-
+| 1585
+| [[Aminorex]] (aminoxaphen; 2-amino-5-phenyl-2- oxazoline; or 4,5-dihydro-5-phenly-2-oxazolamine)
+|-
+| 7493
+| [[Benzylpiperazine|N-benzylpiperazine]] (some other names: BZP; 1-benzylpiperazine)
+|-
+| 1235
+| [[Cathinone]]
+|-
+| 1503
+| [[Fenethylline]]
+|-
+| 1476
+| [[4-Fluoroamphetamine]]
+|-
+| 1237
+| [[Methcathinone]] (Some other names: 2-(methylamino)-propiophenone; alpha-(methylamino)propiophenone; 2-(methylamino)-1-phenylpropan-1-one; alpha-N-methylaminopropiophenone; monomethylpropion; ephedrone; N-methylcathinone; methylcathinone; AL-464; AL-422; AL-463 and UR1432), its salts, optical isomers and salts of optical isomers
+|-
+| 1590
+| (±)-[[cis-4-methylaminorex]]
+|-
+| 1475
+| [[N-ethylamphetamine]]
+|-
+| 1480
+| [[N,N-dimethylamphetamine]] (also known as N,N-alpha-trimethyl-benzeneethanamine; N,N-alpha-trimethylphenethylamine)
+|-
+| 7543
+| [[N-Ethylpentylone]] (ephylone, N-1-(1,3-benzodioxol-5-yl)-2-(ethylamino)-1-pentanone))<ref>{{cite web | url = https://www.deadiversion.usdoj.gov/fed_regs/rules/2018/fr0831_2.htm | title = Schedules of Controlled Substances: Temporary Placement of N-Ethylpentylone in Schedule I | publisher = Drug Enforcement Administration }}</ref>
+|-
+| 7246
+| [[N-Ethylhexedrone]]<ref name="DEA-Apr-2019">{{cite web | title = Schedules of Controlled Substances: Temporary Placement of N-Ethylhexedrone, α-PHP, 4-MEAP, MPHP, PV8, and 4-Chloro-α-PVP in Schedule I | url = https://www.deadiversion.usdoj.gov/fed_regs/rules/2019/fr0501.htm | publisher = Drug Enforcement Administration }}</ref> (hexen)
+|-
+| 7544
+| [[alpha-Pyrrolidinohexanophenone]] (α-PHP)<ref name="DEA-Apr-2019"/>
+|-
+| 7551
+| [[α-PHiP|alpha-Pyrrolidinoisohexanophenone]] (also known as α-PHiP; α-PiHP) <ref name = "DEA-Dec-2023">{{cite web |title=Specific Listing for Three Currently Controlled Schedule I Substances |url=https://www.federalregister.gov/documents/2023/12/13/2023-27292/specific-listing-for-three-currently-controlled-schedule-i-substances |website=Federal Register |publisher=DEA |access-date=27 January 2024}}</ref>
+|-
+| 7245
+| [[4-Methyl-alpha-ethylaminopentiophenone]] (4-MEAP)<ref name="DEA-Apr-2019"/>
+|-
+| 7446
+| [[4'-Methyl-alpha-pyrrolidinohexiophenone]] (MPHP)<ref name="DEA-Apr-2019"/>
+|-
+| 7548
+| [[alpha-Pyrrolidinoheptaphenone]] (PV8)<ref name="DEA-Apr-2019"/>
+|-
+| 7443
+| [[4-Chloro-alpha-pyrrolidinovalerophenone]] (4-chloro-α-PVP)<ref name="DEA-Apr-2019"/>
+|-
+| 1233
+| [[3-Fluoro-N-methylcathinone]] (3-FMC; 1-(3-fluorophenyl)-2-(methylamino)propan-1-one)
+|-
+| 1238 
+| [[4-Fluoro-N-methylcathinone]] (4-FMC, flephedrone, 1-(4-fluorophenyl)-2-(methylamino)propan-1-one)
+|-
+| 1246
+| [[Pentedrone]]  (α-methylaminovalerophenone, 2-(methylamino)-1-phenylpentan-1-one)
+|-
+| 1249 
+| [[4-Methyl-N-ethylcathinone]]  (4-MEC, 2-(ethylamino)-1-(4-methylphenyl)propan-1-one)
+|-
+| 1258
+| [[Naphyrone]] (naphthylpyrovalerone; 1-(naphthalen-2-yl)-2-(pyrrolidin-1-yl)pentan-1-one)
+|-
+| 7498
+| [[4-Methyl-alphapyrrolidinopropiophenone]] (4-MePPP, MePPP, 4-methyl-α-pyrrolidinopropiophenone,1-(4-methylphenyl)-2-(pyrrolidin-1-yl)-propan-1-one)
+|-
+| 7541
+| [[Butylone]] (bk-MBDB, 1-(1,3-benzodioxol-5-yl)-2-(methylamino)butan-1-one) 
+|-
+| 7542
+| [[Pentylone]]  (bk-MBDP, 1-(1,3-benzodioxol-5-yl)-2-(methylamino)pentan-1-one)
+|-
+| 7545
+| [[alpha-pyrrolidinopentiophenone]] (α-PVP, α-pyrrolidinovalerophenone, 1-phenyl-2-(pyrrolidin-1-yl)pentan-1-one)
+|-
+| 7546
+| [[alpha-pyrrolidinobutiophenone]] (α-PBP, 1-phenyl-2-(pyrrolidin-1-yl)butan-1-one)
+|-
+| 1227
+| [[Mesocarb]]
+|}
+
+{{Clear}}
+
+==Cannabimimetic agents==
+{|class="wikitable sortable"
+! [[Administrative Controlled Substances Code Number|ACSCN]] !! width="600"|Drug
+|-
+| 7297
+| 5-(1,1-dimethylheptyl)-2-[(1R,3S)-3-hydroxycyclohexyl]-phenol ([[CP-47,497]])
+|-
+| 7298
+| 5-(1,1-dimethyloctyl)-2-[(1R,3S)-3-hydroxycyclohexyl]-phenol ([[cannabicyclohexanol]] or CP-47,497 C8-homolog)
+|-
+| 7118
+| 1-pentyl-3-(1-naphthoyl)indole ([[JWH-018]] and AM678)
+|-
+| 7173
+| 1-butyl-3-(1-naphthoyl)indole ([[JWH-073]])
+|-
+| 7019
+| 1-hexyl-3-(1-naphthoyl)indole ([[JWH-019]])
+|-
+| 7200
+| 1-[2-(4-morpholinyl)ethyl]-3-(1-naphthoyl)indole ([[JWH-200]])
+|-
+| 6250
+| 1-pentyl-3-(2-methoxyphenylacetyl)indole ([[JWH-250]])
+|-
+| 7081
+| 1-pentyl-3-[1-(4-methoxynaphthoyl)]indole ([[JWH-081]])
+|-
+| 7122
+| 1-pentyl-3-(4-methyl-1-naphthoyl)indole ([[JWH-122]])
+|-
+| 7398
+| 1-pentyl-3-(4-chloro-1-naphthoyl)indole ([[JWH-398]])
+|-
+| 7201
+| 1-(5-fluoropentyl)-3-(1-naphthoyl)indole ([[AM-2201|AM2201]])
+|-
+| 7694
+| 1-(5-fluoropentyl)-3-(2-iodobenzoyl)indole ([[AM-694|AM694]])
+|-
+| 7104
+| 1-pentyl-3-[(4-methoxy)-benzoyl]indole (SR-19 and [[RCS-4]])
+|-
+| 7008
+| 1-cyclohexylethyl-3-(2-methoxyphenylacetyl)indole 7008 (SR-18 and [[RCS-8]])
+|-
+| 7203
+| 1-pentyl-3-(2-chlorophenylacetyl)indole ([[JWH-203]])
+|-
+| 7144
+| (1-pentyl-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)methanone, its optical, positional, and geometric isomers, salts and salts of isomers ([[UR-144]], 1-pentyl-3-(2,2,3,3-tetramethylcyclopropoyl)indole)
+|-
+| 7011
+| [1-(5-fluoro-pentyl)-1H-indol-3-yl](2,2,3,3-tetramethylcyclopropyl)methanone, its optical, positional, and geometric isomers, salts and salts of isomers (5-fluoro-UR-144, 5-F-UR-144, [[XLR-11 (drug)|XLR-11]], 1-(5-fluoro-pentyl)-3-(2,2,3,3-tetramethylcyclopropoyl)indole)
+|-
+| 7048
+| N-(1-adamantyl)-1-pentyl-1H-indazole-3-carboxamide, its optical, positional, and geometric isomers, salts and salts of isomers ([[APINACA]], AKB-48)
+|-
+| 7222
+| Quinolin-8-yl 1-pentyl-1H-indole-3-carboxylate ([[QUPIC]], PB-22)<ref name=pmid24605391>{{cite journal | pmid=24605391 | journal = Fed. Regist. | date = Feb 10, 2014 | volume = 79 | issue = 27 | pages = 7577–7582 | title = Schedules of controlled substances: temporary placement of four synthetic cannabinoids into Schedule I. Final order | last1 = Drug Enforcement Administration | first1 = Department of Justice }}</ref>
+|-
+| 7225
+| Quinolin-8-yl 1-(5-fluoropentyl)-1H-indole-3-carboxylate (5-fluoro-PB-22; [[5F-PB-22]])<ref name=pmid24605391/>
+|-
+| 7012
+| N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide ([[AB-FUBINACA]])<ref name=pmid24605391/>
+|-
+| 7035
+| N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide ([[ADB-PINACA]])<ref name=pmid24605391/>
+|-
+| 7031
+| N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide ([[AB-CHMINACA]])<ref name=pmid25730924 >{{cite journal | pmid = 25730924| year = 2015| last1 = Drug Enforcement Administration| first1 = Department of Justice| title = Schedules of controlled substances: Temporary placement of three synthetic cannabinoids into schedule I. Final order| journal = Federal Register| volume = 80| issue = 20| pages = 5042–7}}</ref>
+|-
+| 7023
+| N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide ([[AB-PINACA]])<ref name=pmid25730924/>
+|-
+| 7024
+|  [1-(5-fluoropentyl)-1H-indazol-3-yl](naphthalen-1-yl)methanone ([[THJ-2201]])<ref name=pmid25730924/>
+|-
+| 7034
+| 2-(1-(5-Fluoropentyl)-1''H''-indazole-3-carboxamido)-3,3-dimethylbutanoate ([[5F-ADB]], 5F-MDMB-PINACA)<ref name="dea2016">{{cite web | url = https://www.deadiversion.usdoj.gov/fed_regs/rules/2016/fr1221.htm | title = Schedules of Controlled Substances: Temporary Placement of Six Synthetic Cannabinoids (5F-ADB, 5F-AMB, 5F-APINACA, ADB-FUBINACA, MDMB-CHMICA and MDMB-FUBINACA) Into Schedule I | publisher = [[Drug Enforcement Administration]]}}</ref>
+|-
+| 7033 
+| Methyl 2-(1-(5-fluoropentyl)-1''H''-indazole-3-carboxamido)-3-methylbutanoate ([[5F-AMB]])<ref name="dea2016"/>
+|-
+|7049 
+| ''N''-(Adamantan-1-yl)-1-(5-fluoropentyl)-1''H''-indazole-3-carboxamide ([[5F-APINACA]], 5F-AKB48)<ref name="dea2016"/>
+|-
+|7010
+|  ''N''-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1''H''-indazole-3-carboxamide ([[ADB-FUBINACA]])<ref name="dea2016"/>
+|-
+|7042 
+| Methyl 2-(1-(cyclohexylmethyl)-1''H''-indole-3-carboxamido)-3,3-dimethylbutanoate ([[MDMB-CHMICA]], MMB-CHMINACA)<ref name="dea2016"/>
+|-
+|7020 
+| Methyl 2-(1-(4-fluorobenzyl)-1''H''-indazole-3-carboxamido)-3,3-dimethylbutanoate ([[MDMB-FUBINACA]])<ref name="dea2016"/>
+|-
+|7032
+|N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide (MAB-CHMINACA; [[ADB-CHMINACA]])<ref>{{Cite journal | pmid = 29461023| year = 2018| last1 = Drug Enforcement Administration| first1 = Department of Justice| title = Schedules of Controlled Substances: Extension of Temporary Placement of MAB–CHMINACA in Schedule I of the Controlled Substances Act. Temporary rule; temporary scheduling order; extension| journal = Federal Register| volume = 83| issue = 20| pages = 4411–2}}</ref>
+|-
+| 7036
+| ethyl 2-(1-(5-fluoropentyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate ([[5F-EDMB-PINACA]])<ref name="fedreg-Apr-2019">{{cite web | title = Schedules of Controlled Substances: Temporary Placement of 5F-EDMB-PINACA, 5F-MDMB-PICA, FUB-AKB48, 5F-CUMYL-PINACA, and FUB-144 into Schedule I | url = https://www.federalregister.gov/documents/2019/04/16/2019-07460/schedules-of-controlled-substances-temporary-placement-of-5f-edmb-pinaca-5f-mdmb-pica-fub-akb48 | publisher = Federal Register }}</ref>
+|-
+| 7041
+|methyl 2-(1-(5-fluoropentyl)-1H-indole-3-carboxamido)-3,3-dimethylbutanoate ([[5F-MDMB-PICA]])<ref name="fedreg-Apr-2019"/>
+|-
+| 7047
+| N-(adamantan-1-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide (FUB-AKB48; [[FUB-APINACA]]; AKB48 N-(4-FLUOROBENZYL))<ref name="fedreg-Apr-2019"/>
+|-
+| 7083
+| 1-(5-fluoropentyl)-N-(2-phenylpropan-2-yl)-1H-indazole-3-carboxamide ([[5F-CUMYL-PINACA]]; SGT-25)<ref name="fedreg-Apr-2019"/>
+|-
+| 7014
+| (1-(4-fluorobenzyl)-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl) methanone ([[FUB-144]])<ref name="fedreg-Apr-2019"/>
+|-
+| 7021
+| Methyl 2-(1-(4-fluorobenzyl)-1Hindazole-3-carboxamido)-3-methylbutanoate (FUB–AMB, MMB– FUBINACA, [[AMB–FUBINACA]])
+|-
+| 7025 
+| [[5F-AB-PINACA]] (N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide)
+|-
+| 7044
+| [[MMB-CHMICA]] (AMB-CHMICA, methyl 2-(1-(cyclohexylmethyl)-1H-indole-3-carboxamido)-3-methylbutanoate)
+|-
+| 7085 
+| [[5F-CUMYL-P7AICA]] (1-(5-fluoropentyl)-N-(2-phenylpropan-2-yl)-1 H-pyrrolo[2,3-b]pyridine-3-carboxamide)
+|-
+| 7089
+| [[4-CN-CUMYL-BUTINACA]] (1-(4-cyanobutyl)-N-(2-phenylpropan-2-yl)-1H-indazole-3-carboxamide, 4-cyano-CUMYL-BUTINACA, 4-CN-CUMYL BINACA, CUMYL-4CN-BINACA, SGT-78)
+|-
+| 7221
+| [[NM-2201]] (CBL2201, Naphthalen-1-yl 1-(5-fluoropentyl)-1H-indole-3-carboxylate)
+|-
+| 7027
+| [[ADB-BUTINACA]] (N-[(2S)-1-amino-3,3-dimethyl-1-oxobutan-2-yl]-1-butyl-1H-indazole-3-carboxamide)<ref name="DEA-Dec-2023"/>
+|}
+
+==See also==
+* [[List of Schedule II controlled substances (U.S.)]]
+* [[List of Schedule III controlled substances (U.S.)]]
+* [[List of Schedule IV controlled substances (U.S.)]]
+* [[List of Schedule V controlled substances (U.S.)]]
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.deadiversion.usdoj.gov/schedules/orangebook/c_cs_alpha.pdf Controlled Substances listed by the DEA]
+
+{{Drug control laws}}
+
+{{DEFAULTSORT:Schedule I drugs (US)}}
+[[Category:Controlled Substances Act]]
+[[Category:Drug-related lists]]
+[[Category:Cannabis-related lists]]

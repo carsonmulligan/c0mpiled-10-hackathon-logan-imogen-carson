@@ -1,5 +1,21 @@
-tradeford	network error fetching http://www.tradeford.com/robots.txt: [Errno 8] nodename nor servname provided, or not known
-chinaexporter	network error fetching http://www.chinaexporter.com/robots.txt: [Errno 8] nodename nor servname provided, or not known
-ecrobot	network error fetching https://www.ecrobot.com/robots.txt: [Errno 8] nodename nor servname provided, or not known
-chemnet	network error fetching https://www.chemnet.com/robots.txt: [Errno 8] nodename nor servname provided, or not known
-indiamart_export	network error fetching https://export.indiamart.com/robots.txt: [Errno 8] nodename nor servname provided, or not known
+tradeford	JS or anti-bot wall for http://www.tradeford.com/robots.txt
+chinaexporter	robots.txt disallows all crawling
+ecrobot	robots.txt disallows all crawling
+chemnet	query=Piperidone	could not discover GET search form
+chemnet	query=Nitazene	could not discover GET search form
+chemnet	query=Xylazine	could not discover GET search form
+chemnet	query=99918-43-1	could not discover GET search form
+chemnet	query=125541-22-2	could not discover GET search form
+chemnet	query=19099-93-5	could not discover GET search form
+chemnet	query=103-63-9	could not discover GET search form
+chemnet	query=28578-16-7	could not discover GET search form
+chemnet	query=437-38-7	could not discover GET search form
+chemnet	query=990-73-8	could not discover GET search form
+chemnet	query=1443-48-3	could not discover GET search form
+chemnet	query=21409-26-7	could not discover GET search form
+chemnet	query=39742-60-4	could not discover GET search form
+chemnet	query=1235-83-6	could not discover GET search form
+chemnet	query=59708-52-0	could not discover GET search form
+chemnet	query=56030-54-7	could not discover GET search form
+chemnet	query=71195-58-9	could not discover GET search form
+indiamart_export	robots.txt disallows all crawling

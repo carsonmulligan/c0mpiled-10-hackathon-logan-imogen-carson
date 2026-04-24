@@ -1,0 +1,1228 @@
+{{short description|List of plant species with reported psychoactive properties}}
+{{Multiple issues|
+{{More citations needed|date=March 2026}}
+{{Primary sources|date=July 2017}}
+{{Disputed|date=September 2017}}
+{{Copy edit|date=August 2025}}
+}}
+{{Main|Psychoactive plant}}
+[[File:Salvia divinorum - Herba de Maria.jpg|thumb|220px|right|''[[Salvia divinorum]]'', a dissociative hallucinogenic sage]]
+
+[[Psychoactive plant|Psychoactive plants]] are plant species that, when consumed by humans, are known or suspected to produce changes in nervous system function that alter perception, mood, consciousness, cognition or behavior. Many of these plants are used intentionally as [[psychoactive drug]]s, for medicinal, religious, and/or recreational purposes. Some have been used ritually as [[entheogen]]s for millennia.<ref name="Sayin 2016 pp. 17–28">{{cite book | last=Sayin | first=H. Umit | title=Neuropathology of Drug Addictions and Substance Misuse | chapter=Psychoactive Plants Used during Religious Rituals | publisher=Elsevier | year=2016 | doi=10.1016/b978-0-12-800634-4.00002-0 | pages=17–28| isbn=978-0-12-800634-4 }}</ref><ref name="Kohek Sánchez Avilés Romaní Bouso 2021 p=103390">{{cite journal | last1=Kohek | first1=Maja | last2=Sánchez Avilés | first2=Constanza | last3=Romaní | first3=Oriol | last4=Bouso | first4=José Carlos | title=Ancient psychoactive plants in a global village: The ritual use of cannabis in a self-managed community in Catalonia | journal=International Journal of Drug Policy | publisher=Elsevier BV | volume=98 | year=2021 | issn=0955-3959 | doi=10.1016/j.drugpo.2021.103390 | article-number=103390| pmid=34340169 }}</ref>
+
+These plants are listed according to the specific psychoactive chemical substances they contain; many contain multiple known psychoactive compounds.
+
+==Cannabinoids==
+[[File:Cannabis flowering.jpg|thumb|right|160px|Cannabis plant]]
+{{Main|Cannabis}}
+Species of the genus ''[[Cannabis]]'', known colloquially as marijuana, including ''[[Cannabis sativa]]'' and ''[[Cannabis indica]]'', are popular psychoactive plants that are often used medically and recreationally. The principal psychoactive substance in ''Cannabis'', [[tetrahydrocannabinol]] (THC), contains no [[nitrogen]], unlike many (but not all) other psychoactive substances{{efn|Other psychoactive compounds without nitrogen atoms include [[kavalactone]]s and [[salvinorin A|salvinorins]], known from [[kava]] and ''[[Salvia divinorum]]'', respectively.}} and is not an [[indole]], [[tryptamine]] or [[phenethylamine]]. THC is just one of more than 100 identified [[cannabinoid]] compounds in ''Cannabis'', which also include [[cannabinol]] (CBN) and [[cannabidiol]] (CBD).
+
+''Cannabis'' plants vary widely, with different strains producing dynamic balances of cannabinoids (THC, CBD, etc.) and yielding markedly different effects. Popular strains are often hybrids of ''C. sativa'' and ''C. indica''.
+
+The medicinal effects of cannabis are widely studied, and are active topics of research both at universities and private research firms. Many jurisdictions have laws regulating or prohibiting the cultivation, sale and/or use of [[medical cannabis|medical]] and [[recreational cannabis]].
+
+==Tryptamines==
+[[File:Dimethyltryptamine.svg|thumb|160px|right|[[Dimethyltryptamine|DMT]] molecule]]
+[[File:5-MeO-DMT.svg|thumb|160px|right|[[5-MeO-DMT]] molecule]]
+[[File:(MHNT) Delosperma cooperi - Flower.jpg|thumb|160px|right|''[[Delosperma cooperi]]'' flower]]
+[[File:M. Delosperma lydenbergense flower.JPG|thumb|160px|right|''[[Delosperma]] lydenbergense'' flower]]
+[[File:Delosperma nubigenum.jpg|thumb|160px|right|''[[Delosperma]] nubigenum'']]
+
+Many of the psychedelic plants contain [[dimethyltryptamine]] (DMT), or other [[tryptamines]], which are either snorted (Virola, Yopo snuffs), vaporized, or drunk with MAOIs ([[Ayahuasca]]). It cannot simply be eaten as it is not orally active without an [[MAOI]], and must be extremely concentrated in order to be vaporized.
+
+===[[Acanthaceae]]===
+"Species'', ''Alkaloid content, where given, refers to dried material"
+* ''[[Fittonia albivenis]]{{Citation needed|date=December 2023}}'', a common ornamental plant from South America.
+
+===[[Aceraceae]]===
+* ''[[Acer saccharinum]]'' (silver maple) was found to contain the indole alkaloid [[gramine]] (not active and extremely toxic) 0.05% in the leaves, so it is possible that other members of this plant family contain active compounds.<ref name=":1">{{cite journal|doi=10.1021/jo01091a032 |first1= I. J. |last1= Pachter |first2= D. E. |last2= Zacharias |first3= O. |last4= Rebiro |journal= Journal of Organic Chemistry |year= 1959 |title= Indole Alkaloids of ''Acer saccharinum'' (the Silver Maple), ''Dictyoloma incanescens'', ''Piptadenia colubrina'', and ''Mimosa hostilis'' |volume= 24 |issue= 9 |pages= 1285–1287 |bibcode= 1959JOrgC..24.1285P }}</ref>
+
+===[[Aizoaceae]]===
+* ''[[Delosperma acuminatum]]'', DMT, 5-MeO-DMT<ref name="sacred">{{cite web |url=http://www.entheogen.com/component/option,com_docman/task,doc_download/gid,6/Itemid,42/ |title=Trout's Notes on Some Other Succulents |access-date=2015-01-14 |archive-url=https://web.archive.org/web/20150924001053/http://www.entheogen.com/component/option,com_docman/task,doc_download/gid,6/Itemid,42/ |archive-date=2015-09-24 }}</ref>{{unreliable source?|date=May 2018}}
+* ''[[Delosperma cooperi]]'', DMT, 5-MeO-DMT<ref name="sacred"/> 
+* ''[[Delosperma ecklonis]]'', DMT<ref name="sacred"/>
+* ''[[Delosperma esterhuyseniae]]'', DMT<ref name="sacred"/>
+* ''[[Delosperma hallii]]'', 5-MeO-DMT<ref name="sacred"/>
+* ''[[Delosperma harazianum]]'', DMT, 5-MeO-DMT<ref name="sacred"/>
+*: ''Delosperma harazianum'' <br />Shibam, DMT<ref name="sacred"/>
+* ''[[Delosperma hirtum]]'', DMT<ref name="sacred"/>
+*: ''Delosperma hallii <br />aff. litorale''
+* ''[[Delosperma lydenbergense]]'', DMT, 5-MeO-DMT<ref name="sacred"/> 
+* ''[[Delosperma nubigenum]]'', 5-MeO-DMT<ref name="sacred"/>
+* ''[[Delosperma pageanum]]'', DMT, 5-MeO-DMT<ref name="sacred"/>
+* ''[[Delosperma pergamentaceum]]'', Traces of DMT<ref name="sacred"/>
+* ''[[Delosperma tradescantioides]]'', DMT<ref name="sacred"/>
+
+===[[Apocynaceae]]===
+* ''[[Prestonia amazonica]]'': DMT<ref>{{cite web
+|url=http://paranoia.lycaeum.org/psychedelics/tryptamines/dmt.info
+|title=Profiles of Psychedelic Drugs
+|publisher=paranoia.lycaeum.org
+|access-date=2008-04-19
+|archive-url=https://web.archive.org/web/20020522235849/http://paranoia.lycaeum.org/psychedelics/tryptamines/dmt.info
+|archive-date=2002-05-22
+}}</ref>
+* ''[[Voacanga africana]]'': Up to 10% [[Ibogaine|Iboga alkaloids]]<ref name=":0" />
+
+=== [[Asteraceae]] ===
+
+* ''[[Pilosella officinarum]]{{Citation needed|date=December 2023}}''
+
+===[[Erythroxylaceae]]===
+* ''[[Erythroxylum pungens]]'': DMT<ref name="pmid30056276">{{cite journal |vauthors=Macedo Pereira G, Moreira LG, Neto TD, Moreira de Almeida WA, Almeida-Lima J, Rocha HA, Barbosa EG, Zuanazzi JA, de Almeida MV, Grazul RM, Navarro-Vázquez A, Hallwass F, Ferreira LS, Fernandes-Pedrosa MF, Giordani RB |title=Isolation, spectral characterization, molecular docking, and cytotoxic activity of alkaloids from Erythroxylum pungens O. E. Shulz |journal=[[Phytochemistry (journal)|Phytochemistry]] |volume=155 |issue= |pages=12–18 |date=November 2018 |pmid=30056276 |doi=10.1016/j.phytochem.2018.07.003 |bibcode=2018PChem.155...12M |s2cid=51908961 |url= |issn=}}</ref>
+
+===[[Fabaceae]] (Leguminosae)===
+[[File:Alpina mueller.jpg|thumb|160px|right|''Alpina mueller'']]
+[[File:Acacia angustissima usgs.png|thumb|160px|right|''Acacia angustissima'']] 
+[[File:Acacia-berlandieri-flowers4.jpg|thumb|160px|right|''Acacia-berlandieri'' flower]]
+[[File:Acacia catechu - Köhler–s Medizinal-Pflanzen-003.jpg|thumb|160px|right|''Acacia catechu'']]
+[[File:Starr 050107-2872 Acacia confusa.jpg|thumb|160px|right|''Acacia confusa'']] 
+[[File:Acacia phlebophylla.jpg|thumb|160px|right|''Acacia phlebophylla'']] 
+[[File:Starr 020911-0004 Acacia podalyriifolia.jpg|thumb|160px|right]]
+[[File:Bufotenin2DACS.svg|thumb|160px|right|[[Bufotenin]] molecule]]
+[[File:Anadenanthera colubrina.jpg|thumb|160px|right|''Anadenanthera colubrina'']]
+[[File:Anadenanthera peregrina.jpg|thumb|160px|right|''Anadenanthera peregrina'']]
+[[File:Lespedeza capitata habit.jpg|thumb|160px|right|''Lespedeza capitata'']]
+[[File:Codariocalyx motorius Taub39.png|thumb|160px|right|''Codariocalyx motorius'']]
+[[File:Virola-theiodora-1860.jpg|thumb|160px|right|''Virola theiodora'']] 
+[[File:Lespedeza ja02.jpg|thumb|160px|right|''Lespedeza bicolor'']]
+[[File:Mimosa-scabrella.jpg|thumb|160px|right|''Mimosa scabrella'']]
+
+{{See also|List of Acacia species known to contain psychoactive alkaloids}}
+* ''[[Acacia acuminata]]'', Up to 1.5% alkaloids, mainly consisting of [[dimethyltryptamine]] in bark & leaf<ref>{{cite web
+|url=http://leda.lycaeum.org/?ID=15928
+|title=Lycaeum > Leda > Acacia acuminata
+|publisher=leda.lycaeum.org
+|access-date=2008-02-23
+|archive-url=https://web.archive.org/web/20071012182142/http://leda.lycaeum.org/?ID=15928
+|archive-date=2007-10-12
+}}</ref>{{Unreliable source?|date=December 2023}} Also, harman, tryptamine, NMT, other alkaloids in leaf.{{citation needed|date=March 2019}}
+* ''[[Acacia alpina]]'', Active principles in leaf<ref name="shaman">{{cite web|url=http://shaman-australis.com.au/shop/index.php?cPath=21_26_72|title=Plants & Seeds > A > Acacia spp. |publisher=Shaman Australis Botanicals|access-date=14 January 2015}}</ref>{{unreliable source?|date=March 2016}}
+* ''[[Acaciella angustissima]]'', [[β-methyl-phenethylamine]],<ref name="dict">{{cite book
+ | last = Glasby
+| first = John Stephen
+| title = Dictionary of Plants Containing Secondary Metabolites
+| url = https://books.google.com/books?id=te53VV5u8YMC&q=acacia+alkaloids&pg=RA1-PA2
+| publisher = [[CRC Press]]
+| year = 1991
+| isbn = 978-0-85066-423-2
+| page = 2 }}</ref> NMT and DMT in leaf (1.1-10.2 ppm)<ref>Nutritive value assessment of the tropical shrub legume Acacia angustissima: anti-nutritional compounds and ''in vitro'' digestibility. Personal Authors: McSweeney, C. S., Krause, D. O., Palmer, B., Gough, J., Conlan, L. L., Hegarty, M. P.Author Affiliation: CSIRO Livestock Industries, Long Pocket Laboratories, 120 Meiers Road, Indooroopilly, Qld 4068, Australia. Document Title: Animal Feed Science and Technology, 2005 (Vol. 121) (No. 1/2) 175–190</ref>
+* ''[[Vachellia aroma]]'', Tryptamine alkaloids.<ref>{{cite web|url=http://www.maya-ethnobotanicals.com/product_info.phtml/herbid_340/category_ayahuasca |title=Maya Ethnobotanicals – Ayahuasca, Rainforest Plants, Folklore, Incenses, Art & Visions |access-date=14 January 2015 |archive-url=https://web.archive.org/web/20081025195522/http://www.maya-ethnobotanicals.com/product_info.phtml/herbid_340/category_ayahuasca |archive-date=25 October 2008 }}</ref> Significant amount of tryptamine in the seeds.<ref name="herbarium">{{cite web|url=http://herbarium.0-700.pl/Akacje.html|title=Akacje|author=Black Panther|publisher=Herbarium.0–700.pl|access-date=14 January 2015|archive-date=18 July 2011|archive-url=https://web.archive.org/web/20110718005529/http://herbarium.0-700.pl/Akacje.html}}</ref>
+* ''[[Acacia auriculiformis]]'', 5-MeO-DMT in stem bark<ref>{{cite web|url=http://leda.lycaeum.org/?ID=15931|title=Lycaeum > Leda > Acacia auriculiformis|publisher=Leda.lycaeum.org|access-date=14 January 2015|archive-url=https://web.archive.org/web/20081207033026/http://leda.lycaeum.org/?ID=15931|archive-date=7 December 2008}}</ref>
+* ''[[Acacia baileyana]]'', 0.02% tryptamine and [[β-carbolines]], in the leaf, [[Tetrahydroharman]]<ref name="chemotaxonomie" />
+* ''[[Acacia beauverdiana]]'', Psychoactive<ref name="bushfood">{{cite web|url=http://www.bushfood.net/viewtopic.php?p=3443|title=Australian Bushfood (Bushtucker) and Native Medicine Forum |author=Australian Bush Food and Native Medicine Forum members|publisher=Bushfood.net|access-date=14 January 2015|archive-url=https://web.archive.org/web/20140804122924/http://www.bushfood.net/viewtopic.php?p=3443|archive-date=4 August 2014}}</ref> Ash used in [[Pituri]].<ref name="enth">{{cite web|url=http://www.entheology.org/edoto/anmviewer.asp?a=47|title=Entheology.org – Preserving Ancient Knowledge|publisher=Entheology.org|access-date=22 December 2017}}</ref>
+* ''[[Senegalia berlandieri]]'', DMT, [[phenethylamine]], [[mescaline]], [[nicotine]]<ref>{{cite web |title=Ask Dr. Shulgin Online September 26, 2001 |url=http://www.cognitiveliberty.org/shulgin/adsarchive/acacia.htm |access-date=14 January 2015 |publisher=Cognitiveliberty.org}}</ref>
+* ''[[Senegalia catechu]]'', DMT and other tryptamines in leaf, bark{{citation needed|date=July 2017}}
+* ''[[Vachellia caven]]'', Psychoactive<ref name=":0" />
+* ''[[Senegalia chundra]]'', DMT and other tryptamines in leaf, bark{{Citation needed|date=December 2023}}
+* ''[[Acacia colei]]'', DMT<ref>{{cite web|url=http://www.abc.net.au/science/k2/stn/q&a/notes/051027-9.htm|title=Dr Karl's Q&A forum|publisher=Abc.net.au|access-date=14 January 2015}}</ref>
+* ''[[Acacia complanata]]'', 0.3% alkaloids in leaf and stem, almost all ''N''-methyl-tetrahydroharman, with traces of tetrahydroharman, some of tryptamine<ref>{{cite web|url=http://users.lycaeum.org/~mulga/acacia/comphy.html|title=comp phyto|publisher=Users.lycaeum.org|access-date=14 January 2015|archive-url=https://web.archive.org/web/20081207033051/http://users.lycaeum.org/~mulga/acacia/comphy.html|archive-date=7 December 2008}}</ref><ref>{{cite web|url=http://users.lycaeum.org/~mulga/acacia/entheo.html|title=acacias and entheogens|publisher=Users.lycaeum.org|access-date=14 January 2015|archive-url=https://web.archive.org/web/20081207033056/http://users.lycaeum.org/~mulga/acacia/entheo.html|archive-date=7 December 2008}}</ref><ref>{{cite web|url=http://leda.lycaeum.org/?ID=15796|title=Lycaeum > Leda > Acacia complanata|publisher=Users.lycaeum.org|access-date=14 January 2015|archive-url=https://web.archive.org/web/20081207033011/http://leda.lycaeum.org/?ID=15796|archive-date=7 December 2008}}</ref>
+* ''[[Acacia confusa]]'', DMT & NMT in leaf, stem & bark 0.04% NMT and 0.02% DMT in stem.<ref name="shaman"/> Also N,N-dimethyltryptamine [[N-oxide]]<ref>[http://doi.wiley.com/10.1002/mrc.1959 NMR spectral assignments of a new chlorotryptamine alkaloid and its analogues from Acacia confusa]
+Malcolm S. Buchanan, Anthony R. Carroll, David Pass, Ronald J. Quinn
+Magnetic Resonance in Chemistry
+Volume 45, Issue 4, pp. 359–361.
+John Wiley & Sons, Ltd.</ref>
+* ''[[Vachellia cornigera]]'', Psychoactive,<ref name=":0" /> Tryptamines<ref name="fachforum">{{cite web|url=http://www.naturheilpraxis.de/exclusiv/nh-online/2005/nhp05/a_nh-ff02.html|title=Naturheilpraxis – Fachforum – Die Heilkraft der Akazien – Ein einführender Überblick|date=5 January 2010|access-date=22 December 2017|archive-url=https://web.archive.org/web/20100105094521/http://www.naturheilpraxis.de/exclusiv/nh-online/2005/nhp05/a_nh-ff02.html|archive-date=5 January 2010}}</ref> DMT according to C. Rastch.
+* ''[[Acacia cultriformis]]'', Tryptamine, in the leaf, stem<ref name="shaman" /> and seeds.<ref name="herbarium" /> Phenethylamine in leaf and seeds<ref name="herbarium" />
+* ''[[Acacia cuthbertsonii]]'', Psychoactive<ref name=":0" />
+* ''[[Acacia decurrens]]'', Psychoactive,<ref name=":0" /> but less than 0.02% alkaloids<ref name="chemotaxonomie">{{cite book|url=https://books.google.com/books?id=YpnboQBbw7EC&q=acacia+tryptamine&pg=PA336|title=Caesalpinioideae und Mimosoideae|via=Books.google.com|access-date=14 January 2015|isbn=978-3-7643-5165-6|last1=Hegnauer|first1=R.|date=1996-07-30|publisher=Springer }}</ref>
+* ''[[Acacia delibrata]]'', Psychoactive<ref name="bushfood" />
+* ''[[Acacia falcata]]'', Psychoactive,<ref name="bushfood" /> but less than 0.02% alkaloids<ref name="chemotaxonomie" /> 
+* ''[[Vachellia farnesiana]]'', Traces of 5-MeO-DMT<ref>{{cite web|url=http://leda.lycaeum.org/?ID=15965|title=Lycaeum > Leda > Acacia cultriformis|publisher=Leda.lycaeum.org|access-date=14 January 2015|archive-url=https://web.archive.org/web/20081207033031/http://leda.lycaeum.org/?ID=15965|archive-date=7 December 2008}}</ref> in fruit. β-methyl-phenethylamine, flower.<ref name="drduke2">{{cite web|url=http://www.ars-grin.gov/duke/plants.html|title=Plant Choices – Phytochemeco Databases|publisher=Ars-grin.gov|access-date=14 January 2015|archive-url=https://web.archive.org/web/20141227143201/http://www.ars-grin.gov/duke/plants.html|archive-date=27 December 2014}}</ref> Ether extracts about 2–6% of the dried leaf mass.<ref name="rirdc.gov.au">{{cite web|url=http://www.rirdc.gov.au/reports/AFT/03-024.pdf |title=Wattle Seed Workshop Proceedings|author=Vivid Interactive and Design |access-date=14 January 2015 |archive-url=https://web.archive.org/web/20081217013341/http://www.rirdc.gov.au/reports/AFT/03-024.pdf |archive-date=17 December 2008 }}</ref> Alkaloids are present in the bark<ref>{{Cite web|url=http://www.bpi.da.gov.ph/Publications/mp/pdf/a/aroma.pdf|archive-url=https://web.archive.org/web/20110720134339/http://www.bpi.da.gov.ph/Publications/mp/pdf/a/aroma.pdf|title=www.bpi.da.gov.ph|archive-date=July 20, 2011}}</ref> and leaves.<ref>{{cite web|url=http://www.hort.purdue.edu/newcrop/duke_energy/Acacia_farnesiana.html|title=Acacia farnesiana|publisher=Hort.purdue.edu|access-date=14 January 2015}}</ref>
+* ''[[Acacia flavescens]]'', Strongly Psychoactive, Bark{{Citation needed|date=December 2023}}
+* ''[[Acacia floribunda]]'', Tryptamine, phenethylamine,<ref name="tax">{{cite book
+ | last = Hegnauer
+ | first = Robert
+ | title = Chemotaxonomie der Pflanzen
+ | url = https://books.google.com/books?id=9fDv1RYqIRkC&q=chemotaxonomie+der+pflanzen
+ | publisher = Springer
+ | year = 1994
+ | isbn = 978-3-7643-2979-2
+ | page = 500 }}</ref> in flowers<ref name="herbarium" /> other tryptamines,<ref>{{cite web
+ |url=http://leda.lycaeum.org/?ID=16001
+ |title=Lycaeum > Leda > Acacia floribunda
+ |publisher=leda.lycaeum.org
+ |access-date=2008-02-23
+ |archive-url=https://web.archive.org/web/20071012182159/http://leda.lycaeum.org/?ID=16001
+ |archive-date=2007-10-12
+ }}</ref> DMT,tryptamine,NMT 0.3–0.4% phyllodes.<ref>Voogelbreinder, S. "Garden Of Eden" 2009</ref>
+* ''[[Acacia georginae]]'', Psychoactive,<ref name=":0" /> plus deadly toxins
+* ''[[Vachellia horrida]]'', Psychoactive<ref name=":0" />
+* ''[[Acacia implexa]]'', Psychoactive<ref name="magis">{{cite web|url=http://wiki.magiskamolekyler.org/index.php?title=Lista_%c3%b6ver_hallucinogena_v%c3%a4xter,_svampar_och_djur|title=Lista över hallucinogena växter, svampar och djur|publisher=Wiki.magiskamolekyler.org|access-date=14 January 2015}}</ref>
+* ''[[Mimosa tenuiflora|Mimosa jurema]]'', DMT,<ref name=":0" /> NMT{{Citation needed|date=December 2023}}
+* ''[[Vachellia karroo]]'', Psychoactive{{Citation needed|date=December 2023}}
+* ''[[Senegalia laeta]]'', DMT, in the leaf<ref name="shaman" />
+* ''[[Acacia longifolia]]'', 0.2% tryptamine in bark, leaves, some in flowers, phenylethylamine in flowers,<ref name="tax" /> 0.2% DMT in plant.<ref>{{cite web
+ |url=http://leda.lycaeum.org/?ID=15799 
+ |title=Lycaeum > Leda > Acacia longifolia 
+ |publisher=leda.lycaeum.org 
+ |access-date=2008-02-23 
+ |archive-url=https://web.archive.org/web/20070418113901/http://leda.lycaeum.org/?ID=15799
+ |archive-date=2007-04-18
+}}</ref> Histamine alkaloids.<ref name="chemotaxonomie" />
+* ''[[Acacia sophorae]]'', Tryptamine in leaves, bark<ref name="herbarium" />
+* ''[[Acacia macradenia]]'', Tryptamine<ref name="herbarium" />
+* ''[[Acacia maidenii]]'', 0.6% NMT and DMT in about a 2:3 ratio in the stem bark, both present in leaves<ref name="shaman" />
+* ''[[Acacia mangium]]'', Psychoactive<ref name=":0" />
+* ''[[Acacia melanoxylon]]'', DMT, in the bark and leaf,<ref>[http://extentech.sheetster.com/knowledgebase/wiki_search.jsp?search=acacia extentech.sheetster.com]{{dead link|date=September 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> but less than 0.02% total alkaloids<ref name="chemotaxonomie" />
+* ''[[Senegalia mellifera]]'', DMT, in the leaf<ref name="shaman" />
+* ''[[Vachellia nilotica]]'', DMT, in the leaf<ref name="shaman" />
+* ''[[Vachellia nilotica subsp. adstringens|Vachellian ilotica subsp. adstringens]]'', Psychoactive, DMT in the leaf{{Citation needed|date=December 2023}}
+* ''[[Acacia neurophylla]]'' DMT in bark, Harman in leaf.<ref>S. Voogelbreinder "Garden Of Eden" 2009</ref>
+* ''[[Acacia obtusifolia]]'', Tryptamine, DMT, NMT, other tryptamines,<ref name="magis2">{{Cite web|url=http://wiki.magiskamolekyler.org/Lista_%C3%B6ver_hallucinogena_v%C3%A4xter,_svampar_och_djur|title=Lista över hallucinogena växter, svampar och djur – Magiska Molekylers Wiki|website=wiki.magiskamolekyler.org}}</ref> 0.4–0.5% in dried bark,0.15–0.2% in leaf, 0.07% in branch tips.<ref>{{cite web|url=http://users.lycaeum.org/~mulga/acacia/obtuphy.html|title=obtusifolia phyto|publisher=Users.lycaeum.org|access-date=14 January 2015|archive-url=https://web.archive.org/web/20081203212552/http://users.lycaeum.org/~mulga/acacia/obtuphy.html|archive-date=3 December 2008}}</ref>
+* ''[[Vachellia oerfota]]'', Less than 0.1% DMT in leaf,<ref>[http://www.drogen-forum.com/wiki/index.php/DMT-haltige_Pflanzen Plants Containing DMT (German)] {{webarchive|url=https://web.archive.org/web/20070629164905/http://www.drogen-forum.com/wiki/index.php/DMT-haltige_Pflanzen |date=2007-06-29 }}</ref> NMT
+* ''[[Acacia penninervis]]'', Psychoactive<ref name="bushfood" />
+* ''[[Acacia phlebophylla]]'', 0.3% DMT in leaf, NMT<ref name="shaman" />
+* ''[[Acacia podalyriifolia]]'', Tryptamine in the leaf,<ref name="shaman" /> 0.5% to 2% DMT in fresh bark, phenethylamine, trace amounts.<ref name="tax" /> Although this species is claimed to contain 0.5% to 2% DMT in fresh bark the reference for this is invalid as there is no reference to Acacia Podalyriffolia anywhere in the reference article. Additionally, well known and proven extraction techniques for DMT have failed to produce any DMT or alkaloids from fresh bark or the leaves on multiple sample taken at various seasons. Should DMT actually exist in this species of Acacia then it exists in extremely small amounts and have failed to produce any alkaloids with Acid/Base extraction techniques using HCl/NaOH. On the same note, more academic research is definitely required into the DMT content of this and other Australian Acacia species with proper chemical analysis of sample.{{Citation needed|date=June 2011}}
+* ''[[Senegalia polyacantha]]'', DMT in leaf<ref name="shaman" /> and other tryptamines in leaf, bark
+* [[Senegalia polyacantha subsp. campylacantha|''Senegalia polyacantha'' ssp. ''campylacantha'']], Less than 0.2% DMT in leaf, NMT; DMT and other tryptamines in leaf, bark<ref>{{cite web
+ |url         = http://www.hortipedia.org/de/index.php?title=Acacia_campylacantha
+ |title       = Acacia campylacantha – Hortipedia
+ |publisher   = www.hortipedia.org
+ |access-date  = 2008-02-23
+ |archive-url  = https://web.archive.org/web/20071012181801/http://hortipedia.org/de/index.php?title=Acacia_campylacantha
+ |archive-date = 2007-10-12
+}}
+</ref>
+* ''[[Vachellia rigidula|Senegalia rigidula]]'': [[Phenethylamine]], [[tryptamine]], [[tyramine]], and [[β-Methylphenethylamine]].<ref>{{cite journal |last1=Pawar |first1=RS |last2=Grundel |first2=E |last3=Fardin-Kia |first3=AR |last4=Rader |first4=JI |title=Determination of selected biogenic amines in Acacia rigidula plant materials and dietary supplements using LC-MS/MS methods. |journal=Journal of Pharmaceutical and Biomedical Analysis |date=January 2014 |volume=88 |pages=457–66 |doi=10.1016/j.jpba.2013.09.012 |pmid=24176750}}</ref>
+* ''[[Acacia sassa]]'', Psychoactive<ref name=":0" />
+* ''[[Vachellia schaffneri]]'', β-methyl-phenethylamine, [[Phenethylamine]]<ref name="chem">{{Cite web|url=http://uvalde.tamu.edu/pdf/chemtdaf.pdf|archive-url=https://web.archive.org/web/20110515034950/http://uvalde.tamu.edu/pdf/chemtdaf.pdf|title=Chemistry of Acacias from South Texas|archive-date=May 15, 2011}}</ref>
+* ''[[Senegalia senegal]]'', Less than 0.1% DMT in leaf,<ref name="shaman" /> NMT, other tryptamines. DMT in plant,<ref name="drduke2" /> DMT in bark.<ref name="herbarium"/>
+* ''[[Vachellia seyal]]'', DMT, in the leaf.<ref name="shaman" /> Ether extracts about 1–7% of the dried leaf mass.<ref name="rirdc.gov.au"/>
+* ''[[Vachellia sieberiana]]'', DMT, in the leaf<ref name="shaman" />
+* ''[[Acacia simplex]]'', DMT and NMT, in the leaf, stem and trunk bark, 0.81% DMT in bark, MMT<ref name="shaman" /><ref>{{cite web|url=http://www.factorey.ch/Eins.htm|title=Eins|publisher=Factorey.ch|access-date=22 December 2017|archive-url=https://web.archive.org/web/20080812020052/http://www.factorey.ch/Eins.htm|archive-date=12 August 2008}}</ref>
+* ''[[Vachellia tortilis]]'', DMT, NMT, and other tryptamines<ref name="magis" />
+* ''[[Acacia vestita]]'', Tryptamine, in the leaf and stem,<ref name="shaman"/> but less than 0.02% total alkaloids<ref name="chemotaxonomie"/>
+* ''[[Acacia victoriae]]'', tryptamines, 5-MeO-alkyltryptamine<ref name="herbarium"/>
+* '''List of acacia species having little or no alkaloids in the material sampled:<ref name="chemotaxonomie"/>'''<br />(0% <math style="font-size:0.6em">\le</math> C <math style="font-size:0.6em">\le</math> 0.02%, Concentration of alkaloids)
+** ''[[Acacia acinacea]]''
+** ''[[Acacia baileyana]]''
+** ''[[Acacia decurrens]]''
+** ''[[Acacia dealbata]]''
+** ''[[Acacia mearnsii]]''
+** ''[[Acacia drummondii]]''
+** ''[[Acacia elata]]''
+** ''[[Acacia falcata]]''
+** ''[[Acacia leprosa]]''
+** ''[[Acacia linearis]]''
+** ''[[Acacia melanoxylon]]''
+** ''[[Acacia pycnantha]]''
+** ''[[Acacia retinodes]]''
+** ''[[Acacia saligna]]''
+** ''[[Acacia stricta]]''
+** ''[[Acacia verticillata]]''
+** ''[[Acacia vestita]]''
+* ''[[Pseudalbizzia inundata]]'' leaves contain DMT.<ref name=":0" />
+* ''[[Anadenanthera colubrina]]'', [[Bufotenin]], Beans,<ref name="uno">{{cite web |last1=Granier-Doyeux |first1=Marcel |title=Native hallucinogenic drugs piptadenias |url=http://www.unodc.org/unodc/en/bulletin/bulletin_1965-01-01_2_page006.html?print=yes |publisher=[[United Nations Office on Drugs and Crime]] |access-date=February 28, 2019 |archive-url=https://web.archive.org/web/20050120023802/http://www.unodc.org/unodc/en/bulletin/bulletin_1965-01-01_2_page006.html |archive-date=January 20, 2005 |date=January 1, 1965}}</ref><ref name="drduke">[http://sun.ars-grin.gov:8080/npgspub/xsql/duke/plantdisp.xsql?taxon=71 Dr. Duke's] {{webarchive|url=https://web.archive.org/web/20041110112944/http://sun.ars-grin.gov:8080/npgspub/xsql/duke/plantdisp.xsql?taxon=71 |date=2004-11-10 }} Phytochemical and Ethnobotanical Databases</ref> Bufotenin oxide, Beans,<ref name="uno" /> N,N-[[Dimethyltryptamine]], Beans,<ref name="uno"/><ref name="drduke"/> pods,<ref name="uno"/>
+* ''[[Anadenanthera colubrina var. cebil]]'' – [[Bufotenin]] and [[Dimethyltryptamine]] have been isolated from the seeds and seed pods, [[5-MeO-DMT]] from the bark of the stems.<ref name="herbo">{{cite web|url=http://www.herbotecnia.com.ar/aut-curupay.html|title=Cultivo de Curupay, Cebil colorado (Anadenanthera colubrina) y usos, herbotecnia|publisher=Herbotecnia.com.ar|access-date=14 January 2015}}</ref> The seeds were found to contain 12.4% bufotenine, 0.06% 5-MeO-DMT and 0.06% [[dimethyltryptamine|DMT]].<ref>{{cite web
+|url=http://www.erowid.org/archive/sonoran_desert_toad/ott.htm
+|title=Bufo alvarius – Jonathan Ott on Bufotenine
+|publisher=Erowid.org
+|access-date=2008-02-23
+}}
+</ref>
+* ''[[Anadenanthera peregrina]]'',
+1,2,3,4-Tetrahydro-6-methoxy-2,9-dimethyl-[[beta-carboline]], Plant,<ref name="drduke3">[http://sun.ars-grin.gov:8080/npgspub/xsql/duke/plantdisp.xsql?taxon=72 Dr. Duke's] {{webarchive|url=https://web.archive.org/web/20130219223907/http://sun.ars-grin.gov:8080/npgspub/xsql/duke/plantdisp.xsql?taxon=72 |date=2013-02-19 }} Phytochemical and Ethnobotanical Databases</ref> 1,2,3,4-Tetrahydro-6-methoxy-2-methyl-beta-carboline, Plant,<ref name="drduke" /> [[5-MeO-DMT|5-Methoxy-N,N-dimethyltryptamine]], Bark,<ref name="drduke" /> 5-Methoxy-N-methyltryptamine, Bark,<ref name="drduke" /> [[Bufotenin]], plant,<ref name="drduke" /> beans,<ref name="uno"/> [[Bufotenin]] [[N-oxide]], Fruit,<ref name="drduke" /> beans,<ref name="uno" /> N,N-Dimethyltryptamine-oxide, Fruit<ref name="drduke" /><ref>{{cite book|url=https://books.google.com/books?id=Ec5hNgYWHtkC&q=%22dmt+n+oxide%22&pg=RA2-PA313|title=Psychedelics Encyclopedia|via=Books.google.com|access-date=14 January 2015|isbn=978-1-57951-169-2|last1=Stafford|first1=Peter|date=2013-02-18|publisher=Ronin }}</ref>
+* ''[[Anadenanthera peregrina var. peregrina]]'', [[Bufotenine]] is in the seeds.<ref name="pubmed">{{cite journal |title=Pharmañopo-psychonautics: human intranasal, sublingual, intrarectal, pulmonary and oral pharmacology of bufotenine |last=Ott |first=J. |journal=Journal of Psychoactive Drugs |date=July–September 2001 |volume=33 |issue=3 |pages=273–81 |pmid=11718320 |doi=10.1080/02791072.2001.10400574 |s2cid=5877023 }}</ref>
+* ''[[Desmanthus illinoensis]]'', 0–0.34% DMT in root bark, highly variable.<ref name=autogenerated1>{{cite web|url=http://www.erowid.org/library/books_online/ayahuasca_apa/aya_sec3_part2_desmanthus.shtml|title=Erowid Online Books: "Ayahuasca: alkaloids, plants, and analogs" by Keeper of the Trout|publisher=Erowid.org|access-date=14 January 2015}}</ref> Also [[N-Methyltryptamine|NMT]], N-hydroxy-N-methyltryptamine, 2-hydroxy-N-methyltryptamine, and [[gramine]] (toxic).<ref>
+{{cite book
+|url=https://books.google.com/books?id=bUV8C6iLFkEC&q=%22Mimosa+somnians%22&pg=PA236
+|title=Google Book Search
+|access-date=2008-05-08
+|isbn=978-3-7643-5165-6
+|date=1996-07-30
+|last1=Hegnauer
+|first1=R.
+|publisher=Springer
+}}
+</ref>
+* ''[[Desmanthus leptolobus]]'', 0.14% DMT in root bark, more reliable than D. illinoensis<ref name=autogenerated1 />
+* ''[[Desmodium caudatum]]''<ref>{{GRIN | ''Desmodium caudatum'' | 311307 | accessdate = 2008-05-02}}</ref> (syn. ''Ohwia caudata''), Roots: 0.087% DMT,
+* ''[[Codariocalyx motorius]]''(syn. ''Desmodium gyrans''), DMT, 5-MeO-DMT, leaves, roots{{Citation needed|date=December 2023}}
+* ''[[Desmodium racemosum]]'', 5-MeO-DMT<ref name=":0" />
+* ''[[Desmodium triflorum]]'', 0.0004% DMT-N-oxide, roots,<ref name="trout-desmodium">{{Cite web|url=http://trout.yage.net/sc/D2_2004_Trout.pdf|archive-url=https://web.archive.org/web/20050831103118/http://trout.yage.net/sc/D2_2004_Trout.pdf|title=Trout's Notes on Desmodium|archive-date=August 31, 2005}}</ref> less in stems<ref name="trout-desmodium"/> and trace in leaves.<ref name="trout-desmodium"/>
+* ''[[Lespedeza capitata]]''<ref name=":0" />
+* ''[[Lespedeza bicolor]]'', DMT, [[Lespedamine]],<ref>{{cite book |author=Brossi, A. | date= 1985 | title=The alkaloids. Chemistry and pharmacology. Volume 26 | publisher=Academic Press | page=27 | isbn=978-0-08-086550-8}}</ref> and 5-MeO-DMT in leaves and roots<ref name="tryptamine-faq"/>
+* ''[[Lespedeza bicolor var. japonica]]'', DMT, 5-MeO-DMT<ref name=":0" /> in leaves and root bark
+* ''[[Mimosa ophthalmocentra]]'', Dried root: DMT 1.6%, NMT 0.0012% and hordenine 0.0065%<ref>
+{{cite journal
+|title=Isolation and Identification of Putative Hallucinogenic Constituents from the Roots of Mimosa ophthalmocentra |journal= Pharmaceutical Biology
+}}
+</ref>
+* ''[[Mimosa scabrella]]'', tryptamine, NMT, DMT and N-methyltetrahydrocarboline in bark<ref>
+{{cite book
+|url=https://books.google.com/books?id=bUV8C6iLFkEC&q=%22Mimosa+somnians%22&pg=PA236
+|title=Google Book Search
+|access-date=2008-05-07
+|isbn=978-3-7643-5165-6
+|date=1996-07-30
+|last1=Hegnauer
+|first1=R.
+|publisher=Springer
+}}
+</ref>
+* ''[[Mimosa somnians]]'', tryptamines and MMT{{Citation needed|date=December 2023}}
+* ''[[Mimosa tenuiflora]]'' (syn. "Mimosa hostilis"), 1-1.7% [[Dimethyltryptamine|DMT]] (dry root bark).<ref>Enzyklopädie der psychoaktiven Pflanzen. Botanik, Ethnopharmakologie und Anwendungen. Aarau: AT-Verl. p. 15. ISBN 978-3-85502-570-1.</ref> 
+* ''[[Mimosa verrucosa]]'', DMT<ref name="unodc2">
+ {{cite web
+ |url=http://www.unodc.org/unodc/en/bulletin/bulletin_1969-01-01_4_page004.html 
+ |title=UNODC Bulletin on Narcotics 1969 
+ |archive-url=https://web.archive.org/web/20070708155740/http://www.unodc.org/unodc/en/bulletin/bulletin_1969-01-01_4_page004.html 
+ |archive-date=2007-07-08 
+}}</ref> in root bark
+* ''[[Mucuna pruriens]]'', the seeds of the plant contain about 3.1–6.1% {{Nowrap|[[L-DOPA]]}}.<ref name="toxicology">{{cite book |last1=Dart |first1=Richard C. |url=https://books.google.com/books?id=qDf3AO8nILoC&q=%22mucuna+pruriens%22+alkaloids&pg=PA1679 |title=Medical Toxicology - Google Book Search |year=2004 |publisher=Lippincott Williams & Wilkins |isbn=978-0-7817-2845-4 |access-date=2008-03-15}}</ref>
+* ''[[Petalostylis casseoides]]'', 0.4–0.5% tryptamine, DMT, etc. in leaves and stems<ref name="tryptamine-faq"/>
+* ''[[Petalostylis labicheoides var. casseoides]]'', DMT<ref name=":0" /> in leaves and stems; 0.4–0.5% alkaloids in leaves and stems;<ref name="bluezoo">{{cite web |title=tryptamines: fungi |url=http://bluezoo.org/tryptamines/plants.html |access-date=14 January 2015 |publisher=Bluezoo.org}}</ref> Tryptamines in leaves and stems, MAO's up to 0.5%<ref name="dmt-nexus">[http://www.dmt-nexus.com/phpBB2/viewtopic.php?t=26]{{dead link|date=September 2017|bot=InternetArchiveBot|fix-attempted=yes}}</ref>{{unreliable source?|date=July 2017}}
+* ''[[Phyllodium pulchellum]]''(syn. ''Desmodium pulchellum''), DMT;<ref name=":0" /> 0.2% 5-MeO-DMT, small quantities of DMT<ref name="tryptamine-faq"/> DMT (dominates in seedlings and young plants), 5-MeO-DMT (dominates in mature plant), whole plant, roots, stems, leaves, flowers;
+* ''[[Erythrina flabelliformis]]'', other ''[[Erythrina]]'' species, seeds contain the alkaloids [[erysodin]] and [[erysovin]]<ref>
+{{cite web
+|url=http://www.giftpflanzen.com/erythrina_flabelliformis.html
+|title=Kalifornischer Korallenstrauch (Erythrina decora) im GIFTPFLANZEN.COMpendium - giftpflanzen.com
+|publisher=Giftpflanzen.com
+|access-date=2008-04-18
+}}
+</ref>{{Better source needed|date=December 2023}}
+* ''[[Zornia latifolia]],'' the flavones ''[[genistein]]'', ''[[apigenin]]'' and syzalterin may explain the cannabis-like effects<ref>{{Cite journal |last1=Cornara |first1=L. |last2=Fortuna-Perez |first2=A. P. |last3=Bruni |first3=I. |last4=Salis |first4=A. |last5=Damonte |first5=G. |last6=Borghesi |first6=B. |last7=Clericuzio |first7=M. |date=2018-09-01 |title=Zornia latifolia: a smart drug being adulterated by Stylosanthes guianensis |journal=International Journal of Legal Medicine |language=en |volume=132 |issue=5 |pages=1321–1331 |doi=10.1007/s00414-018-1774-z |pmid=29362872 |issn=1437-1596|hdl=11449/164509 |hdl-access=free }}</ref><ref>{{Cite journal |last1=Alloisio |first1=Susanna |last2=Clericuzio |first2=Marco |last3=Nobile |first3=Mario |last4=Salis |first4=Annalisa |last5=Damonte |first5=Gianluca |last6=Canali |first6=Claudia |last7=Fortuna-Perez |first7=Ana Paula |last8=Cornara |first8=Laura |last9=Burlando |first9=Bruno |date=2022 |title=Cannabis-like activity of Zornia latifolia Sm. detected in vitro on rat cortical neurons: major role of the flavone syzalterin |journal=Drug and Chemical Toxicology |volume=45 |issue=2 |pages=919–931 |doi=10.1080/01480545.2020.1788057 |issn=1525-6014 |pmid=32628037 |hdl=11449/199084 }}</ref>
+
+===[[Lauraceae]]===
+*''[[Nectandra megapotamica]]'', NMT<ref name="dmt-nexus2">{{cite web|url=http://www.dmt-nexus.com/phpBB2/viewtopic.php?p=1828&sid=907c4141f55f0ecd5275b5ae22893feb|title=Plants Containing DMT List|publisher=Dmt-nexus.com|access-date=22 December 2017}}{{dead link|date=January 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>{{unreliable source?|date=July 2017}}
+
+===[[Malpighiaceae]]===
+* ''[[Diplopterys cabrerana]]'': McKenna et al. (1984) assayed and found the leaves contain 0.17% DMT<ref>
+{{cite book
+ |title       = Pharmacotheon
+ |url       = https://archive.org/details/pharmacotheonent00ottj
+ |url-access  = limited
+ |year        = 1996
+ |last        = Ott
+ |first       = Jonathan
+ |page        = [https://archive.org/details/pharmacotheonent00ottj/page/n108 219]
+|publisher = Natural Products Company
+ |isbn = 978-0-9614234-8-3
+ }}
+</ref>
+
+===[[Myristicaceae]] ===
+* ''[[Horsfieldia superba]]'': 5-MeO-DMT,<ref name="tryptamine-faq"/> [[Horsfiline]],<ref>{{cite journal |author=Jossang, A. |author2=Jossang, P. |author3=Hadi, H. A. |author4=Sevenet, T. |author5=Bodo, B. | journal=The Journal of Organic Chemistry | title=Horsfiline, an oxindole alkaloid from Horsfieldia superba | volume=56 | issue=23 | pages=6527–6530 | date= November 1991 | issn=0022-3263| doi=10.1021/jo00023a016 | bibcode=1991JOrgC..56.6527J }}</ref> and beta-carbolines<ref name="bluezoo"/>
+* ''[[Iryanthera macrophylla]]'': 5-MeO-DMT in bark;<ref name="tryptamine-faq"/> 
+* ''[[Iryanthera ulei]]'': 5-MeO-DMT in bark<ref name=":0" />
+* ''[[Osteophloem platyspermum]]'': DMT, 5-MeO-DMT in bark
+* ''[[Virola calophylla]]'', Leaves 0.149% DMT, leaves 0.006% MMT 5-MeO-DMT in bark<ref>
+{{cite web
+ |url         = http://sun.ars-grin.gov:8080/npgspub/xsql/duke/plantdisp.xsql?taxon=1065
+ |title       = Species Information
+ |publisher   = sun.ars-grin.gov
+ |access-date  = 2008-04-11
+ |archive-url  = https://web.archive.org/web/20041110182051/http://sun.ars-grin.gov:8080/npgspub/xsql/duke/plantdisp.xsql?taxon=1065
+ |archive-date = 2004-11-10
+}}
+</ref>
+* ''[[Virola calophylloidea]]'', DMT, 5-MeO-DMT<ref name=":0" />
+* ''[[Virola carinata]]'', DMT in leaves; DMT, 5-MeO-DMT<ref name=":0" />
+* ''[[Virola cuspidata]]'', DMT<ref name="dmt-nexus"/>
+* ''[[Virola divergens]]'', DMT<ref name=":0" /> in leaves
+* ''[[Virola elongata]]''(syn. ''Virola theiodora''), DMT, 5-MeO-DMT<ref name=":0" /> in bark, roots, leaves and flowers
+* ''[[Virola melinonii]]'', DMT in bark; DMT, 5-MeO-DMT<ref name=":0" />
+* ''[[Virola multinervia]]'', DMT, 5-MeO-DMT<ref name=":0" /> in bark and roots
+* ''[[Virola pavonis]]'', DMT<ref name=":0" /> in leaves
+* ''[[Virola peruviana]]'', DMT, 5-MeO-DMT;<ref name=":0" /> 5-MeO-DMT, traces of DMT and 5-MeO-tryptamine in bark
+* ''[[Virola rufula]]'', Alkaloids in bark and root, 95% of which is MeO-DMT<ref name="tryptamines.com">{{cite web|url=http://www.tryptamines.com/|title=5-MeO-DMT|publisher=Tryptamines.com|access-date=14 January 2015}}</ref> 0.190% 5-MeO-DMT in bark, 0.135% 5-MeO-DMT in root, 0.092% DMT in leaves.
+* ''[[Virola sebifera]]'', The bark contains 0.065% to 0.25% alkaloids, most of which are DMT and 5-MeO-DMT.<ref name="emea">{{Cite web|url=http://www.emea.europa.eu/pdfs/vet/mrls/060499en.pdf|archive-url=https://web.archive.org/web/20070710213650/http://www.emea.europa.eu/pdfs/vet/mrls/060499en.pdf|title=Committee for veterinary medicinal products virola sebifera summary report|archive-date=July 10, 2007}}</ref>
+* ''[[Virola venosa]]'', DMT, 5-MeO-DMT<ref name=":0" /> in roots, leaves DMT
+
+===[[Ochnaceae]]===
+* ''[[Testulea gabonensis]]'': 0.2% 5-MeO-DMT, small quantities of DMT,<ref name="tryptamine-faq"/> DMT in bark and root bark, NMT{{Citation needed|date=December 2023}}
+
+===[[Pandanaceae]]===
+* Genus ''[[Pandanus]]'' (Screw Pine): DMT in nuts<ref name="tryptamine-faq"/>
+
+===[[Poaceae]] (Gramineae)===
+Some Graminae (grass) species contain [[gramine]], which can cause brain damage, other organ damage, [[central nervous system]] damage and death in sheep.<ref>
+{{cite book
+|author=Peter R. Cheeke
+|title=Toxicants of Plant Origin
+|publisher=CRC-Press
+|year=1989
+|isbn=978-0-8493-6990-2
+|page=169 <!-- inferred from URL but page doesn't display -->
+|url=https://books.google.com/books?id=eASgQyXq8xMC&q=%22mimosa+hostilis%22+dimethyltryptamine&pg=PA169
+|via=books.google.com
+|access-date=2008-04-20
+}}</ref>
+* ''[[Arundo donax]]'', 0.0057% DMT in dried rhizome, no stem, 0.026% bufotenine, 0.0023% 5-MeO-MMT<ref name="erowid1">{{cite web|url=http://www.erowid.org/plants/arundo_donax/arundo_donax_info1.shtml|title=Erowid Arundo donax Vaults: Trout's Notes on Tryptamine Content of Arundo donax|publisher=Erowid.org|access-date=14 January 2015}}</ref>
+* ''[[Phalaris aquatica]]'', 0.0007–0.18% Total alkaloids,<ref name="lycaeum" /> 0.100% DMT,<ref name="erowid">{{cite web|url=http://www.erowid.org/plants/phalaris/phalaris_faq.shtml|title=Erowid Phalaris Vault: FAQ 2.01|publisher=Erowid.org|access-date=14 January 2015}}</ref> 0.022% 5-MeO-DMT,<ref name="erowid" /> 0.005% 5-OH-DMT<ref name="erowid" />
+* ''[[Phalaris arundinacea]]'', 0.0004–0.121% Total alkaloids<ref name="lycaeum">{{cite web|url=http://nepenthes.lycaeum.org/Plants/Phalaris/DMTLU.html|title=DMT, Life and the Universe|publisher=Nepenthes.lycaeum.org|access-date=14 January 2015|archive-url=https://web.archive.org/web/20080618020612/http://nepenthes.lycaeum.org/Plants/Phalaris/DMTLU.html|archive-date=2008-06-18}}</ref>
+* ''[[Phalaris brachystachys]]'', aerial parts up to 3% total alkaloids, DMT present{{Citation needed|date=September 2007}}
+* ''[[Phalaris coerulescens]]'', [[Coerulescine]] and [[2-methyl-1,2,3,4-Tetrahydro-β-carboline]] in rhizome.<ref>{{cite journal |author=Anderton, N. |author2=Cockrum, P. A. |author3=Colegate, S. M. |author4=Edgar, J. A. |author5=Flower, K. | journal=Phytochemical Analysis | title=Assessment of potential for toxicity of Phalaris spp. via alkaloid content determination: P. coerulescens, a case example | volume=10 | issue=3 | pages=113–118 | date= 1999 | doi=10.1002/(SICI)1099-1565(199905/06)10:3<113::AID-PCA438>3.0.CO;2-# | bibcode=1999PChAn..10..113A }}</ref>
+* ''[[Phragmites australis]]'', DMT, 5-MeO-DMT, bufotenine and gramine in the rhizome.<ref>{{Cite journal |last1=Wassel |first1=G. M. |last2=El-Difrawy |first2=S.M. |last3=Saeed |first3=A.A. |date=1985 |title=Alkaloids from the Rhizomes of Phragmites australis Cav. |journal=Scientia Pharmaceutica |volume=53 |pages=169–170}}</ref>
+
+None of the above alkaloids are said to have been found in ''[[Phalaris californica]]'', ''[[Phalaris canariensis]]'', ''[[Phalaris minor]]'' and hybrids of ''P. arundinacea'' together with ''P. aquatica''.<ref name="lycaeum" />
+
+===[[Polygonaceae]]===
+* ''[[Eriogonum]]'' : DMT<ref name=":0" />
+
+===[[Rubiaceae]]===
+* ''[[Psychotria carthagenensis]]'', 0.2% average DMT in dried leaves.<ref>{{Cite journal |last1=Rivier |first1=Laurent |last2=Lindgren |first2=Jan-Erik |date=1972 |title="Ayahuasca," the South American Hallucinogenic Drink: An Ethnobotanical and Chemical Investigation |journal=Economic Botany |volume=26 |issue=2 |pages=101–129 |doi=10.1007/BF02860772 |jstor=4253328 |bibcode=1972EcBot..26..101R |s2cid=34669901 |issn=0013-0001}}</ref>
+* ''[[Psychotria colorata]]'', Presence of [[Μ-opioid receptor|mu opioid receptor(MOR)]] agonist and [[NMDA receptor antagonist|NMDA antagonist]]: [[hodgkinsine]], [[psychotridine]]. Also mentioned in The Encyclopedia of Psychoactive Plants: Ethnopharmacology and Its Applications.<ref>{{cite web|url=https://doctorlib.info/herbal/encyclopedia-psychoactive-plants-ethnopharmacology/93.html|title=Psychotria – The Most Important Genera and Species from A to Z – The Encyclopedia of Psychoactive Plants: Ethnopharmacology and Its Applications}}</ref>
+* ''[[Psychotria expansa]]'', DMT<ref name="dmt-nexus"/>
+* ''[[Psychotria forsteriana]]'', DMT<ref name="dmt-nexus"/>
+* ''[[Psychotria insularum]]'', DMT<ref name="dmt-nexus"/>
+* ''[[Psychotria poeppigiana]]'',<ref>{{cite web|url=http://www.discoverlife.org/mp/20q?search=Psychotria+poeppigiana |title=Psychotria poeppigiana – Uragoga tomentosa |publisher=Discover Life |access-date=2013-10-14}}</ref> DMT<ref name="dmt-nexus"/>
+* ''[[Psychotria rostrata]]'', DMT<ref name="dmt-nexus"/>
+* ''[[Psychotria rufipilis]]'', DMT<ref name="dmt-nexus"/>
+* ''[[Psychotria viridis]]'', DMT 0.1–0.61% dried mass.<ref>{{cite web|url=http://www.amazing-nature.com/-i-36.html?osCsid=38ad41e62a454589a0afd2d17ae0fa40|title=Amazing Nature|publisher=Amazing-nature.com|access-date=22 December 2017|archive-url=https://web.archive.org/web/20070927141532/http://www.amazing-nature.com/-i-36.html?osCsid=38ad41e62a454589a0afd2d17ae0fa40|archive-date=27 September 2007}}</ref>
+
+===[[Rutaceae]]===
+Source:<ref>{{cite journal | pmid = 22957740 | title = N-methylated tryptamine derivatives in citrus genus plants: identification of N,N,N-trimethyltryptamine in bergamot | doi=10.1021/jf302767e | volume=60 | issue = 37 | date=Sep 2012 | journal=Journal of Agricultural and Food Chemistry | pages=9512–8 | last1 = Servillo | first1 = L | last2 = Giovane | first2 = A | last3 = Balestrieri | first3 = ML | last4 = Cautela | first4 = D | last5 = Castaldo | first5 = D| bibcode = 2012JAFC...60.9512S }}</ref><ref>{{cite journal | pmid = 23682903 | title = Citrus genus plants contain N-methylated tryptamine derivatives and their 5-hydroxylated forms|doi= 10.1021/jf401448q | volume=61 | issue = 21| date=May 2013 | journal=Journal of Agricultural and Food Chemistry | pages=5156–62 | last1 = Servillo | first1 = L | last2 = Giovane | first2 = A | last3 = Balestrieri | first3 = ML | last4 = Casale | first4 = R | last5 = Cautela | first5 = D | last6 = Castaldo | first6 = D| bibcode = 2013JAFC...61.5156S}}</ref>
+* ''[[Dictyoloma incanescens]]'', 5-MeO-DMT in leaves,<ref name="tryptamines.com"/> 0.04% 5-MeO-DMT in bark<ref name="tryptamine-faq">{{cite web|url=http://www.erowid.org/psychoactives/faqs/faqs_tryptamine.shtml|title=Erowid Psychoactive Vaults: Tryptamine FAQ|publisher=Erowid.org|access-date=14 January 2015}}</ref>
+* ''[[Dutaillyea drupacea]]'', > 0.4% 5-MeO-DMT in leaves<ref name="magis"/>
+* ''[[Dutaillyea oreophila]]'', 5-MeO-DMT<ref name=":0"/> in leaves
+* ''[[Tetradium ruticarpum]]'' (syn. ''Evodia rutaecarpa''), 5-MeO-DMT<ref name=":0"/> in leaves, fruit and roots
+* ''[[Limonia acidissima]]'', traces of DMT;<ref name=":0"/> 5-MeO-DMT in stems{{Citation needed|date=December 2023}}
+* ''[[Euodia leptococca]]'' (formerly ''Melicope''), 0.2% total alkaloids, 0.07% 5-MeO-DMT; 5-MeO-DMT in leaves and stems, also "5-MeO-DMT-Oxide and a beta-carboline"<ref name="bluezoo"/>
+* ''[[Pilocarpus organensis]]'', DMT, 5-MeO-DMT in leaves<ref>{{cite journal|title = Pilocarpus spp.: A survey of its chemical constituents and biologicalactivities|journal=Brazilian Journal of Pharmaceutical Sciences|volume = 40|date = Jun 2004|doi = 10.1590/S1516-93322004000200002|s2cid = 34614172|last1 = Santos|first1 = Ana Paula|last2 = Moreno|first2 = Paulo Roberto Hrihorowitsch|issue = 2|pages = 116–137|doi-access = free}}</ref> (Might also contain pilocarpine)
+* ''[[Vepris ampody]]'', up to 0.2% DMT in leaves and branches<ref name="tryptamine-faq"/>
+* ''[[Zanthoxylum arborescens]]'', traces of DMT;<ref name=":0"/> DMT in leaves
+* ''[[Zanthoxylum procerum]]'', DMT in leaves{{Citation needed|date=December 2023}}
+* ''[[Citrus limon]]'', DMT, N-Methylated tryptamine derivative in leaves<ref name="citrus_nexian">{{cite web|url=https://the-nexian.me/home/knowledge/112-citrus-growers-manufacture-huge-amounts-of-dmt|title= Citrus Growers Manufacture Huge Amounts of DMT}}</ref><ref name="citrus_researchgate">{{cite web|url=https://www.researchgate.net/publication/236917343|title=Citrus Genus Plants Contain N-Methylated Tryptamine Derivatives and Their 5-Hydroxylated Forms}}</ref>
+* ''[[Orange blossom|Citrus sinesis]]'', DMT, N-Methylated tryptamine derivative<ref name="citrus_nexian"/><ref name="citrus_researchgate"/>
+* ''[[Bergamot orange|Citrus bergamia]]'', DMT, N-Methylated tryptamine derivative<ref name="citrus_nexian"/><ref name="citrus_researchgate"/>
+* ''[[Mandarin orange]]'', traces of N-methylated tryptamine derivative in leaf.<ref name="citrus_research1">{{cite web|url=http://diyhpl.us/~nmz787/pdf/Citrus_Genus_Plants_Contain_N-Methylated_Tryptamine_Derivatives_and_Their_5-Hydroxylated_Forms.pdf|title=CitrusGenus Plants Contain N‑Methylated Tryptamine Derivativesand Their 5‑Hydroxylated Forms}}</ref><ref name="citrus_researchgate"/>
+* ''[[Citrus myrtifolia|Chinotto Tree]]'', N-Methylated tryptamine derivative in leaf<ref name="citrus_research1"/><ref name="citrus_researchgate"/>
+* ''[[Citrus medica]]'', N-Methylated tryptamine derivative in leaf<ref name="citrus_research1"/><ref name="citrus_researchgate"/>
+
+==Phenethylamines==
+{{main|Psychoactive cactus}}
+[[File:Mescaline.svg|thumb|160px|right|[[Mescaline]] molecule]]
+[[File:3,4-Dimethoxyphenethylamine v2.svg|thumb|160px|right|[[3,4-Dimethoxyphenethylamine|DMPEA]] molecule]]
+[[File:Peyote Cactus.jpg|thumb|160px|right|''Peyote'']]
+
+'''Species''', '''Alkaloid Content (Fresh)''' – '''Alkaloid Content (Dried)'''
+* ''[[Coryphantha]]'' contains various phenethylamine alkaloids including [[macromerine]], [[coryphanthine]], [[candicine|''O''-methyl-candicine]], corypalmine, and ''N''-methyl-corypalmine.<ref>{{cite journal|title=Cactus Alkaloids. LIII. Coryphanthine and O-Methyl-Candicine, Two New Quaternary Alkaloids from Coryphantha greenwoodii|first1=B. N.|last1=Meyer|first2=J. S.|last2=Helfrich|first3=D. E.|last3=Nichols|first4=J. L.|last4=McLaughlin|first5=D. V.|last5=Davis|first6=R. G.|last6=Cooks|journal=Journal of Natural Products|volume=46|issue=5|pages=688–693|doi=10.1021/np50029a017|year = 1983 |bibcode=1983JNAtP..46..688M }}</ref><ref>{{cite journal|url=https://www.researchgate.net/publication/231715448|title=Cactus Alkaloids. LIII. Coryphanthine and O-Methyl-Candicine, Two New Quaternary Alkaloids from Coryphantha greenwoodii|first1=B|last1=N. Meyer|first2=J|last2=S. Helfrich|first3=David|last3=Nichols|first4=J|last4=L. McLaughlin|first5=D|last5=V. Davis|first6=R|last6=G. Cooks|date=1 July 2004|journal=Journal of Natural Products |volume=46|issue=5|pages=688–693|access-date=22 December 2017|via=ResearchGate|doi=10.1021/np50029a017 |bibcode=1983JNAtP..46..688M }}</ref>
+* ''[[Cylindropuntia echinocarpa]]'' (syn. ''Opuntia echinocarpa''), Mescaline 0.01%, [[3,4-Dimethoxyphenethylamine|DMPEA]] 0.01%, 4-hydroxy-3-5-dimethoxyphenethylamine 0.01%<ref name="mesc"/>
+* ''[[Cylindropuntia spinosior]]'' (syn. ''Opuntia spinosior''),<ref>{{cite web|url=http://www.desert-tropicals.com/Plants/Cactaceae/Opuntia_spinosior.html|title=Cane Cholla (''Cylindropuntia spinosior'' )|publisher=Desert-tropicals.com|access-date=14 January 2015|archive-date=29 December 2014|archive-url=https://web.archive.org/web/20141229050700/http://www.desert-tropicals.com/Plants/Cactaceae/Opuntia_spinosior.html}}</ref> Mescaline 0.00004%, 3-methoxytyramine 0.001%, [[tyramine]] 0.002%, 3-4-dimethoxyphenethylamine.<ref name="mesc"/>
+* ''[[Echinopsis lageniformis]]'' (syns ''Echinopsis scopulicola'', ''Trichocereus bridgesii''), [[Mescaline]] > 0.025%,<ref name="the nook">{{cite web |url=http://www.thenook.org/archives/tek/alklist.htm |title=Partial List of Alkaloids in Trichocereus Cacti |publisher=Thenook.org |access-date=2013-10-14 |archive-date=2009-02-11 |archive-url=https://web.archive.org/web/20090211110045/http://thenook.org/archives/tek/alklist.htm }}</ref> also [[3,4-Dimethoxyphenethylamine|DMPEA]] < 1%, [[3-MT|3-methoxytyramine]] < 1%, [[tyramine]] < 1%; Mescaline 2%<ref>{{cite web|url=http://www.a1b2c3.com/drugs/var014.htm|title=Trichocereus spp. Information|last=a1b2c3.com|publisher=A1b2c3.com|access-date=22 December 2017}}</ref>
+* ''[[Echinopsis macrogona]]'' (syn. ''Trichocereus macrogonus''), > 0.01–0.05% Mescaline<ref name="nook2">{{cite web|url=http://www.thenook.org/archives/tek/alklist.htm|title=Partial List of Alkaloids in Trichocereus Cacti|publisher=Thennok.org|access-date=22 December 2017|archive-date=11 February 2009|archive-url=https://web.archive.org/web/20090211110045/http://thenook.org/archives/tek/alklist.htm}}</ref>
+* [[File:Echinopsis pachanoi (7996941451).jpg|thumb|''Echinopsis pachanoi'']]''[[Echinopsis pachanoi]]'' (syn. ''Trichocereus pachanoi''), Mescaline 0.006–0.12%, 0.05% Average; Mescaline 0.01%–2.375%
+* ''[[Echinopsis peruviana]]'' (syn. ''Trichocereus peruvianus''), Mescaline 0.0005%–0.12%; Mescaline
+* ''[[Echinopsis spachiana]]'' (syn. ''Trichocereus spachianus''), Mescaline;<ref name="mesc">{{cite web|url=http://users.lycaeum.org/~iamklaus/botany.htm#|title=Descriptions of psychoactive Cacti.|publisher=Users.lycaeum.org|access-date=14 January 2015|archive-url=https://web.archive.org/web/20090715061322/http://users.lycaeum.org/~iamklaus/botany.htm|archive-date=15 July 2009}}</ref> Mescaline<ref name="mesc"/>
+* ''[[Echinopsis tacaquirensis]]'' subsp. ''taquimbalensis'' (syn. ''Trichocereus taquimbalensis''),<ref>{{cite web|url=http://www.desert-tropicals.com/Plants/Cactaceae/Echinopsis_taquimb.html|title=Echinopsis tacaquirensis ssp. taquimbalensis|publisher=Desert-tropicals.com|access-date=14 January 2015|archive-date=23 September 2015|archive-url=https://web.archive.org/web/20150923213907/http://www.desert-tropicals.com/Plants/Cactaceae/Echinopsis_taquimb.html}}</ref>{{Unreliable source?|date=December 2023}}<ref>{{Cite web |title=Mescaline in Trichocereus — The Mescaline Garden |url=https://www.themescalinegarden.com/mescaline-in-trichocereus |archive-url=https://web.archive.org/web/20240808110012/https://www.themescalinegarden.com/mescaline-in-trichocereus |archive-date=2024-08-08 |access-date=2025-07-16 |website=The Mescaline Garden |language=en-AU}}</ref> > 0.005–0.025% mescaline<ref name="nook2"/>
+* ''[[Echinopsis terscheckii]]'' (syn. ''Trichocereus terscheckii'', ''Trichocereus werdemannianus'')<ref>{{cite web|url=http://www.desert-tropicals.com/Plants/Cactaceae/Echinopsis_terscheckii.html|title=Cardon Grande (Echinopsis terscheckii)|publisher=Desert-tropicals.com|access-date=14 January 2015|archive-date=5 April 2015|archive-url=https://web.archive.org/web/20150405113718/http://www.desert-tropicals.com/Plants/Cactaceae/Echinopsis_terscheckii.html}}</ref>{{Unreliable source?|date=December 2023}} > 0.005–0.025% Mescaline;<ref name="nook2"/> mescaline 0.01%–2.375%<ref name="netfirms">[http://entheogen.netfirms.com/articles/articles/Narcotic_Cacti.html Forbidden Fruit Archives] {{webarchive|url=https://web.archive.org/web/20051128031148/http://entheogen.netfirms.com/articles/articles/Narcotic_Cacti.html|date=2005-11-28}}</ref>
+* ''[[Echinopsis valida]]'', 0.025% mescaline<ref name="guide"/>{{Better source needed|date=December 2023}}
+* ''[[Lophophora williamsii]]'' (Peyote), 0.4% Mescaline;<ref name="guide">{{cite web|url=http://www.erowid.org/plants/cacti/cacti_guide/cacti_guide_lophopho.shtml|title=Erowid Cacti Vaults: Visionary Cactus Guide – Mescaline from Sawdust|publisher=Erowid.org|access-date=14 January 2015}}</ref>{{Better source needed|date=December 2023}} 3–6% Mescaline<ref name="mesc"/>
+* ''[[Opuntia acanthocarpa]]'' Mescaline<ref name="mesc2">{{cite web |url=http://users.lycaeum.org/~iamklaus/opuntia.htm |title=Archived copy |website=users.lycaeum.org |access-date=17 January 2022 |archive-url=https://web.archive.org/web/20010308093542/http://users.lycaeum.org/~iamklaus/opuntia.htm |archive-date=8 March 2001 }}</ref>
+* ''[[Opuntia basilaris]]'' Mescaline 0.01%, plus 4-hydroxy-3-5-dimethoxyphenethylamine<ref name="mesc"/>{{Better source needed|date=December 2023}}
+* ''[[Pelecyphora aselliformis]]'', mescaline<ref name="guide"/>{{Better source needed|date=December 2023}}
+
+Eria Jarens- [[N,N-Dimethylphenethylamine]]
+
+==Beta-carbolines==
+[[File:Harmaline structure.svg|thumb|right|160px|[[Harmaline]], a beta-carboline]]
+[[File:Harmalol.svg|thumb|right|160px|[[Harmalol]] molecule]]
+[[File:Tetrahydroharmine_structure.svg|thumb|right|160px|[[Tetrahydroharmine|THH]] molecule]]
+[[File:Apocynum cannabinum 6801.JPG|thumb|160px|right|''Apocynum cannabinum'']]
+[[File:Spice Bush Calycanthus occidentalis Leaf 3008px.jpg|thumb|160px|right|''Calycanthus'']]
+[[File:Koeh-101.jpg|thumb|160px|right|''Koeh'']]
+[[File:Elaeagnus angustifolia 20050608 852.jpg|thumb|160px|right|''Elaeagnus angustifolia'']]
+[[File:Starr 030603-0006 Festuca arundinacea.jpg|thumb|160px|right|''Festuca arundinacea'']]
+
+[[Beta-carboline]]s are "reversible" MAO-A inhibitors. They are found in some plants used to make [[Ayahuasca]]. In high doses the harmala alkaloids are somewhat hallucinogenic on their own. β-carboline is a [[benzodiazepine receptor]] [[inverse agonist]] and can therefore have convulsive, [[anxiogenic]] and memory enhancing effects.<ref name="pmid17334612">{{cite journal |vauthors=Venault P, Chapouthier G | title = From the behavioral pharmacology of beta-carbolines to seizures, anxiety, and memory | journal = ScientificWorldJournal | volume = 7 | pages = 204–23 | year = 2007 | pmid = 17334612 | pmc = 5901106 | doi = 10.1100/tsw.2007.48 | doi-access = free }}</ref>
+
+===[[Apocynaceae]]===
+* ''[[Amsonia tabernaemontana]]'', harman<ref name=":0" />
+* ''[[Aspidosperma exalatum]]'', beta-carbolines<ref name="cornell">{{cite web|url=https://www.ansci.cornell.edu/plants/toxicagents/betacarbolines/bcarbfams.html|title=Cornell University Department of Animal Science|publisher=Ansci.cornell.edu|access-date=14 January 2015}}</ref>
+* ''[[Aspidosperma polyneuron]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Apocynum cannabinum]]'', [[harmalol]]<ref name=":0" />
+* ''[[Ochrosia nakaiana]]'', harman<ref name=":0" />
+* ''[[Pleiocarpa mutica]]'', beta-carbolines<ref name="cornell"/>
+
+===[[Bignoniaceae]]===
+* ''[[Newbouldia laevis]]'', harman{{Citation needed|date=December 2023}}
+
+===[[Calycanthaceae]]===
+* ''[[Calycanthus occidentalis]]'', harman;<ref name=":0" /> [[Harmine]]
+
+===[[Chenopodiaceae]]===
+* ''[[Hammada leptoclada]]'', harman;<ref name=":0" /> Tetrahydroharman, etc.
+* ''[[Kochia scoparia]]'', harman;<ref name=":0" /> Harmine, etc.
+
+===[[Combretaceae]]===
+* ''[[Guiera senegalensis]]'', tetrahydroharmine;<ref name=":0" /> Harman, etc.
+
+===[[Cyperaceae]]===
+* ''[[Carex brevicollis]]'', harmine, etc.<ref name=":0" />
+* ''[[Carex parva]]'', beta-carbolines<ref name="cornell"/>
+
+===[[Elaeagnaceae]]===
+* ''[[Elaeagnus angustifolia]]'', harman, etc.<ref name=":0" />
+* ''[[Elaeagnus commutata]]'', beta-carbolines<ref name="cornell"/> 
+* ''[[Elaeagnus hortensis]]'', tetrahydroharman, etc.<ref name=":0" />
+* ''[[Elaeagnus orientalis]]'', tetrahydroharman<ref name=":0" />
+* ''[[Elaeagnus spinosa]]'', tetrahydroharman<ref name=":0" />
+* ''[[Hippophae rhamnoides]]'', harman, etc.<ref name=":0" />
+* ''[[Shepherdia argentea]]'', [[tetrahydroharmol]]<ref name=":0" />
+* ''[[Shepherdia canadensis]]'', tetrahydroharmol<ref name=":0" />
+
+===[[Gramineae]]===
+* ''[[Arundo donax]]'', tetrahydroharman, etc.<ref name=":0" />
+* ''[[Festuca arundinacea]]'', harman, etc.<ref name=":0" />
+* ''[[Lolium perenne]]'' (perennial ryegrass), harman, etc.<ref name=":0" />
+* ''[[Phalaris aquatica]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Phalaris arundinacea]]'', beta-carbolines<ref name="cornell"/>
+
+===[[Lauraceae]]===
+* ''[[Nectandra megapotamica]]'', beta-carbolines<ref name="cornell"/>
+
+===[[Leguminosae]]===
+* ''[[Acacia baileyana]]'', tetrahydroharman<ref name=":0" />
+* ''[[Acacia complanata]]'', tetrahydroharman,<ref name=":0" /> etc.
+* ''[[Burkea africana]]'', harman, etc.<ref name=":0" />
+* ''[[Desmodium gangeticum]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Desmodium gyrans]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Mucuna pruriens]]'', 6-methoxyharman, dihydroharman, harman<ref name=":0" />
+* ''[[Petalostylis labicheoides]]'', tetrahydroharman; MAOs up to 0.5%<ref name="dmt-nexus"/>
+* ''[[Prosopis nigra]]'', harmalicin, harman, etc.<ref name=":0" />
+* ''Shepherdia pulchellum'', beta-carbolines<ref name="cornell"/>
+
+===[[Loganiaceae]]===
+* ''[[Strychnos melinoniana]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Strychnos usambarensis]]'', harman<ref name="cornell"/>
+
+===[[Malpighiaceae]]===
+* ''[[Banisteriopsis argentia]]'', 5-methoxytetrahydroharman, (−)-N(6)-methoxytetrahydroharman, dimethyltryptamine-N(6)-oxide<ref name="dict"/>
+* ''[[Banisteriopsis caapi]]'', [[Harmine]] 0.31–0.84%,<ref>{{cite journal | last1 = Callaway | first1 = JC | last2 = Brito | first2 = GS | last3 = Neves | first3 = ES | year = 2005 | title = Phytochemical analyses of Banisteriopsis caapi and Psychotria viridis | journal = Journal of Psychoactive Drugs | volume = 37 | issue = 2| pages = 145–150 | doi=10.1080/02791072.2005.10399795 | pmid=16149327| s2cid = 30736017 }}</ref> [[tetrahydroharmine]], [[telepathine]], [[dihydroshihunine]],<ref name="glasby">{{cite book|url=https://books.google.com/books?id=te53VV5u8YMC&q=erythrina+alkaloids&pg=RA1-PA124|title=Directory Of Plants Containing Secondary Metabolites|via=Books.google.com|access-date=14 January 2015|isbn=978-0-203-48987-1|last1=Glasby|first1=J. S.|date=2002-09-11|publisher=CRC Press }}</ref> 5-MeO-DMT in bark<ref>{{cite web
+ |url         = http://sun.ars-grin.gov:8080/npgspub/xsql/duke/chemdisp.xsql
+ |title       = Chemical Information
+ |publisher   = sun.ars-grin.gov
+ |access-date  = 2008-04-11
+ |archive-url  = https://web.archive.org/web/20041121010104/http://sun.ars-grin.gov:8080/npgspub/xsql/duke/chemdisp.xsql
+ |archive-date = 2004-11-21
+}}
+</ref>
+* ''[[Banisteriopsis inebrians]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Banisteriopsis lutea]]'', harmine, telepathine<ref name="dict"/>
+* ''[[Banisteriopsis metallicolor]]'', harmine, telepathine<ref name="dict"/>
+* ''[[Banisteriopsis muricata]]'', harmine up to 6%, harmaline up to 4%, plus DMT<ref>
+{{cite web
+|url=http://www.giftpflanzen.com/banisteriopsis_muricata.html
+|title=Silbrige Ayahuasca-Liane (Banisteriopsis muricata) im GIFTPFLANZEN.COMpendium
+|publisher=Giftpflanzen.com
+|access-date=2008-04-18
+}}
+</ref>{{Better source needed|date=December 2023}}
+* ''[[Diplopterys cabrerana]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Cabi pratensis]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Callaeum antifebrile]]''(syn. ''Cabi paraensis''), harmine<ref name=":0" />
+* ''[[Tetrapterys methystica]]''
+* ''[[Tetrapterys mucronata]]''
+
+===[[Myristicaceae]]===
+* ''[[Gymnacranthera paniculata]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Horsfieldia superba]]'', beta-carbolines<ref name="bluezoo"/>
+* ''[[Virola cuspidata]]'', 6-methoxyharman<ref name=":0" />
+* ''[[Virola rufula]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Virola theiodora]]'', beta-carbolines<ref name="cornell"/>
+
+===[[Ochnaceae]]===
+* ''[[Testulea gabonensis]]'', beta-carbolines<ref name="cornell"/>
+
+===[[Palmae]]===
+* ''[[Plectocomiopsis geminiflora]]'', beta-carbolines<ref name="cornell"/>
+
+===[[Papaveraceae]]===
+* ''[[Meconopsis horridula]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Meconopsis napaulensis]]'', beta-carbolines<ref name="cornell"/> 
+* ''[[Meconopsis paniculata]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Meconopsis robusta]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Meconopsis rudis]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Papaver rhoeas]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Papaver Bracteatum]]'' ~ tefamine
+* ''[[Papaver Paeoniflorum]]'' ~ morphine
+* ''[[Papaver Setigerum]]'' ~ morphine
+* ''[[Papaver somniferum]]'' ~ morphine, codeine, thebaine, papaverine, noscapine, narcotine, narceine<ref>{{cite book | title=Opium Consumption | chapter=Exposure Characterization | date=2021 | publisher=International Agency for Research on Cancer | chapter-url=https://www.ncbi.nlm.nih.gov/books/NBK586388/#:~:text=Among%20all%20alkaloids%2C%20the%20most,as%20shown%20in%20Table%201.1 }}</ref>
+
+=== [[Passifloraceae]] ===
+[[File:Badea.jpg|thumb|160px|right|''Badea'']]
+* ''[[Passiflora actinia]]'', harman<ref name=":0" />
+* ''[[Passiflora alata]]'', harman<ref name=":0" />
+* ''[[Passiflora alba]]'', harman<ref name=":0" />
+* ''[[Passiflora bryonoides]]'', harman<ref name=":0" />
+* ''[[Passiflora caerulea]]'', harman<ref name=":0" />
+* ''[[Passiflora capsularis]]'', harman<ref name=":0" />
+* ''[[Passiflora decaisneana]]'', harman<ref name=":0" />
+* ''[[Passiflora edulis]]'', harman,<ref name=":0" /> 0–7001 ppm<ref name="drduke2" /> in fruit
+* ''[[Passiflora eichleriana]]'', harman<ref name=":0" />
+* ''[[Passiflora foetida]]'', harman<ref name=":0" />
+* ''[[Passiflora incarnata]]'' (with bee), harmine, harmaline, harman, etc. 0.03%.<ref name="drugs.com">{{cite web|url=https://www.drugs.com/npp/passion-flower.html|title=Passion Flower|publisher=Drugs.com|access-date=14 January 2015}}</ref> Alkaloids in rind of fruit 0.25%<ref name="drugs.com" />
+* ''[[Passiflora quadrangularis]]'', harman<ref name=":0" /> 
+* ''[[Passiflora ruberosa]]'', harman<ref name=":0" />
+* ''[[Passiflora subpeltata]]'', harman<ref name=":0" />
+* ''[[Passiflora warmingii]]'', harman<ref name=":0" />
+
+===[[Polygonaceae]]===
+* ''[[Calligonum minimum]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Leptactinia densiflora]]'', tetrahydroharmine,<ref name=":0" /> etc.
+* ''[[Ophiorrhiza japonica]]'', harman<ref name=":0" />
+* ''[[Pauridiantha callicarpoides]]'', harman<ref name=":0" />
+* ''[[Pauridiantha dewevrei]]'', harman<ref name=":0" />
+* ''[[Pauridiantha lyalli]]'', harman<ref name=":0" />
+* ''[[Pauridiantha viridiflora]]'', harman<ref name=":0" />
+* ''[[Simira klugei]]'', harman<ref name=":0" />
+* ''[[Simira rubra]]'', harman<ref name=":0" />
+
+===[[Rubiaceae]]===
+* ''[[Borreria verticillata]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Leptactinia densiflora]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Nauclea diderrichii]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Ophiorrhiza japonica]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Pauridiantha callicarpoides]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Pauridiantha dewevrei]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Pauridiantha yalli]]'', neta-carbolines<ref name="cornell"/>
+* ''[[Pauridiantha viridiflora]]'', Beta-carbolines<ref name="cornell"/>
+* ''[[Pavetta lanceolata]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Psychotria carthagenensis]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Psychotria viridis]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Simira klugei]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Simira rubra]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Uncaria attenuata]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Uncaria canescens]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Uncaria orientalis]]'', beta-carbolines<ref name="cornell"/>
+
+===[[Rutaceae]]===
+* ''[[Tetradium]]'' (syn. ''Evodia'') species: some contain carbolines{{Citation needed|date=December 2023}}
+* '''''[[Euodia leptococca]]''''' beta-carboline<ref name="bluezoo"/>
+* ''[[Araliopsis tabouensis]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Flindersia laevicarpa]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Xanthoxylum rhetsa]]'', beta-carbolines<ref name="cornell"/>
+
+===[[Sapotaceae]]===
+* ''[[Chrysophyllum lacourtianum]]'', norharman etc.<ref name=":0" />
+* [[Scutellaria nana]]{{Citation needed|date=December 2023}}
+
+===[[Simaroubaceae]]===
+* ''[[Ailanthus malabarica]]'', beta-carbolines.<ref name="cornell" /> (See also [[Nag Champa]])
+* ''[[Perriera madagascariensis]]'', beta-carbolines<ref name="cornell" />
+* ''[[Picrasma ailanthoides]]'', beta-carbolines<ref name="cornell" />
+* ''[[Picrasma crenata]]'', beta-carbolines<ref name="cornell" />
+* ''[[Picrasma excelsa]]'', beta-carbolines<ref name="cornell" />
+* ''[[Picrasma javanica]]'', beta-carbolines<ref name="cornell" />
+
+===[[Solanaceae]]===
+* ''[[Vestia foetida]]'', (Syn V. lycioides) beta-carbolines<ref name="cornell"/>
+
+===[[Symplocaceae]]===
+* ''[[Symplocos racemosa]]'', harman{{Citation needed|date=December 2023}}
+
+===[[Tiliaceae]]===
+* ''[[Grewia mollis]]'', beta-carbolines<ref name="cornell"/>
+
+===[[Zygophyllaceae]]===
+* ''[[Fagonia cretica]]'', harman<ref name=":0" />
+* ''[[Nitraria schoberi]]'', beta-carbolines<ref name="cornell"/>
+* ''[[Peganum harmala]]'', (Syrian Rue), The seeds contain about 2–6% alkaloids, most of which is [[harmaline]].<ref>{{Cite web|url=http://www.amazing-nature.com/-i-43.html|archive-url=https://web.archive.org/web/20070927141519/http://www.amazing-nature.com/-i-43.html|title=www.amazing-nature.com|archive-date=September 27, 2007}}</ref>{{Better source needed|date=December 2023}} Peganum harmala is also an [[abortifacient]].
+* ''[[Peganum nigellastrum]]'', harmine<ref>{{cite journal|title=Alkaloids and phenylpropanoids from Peganum nigellastrum|journal = [[Phytochemistry (journal)|Phytochemistry]]|volume=53|issue=8|pages=1075–8|url=http://proxify.com/p/011010A1000110/687474703a2f2f7777772e736369656e63656469726563742e636f6d2f736369656e63653f5f6f623d41727469636c6555524c265f7564693d42365448372d343031484747542d3152265f757365723d3130265f72646f633d31265f666d743d265f6f7269673d736561726368265f736f72743d6426766965773d63265f616363743d43303030303530323231265f76657273696f6e3d31265f75726c56657273696f6e3d30265f7573657269643d3130266d64353d6631346535636632633161653335346164393536316232336262646533643236|access-date=2008-01-12|pmid=10820833|doi=10.1016/S0031-9422(99)00440-9|date=April 2000 | last1 = Ma | first1 = ZZ | last2 = Hano | first2 = Y | last3 = Nomura | first3 = T | last4 = Chen | first4 = YJ| bibcode=2000PChem..53.1075M |url-access=subscription}}</ref>
+* ''[[Tribulus terrestris]]'', harmine etc.;<ref name=":0" /> Harman 
+* ''[[Zygophyllum fabago]]'', harmine etc.;<ref name=":0" /> Harman
+
+==Opiates==
+[[File:Opiates v opioids.png|thumb|450px|Opiates v opioids with different major subclassifications indicated]]
+
+[[Opiates]] are the natural products of many plants, the most famous and historically relevant of which is [[Papaver somniferum]]. Opiates are defined as natural products (or their [[esters]] and [[salts]] that revert to the natural product in the human body), whereas [[opioids]] are defined as semi-synthetic or fully synthetic compounds that trigger the [[Opioid receptor]] of the mu sub-type. Other opiate receptors, such as kappa- and delta-opiate receptors are part of this system but do not cause the characteristic behavioral depression and [[analgesia]] which is mostly mediated through the mu-opiate receptor.
+
+An opiate, in classical pharmacology, is a substance derived from opium. In more modern usage, the term opioid is used to designate all substances, both natural and synthetic, that bind to opioid receptors in the brain (including antagonists). Opiates are alkaloid compounds naturally found in the Papaver somniferum plant (opium poppy). The psychoactive compounds found in the opium plant include morphine, codeine, and thebaine. Opiates have long been used for a variety of medical conditions with evidence of opiate trade and use for pain relief as early as the eighth century AD. Opiates are considered drugs with moderate to high abuse potential and are listed on various "Substance-Control Schedules" under the Uniform Controlled Substances Act of the United States of America.
+
+In 2014, between 13 and 20 million people used opiates recreationally (0.3% to 0.4% of the global population between the ages of 15 and 65). According to the CDC, from this population, there were 47,000 deaths, with a total of 500,000 deaths from 2000 to 2014. In 2016, the World Health Organization reported that 27 million people suffer from Opioid use disorder. They also reported that in 2015, 450,000 people died as a result of drug use, with between a third and a half of that number being attributed to opioids.
+[[File:Papaver somniferum 2021 G4.jpg|thumb|213x213px|Papaver somniferum flower and scored capsule with latex.]]
+
+===[[Papaver somniferum]]===
+The plant contains a [[latex]] that thickens into [[opium]] when it is dried. Opium contains approximately 40 alkaloids, which are summarized as opium alkaloids.<ref name=":0" /> The main psychoactive alkaloids are:
+*[[Morphine]]: 3 to 20% in opium<ref name=":0" />
+*[[Codeine]] 0.1 to 4% in opium<ref name=":0" />
+*[[Thebaine]] 0.1 to 4% in opium<ref name=":0" />
+*[[Noscapine]] 1 to 11% in opium<ref name=":0" />
+*[[Oripavine]]
+
+===[[Atherospermataceae]]===
+Laurelia novae-zelandiae ~ pukateine
+
+*[[Cnidium officinale]]
+
+=== [[Mitragyna speciosa]] ===
+{{multiple image
+| align             = right
+| image1            = Mitragynine v2.svg
+| width1            = 150
+| alt1              = Mitragynine
+| caption1          = Mitragynine
+| image2            = 7-hydroxymitragynine2DACS.svg
+| width2            = 150
+| alt2              = 7-Hydroxymitragynine
+| caption2          = 7-Hydroxymitragynine
+
+}}
+*[[Mitragynine]]: Approx. 0.33% in dried leaves<ref name=":0" />
+*[[7-Hydroxymitragynine]]<ref name="Matsumoto K, Horie S, Ishikawa H, et al. 2004 2143–55">{{cite journal |vauthors=Matsumoto K, Horie S, Ishikawa H, Takayama H, Aimi N, Ponglux D, Watanabe K |date=March 2004 |title=Antinociceptive effect of 7-hydroxymitragynine in mice: Discovery of an orally active opioid analgesic from the Thai medicinal herb Mitragyna speciosa |journal=Life Sciences |volume=74 |issue=17 |pages=2143–2155 |doi=10.1016/j.lfs.2003.09.054 |pmid=14969718}}</ref>
+{{Clear}}
+
+=== [[Picralima nitida]] ===
+{{multiple image
+| align             = right
+| image1            = Akuammicine Structure.svg
+| width1            = 150
+| alt1              = Akuammicine
+| caption1          = Akuammicine
+| image2            = Pericine.svg
+| width2            = 150
+| alt2              = Pericine
+| caption2          = Pericine
+| footer            = 
+}}
+*[[Akuammine]]<ref>{{cite web|url=https://happyhippo.com/blogs/kratom-blog/about-akuamma-akuammine-benefits-vs-kratom-products-where-to-buy|website=happyhippo.com|title=What is Akuamma and Where Does it Grow?|date=5 November 2021|author=Alorah Hippo}}</ref>
+*[[Akuammicine]]<ref>{{cite journal |doi=10.1016/s0014-2999(98)00232-5 |title=Opioid activity of alkaloids extracted from Picralima nitida (Fam. Apocynaceae) |year=1998 |last1=Menzies |first1=John R.W |last2=Paterson |first2=Stewart J. |last3=Duwiejua |first3=Mahama |last4=Corbett |first4=Alistair D. |journal=European Journal of Pharmacology |volume=350 |issue=1 |pages=101–108 |pmid=9683021 }}</ref>
+*[[Pericine]]<ref>{{cite journal | vauthors = Arens H, Borbe HO, Ulbrich B, Stöckigt J | title = Detection of pericine, a new CNS-active indole alkaloid from Picralima nitida cell suspension culture by opiate receptor binding studies | journal = Planta Medica | volume = 46 | issue = 4 | pages = 210–4 | date = December 1982 | pmid = 6298847 | doi = 10.1055/s-2007-971216 | bibcode = 1982PlMed..46..210A | s2cid = 7758884 }}</ref> It may also have [[convulsant]] effects.<ref>{{cite book | vauthors = Roberts MF, Wink M | title = Alkaloids: Biochemistry, Ecology, and Medicinal Applications | date = 30 June 1998 | pages = 68–69 | publisher = Springer | isbn = 978-0-306-45465-3 }}</ref>
+*[[Akuammiline]]
+*[[Akuammidine]]
+*[[N-Formylakuammiline]]
+*[[Picraline]]
+*[[Picraphylline]]
+*[[Dihydroakuammine]]<ref>{{cite patent|country=US|number=US5290553A|title=Alkaloids of picralima nitida used for treatment of protozoal diseases|pubdate=1994-03-01|pridate=1991-07-22|fdate=1991-07-22|assign1=United States of America|inventor=IWU MAURICE M [US]; KLAYMAN DANIEL L [US]; JACKSON JOAN E [US]; TALLY JOHN D [US]; ANDERSEN STEVEN L [US] IWU; MAURICE M.; KLAYMAN; DANIEL L.; JACKSON; JOAN E.; TALLY; JOHN D.; ANDERSEN; STEVEN L.}}</ref>
+& Other alkaloids 
+{{Clear}}
+
+=== [[Psychotria colorata]] ===
+[[File:Hodgkinsine.svg|thumb|150px|Hodgkinsine]]
+*[[Hodgkinsine]]<ref>{{cite journal | vauthors = Verotta L, Pilati T, Tatò M, Elisabetsky E, Amador TA, Nunes DS | title = Pyrrolidinoindoline Alkaloids from Psychotria colorata1 | journal = Journal of Natural Products | volume = 61 | issue = 3 | pages = 392–6 | date = March 1998 | pmid = 9548883 | doi = 10.1021/np9701642 | bibcode = 1998JNAtP..61..392V }}</ref><ref>{{cite journal | vauthors = Amador TA, Verotta L, Nunes DS, Elisabetsky E | title = Antinociceptive profile of hodgkinsine | journal = Planta Medica | volume = 66 | issue = 8 | pages = 770–2 | date = December 2000 | pmid = 11199142 | doi = 10.1055/s-2000-9604 | bibcode = 2000PlMed..66..770A | s2cid = 260283293 }}</ref>
+
+=== [[Aspidosperma|Aspidosperma spp.]] ===
+*[[Akuammicine]]<ref name=Mitaine>{{cite journal | pmid = 17252481| year = 1996| last1 = Mitaine| first1 = A. C.| title = Alkaloids from ''Aspidosperma'' species from Bolivia| journal = Planta Medica| volume = 62| issue = 5| pages = 458–61| last2 = Mesbah| first2 = K| last3 = Richard| first3 = B| last4 = Petermann| first4 = C| last5 = Arrazola| first5 = S| last6 = Moretti| first6 = C| last7 = Zèches-Hanrot| first7 = M| last8 = Men-Olivier| first8 = L. L.| doi = 10.1055/s-2006-957939| bibcode = 1996PlMed..62..458M| s2cid = 260251185}}</ref>
+{{Clear}}
+
+== Plants containing other psychoactive substances ==
+{{More citations needed section|date=April 2022}}
+<!---
++----------------------------------------------------------------------------------------------
+  The third column of this table has info of various types: 
+  plant common name, part of plant containing the substance, the substance, general comment ...
+  this is sloppy; entries should be in parallel structure
++----------------------------------------------------------------------------------------------
+-->
+{| class="wikitable sortable"
+|+ Plants containing other psychoactive substances
+! style=width:300px | Substance(s) !! class=unsortable style=width:100px | Plant !! class=unsortable | Comments
+|-
+|align="center" | [[File:Alpha-Asaron.svg|150px]] <br />
+[[Asarone]]
+| [[File:Acorus calamus1.jpg|150px]] <br />
+''[[Acorus calamus]]''
+|Toxic.{{Citation_needed|date=April 2022}}
+|-
+|align="center" | [[File:Yohimbine structure.svg|150px]] <br />
+[[Yohimbine]]
+|''[[Alchornea floribunda]]''
+|[[Alpha-2 blocker|α<sub>2</sub>-adrenergic receptor antagonist]].{{Citation_needed|date=April 2022}}
+|-
+|align="center" | [[File:Arecoline.svg|150px]] [[File:Arecaidine.svg|150px]] <br />
+[[Arecoline]], [[Arecaidine]]
+| [[File:Beetle palm with nut bunch.jpg|150px]] <br />
+''[[Areca catechu]]''
+|[[GABA reuptake inhibitor|GABA uptake inhibitor]],<ref>{{cite journal|pmid=23488788|year=2013|last1=Voigt|first1=V|last2=Laug|first2=L|last3=Zebisch|first3=K|last4=Thondorf|first4=I|last5=Markwardt|first5=F|last6=Brandsch|first6=M|title=Transport of the areca nut alkaloid arecaidine by the human proton-coupled amino acid transporter 1 (hPAT1)|volume=65|issue=4|pages=582–90|doi=10.1111/jphp.12006|journal=The Journal of Pharmacy and Pharmacology|s2cid=27577546|doi-access=free}}</ref><ref name="JohnstonKrogsgaard-Larsen1975">{{cite journal|last1=Johnston|first1=G. A. R.|last2=Krogsgaard-Larsen|first2=P.|last3=Stephanson|first3=A.|title=Betel nut constituents as inhibitors of γ-aminobutyric acid uptake|journal=Nature|volume=258|issue=5536|year=1975|pages=627–628|issn=0028-0836|doi=10.1038/258627a0|pmid=1207742|bibcode=1975Natur.258..627J|s2cid=4147760|url=https://ui.adsabs.harvard.edu/abs/1975Natur.258..627J/abstract}}</ref> [[stimulant]].<ref name="ArecolineM1-Ghelardini">{{cite journal | vauthors=Ghelardini C, Galeotti N, Lelli C, Bartolini A | title=Arecoline M1 receptor activation is a requirement for arecoline analgesia | journal=Il Farmaco | year=2001 | pages=383–5 | volume=56 | issue=5–7 | pmid=11482763 | doi=10.1016/S0014-827X(01)01091-6| hdl=2158/327019 | hdl-access=free }}</ref>
+|-
+|align="center" | [[File:Protopine structure.svg|150px]] <br />
+[[Protopine]]
+|[[File:Stachelmohn.JPG|150px]]
+''[[Argemone mexicana]]''
+|Used by Chinese residents of Mexico during the early 20th century as a legal substitute for opium and currently smoked as a marijuana substitute.{{Citation_needed|date=April 2022}}
+|-
+|align="center" | [[File:Ergine.png|150px]]<br />
+[[Ergine]], [[isoergine]]
+|[[File:Starr 050107-2974 Argyreia nervosa.jpg|150px]]
+''[[Argyreia nervosa]] (Hawaiian Baby Woodrose)''
+|Seeds contain ergine (LSA) and isoergine (iso-LSA), often 50-150X the amounts found in ''[[Ipomoea violacea]]''. LSA and iso-LSA are psychoactive and/or [[hallucinogen]]ic.<ref name="ChenDeWitBos2020">{{cite report | last1=Chen | first1=W. | last2=De Wit-Bos | first2=L. | title=Risk assessment of Argyreia nervosa | date=2020 | doi=10.21945/rivm-2019-0210}}</ref><ref name="Shulgin1976">{{cite book | veditors=Gordon M | title=Psychopharmacological Agents: Use, Misuse and Abuse | series=Medicinal Chemistry: A Series of Monographs | volume=4 | last=Shulgin | first=Alexander T. | chapter=Psychotomimetic Agents | date=1976 | isbn=978-0-12-290559-9 | doi=10.1016/b978-0-12-290559-9.50011-9 | pages=59–146 | publisher=Academic Press | url=https://bitnest.netfirms.com/external/10.1016/B978-0-12-290559-9.50011-9}}</ref><ref name="BrimblecombePinder1975">{{cite book | vauthors = Brimblecombe RW, Pinder RM | chapter = Indolealkylamines and Related Compounds | pages = 98–144 | title = Hallucinogenic Agents | date = 1975 | publisher = Wright-Scientechnica | location = Bristol | isbn = 978-0-85608-011-1 | oclc = 2176880 | ol = OL4850660M | url = https://bitnest.netfirms.com/external/Books/978-0-85608-011-1}}</ref><ref>{{cite journal|author=Halpern, J.H.|year=2004|title=Hallucinogens and dissociative agents naturally growing in the United States|journal=Pharmacology & Therapeutics|volume=102|issue=2|pages=131–138|quote=Although LSD does not occur in nature, a close analogue, lysergic acid amide (LSA, ''ergine'') is found in the seeds of ''Argyreia nervosa'' (Hawaiian baby woodrose)|doi=10.1016/j.pharmthera.2004.03.003|pmid=15163594|s2cid=30734515 }}</ref>
+|-
+|align="center" | [[File:Α-thujone.svg|150px]] <br />
+[[Thujone]]
+|[[File:Artemisia absinthium P1210748.jpg|150px]] <br />
+''[[Artemisia absinthium]]''
+|Also called "wormwood". [[GABA]] [[receptor antagonist]].<ref>{{Cite journal|last=Olsen|first=Richard W.|date=2000-04-25|title=Absinthe and γ-aminobutyric acid receptors|pmc=34311|journal=Proceedings of the National Academy of Sciences of the United States of America|volume=97|issue=9|pages=4417–4418|issn=0027-8424|pmid=10781032|doi=10.1073/pnas.97.9.4417|bibcode=2000PNAS...97.4417O|doi-access=free}}</ref>
+|-
+|align="center" | [[Quinoline alkaloids|Quinoline]] & [[Aporphine alkaloids|Aporphine]] alkaloids
+|[[File:Asimina triloba3.jpg|150px]] <br />
+''[[Asimina triloba]] (Paw Paw)'' 
+|Unknown 
+|-
+|align="center" | [[File:L-Scopolamin.svg|150px]] [[File:Atropine.svg|150px]] [[File:Hyoscyamine.svg|150px]] <br />
+[[Tropane alkaloid]]s ([[scopolamine]], [[atropine]], [[hyoscyamine]])
+|[[File:Atropa belladonna - Köhler–s Medizinal-Pflanzen-018.jpg|150px]] <br />
+''[[Atropa belladonna]]''
+|Commonly known as 'deadly nightshade'. An [[anticholinergic]] [[deliriant]].<ref name="Kennedy 2014">{{cite book |last=Kennedy |first=David O. |year=2014 |chapter=The Deliriants – The Nightshade (''Solanaceae'') Family |chapter-url=https://books.google.com/books?id=YUNDAgAAQBAJ&pg=PA131 |title=Plants and the Human Brain |location=[[New York City|New York]] |publisher=[[Oxford University Press]] |pages=131–137 |isbn=978-0-19-991401-2 |lccn=2013031617}}</ref>
+|-
+|align="center" | [[File:L-Scopolamin.svg|150px]] [[File:Atropine.svg|150px]] [[File:Hyoscyamine.svg|150px]] <br />
+[[Tropane alkaloid]]s ([[scopolamine]], [[atropine]], and [[hyoscyamine]])
+|[[File:Brugmansia.jpg|150px]] <br />
+''[[Brugmansia]]''
+|Commonly known as 'angel's trumpets'. An [[anticholinergic]] [[deliriant]].<ref name="Kennedy 2014" />
+|-
+|align="center" | [[File:Harmine structure.svg]] [[File:Brunfelsamidine.svg]] [[File:L-Scopolamin.svg|150px]] <br />
+[[Indole alkaloid]]s ([[harmine]], [[manacine]], [[brunfelsamidine]]), [[Tropane alkaloid]]s ([[scopolamine]])
+|[[File:Brunfelsia pauciflora ( Cham. & Schltdl. ) Benth. flower close-up.jpg|150px]]
+''[[Brunfelsia]]''
+|Known to cause delirium, sustained mental confusion, and possible blindness.<ref>{{Cite web |last=Cleversley |first=Keith |date=2002-01-01 |title=Brunfelsia grandiflora - Manaca |url=https://entheology.com/plants/brunfelsia-grandiflora-brunfelsia/ |access-date=2024-04-03 |website=Entheology.com |language=en-US}}</ref>
+|-
+|align="center" | Unknown
+|[[File:Calea zacatechichi cutting.jpg|150px]]
+''[[Calea zacatechichi]]''
+|Produces vivid dreams after smoking. It is also employed by the Chontal people as a medicinal herb against [[gastrointestinal disorders]], and is used as an appetizer, cathartic anti-dysentery remedy, and as a fever-reducing agent. Its psychedelic properties do not become apparent until the user is asleep. Reports describe rituals that involve drinking it as a tea to induce divinatory or [[lucid dream]]s due to its properties as an [[oneirogen]].<ref>{{Cite journal|last1=Sałaga|first1=Maciej|last2=Fichna|first2=Jakub|last3=Socała|first3=Katarzyna|last4=Nieoczym|first4=Dorota|last5=Pieróg|first5=Mateusz|last6=Zielińska|first6=Marta|last7=Kowalczuk|first7=Anna|last8=Wlaź|first8=Piotr|date=2016|title=Neuropharmacological characterization of the oneirogenic Mexican plant Calea zacatechichi aqueous extract in mice|journal=Metabolic Brain Disease|volume=31|issue=3|pages=631–641|doi=10.1007/s11011-016-9794-1|issn=0885-7490|pmc=4863909|pmid=26821073}}</ref>
+|-
+|style="text-align: center;" | [[File:Caffeine structure.svg|150px]] <br />
+[[Caffeine]]
+|[[File:Csinensis.jpg|150px]] <br />
+''[[Camellia sinensis]]''
+|Tea leaves, [[tea]], native to [[Asia]].{{Citation_needed|date=April 2022}}
+|-
+|align="center" | [[File:S-Cathinone.svg|150px]]<br />
+[[Cathinone]]
+|[[File:Catha edulis.jpg|150px]]
+''[[Catha edulis]]''
+|[[Khat]], commonly chewed, produces a [[stimulant]] effect.<ref>{{cite book|last=Al Zarouni|first=Yousif|title=The Effects of Khat (Catha Edulis)|year=2015|publisher=Yousif Al Zarouni|location=London|isbn=978-1-326-24867-3|page=5|edition=First}}</ref>
+|-
+|align="center" | [[File:Vincristine.svg|150px]] <br />
+[[Vincristine]]
+|[[File:Catharanthus roseus24 08 2012 (1).JPG|150px]] <br />
+''[[Catharanthus roseus]]''
+|Catharanthus roseus is (perhaps unpleasantly) "hallucinogenic."<ref>{{cite web|url=http://sliceoftheday.wordpress.com/2007/05/13/madagascar-periwinkle-catharanthus-roseus/|archive-url=https://web.archive.org/web/20080620025032/http://sliceoftheday.wordpress.com/2007/05/13/madagascar-periwinkle-catharanthus-roseus/|archive-date=June 20, 2008|title=Protected Blog|publisher=Sliceoftheday |access-date=14 January 2015}}</ref><ref>{{cite news |title=Best Kratom Strains |url=https://bulkkratomnow.com |access-date=11 January 2024}}</ref>{{Unreliable source?|date=December 2023}}
+|-
+|align="center" | Unknown
+|[[File:Cestrum nocturnum (2464189820).jpg|150px]] <br />
+''[[Cestrum nocturnum]]''
+|Commonly referred to as 'night-blooming jasmine', 'lady of the night', and 'poisonberry'. It has an unknown mechanism of action.{{Citation_needed|date=April 2022}}
+|-
+|style="text-align: center;" | [[File:Caffeine structure.svg|150px]] <br />
+[[Caffeine]]
+|[[File:Starr 070308-5472 Coffea arabica.jpg|150px]] <br />
+''[[Coffea arabica]]''
+|[[Coffee bean]]s, [[coffee]], native to [[Africa]].<ref>{{cite journal |first1=Maria B. |last1=Silvarolla |first2=Paulo |last2=Mazzafera |first3=Luiz C. |last3=Fazuoli |title=Plant biochemistry: A naturally decaffeinated arabica coffee |journal=[[Nature (journal)|Nature]] |volume=429 |issue=6994 |page=826 |year=2004 |doi=10.1038/429826a |pmid=15215853|bibcode=2004Natur.429..826S |s2cid=4428420 |doi-access=free }}</ref>
+
+|-
+|style="text-align: center;" | [[File:Caffeine structure.svg|150px]] <br />
+[[Caffeine]]
+|[[File:Cola acuminata - Köhler–s Medizinal-Pflanzen-190.jpg|150px]] <br />
+''[[kola nut|Cola]]''
+|Cola or [[kola nut]], traditional additive to [[cola]], native to Africa.{{Citation_needed|date=April 2022}}
+|-
+|align="center" | [[Salvinorin A|Salviorin A]]
+|[[File:Coleus-1.jpg|150px]]
+''[[Coleus]]''
+|Trace amounts of Salviorin A have been discovered in a specific variety: Electric Lime
+|-
+|align="center" | [[File:Bulbocapnine skeletal.svg|150px]]
+[[Bulbocapnine]]
+|[[File:Corydalis ambigua.jpg|150px]]
+''[[Corydalis solida]],'' ''cava''
+|[[Bulbocapnine]], [[Nantenine]], [[Tetrahydropalmatine]]
+|-
+|align="center" | [[File:L-Scopolamin.svg|150px]] [[File:Atropine.svg|150px]] <br />
+Tropane alkaloids ([[Scopolamine]], [[Atropine]])
+|[[File:Sacred datura (Datura wrightii) (14212557338).jpg|150px]]
+''[[Datura]]''
+|Also known as 'thorn apple', 'devil's trumpets', 'loco weed', and 'Jimson weed'. [[Scopolamine]] and [[Atropine]] are both [[anticholinergic]]s<ref name=AHFS2015>{{cite web|title=Atropine|url=https://www.drugs.com/monograph/atropine.html|publisher=The American Society of Health-System Pharmacists|access-date=Aug 13, 2015|url-status=live|archive-url=https://web.archive.org/web/20150712191611/http://www.drugs.com/monograph/atropine.html|archive-date=2015-07-12}}</ref><ref name="Springer Science & Business Media">{{cite book |last1=Osbourn |first1=Anne E. |last2=Lanzotti |first2=Virginia | name-list-style = vanc |title=Plant-derived Natural Products: Synthesis, Function, and Application |date=2009 |publisher=Springer Science & Business Media |isbn=978-0-387-85498-4 |page=5 |url=https://books.google.com/books?id=Y8SpVXEng4QC&pg=PA6 |url-status=live |archive-url=https://web.archive.org/web/20170910183136/https://books.google.com/books?id=Y8SpVXEng4QC&pg=PA6 |archive-date=10 September 2017 }}</ref> which produce [[hallucinogenic]] and [[deliriant]] effects. It has an extensive history of being used recreationally.<ref>{{cite journal |last1=Fatur |first1=Karsten |title=Peculiar plants and fantastic fungi: An ethnobotanical study of the use of hallucinogenic plants and mushrooms in Slovenia |journal=PLOS ONE |date=7 January 2021 |volume=16 |issue=1 |article-number=e0245022 |doi=10.1371/journal.pone.0245022 |pmid=33412556 |pmc=7790546 |bibcode=2021PLoSO..1645022F |doi-access=free }}</ref>
+|-
+|align="center" | [[File:(-)-Cytisine.svg|150px]] <br />
+[[Cytisine]]
+|[[File:Calia secundiflora flowers.jpg|150px]] <br />
+''[[Dermatophyllum]]''
+|[[Nicotine]]-like effects. [[partial agonist]] of [[nicotinic acetylcholine receptors]] (nAChRs).<ref name="DallanoceFrigerio2010">{{cite journal|last1=Dallanoce|first1=Clelia|last2=Frigerio|first2=Fabio|last3=Martelli|first3=Giuliana|last4=Grazioso|first4=Giovanni|last5=Matera|first5=Carlo|last6=Pomè|first6=Diego Yuri|last7=Pucci|first7=Luca|last8=Clementi|first8=Francesco|last9=Gotti|first9=Cecilia|last10=Amici|first10=Marco De| display-authors=6 |title=Novel tricyclic Δ2-isoxazoline and 3-oxo-2-methyl-isoxazolidine derivatives: Synthesis and binding affinity at neuronal nicotinic acetylcholine receptor subtypes|journal=Bioorganic & Medicinal Chemistry|volume=18|issue=12|year=2010|pages=4498–4508|issn=0968-0896|doi=10.1016/j.bmc.2010.04.065|pmid=20478710| name-list-style=vanc }}</ref>
+|-
+|align="center" | Unknown
+|[[File:Desfontainia spinosa.jpg|150px]] <br />
+''[[Desfontainia spinosa]]''
+|Causes visions.<ref>Schultes, Richard Evans, Iconography of New World Plant Hallucinogens. p. 101</ref>
+|-
+|align="center" | [[File:Nicotine.svg|150px]] <br />
+[[Nicotine]]
+|[[File:Duboisia hopwoodii.jpg|150px]] <br />
+''[[Duboisia hopwoodii]]''
+|Pituri
+|-
+|style="text-align: center;" |Unknown
+|[[File:Entada rheedii05.jpg|150px]] <br />
+''[[Entada rheedei]]''
+|African dream herb.{{Citation_needed|date=April 2022}}
+|-
+|align="center" | [[File:Ephedrine.svg|150px]] <br />
+[[Ephedrine]]
+|[[File:Ephedra sinica alexlomas.jpg|150px]] <br />
+''[[Ephedra sinica]]''
+|[[Ephedra (plant)|Ephedra]]
+|-
+|align="center" | [[File:Cocaine.svg|150px]]<br />
+[[Cocaine]]
+|[[File:Erythroxylum coca - Köhler–s Medizinal-Pflanzen-204.jpg|150px]] <br />
+''[[Erythroxylum coca]]''
+|[[Coca]]. Widely used illegal stimulant, produces hallucination in overdose, native to [[South America]].{{Citation_needed|date=April 2022}}
+|-
+|align="center" | Unknown
+|[[File:Colpfl25.jpg|150px]] <br />
+''[[Fittonia albivenis]]''
+|Nerve or mosaic plant, said to produce vision of eyeballs
+|-
+|align="center" | [[File:Himbacine.svg|150px]]<br />
+[[Himbacine]]
+|''[[Galbulimima belgraveana]]''
+|''Galbulimima belgraveana'' is rich in alkaloids and twenty-eight alkaloids have been isolated including [[himbacine]].{{Citation_needed|date=April 2022}}
+|-
+|align="center" | [[File:(S)-Glaucine.svg|150px]]<br />
+[[Glaucine]]
+|[[File:Glaucium flavum03.jpg|150px]]
+''[[Glaucium flavum]]''
+|[[Hallucinogenic]] effects.<ref>{{cite journal | author = Rovinskiĭ VI | date = Sep 1989 | title = A case of hallucinogen-like action of glaucine. (Russian) | journal = Klinicheskaia Meditsina (Mosk) | volume = 67 | issue = 9| pages = 107–8 | pmid = 2586025 }}</ref>
+|-
+|align="center" | [[File:Cryogenine.svg|150px]] <br />
+Possibly [[Cryogenine]]{{Citation_needed|date=April 2022}}
+|''Heimia myrtifolia''
+|Auditory
+|-
+|align="center" | [[File:Cryogenine.svg|150px]] <br />
+Possibly [[Cryogenine]]{{Citation_needed|date=April 2022}}
+|[[File:Heimia salicifolia flowers by Jules Jardinier.jpg|150px]] <br />
+''[[Heimia salicifolia]]''
+|Auditory<ref name="sunicuichi faq">{{cite web|url=http://www.erowid.org/plants/sinicuichi/sinicuichi_faq.shtml|title=Erowid Sinicuichi Vault: FAQ (heimia salicifolia Frequently Asked Questions)|publisher=Erowid.org|access-date=14 January 2015}}</ref>{{Better source needed|date=December 2023}}
+|-
+|align="center" | [[File:Lobeline structure.svg|150px]] [[File:Nicotine.svg|150px]] <br />
+[[Lobeline]], [[Nicotine]]
+|[[File:Hippobroma longiflora Belize 2018 2.jpeg|150px]] <br />
+''[[Hippobroma longiflora]]''
+|Star of Bethlehem
+|-
+|align="center" | [[File:Hyperforin2DACS.svg|150px]] <br />
+[[Hyperforin]]
+|[[File:Saint John's wort flowers.jpg|150px]] <br />
+''[[Hypericum perforatum]]''
+|Saint John's wort
+|-
+|align="center" | Tropane alkaloids
+|[[File:Henbane1.JPG|150px]] <br />
+''[[Hyoscyamus]]''
+|Henbane
+|-
+|align="center" | [[File:Caffeine structure.svg|150px]] [[File:Theobromine.svg|150px]] <br />
+[[Caffeine]], [[Theobromine]], Dimethylxanthines
+|[[File:View of Ilex guayusa from above.jpg|150px]] <br />
+''[[Ilex guayusa]]''
+|''Ilex guayusa'' is used as an additive to some versions of [[Ayahuasca]]. According to the Ecuadorian indigenous, it is also slightly hallucinogenic on its own, when drunk in high enough quantities.{{Citation_needed|date=April 2022}}
+|-
+|align="center" | [[File:Ergine.svg|150px]] <br />
+[[Ergine]], [[isoergine]]
+|[[File:Ipomoea violacea.jpg|150px]]<br />
+''[[Ipomoea tricolor]] & [[Ipomoea violacea]]''
+|Ergine and isoergine in seeds; up to 0.12% ergine total<ref>
+{{cite web
+|url=http://www.giftpflanzen.com/ipomoea_violacea.html
+|title=Trichterwinde (Ipomoea violacea) im GIFTPFLANZEN.COMpendium
+|publisher=Giftpflanzen.com
+|access-date=2008-04-18
+}}
+</ref>{{Better source needed|date=December 2023}} Produces [[psychedelic]] effects.
+|-
+|align="center" | [[Lactucarium]]
+|[[File:Lactuca virosa - Köhler–s Medizinal-Pflanzen-213.jpg|150px]]
+''[[Lactuca virosa]]''
+|[[Lactucarium]]
+|-
+|align="center" | [[File:Lagochilin.png|150px]]
+[[Lagochilin]]
+|[[File:Lagochilus inebrians.jpg|150px]] <br />
+''[[Lagochilus inebrians]]''
+|[[Lagochilin]] is thought to be responsible for the sedative, hypotensive and hemostatic effects of this plant.{{Citation_needed|date=April 2022}}
+|-
+|align="center" | [[File:Pukateine Structure.svg|150px]]<br />
+[[Pukateine]]
+|[[File:Old Rimu in Kaitoke Park.jpg|150px]]
+''[[Laurelia novae-zelandiae]]''
+|[[Pukateine]]
+|-
+|align="center" | 
+Coreximine,
+[[Reticuline]]
+|[[File:RolliniaDeliciosa.jpg|150px]] <br />
+''[[Rollinia mucosa]]''
+|Corexamine inhibits the enzyme dopamine β-hydroxylase, which converts dopamine to norepinephrine.<ref>https://www.biosynth.com/p/FC20554/483-45-4-s-coreximine</ref>[[Reticuline]] acts as a central nervous system depressant in rats and mice.<ref>{{cite journal | last1=Morais | first1=L. C. | last2=Barbosa-Filho | first2=J. M. | last3=Almeida | first3=R. N. | title=Central depressant effects of reticuline extracted from Ocotea duckei in rats and mice | journal=Journal of Ethnopharmacology | date=1998 | volume=62 | issue=1 | pages=57–61 | doi=10.1016/s0378-8741(98)00044-0 | pmid=9720612 }}</ref>
+|-
+|align="center" | [[File:Leonurine structure.png|150px]]<br />
+[[Leonurine]]
+| [[File:Leonotis leonurus flower.jpg|150px]]
+''[[Leonotis leonurus]]''
+|Both leaves and flowers (where most concentrated) contain [[Leonurine]]. (Effects reminiscent of marijuana){{Citation_needed|date=April 2022}}
+|-
+|align="center" | [[File:Nicotine.svg|150px]] <br />
+[[Nicotine]]<ref name="MangathayaruThirumurugan2006">{{cite journal|last1=Mangathayaru|first1=K|last2=Thirumurugan|first2=D|last3=Patel|first3=PS|last4=Pratap|first4=DV.V|last5=David|first5=DJ|last6=Karthikeyan|first6=J|title=Isolation and identification of nicotine from leucas aspera (willd) link|journal=Indian Journal of Pharmaceutical Sciences|volume=68|issue=1|year=2006|page=88|issn=0250-474X|doi=10.4103/0250-474X.22972|s2cid=54509667|doi-access=free}}</ref>
+| [[File:Leucas aspera plant.jpg|150px]]<br /> ''[[Leucas aspera]]''
+|Nicotine
+|-
+|align="center" | [[File:Leonurine structure.png|150px]]<br />
+[[Leonurine]]
+| [[File:Leonotis nepetifolia1.jpg|150px]]
+''[[Leonotis nepetifolia]]''
+|Both leaves and flowers (where most concentrated) contain [[Leonurine]] and several compounds. (Effects reminiscent of marijuana){{Citation_needed|date=April 2022}}<ref>{{Cite journal |last1=Hunter |first1=E. |last2=Stander |first2=M. |last3=Kossmann |first3=J. |last4=Chakraborty |first4=S. |last5=Prince |first5=S. |last6=Peters |first6=S. |last7=Loedolff |first7=Bianke |date=2020-11-10 |title=Toward the identification of a phytocannabinoid-like compound in the flowers of a South African medicinal plant (Leonotis leonurus) |journal=BMC Research Notes |volume=13 |issue=1 |page=522 |doi=10.1186/s13104-020-05372-z |issn=1756-0500 |pmc=7653773 |pmid=33172494 |doi-access=free }}</ref>
+|-
+|align="center" | [[File:Lobeline.svg|150px]] <br />
+[[Lobeline]]
+|[[File:Lobelia inflata - Köhler–s Medizinal-Pflanzen-218.jpg|150px]] <br />
+''[[Lobelia inflata]]''
+|Indian tobacco
+|-
+|align="center" | Unknown
+|[[File:Sweetbay Magnolia Magnolia virginiana Comparison 4400px.jpg|150px]]
+''[[Magnolia virginiana]]''
+|<ref name=":0">{{cite book|url=https://books.google.com/books?id=Rs5rAwAAQBAJ&q=Magnolia+virginiana+psychoactive&pg=PT2377|title=The Encyclopedia of Psychoactive Plants: Ethnopharmacology and Its Applications|first=Christian|last=Rätsch|date=25 April 2005|publisher=Inner Traditions/Bear|access-date=22 December 2017|via=Google Books|isbn=978-1-59477-662-5}}</ref>
+|-
+|align="center" | [[File:L-Scopolamin.svg|150px]] [[File:Atropine.svg|150px]] [[File:Hyoscyamine.svg|150px]] <br />
+[[Tropane alkaloid]]s ([[scopolamine]], [[atropine]], and [[hyoscyamine]])
+|[[File:Mandragora officinarum 002.JPG|150px]] <br />
+''[[Mandragora officinarum]]''
+|Mandrake has [[deliriant]] and [[anticholinergic]] properties.<ref name="Kennedy 2014" />
+|-
+|align="center" | [[File:Ergine.svg|150px]] <br />
+[[Ergine]]
+|[[File:2006-10-18Mirabilis jalapa10.jpg|150px]] <br />
+Some ''[[Mirabilis (plant)|Mirabilis]]'' spp.
+|Possibly contains ergine{{Citation needed|date=February 2010}}, a [[hallucinogen]].
+|-
+|align="center" | [[File:Mitragynine.svg|150px]] <br />
+[[Mitragynine]]
+|[[File:Mitragyna speciosa111.JPG|150px]] <br />
+''[[Mitragyna speciosa]]''
+|Usually referred to as [[kratom]]. Has [[opioid]]-like and [[stimulant]] properties.<ref>{{Cite journal|last1=Eastlack|first1=Steven C.|last2=Cornett|first2=Elyse M.|last3=Kaye|first3=Alan D.|date=2020|title=Kratom—Pharmacology, Clinical Implications, and Outlook: A Comprehensive Review|journal=Pain and Therapy|volume=9|issue=1|pages=55–69|doi=10.1007/s40122-020-00151-x|issn=2193-8237|pmc=7203303|pmid=31994019}}</ref>
+|-
+|align="center" | [[File:Myristicin.svg|150px]] <br />
+[[Myristicin]]
+|[[File:Myristica fragrans - Köhler–s Medizinal-Pflanzen-097.jpg|150px]] <br />
+''[[Myristica fragrans]]''
+|[[Nutmeg]]
+|-
+|align="center" | [[File:Aporphine.svg|150px]] <br />
+[[Aporphine]]
+|[[File:Sacred lotus Nelumbo nucifera.jpg|150px]] <br />
+''[[Nelumbo nucifera]]''
+|Sacred lotus
+|-
+|align="center" | [[File:Nepetalactone.svg|150px]] <br />
+[[Nepetalactone]]
+|[[File:Catnip flowers.jpg|150px]] <br />
+''[[Nepeta cataria]]''
+|Catnip
+|-
+|align="center" | [[File:Nicotine.svg|150px]] <br />
+[[Nicotine]]
+|[[File:Tabak P9290021.JPG|150px]] <br />
+''[[Nicotiana tabacum]]''
+|[[Tobacco]]. Can cause hallucinations in very large doses.{{Citation_needed|date=April 2022}}
+|-
+|align="center" | [[File:Aporphine.svg|150px]]<br />
+[[Aporphine]], [[Apomorphine]]
+|[[File:Nymphaea caerulea.jpg|150px]]
+''[[Nymphaea caerulea]]''
+|Blue lotus or lily. Recent studies have shown ''Nymphaea caerulea'' to have psychedelic properties, and may have been used as a sacrament in ancient Egypt and certain ancient South American cultures. Dosages of 5 to 10&nbsp;grams of the flowers induces slight stimulation, a shift in thought processes, enhanced visual perception, and mild closed-eye visuals.<ref>{{Cite web |last=Seligman |first=Sian |date=2023-01-13 |title=Blue Lotus Flower: Smoking, Tea & More |url=https://doubleblindmag.com/blue-lotus/ |access-date=2023-01-18 |website=DoubleBlind Mag |language=en-US}}</ref> ''Nymphaea caerulea'' is unrelated to ''[[Nelumbo nucifera]]'' the Sacred Lotus, with Nymphaea in the [[Nymphaeales|Nymphales]], one of the oldest and most basal linegages of flowering plants and with Nelumbo in [[Proteales]] one of the [[Eudicots|core eudicots]]. Their morphological similarities being entirely [[convergent evolution]], however they apparently have convergently evolved similar biochemistry. Both ''Nymphaea caerulea'' and ''Nelumbo nucifera'' contain the alkaloids [[nuciferine]] and [[apomorphine]], which have been recently isolated by independent labs.{{Citation needed|date=June 2007}}
+
+These psychoactive effects make ''Nymphaea caerulea'' a likely candidate (among several) for the lotus plant eaten by the mythical [[Lotophagi]] in [[Homer]]'s [[Odyssey]].
+
+Used in [[aromatherapy]], ''Nymphaea caerulea'' is purported to have a "divine" essence, bringing euphoria, heightened awareness and tranquility.{{Citation needed|date=February 2007}}
+
+Other sources cite anti-spasmodic and sedative, purifying and calming properties.
+|-
+|align="center" | [[File:Ginsenoside Rg1.svg|150px]] <br />
+[[Ginsenosides]]
+|[[File:Panax quinquefolius.jpg|150px]] <br />
+''[[Panax]]''
+|[[Ginseng]]
+|-
+|align="center" | [[File:Morphin - Morphine.svg|150px]] <br />
+[[Morphine]]
+|[[File:Papaver somniferum - Köhler–s Medizinal-Pflanzen-102.jpg|150px]] <br />
+''[[Papaver somniferum]]''
+|[[Opium]]. Widely used analgesic, native to the [[Old World]].<ref name="DrugsCom">{{cite web|url=https://www.drugs.com/dict/opium.html|title=Opium definition|publisher=[[Drugs.com]]|access-date=28 April 2022}}</ref>
+|-
+|align="center" | Unknown
+|[[File:Pokeweed bush in Northumberland County, Pennsylvania.JPG|150px]] <br />
+''[[Phytolacca americana]]''
+|[[Narcotic]] and [[toxic]] when the root is consumed.<ref name="auto">{{Cite journal|url=https://www.academia.edu/1103613|title=Psychoactive Plants Described in a Brazilian Literary Work and their Chemical Compounds|first1=Rafaela|last1=Denise Otsuka|first2=Rafaela Denise|last2=Otsuka|first3=Joao Henrique Ghilardi|last3=Lago|first4=Lucia|last4=Rossi|first5=Jose Carlos Fernandes|last5=Galduroz|first6=Eliana|last6=Rodrigues|journal=Central Nervous System Agents in Medicinal Chemistry|year=2010|volume=10|issue=3|pages=218–237|doi=10.2174/1871524911006030218|pmid=20557283|via=www.academia.edu}}</ref>
+|-
+|align="center" | [[File:Yohimbine structure.svg|150px]] <br />
+[[Yohimbine]]
+|[[File:Pau de cabinda.jpg|150px]] <br />
+''[[Pausinystalia johimbe]]''
+|[[Alpha-2 blocker|α<sub>2</sub>-adrenergic receptor antagonist]].{{Citation_needed|date=April 2022}}
+|-
+|align="center" | Unknown
+|[[File:Pedicularis densiflora mt. diablo.JPG|150px]] <br />
+''[[Pedicularis densiflora]]''
+|Indian warrior
+|-
+|align="center" | [[File:Kavalactone-general-numbered.svg|150px]]<br />
+[[Kavalactones]]
+|[[File:Starr 040318-0058 Piper methysticum.jpg|150px]]
+''[[Piper methysticum]]''
+|An [[anxiolytic]]<ref name="pittler">{{Cite journal|author=Pittler MH, Ernst E |title=Kava extract for treating anxiety |journal=Cochrane Database of Systematic Reviews |issue=1 |article-number=CD003383 |year=2003 |volume=2003 |pmid=12535473 |doi=10.1002/14651858.CD003383 |url=http://www.cochrane.org/CD003383/DEPRESSN_kava-extract-for-treating-anxiety|editor1-last=Pittler|editor1-first=Max H|pmc=6999799 }}</ref> and [[hypnotic]].<ref>{{Cite journal|last=Baker|first=Jonathan D.|date=2011-06-01|title=Tradition and toxicity: evidential cultures in the kava safety debate|journal=Social Studies of Science|volume=41|issue=3|pages=361–384|issn=0306-3127|pmid=21879526|doi=10.1177/0306312710395341|s2cid=33364504}}</ref> Often advertised as a 'healthier' alternative to alcohol.{{Citation_needed|date=April 2022}}
+|-
+|align="center" | [[File:Ergine.svg|150px]] <br />
+[[Ergine]], [[isoergine]]
+|[[File:Rivea corymbosa 1838.jpg|150px]] <br />
+''[[Rivea corymbosa]]''
+|Seeds contain ergine, isoergine, [[lysergol]], and turbicoryn; lysergic acid alkaloids up to 0.03%<ref>
+{{cite web
+|url=http://www.giftpflanzen.com/rivea_corymbosa.html
+|title=Ololiuqui (Rivea corymbosa) im GIFTPFLANZEN.COMpendium
+|publisher=Giftpflanzen.com
+|access-date=2008-04-18
+}}
+</ref>{{Better source needed|date=December 2023}} Has [[psychedelic]] properties.
+|-
+|align="center" | [[File:Salvinorin A structure.svg|150px]]<br />
+[[Salvinorin A]]
+|[[File:Salvia divinorum - Herba de Maria.jpg|150px]]
+''[[Salvia divinorum]]''
+|Salvinorin A, 0.89–3.87&nbsp;mg/g, also Salvinorin B and Salvinorin C<ref>{{cite web|url=http://www.sagewisdom.org/clones.html|archive-url=https://web.archive.org/web/20010803104254/http://sagewisdom.org/clones.html|archive-date=August 3, 2001|title=Salvia divinorum Clones|publisher=Sagewisdom.org|access-date=14 January 2015}}</ref>{{Unreliable source?|date=December 2023}}
+|-
+|align="center" | [[File:Mesembrine.svg|150px]] <br />[[Mesembrine]]
+|[[File:Sceletium tortuosum 01102003 Afrique du sud 2.JPG|150px]] <br />
+''[[Sceletium tortuosum]]''
+|Kanna<ref>{{Cite journal |last1=Coetzee |first1=Dirk D. |last2=López |first2=Víctor |last3=Smith |first3=Carine |date=2016-01-11 |title=High-mesembrine Sceletium extract (Trimesemine™) is a monoamine releasing agent, rather than only a selective serotonin reuptake inhibitor |url=https://www.sciencedirect.com/science/article/pii/S0378874115302348 |journal=Journal of Ethnopharmacology |language=en |volume=177 |pages=111–116 |doi=10.1016/j.jep.2015.11.034 |pmid=26615766 |issn=0378-8741|url-access=subscription }}</ref><ref>{{Cite journal |last1=Manganyi |first1=Madira Coutlyne |last2=Bezuidenhout |first2=Cornelius Carlos |last3=Regnier |first3=Thierry |last4=Ateba |first4=Collins Njie |date=2021-04-28 |title=A Chewable Cure "Kanna": Biological and Pharmaceutical Properties of Sceletium tortuosum |journal=Molecules |volume=26 |issue=9 |page=2557 |doi=10.3390/molecules26092557 |issn=1420-3049 |pmc=8124331 |pmid=33924742|doi-access=free }}</ref>
+|-
+|align="center" | [[File:Baicalein.svg|150px]] <br />
+[[Baicalein]]
+|[[File:Scutellaria pekinensis Yamatatsunamisou in Ibukiyama 2002-6-9.jpg|150px]] <br />
+''[[Scutellaria]]''
+|Known commonly as 'skullcaps'. Baicalein is a [[positive allosteric modulator]] of [[GABA receptor|GABA<sub>A</sub> receptor]].<ref name="pmid10705749">{{cite journal | vauthors = Hui KM, Wang XH, Xue H | title = Interaction of flavones from the roots of Scutellaria baicalensis with the benzodiazepine site | journal = Planta Med. | volume = 66 | issue = 1 | pages = 91–3 | year = 2000 | pmid = 10705749 | doi = 10.1055/s-0029-1243121 | s2cid = 260249283 }}</ref>
+|-
+|align="center" | Unknown
+|[[File:Sessea brasiliensis.jpg|150px]]
+''[[Sessea]]''
+|[[Sessea brasiliensis|S. brasiliensis]] poisoning is described as very similar to that of [[Cestrum|Cestrum laevigatum]]; a species used to induce hallucinations by the [[Krahô|Krahô tribe]] for spiritual purposes.<ref>{{Cite journal |date=1965 |title=Poisoning by Sessea brasiliensis Toledo in cattle |url=https://core.ac.uk/reader/228711281 |journal=Poisoning by Sessea Brasiliensis Toledo in Cattle}}</ref><ref>{{cite journal | last1 = Rodrigues | first1 = Eliana | last2 = Carlini | first2 = E.A. | year = 2006 | title = Plants with possible psychoactive effects used by the Krahô Indians, Brazil | journal = Revista Brasileira de Psiquiatria | volume = 28 | issue = 4 | pages = 277–282 | doi = 10.1590/s1516-44462006000400006 | pmid = 17242806 | doi-access = free }}</ref>
+|-
+|align="center" | Unknown
+|[[File:Silene capensis (flowering).jpg|150px]]
+''[[Silene capensis]]''
+|Produces vivid dreams after smoking.<ref name="Sobiecki">{{cite journal|author=J. F. Sobiecki|date=2008|title=A review of plants used in divination in southern Africa and their psychoactive effects|journal=Southern African Humanities|volume=20|pages=333–351|s2cid=37305695}}</ref>
+|-
+|align="center" | Unknown
+|[[File:Tagetes lemmonii flower.jpg|150px]]
+''[[Tagetes lucida]]''
+|[[Anethole]], [[Chavicol]], [[Coumarin]], [[Estragole]], [[Isorhamnetin]], [[Methyleugenol]], [[Quercitin]]
+|-
+|align="center" | [[File:Ibogaine.svg|150px]]<br />
+[[Ibogaine]]
+|[[File:Iboga.jpg|150px]]
+''[[Tabernanthe iboga]]''
+| Ibogaine in root bark. Produces [[psychedelic]] and a [[dissociative]] effects.<ref name="ibogaine-tihkal">{{cite web|url=http://www.erowid.org/library/books_online/tihkal/tihkal25.shtml|title=Erowid Online Books: "TIHKAL" – #25 IBOGAINE|publisher=Erowid.org|access-date=14 January 2015}}</ref><ref name="pmid27448833" />
+|-
+|align="center" | [[File:Ibogaine.svg|150px]]<br />
+[[Ibogaine]]
+|
+''Tabernanthe orientalis''
+|Ibogaine in root leaves. Produces [[psychedelic]] and a [[dissociative]] effects.<ref name="ibogaine-tihkal"/><ref name="pmid27448833" />
+|-
+|align="center" | [[File:Voacangine.svg|150px]] [[File:Ibogaine.svg|150px]] <br />
+[[Voacangine]], [[Ibogaine]]
+|[[File:Crape_Jasmine.jpg|150px]]
+''[[Tabernaemontana divaricata]]''
+|Is a [[psychedelic]] and a [[dissociative]].<ref name="pmid27448833">{{cite journal |vauthors=Krengel F, Herrera Santoyo J, Olivera Flores TJ, Chávez Ávila VM, Pérez Flores FJ, Reyes Chilpa R |title=Quantification of Anti-Addictive Alkaloids Ibogaine and Voacangine in In Vivo- and In Vitro-Grown Plants of Two Mexican Tabernaemontana Species |journal=Chemistry & Biodiversity |volume=13 |issue=12 |pages=1730–1737 |date=December 2016 |pmid=27448833 |doi=10.1002/cbdv.201600146 |s2cid=46046257 |url= |issn=}}</ref>
+|-
+|align="center" | [[File:Ibogaine.svg|150px]]<br />
+[[Ibogaine]]
+|
+''Tabernanthe pubescens''
+|Is a [[psychedelic]] and a [[dissociative]]. Contains ibogaine and similar [[alkaloids]].<ref name="ibogaine-tihkal"/><ref name="pmid27448833" />
+|-
+|align="center" | [[File:Ibogaine.svg|150px]]<br />
+[[Ibogaine]]
+|[[File:Tabernaemontana divaricata by kadavoor.jpg|150px]] <br />
+''[[Tabernaemontana]]'' sp.
+|Is a [[psychedelic]] and a [[dissociative]].<ref name="ibogaine-tihkal"/><ref name="pmid27448833" />
+|-
+|style="text-align: center;" | [[File:Theobromine.svg|150px]] <br />
+[[Theobromine]]
+|[[File:Matadecacao.jpg|150px]] <br />
+''[[Theobroma cacao]]''
+|[[Cocoa bean|Cocoa]] or [[cacao bean]], [[chocolate]], native to the [[Americas]]
+|-
+|align="center" | [[File:Ibogaine.svg|150px]]<br />
+[[Ibogaine]]
+|[[File:Confederate Jasmine, Star Jasmine (Trachelospermum jasminoides).jpg|150px]]
+''[[Trachelospermum jasminoides]]''
+|Exhibits [[psychedelic]] and [[dissociative]] effects. Contains ibogaine, [[coronaridine]], [[voacangine]], [[apparicine]], [[conoflorine]], and [[19-epi-voacangarine]].<ref>{{cite web|url=http://www.giftpflanzen.com/trachelospermum_jasminoides.html|title=Sternjasmin (Trachelospermum jasminoides) im GIFTPFLANZEN.COMpendium - giftpflanzen.com|author=Dr. B. Bös|publisher=Giftpflanzen.com|access-date=14 January 2015}}</ref>{{Better source needed|date=December 2023}}<ref>{{Cite web|url=https://www.ibogainealliance.org/articledb/indole-alkaloids-from-trachelospermum-jasminoides/|archive-url=https://web.archive.org/web/20211027010430/https://www.ibogainealliance.org/articledb/indole-alkaloids-from-trachelospermum-jasminoides/|archive-date=October 27, 2021|title=Indole Alkaloids from Trachelospermum jasminoides}}</ref>
+|-
+|align="center" | [[File:Valerenic acid.svg|150px]] <br />
+[[Valerenic acid]]
+|[[File:Valeriana officinalis - Niitvälja.jpg|150px]] <br />
+''[[Valeriana officinalis]]''
+|Possible [[sedative]] and [[anxiolytic]] effects. Valerenic acid is [[GABAA receptor|GABA<sub>A</sub> receptor]] [[positive allosteric modulator]],<ref name="pmid26375408">{{cite journal |vauthors=Luger D, Poli G, Wieder M, Stadler M, Ke S, Ernst M, Hohaus A, Linder T, Seidel T, Langer T, Khom S, Hering S |title=Identification of the putative binding pocket of valerenic acid on GABAA receptors using docking studies and site-directed mutagenesis |journal=Br. J. Pharmacol. |volume=172 |issue=22 |pages=5403–13 |year=2015 |pmid=26375408 |pmc=4988470 |doi=10.1111/bph.13329 }}</ref> and a [[5-HT receptor|5-HT<sub>5A</sub> receptor]] [[partial agonist]].<ref>{{Cite journal | last1 = Dietz | first1 = B. | last2 = Mahady | first2 = G. | last3 = Pauli | first3 = G. | last4 = Farnsworth | first4 = N. | title = Valerian extract and valerenic acid are partial agonists of the 5-HT receptor in vitro | doi = 10.1016/j.molbrainres.2005.04.009 | journal = Molecular Brain Research | volume = 138 | issue = 2 | pages = 191–197 | year = 2005 | pmid = 15921820 | pmc = 5805132}}</ref>
+|-
+|align="center" | [[File:Vincamine.svg|150px]] <br />
+[[Vincamine]]
+|[[File:Vinca minor Nashville.jpg|150px]] <br />
+''[[Vinca minor]]''
+|Vincamine.<ref>{{Cite journal | last1 = Khanavi | first1 = M. | last2 = Pourmoslemi | first2 = S. | last3 = Farahanikia | first3 = B. | last4 = Hadjiakhoondi | first4 = A. | last5 = Ostad | first5 = S. N. | title = Cytotoxicity ofVinca minor | doi = 10.3109/13880200903046187 | journal = Pharmaceutical Biology | volume = 48 | issue = 1 | pages = 96–100 | year = 2010 | pmid =  20645762| s2cid = 42993549 | doi-access = free }}</ref>
+|-
+|align="center" | [[File:Voacangine.svg|150px]] <br />
+[[Voacangine]]
+|[[File:Voacanga Africana 06.jpg|150px]] <br />
+''[[Voacanga africana]]''
+|Voacangine is similar in structure to [[ibogaine]]. It inhibits [[AChE]].<ref>{{cite journal| url = https://www.scielo.br/pdf/aabc/v80n3/a03v80n3.pdf |journal = Annals of the Brazilian Academy of Sciences|title = Two fast screening methods (GC-MS and TLC-ChEI assay) for rapid evaluation of potential anticholinesterasic indole alkaloids in complex mixtures| vauthors = VIEIRA I, MEDEIROS W, MONNERAT C, SOUZA J, MATHIAS L, BRAZ-FILHO R, PINTO A, SOUSA P, REZENDE C, EPIFANIO R|year = 2008|volume = 80|issue = 3|pages = 419–426|doi = 10.1590/s0001-37652008000300003|pmid = 18797794| issn = 0001-3765| archive-url = https://web.archive.org/web/20200219090917/https://www.scielo.br/pdf/aabc/v80n3/a03v80n3.pdf| archive-date = 2020-02-19}}</ref><ref name="pmid15911323">{{cite journal |vauthors=Andrade MT, Lima JA, Pinto AC, Rezende CM, Carvalho MP, Epifanio RA |title=Indole alkaloids from Tabernaemontana australis (Muell. Arg) Miers that inhibit acetylcholinesterase enzyme |journal=[[Bioorganic & Medicinal Chemistry]] |volume=13 |issue=12 |pages=4092–5 |date=June 2005 |pmid=15911323 |doi=10.1016/j.bmc.2005.03.045 |url= |issn=}}</ref>
+|-
+|align="center" | [[File:Dendrobine.svg|150px]] <br />
+[[Dendrobine]]<ref>{{Cite book| edition = 2| publisher = Routledge| isbn = 978-0-203-75262-3| last = Duke| first = James A.| title = Handbook of Phytochemical Constituent Grass, Herbs and Other Economic Plants: Herbal Reference Library| location = New York| date = 2017-10-24}}</ref>
+|[[File:Dendrobium_nobile_-_flower_view_01.jpg|150px]] <br />
+''[[Dendrobium nobile]]''
+|Also contains [[phenanthrenes]] and dendrobine related alkaloids.
+|-
+|align="center" | [[File:Genistein.svg|150px]] [[File:Apigenin.svg|150px]] <br />
+Possibly [[Genistein]] and [[Apigenin]]
+|[[File:Zornia latifolia Sm.jpg|150px]] <br />
+''[[Zornia latifolia]]''
+|''Zornia latifolia'' is sometimes combined with [[Synthetic cannabinoids|synthetic cannabis]]. It may produce similar effects to [[cannabis]].<ref>{{Cite journal|last1=Cornara|first1=L.|last2=Fortuna-Perez|first2=A. P.|last3=Bruni|first3=I.|last4=Salis|first4=A.|last5=Damonte|first5=G.|last6=Borghesi|first6=B.|last7=Clericuzio|first7=M.|date=2018-09-01|title=''Zornia latifolia'': a smart drug being adulterated by ''Stylosanthes guianensis''|journal=International Journal of Legal Medicine|language=en|volume=132|issue=5|pages=1321–1331|doi=10.1007/s00414-018-1774-z|pmid=29362872|issn=1437-1596|hdl=11449/164509|s2cid=12630518|hdl-access=free}}</ref><ref>{{Cite journal|last1=Fattore|first1=Liana|last2=Fratta|first2=Walter|date=2011|title=Beyond THC: The New Generation of Cannabinoid Designer Drugs|journal=Frontiers in Behavioral Neuroscience|volume=5|page=60|doi=10.3389/fnbeh.2011.00060|issn=1662-5153|pmc=3187647|pmid=22007163|doi-access=free}}</ref> It is nicknamed Maconha brava because locals use it as a cannabis substitute.{{Citation_needed|date=April 2022}}
+|}
+
+== See also ==
+* [[Aztec entheogenic complex]]
+* [[Entheogenic drugs and the archaeological record]]
+* [[God in a Pill?]]
+* [[Hallucinogenic fish]]
+* [[Hallucinogenic plants in Chinese herbals]]
+* [[List of Acacia species known to contain psychoactive alkaloids]]
+* [[List of entheogenic/hallucinogenic species]]
+* [[List of plants used for smoking]]
+* [[List of poisonous plants]]
+* [[List of psychoactive plants, fungi, and animals]]
+* [[Louisiana State Act 159]]
+* [[N,N-Dimethyltryptamine]]
+* [[Psilocybin mushrooms]]
+* [[Psychoactive cactus]]
+* [[Psychoactive plant]]
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{Reflist}}
+
+== Bibliography ==
+* {{cite book|last=Al Zarouni |first=Yousif |title=The Effects of Khat (Catha Edulis) |place=London |publisher=Yousif Al Zarouni |year=2015}}
+
+== External links ==
+* [https://web.archive.org/web/20070927185724/http://users.lycaeum.org/~iamklaus/botany.htm Descriptions of psychoactive Cacti. Lycaeum Visionary Cactus Guide]
+* [http://www.erowid.org/psychoactives/faqs/faqs_tryptamine.shtml Erowid Tryptamine FAQ – More Plants Containing Tryptamines]
+* [https://books.google.com/books?id=te53VV5u8YMC&dq=erythrina+alkaloids&pg=RA1-PA124 John Stephen Glasby, Dictionary of Plants Containing Secondary Metabolites, Published by CRC Press]
+* [http://www.erowid.org/library/books_online/golden_guide/g91-100.shtml Golden Guide to Hallucinogenic Plants]
+* [http://ajp.psychiatryonline.org/cgi/content/full/158/3/481 Hallucinogens on the Internet: A Vast New Source of Underground Drug Information John H. Halpern, M.D. and Harrison G. Pope, Jr., M.D.]
+* [https://web.archive.org/web/20070929083414/http://www4.gu.edu.au:8080/adt-root/uploads/approved/adt-QGU20070710.160928/public/02Whole.pdf Chemical Investigations of the Alkaloids from the Plants of the Family Elaeocarpaceae] – Peter L. Katavic, Chemical Investigations of the Alkaloids From the Plants Of The Family [[Elaeocarpaceae]], School of Science/Natural Product Discovery (NPD), Faculty of Science, Griffith University
+* [http://www.erowid.org/archive/rhodium/chemistry/shulgin.pea.sar.hop.html Alexander T. Shulgin, Psychotomimetic Drugs: Structure-Activity Relationships]
+* [https://web.archive.org/web/20070708155740/http://www.unodc.org/unodc/en/bulletin/bulletin_1969-01-01_4_page004.html UNODC The plant kingdom and hallucinogens (part II)]
+* [https://web.archive.org/web/20071021073234/http://www.unodc.org/unodc/bulletin/bulletin_1970-01-01_1_page005.html?print=yes UNODC The plant kingdom and hallucinogens (part III)]
+* [https://web.archive.org/web/20100903043051/http://www.bio.uu.nl/~herba/Guyana/VTGG/Myristicaceae/Virola/index.html Virola – Dried Herbarium Specimens]
+* [https://web.archive.org/web/20071013034941/http://images.nbii.gov/search_results.php Virola Species Pictures – USGS]
+* [https://plants.usda.gov/java/profile?symbol=DEIL ''Desmanthus illinoensis'' – USDA]
+* [https://books.google.com/books?id=iEVeFOLc_FUC&dq=%22Prestonia+amazonica%22&pg=PA92 Psychedelic Reader (Google Books)]
+
+{{DEFAULTSORT:Psychoactive Plants}}
+[[Category:Medicinal plants]]
+[[Category:Lists of plants|Psychoactive plants]]
+[[Category:Psychoactive drugs|*]]

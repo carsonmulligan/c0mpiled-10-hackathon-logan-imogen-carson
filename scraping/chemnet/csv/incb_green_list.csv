@@ -1,0 +1,973 @@
+substance_name,synonyms,convention_schedule,cas_number,notes,source_url,raw_text,fetched_at
+CATHINONE,(–)-(S)-2-aminopropiophenone,Schedule I (1971),,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PC 010 CATHINONE (–)-(S)-2-aminopropiophenone,2026-04-24T17:19:40.499545+00:00
+DET,3-[2-(diethylamino)ethyl]indole,Schedule I (1971),,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PD 001 DET 3-[2-(diethylamino)ethyl]indole,2026-04-24T17:19:40.499545+00:00
+DMHP,"3-(1,2-dimethylheptyl)-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H-",Schedule I (1971),,"dibenzo[b,d]pyran-1-ol",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PD 003 DMHP 3-(1,2-dimethylheptyl)-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H-
+dibenzo[b,d]pyran-1-ol",2026-04-24T17:19:40.499545+00:00
+DMT,3-[2-(dimethylamino)ethyl]indole,Schedule I (1971),,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PD 004 DMT 3-[2-(dimethylamino)ethyl]indole,2026-04-24T17:19:40.499545+00:00
+DMA,"(±)-2,5-dimethoxy-α-methylphenethylamine",Schedule I (1971),,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PD 007 DMA (±)-2,5-dimethoxy-α-methylphenethylamine",2026-04-24T17:19:40.499545+00:00
+DOET,"(±)-4-ethyl-2,5-dimethoxy-α-methylphenethylamine",Schedule I (1971),,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PD 008 DOET (±)-4-ethyl-2,5-dimethoxy-α-methylphenethylamine",2026-04-24T17:19:40.499545+00:00
+BROLAMFETAMINE DOB,"(±)-4-bromo-2,5-dimethoxy-α-methylphenethylamine",Schedule I (1971),,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PD 009 BROLAMFETAMINE DOB (±)-4-bromo-2,5-dimethoxy-α-methylphenethylamine",2026-04-24T17:19:40.499545+00:00
+DOC,"4-Chloro-2,5-dimethoxyamfetamine",Schedule I (1971),,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PD 011 DOC 4-Chloro-2,5-dimethoxyamfetamine",2026-04-24T17:19:40.499545+00:00
+ETRYPTAMINE,3-(2-aminobutyl)indole,Schedule I (1971),,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PE 006 ETRYPTAMINE 3-(2-aminobutyl)indole,2026-04-24T17:19:40.499545+00:00
+"(+)-LYSERGIDE LSD, LSD-25","9,10-didehydro-N,N-diethyl-6-methylergoline-8β-carboxamide",Schedule I (1971),,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PL 002 (+)-LYSERGIDE LSD, LSD-25 9,10-didehydro-N,N-diethyl-6-methylergoline-8β-carboxamide",2026-04-24T17:19:40.499545+00:00
+mescaline,"mescaline 3,4,5-trimethoxyphenethylamine",Schedule I (1971),,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PM 004 mescaline 3,4,5-trimethoxyphenethylamine",2026-04-24T17:19:40.499545+00:00
+MDMA,"(±)-N,α-dimethyl-3,4-(methylenedioxy)phenethylamine",Schedule I (1971),,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PM 011 MDMA (±)-N,α-dimethyl-3,4-(methylenedioxy)phenethylamine",2026-04-24T17:19:40.499545+00:00
+MMDA,"5-methoxy-α-methyl-3,4-(methylenedioxy)phenethylamine",Schedule I (1971),,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PM 013 MMDA 5-methoxy-α-methyl-3,4-(methylenedioxy)phenethylamine",2026-04-24T17:19:40.499545+00:00
+TENAMFETAMINE MDA,"α-methyl-3,4-(methylenedioxy)phenethylamine",Schedule I (1971),,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PM 014 TENAMFETAMINE MDA α-methyl-3,4-(methylenedioxy)phenethylamine",2026-04-24T17:19:40.499545+00:00
+4-methylaminorex,4-methylaminorex (±)-cis-2-amino-4-methyl-5-phenyl-2-oxazoline,Schedule I (1971),,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PM 017 4-methylaminorex (±)-cis-2-amino-4-methyl-5-phenyl-2-oxazoline,2026-04-24T17:19:40.499545+00:00
+methcathinone,methcathinone 2-(methylamino)-1-phenylpropan-1-one,Schedule I (1971),,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PM 019 methcathinone 2-(methylamino)-1-phenylpropan-1-one,2026-04-24T17:19:40.499545+00:00
+4-MTA,α-methyl-4-methylthiophenethylamine,Schedule I (1971),,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PM 020 4-MTA α-methyl-4-methylthiophenethylamine,2026-04-24T17:19:40.499545+00:00
+N-ethyl,"N-ethyl MDA, MDEA (±)-N-ethyl-α-methyl-3,4-(methylenedioxy)phenethylamine",Schedule I (1971),,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PN 004 N-ethyl MDA, MDEA (±)-N-ethyl-α-methyl-3,4-(methylenedioxy)phenethylamine",2026-04-24T17:19:40.499545+00:00
+N-hydroxy,"N-hydroxy MDA (±)-N[α-methyl-3,4-(methylenedioxy)phenethyl]hydroxylamine",Schedule I (1971),,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PN 005 N-hydroxy MDA (±)-N[α-methyl-3,4-(methylenedioxy)phenethyl]hydroxylamine",2026-04-24T17:19:40.499545+00:00
+25B-NBOMe,"25B-NBOMe 2-(4-bromo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine",Schedule I (1971),,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PN 006 25B-NBOMe 2-(4-bromo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine",2026-04-24T17:19:40.499545+00:00
+25C-NBOMe,"25C-NBOMe 2-(4-chloro-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine",Schedule I (1971),,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PN 007 25C-NBOMe 2-(4-chloro-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine",2026-04-24T17:19:40.499545+00:00
+25I-NBOMe,"25I-NBOMe 2-(4-iodo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine",Schedule I (1971),,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PN 008 25I-NBOMe 2-(4-iodo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine",2026-04-24T17:19:40.499545+00:00
+parahexyl,"parahexyl 3-hexyl-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H-dibenzo[b,d]pyran-1-ol",Schedule I (1971),,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PP 001 parahexyl 3-hexyl-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H-dibenzo[b,d]pyran-1-ol",2026-04-24T17:19:40.499545+00:00
+ETICYCLIDINE PCE,N-ethyl-1-phenylcyclohexylamine,Schedule I (1971),,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PP 003 ETICYCLIDINE PCE N-ethyl-1-phenylcyclohexylamine,2026-04-24T17:19:40.499545+00:00
+"ROLICYCLIDINE PHP, PCPY",1-(1-phenylcyclohexyl)pyrrolidine,Schedule I (1971),,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PP 007 ROLICYCLIDINE PHP, PCPY 1-(1-phenylcyclohexyl)pyrrolidine",2026-04-24T17:19:40.499545+00:00
+"psilocine,","psilocine, psilotsin 3-[2-(dimethylamino)ethyl]indol-4-ol",Schedule I (1971),,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PP 012 psilocine, psilotsin 3-[2-(dimethylamino)ethyl]indol-4-ol",2026-04-24T17:19:40.499545+00:00
+PSILOCYBINE,3-[2-(dimethylamino)ethyl]indol-4-yl dihydrogen phosphate,Schedule I (1971),,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PP 013 PSILOCYBINE 3-[2-(dimethylamino)ethyl]indol-4-yl dihydrogen phosphate,2026-04-24T17:19:40.499545+00:00
+PMA,1-(4-methoxyphenyl)propan-2-amine,Schedule I (1971),,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PP 017 PMA 1-(4-methoxyphenyl)propan-2-amine,2026-04-24T17:19:40.499545+00:00
+PMMA,1-(4-methoxyphenyl)-2-methylaminopropane,Schedule I (1971),,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PP 021 PMMA 1-(4-methoxyphenyl)-2-methylaminopropane,2026-04-24T17:19:40.499545+00:00
+"STP, DOM","2,5-dimethoxy-α,4-dimethylphenethylamine",Schedule I (1971),,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PS 002 STP, DOM 2,5-dimethoxy-α,4-dimethylphenethylamine",2026-04-24T17:19:40.499545+00:00
+TENOCYCLIDINE TCP,1-[1-(2-thienyl)cyclohexyl]piperidine,Schedule I (1971),,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PT 001 TENOCYCLIDINE TCP 1-[1-(2-thienyl)cyclohexyl]piperidine,2026-04-24T17:19:40.499545+00:00
+"tetrahydrocannabinol,","tetrahydrocannabinol, the",Schedule I (1971),,"TETRAHYDRO- following isomers and their CANNABINOL stereochemical variants: delta-6a(10a)-THC 7,8,9,10-tetrahydro-6,6,9-trimethyl-3-pentyl-6H-dibenzo[b,d]pyran-1-ol (9R,10aR)-8,9,10,10a-tetrahydro-6,6,9-trimethyl-3-pentyl-6H- delta-6a(7)-THC dibenzo[b,d]pyran-1-ol (6aR,9R,10aR)-6a,9,10,10a-tetrahydro-6,6,9-trimethyl-3-pentyl-6H- delta-7-THC dibenzo[b,d]pyran-1-ol (6aR,10aR)-6a,7,10,10a-tetrahydro-6,6,9-trimethyl-3-pentyl-6H- delta-8-THC dibenzo[b,d]pyran-1-ol delta-10-THC 6a,7,8,9-tetrahydro-6,6,9-trimethyl-3-pentyl-6H-dibenzo[b,d]pyran-1-ol (6aR,10aR)-6a,7,8,9,10,10a-hexahydro-6,6-dimethyl-9-methylene3- delta-9(11)-THC pentyl-6H-dibenzo[b,d]pyran-1-ol",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PT 002 tetrahydrocannabinol, the
+TETRAHYDRO- following isomers and their
+CANNABINOL stereochemical variants:
+delta-6a(10a)-THC 7,8,9,10-tetrahydro-6,6,9-trimethyl-3-pentyl-6H-dibenzo[b,d]pyran-1-ol
+(9R,10aR)-8,9,10,10a-tetrahydro-6,6,9-trimethyl-3-pentyl-6H-
+delta-6a(7)-THC dibenzo[b,d]pyran-1-ol
+(6aR,9R,10aR)-6a,9,10,10a-tetrahydro-6,6,9-trimethyl-3-pentyl-6H-
+delta-7-THC dibenzo[b,d]pyran-1-ol
+(6aR,10aR)-6a,7,10,10a-tetrahydro-6,6,9-trimethyl-3-pentyl-6H-
+delta-8-THC dibenzo[b,d]pyran-1-ol
+delta-10-THC 6a,7,8,9-tetrahydro-6,6,9-trimethyl-3-pentyl-6H-dibenzo[b,d]pyran-1-ol
+(6aR,10aR)-6a,7,8,9,10,10a-hexahydro-6,6-dimethyl-9-methylene3-
+delta-9(11)-THC pentyl-6H-dibenzo[b,d]pyran-1-ol",2026-04-24T17:19:40.499545+00:00
+TMA,"(±)-3,4,5-trimethoxy-α-methylphenethylamine",Schedule I (1971),,"5 The stereoisomers of substances in Schedule I are also controlled, unless specifically excepted, whenever the existence of such stereoisomers is possible within the specific chemical designation.",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PT 006 TMA (±)-3,4,5-trimethoxy-α-methylphenethylamine
+5
+The stereoisomers of substances in Schedule I are also controlled, unless specifically excepted, whenever the existence of such stereoisomers is
+possible within the specific chemical designation.",2026-04-24T17:19:40.499545+00:00
+300-62-9,300-62-9 AMFETAMINE amphetamine (±)-α-methylphenethylamine,Schedule II (1971),300-62-9,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PA 003 300-62-9 AMFETAMINE amphetamine (±)-α-methylphenethylamine,2026-04-24T17:19:40.499545+00:00
+57574-09-1,"57574-09-1 AMINEPTINE 7-[(10,11-dihydro-5H-dibenzo[a,d]cyclohepten-",Schedule II (1971),57574-09-1,5-yl)amino]heptanoic acid,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PA 007 57574-09-1 AMINEPTINE 7-[(10,11-dihydro-5H-dibenzo[a,d]cyclohepten-
+5-yl)amino]heptanoic acid",2026-04-24T17:19:40.499545+00:00
+335161-24-5,"335161-24-5 AM-2201, JWH-2201 [1-(5-Fluoropentyl)-1H-indol-3-yl](naphthalen-",Schedule II (1971),335161-24-5,1-yl)methanone,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PA 008 335161-24-5 AM-2201, JWH-2201 [1-(5-Fluoropentyl)-1H-indol-3-yl](naphthalen-
+1-yl)methanone",2026-04-24T17:19:40.499545+00:00
+1400742-13-3,"1400742-13-3 5F-APINACA, 5F- N-(adamantan-1-yl)-1-(5-fluoropentyl)-1H-indazole-3-",Schedule II (1971),1400742-13-3,AKB-48 carboxamide,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PA 009 1400742-13-3 5F-APINACA, 5F- N-(adamantan-1-yl)-1-(5-fluoropentyl)-1H-indazole-3-
+AKB-48 carboxamide",2026-04-24T17:19:40.499545+00:00
+1801552-03-3,"1801552-03-3 5F-AMB, 5F-AMB- Methyl 2-({[1-(5-fluoropentyl)-1H-indazol-",Schedule II (1971),1801552-03-3,PINACA 3yl]carbonyl}amino)-3-methylbutanoate,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PA 010 1801552-03-3 5F-AMB, 5F-AMB- Methyl 2-({[1-(5-fluoropentyl)-1H-indazol-
+PINACA 3yl]carbonyl}amino)-3-methylbutanoate",2026-04-24T17:19:40.499545+00:00
+2682867-55-4,"2682867-55-4 ADB-BUTINACA N-[1-(aminocarbonyl)-2,2-dimethylpropyl]-1-butyl-",Schedule II (1971),2682867-55-4,1H-indazole-3-carboxamide,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PA 011 2682867-55-4 ADB-BUTINACA N-[1-(aminocarbonyl)-2,2-dimethylpropyl]-1-butyl-
+1H-indazole-3-carboxamide",2026-04-24T17:19:40.499545+00:00
+66142-81-2,"66142-81-2 2C-B 4-bromo-2,5-dimethoxyphenethylamine",Schedule II (1971),66142-81-2,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PB 008 66142-81-2 2C-B 4-bromo-2,5-dimethoxyphenethylamine",2026-04-24T17:19:40.499545+00:00
+1185887-21-1,1185887-21-1 AB-CHMINACA N-[(2S)-1-amino-3-methyl-oxobutan-2-yl]-1-,Schedule II (1971),1185887-21-1,(cyclohexylmethyl)-1H-indazole-3- carboxamide,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PC 011 1185887-21-1 AB-CHMINACA N-[(2S)-1-amino-3-methyl-oxobutan-2-yl]-1-
+(cyclohexylmethyl)-1H-indazole-3-
+carboxamide",2026-04-24T17:19:40.499545+00:00
+1631074-54-8,1631074-54-8 CUMYL-4CN-BINACA 1-(4-cyanobutyl)-N-(2-phenylpropan-2-yl)-1H-,Schedule II (1971),1631074-54-8,indazole-3-carboxamide,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PC 012 1631074-54-8 CUMYL-4CN-BINACA 1-(4-cyanobutyl)-N-(2-phenylpropan-2-yl)-1H-
+indazole-3-carboxamide",2026-04-24T17:19:40.499545+00:00
+1185887-13-1,"1185887-13-1 ADB-CHMINACA, N-[(2S)-1-amino-3,3-dimethyl-1-oxobutan-2-",Schedule II (1971),1185887-13-1,MAB-CHMINACA yl]-1-(cyclohexylmethyl)-1H-indazole-3- carboxamide,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PC 013 1185887-13-1 ADB-CHMINACA, N-[(2S)-1-amino-3,3-dimethyl-1-oxobutan-2-
+MAB-CHMINACA yl]-1-(cyclohexylmethyl)-1H-indazole-3-
+carboxamide",2026-04-24T17:19:40.499545+00:00
+1225843-86-6,1225843-86-6 4-CMC (4- clephedrone 1-(4-chlorophenyl)-2-(methylamino)-1-,Schedule II (1971),1225843-86-6,chloromethcathinone ) propanone,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PC 014 1225843-86-6 4-CMC (4- clephedrone 1-(4-chlorophenyl)-2-(methylamino)-1-
+chloromethcathinone ) propanone",2026-04-24T17:19:40.499545+00:00
+2160555-55-3,"2160555-55-3 CUMYL-PEGACLONE 5-Pentyl-2-(2-phenylpropan-2-yl)-2,5-dihydro-1H-",Schedule II (1971),2160555-55-3,"pyrido[4,3-b]indol-1-one",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PC 015 2160555-55-3 CUMYL-PEGACLONE 5-Pentyl-2-(2-phenylpropan-2-yl)-2,5-dihydro-1H-
+pyrido[4,3-b]indol-1-one",2026-04-24T17:19:40.499545+00:00
+1049677-59-9,1049677-59-9 3-chloromethcathinone 1-(3-chlorophenyl)-2-(methylamino)propan-1-one,Schedule II (1971),1049677-59-9,(3-CMC),https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PC 017 1049677-59-9 3-chloromethcathinone 1-(3-chlorophenyl)-2-(methylamino)propan-1-one
+(3-CMC)",2026-04-24T17:19:40.499545+00:00
+51-64-9,51-64-9 DEXAMFETAMINE dexamphetamine (+)-α-methylphenethylamine,Schedule II (1971),51-64-9,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PD 002 51-64-9 DEXAMFETAMINE dexamphetamine (+)-α-methylphenethylamine,2026-04-24T17:19:40.499545+00:00
+1972-08-3,"1972-08-3 delta-9-tetrahydro- (6aR,10aR)-6a,7,8,10a-tetrahydro-6,6,9-",Schedule II (1971),1972-08-3,"cannabinol and its trimethyl-3-pentyl-6H-dibenzo[b,d]pyran- stereochemical variants 1-ol",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PD 010 1972-08-3 delta-9-tetrahydro- (6aR,10aR)-6a,7,8,10a-tetrahydro-6,6,9-
+cannabinol and its trimethyl-3-pentyl-6H-dibenzo[b,d]pyran-
+stereochemical variants 1-ol",2026-04-24T17:19:40.499545+00:00
+36794-52-2,"36794-52-2 diphenidine 1-(1,2-Diphenylethyl)piperidine",Schedule II (1971),36794-52-2,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PD 012 36794-52-2 diphenidine 1-(1,2-Diphenylethyl)piperidine",2026-04-24T17:19:40.499545+00:00
+803614-36-0,"803614-36-0 dipentylone 1-(1,3-benzodioxol-5-yl)-2-(dimethylamino)pentan-1-one",Schedule II (1971),803614-36-0,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PD 014 803614-36-0 dipentylone 1-(1,3-benzodioxol-5-yl)-2-(dimethylamino)pentan-1-one",2026-04-24T17:19:40.499545+00:00
+1112937-64-0,"1112937-64-0 ethylone (RS)-1-(1,3-Benzodioxol-5-yl)-2-(ethylamino)propan-1-",Schedule II (1971),1112937-64-0,one,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PE 007 1112937-64-0 ethylone (RS)-1-(1,3-Benzodioxol-5-yl)-2-(ethylamino)propan-1-
+one",2026-04-24T17:19:40.499545+00:00
+57413-43-1,57413-43-1 ethylphenidate ethyl 2-phenyl-2-piperidin-2-ylacetate [1],Schedule II (1971),57413-43-1,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PE 008 57413-43-1 ethylphenidate ethyl 2-phenyl-2-piperidin-2-ylacetate [1],2026-04-24T17:19:40.499545+00:00
+802855-66-9,"802855-66-9 eutylone 1-(1,3-Benzodioxol-5-yl)-2-(ethylamino)butan-1-one",Schedule II (1971),802855-66-9,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PE 010 802855-66-9 eutylone 1-(1,3-Benzodioxol-5-yl)-2-(ethylamino)butan-1-one",2026-04-24T17:19:40.499545+00:00
+3736-08-1,3736-08-1 FENETYLLINE 7-[2-[(α-methylphenethyl)amino]ethyl]theophylline,Schedule II (1971),3736-08-1,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PF 005 3736-08-1 FENETYLLINE 7-[2-[(α-methylphenethyl)amino]ethyl]theophylline,2026-04-24T17:19:40.499545+00:00
+459-02-9,"459-02-9 4-fluoroamphetamine, 4- 1-(4-Fluorophenyl)propan-2-amine",Schedule II (1971),459-02-9,FA,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PF 007 459-02-9 4-fluoroamphetamine, 4- 1-(4-Fluorophenyl)propan-2-amine
+FA",2026-04-24T17:19:40.499545+00:00
+1971007-92-7,"1971007-92-7 FUB-AMB, MMB- Methyl(2S)-2-({1-[4-fluorophenyl]methyl-1H-",Schedule II (1971),1971007-92-7,"FUBINACA, AMB- indazole-3-carbonyl }amino)-3- FUBINACA methylbutanoate",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PF 008 1971007-92-7 FUB-AMB, MMB- Methyl(2S)-2-({1-[4-fluorophenyl]methyl-1H-
+FUBINACA, AMB- indazole-3-carbonyl }amino)-3-
+FUBINACA methylbutanoate",2026-04-24T17:19:40.499545+00:00
+1445583-51-6,"1445583-51-6 ADB-FUBINACA N-[(2S)-1-amino-3,3-dimethyl-1-oxobutan-2-",Schedule II (1971),1445583-51-6,yl]-1-[(4-fluorophenyl)methyl]-1H- indazole-3-carboxamide,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PF 009 1445583-51-6 ADB-FUBINACA N-[(2S)-1-amino-3,3-dimethyl-1-oxobutan-2-
+yl]-1-[(4-fluorophenyl)methyl]-1H-
+indazole-3-carboxamide",2026-04-24T17:19:40.499545+00:00
+1185282-01-2,1185282-01-2 AB-FUBINACA N-[(2S)-1-amino-3-methyl-1-oxobutan-2-yl]-1-,Schedule II (1971),1185282-01-2,[(4-fluorophenyl)methyl]indazole-3- carboxamide,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PF 010 1185282-01-2 AB-FUBINACA N-[(2S)-1-amino-3-methyl-1-oxobutan-2-yl]-1-
+[(4-fluorophenyl)methyl]indazole-3-
+carboxamide",2026-04-24T17:19:40.499545+00:00
+111982-50-4,111982-50-4 2- 2-(2-fluorophenyl)-2-(methylamino)cyclohexan-1-one,Schedule II (1971),111982-50-4,fluorodeschloroketamine 6 International Other non-proprietary,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PF 013 111982-50-4 2- 2-(2-fluorophenyl)-2-(methylamino)cyclohexan-1-one
+fluorodeschloroketamine
+6
+International Other non-proprietary",2026-04-24T17:19:40.499545+00:00
+591-81-1,591-81-1 gamma- GHB γ-hydroxybutyric acid,Schedule II (1971),591-81-1,HYDROXYBUTIRIC ACID,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PG 002 591-81-1 gamma- GHB γ-hydroxybutyric acid
+HYDROXYBUTIRIC
+ACID",2026-04-24T17:19:40.499545+00:00
+6692-85-9,"6692-85-9 HEXAHYDROCANNA 6,6,9-trimethyl-3-pentyl-6a,7,8,9,10,10a-",Schedule II (1971),6692-85-9,1972-09-04 BINOL (HHC) hexahydrobenzo[c]chromen- 1-ol,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PH003 6692-85-9 HEXAHYDROCANNA 6,6,9-trimethyl-3-pentyl-6a,7,8,9,10,10a-
+1972-09-04 BINOL (HHC) hexahydrobenzo[c]chromen-
+1-ol",2026-04-24T17:19:40.499545+00:00
+209414-07-3,"209414-07-3 JWH-018, AM-678 Naphthalene-1-yl(1-pentyl-1H-indol-3-",Schedule II (1971),209414-07-3,yl)methanone,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PJ 001 209414-07-3 JWH-018, AM-678 Naphthalene-1-yl(1-pentyl-1H-indol-3-
+yl)methanone",2026-04-24T17:19:40.499545+00:00
+156-34-3,156-34-3 LEVAMFETAMINE levamphetamine (–)-(R)-α-methylphenethylamine,Schedule II (1971),156-34-3,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PL 006 156-34-3 LEVAMFETAMINE levamphetamine (–)-(R)-α-methylphenethylamine,2026-04-24T17:19:40.499545+00:00
+33817-09-3,"33817-09-3 LEVMETAMFETAMINE levomethamphetamine (–)-N,α-dimethylphenethylamine",Schedule II (1971),33817-09-3,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PL 007 33817-09-3 LEVMETAMFETAMINE levomethamphetamine (–)-N,α-dimethylphenethylamine",2026-04-24T17:19:40.499545+00:00
+340-57-8,340-57-8 MECLOQUALONE 3-(o-chlorophenyl)-2-methyl-4(3H)-,Schedule II (1971),340-57-8,quinazolinone,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PM 002 340-57-8 MECLOQUALONE 3-(o-chlorophenyl)-2-methyl-4(3H)-
+quinazolinone",2026-04-24T17:19:40.499545+00:00
+537-46-2,"537-46-2 METAMFETAMINE methamphetamine (+)-(S)-N,α-dimethylphenethylamine",Schedule II (1971),537-46-2,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PM 005 537-46-2 METAMFETAMINE methamphetamine (+)-(S)-N,α-dimethylphenethylamine",2026-04-24T17:19:40.499545+00:00
+72-44-6,72-44-6 METHAQUALONE 2-methyl-3-o-tolyl-4(3H)-quinazolinone,Schedule II (1971),72-44-6,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PM 006 72-44-6 METHAQUALONE 2-methyl-3-o-tolyl-4(3H)-quinazolinone,2026-04-24T17:19:40.499545+00:00
+113-45-1,113-45-1 METHYLPHENIDATE methyl α-phenyl-2-piperidine acetate,Schedule II (1971),113-45-1,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PM 007 113-45-1 METHYLPHENIDATE methyl α-phenyl-2-piperidine acetate,2026-04-24T17:19:40.499545+00:00
+7632-10-2,"7632-10-2 METAMFETAMINE methamphetamine (±)-N,α-dimethylphenethylamine",Schedule II (1971),7632-10-2,RACEMATE racemate,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PM 015 7632-10-2 METAMFETAMINE methamphetamine (±)-N,α-dimethylphenethylamine
+RACEMATE racemate",2026-04-24T17:19:40.499545+00:00
+687603-66-3,"687603-66-3 MDPV, 3,4- (RS)-1-(Benzo[d][1,3]dioxol-5-yl)-2-",Schedule II (1971),687603-66-3,methylenedioxypyrovale (pyrrolidin-1-yl)pentan-1-one rone,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PM 021 687603-66-3 MDPV, 3,4- (RS)-1-(Benzo[d][1,3]dioxol-5-yl)-2-
+methylenedioxypyrovale (pyrrolidin-1-yl)pentan-1-one
+rone",2026-04-24T17:19:40.499545+00:00
+1189805-46-6,"1189805-46-6 mephedrone, 4- (RS)-2-methylamino-1-(4-methylphenyl)propan-",Schedule II (1971),1189805-46-6,methylmethcathinone 1-one,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PM 022 1189805-46-6 mephedrone, 4- (RS)-2-methylamino-1-(4-methylphenyl)propan-
+methylmethcathinone 1-one",2026-04-24T17:19:40.499545+00:00
+186028-79-5,"186028-79-5 methylone, beta-keto- (RS)-2-methylamino-1-(3,4-",Schedule II (1971),186028-79-5,MDMA methylenedioxyphenyl)propan-1-one,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PM 023 186028-79-5 methylone, beta-keto- (RS)-2-methylamino-1-(3,4-
+MDMA methylenedioxyphenyl)propan-1-one",2026-04-24T17:19:40.499545+00:00
+1239943-76-0,"1239943-76-0 methoxetamine, (RS)-2-(3-methoxyphenyl)-2-(ethylamino)-",Schedule II (1971),1239943-76-0,MXE cyclohexanone,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PM 024 1239943-76-0 methoxetamine, (RS)-2-(3-methoxyphenyl)-2-(ethylamino)-
+MXE cyclohexanone",2026-04-24T17:19:40.499545+00:00
+1863065-84-2,1863065-84-2 MDMB-CHMICA methyl 2-[[1-(cyclohexylmethyl)indole-3-,Schedule II (1971),1863065-84-2,"carbonyl]amino]-3,3dimethylbutanoate",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PM 025 1863065-84-2 MDMB-CHMICA methyl 2-[[1-(cyclohexylmethyl)indole-3-
+carbonyl]amino]-3,3dimethylbutanoate",2026-04-24T17:19:40.499545+00:00
+801156-47-8,"801156-47-8 methiopropamine, 1-(thiophen-2-yl)-2-methylaminopropane",Schedule II (1971),801156-47-8,MPA,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PM 026 801156-47-8 methiopropamine, 1-(thiophen-2-yl)-2-methylaminopropane
+MPA",2026-04-24T17:19:40.499545+00:00
+1225617-18-4,1225617-18-4 4-methylethcathi 2-(Ethylamino)-1-(4-methylphenyl)propan-1-one,Schedule II (1971),1225617-18-4,"none, 4-MEC",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PM 027 1225617-18-4 4-methylethcathi 2-(Ethylamino)-1-(4-methylphenyl)propan-1-one
+none, 4-MEC",2026-04-24T17:19:40.499545+00:00
+1971007-88-1,1971007-88-1 5F-MDMB-PICA Methyl(S)-2-(1-(5-fluoropentyl)-1H-indole-3-,Schedule II (1971),1971007-88-1,"carboxamido)-3,3-dimethylbutanoate",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PM 028 1971007-88-1 5F-MDMB-PICA Methyl(S)-2-(1-(5-fluoropentyl)-1H-indole-3-
+carboxamido)-3,3-dimethylbutanoate",2026-04-24T17:19:40.499545+00:00
+2390036-46-9,2390036-46-9 4F-MDMB-BINACA Methyl(S)-2-(1-(4-fluorobutyl)-1H-indazole-3-,Schedule II (1971),2390036-46-9,"carboxamido)-3,3-dimethylbutanoate",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PM 029 2390036-46-9 4F-MDMB-BINACA Methyl(S)-2-(1-(4-fluorobutyl)-1H-indazole-3-
+carboxamido)-3,3-dimethylbutanoate",2026-04-24T17:19:40.499545+00:00
+2504100-70-1,"2504100-70-1 MDMB-4en-PINACA Methyl 3,3-dimethyl-2-(1- (pent-4-en-1-yl)-1H-",Schedule II (1971),2504100-70-1,indazole-3- carboxamido)butanoate,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PM 030 2504100-70-1 MDMB-4en-PINACA Methyl 3,3-dimethyl-2-(1- (pent-4-en-1-yl)-1H-
+indazole-3- carboxamido)butanoate",2026-04-24T17:19:40.499545+00:00
+72242-03-06,72242-03-06 3-Methoxy 1-(1-(3-Methoxyphenyl)cyclohexyl)piperidine,Schedule II (1971),,phencyclidine,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PM 031 72242-03-06 3-Methoxy 1-(1-(3-Methoxyphenyl)cyclohexyl)piperidine
+phencyclidine",2026-04-24T17:19:40.499545+00:00
+1246816-62-5,"1246816-62-5 3-MMC 3-Methylmethcathinone,",Schedule II (1971),1246816-62-5,1-(3-Methylphenyl)-2-(methylamino)propane-1-one,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PM 032 1246816-62-5 3-MMC 3-Methylmethcathinone,
+1-(3-Methylphenyl)-2-(methylamino)propane-1-one",2026-04-24T17:19:40.499545+00:00
+2759-28-6,2759-28-6 N-benzyl 1-benzylpiperazine,Schedule II (1971),2759-28-6,"piperazine, benzylpiperazine, BZP",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PN 009 2759-28-6 N-benzyl 1-benzylpiperazine
+piperazine,
+benzylpiperazine, BZP",2026-04-24T17:19:40.499545+00:00
+952016-47-6,"952016-47-6 N-ethyl 1-(2H-1,3-benzodioxol-5-yl)-2-",Schedule II (1971),952016-47-6,norpentylone (ethylamino)pentan-1-one,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PN 010 952016-47-6 N-ethyl 1-(2H-1,3-benzodioxol-5-yl)-2-
+norpentylone (ethylamino)pentan-1-one",2026-04-24T17:19:40.499545+00:00
+802857-66-5,802857-66-5 N-ethylhexedrone 2-(Ethylamino)-1-phenyl-1-hexanone,Schedule II (1971),802857-66-5,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PN 011 802857-66-5 N-ethylhexedrone 2-(Ethylamino)-1-phenyl-1-hexanone,2026-04-24T17:19:40.499545+00:00
+77-10-1,77-10-1 PHENCYCLIDINE PCP 1-(1-phenylcyclohexyl)piperidine,Schedule II (1971),77-10-1,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PP 005 77-10-1 PHENCYCLIDINE PCP 1-(1-phenylcyclohexyl)piperidine,2026-04-24T17:19:40.499545+00:00
+134-49-6,134-49-6 PHENMETRAZINE 3-methyl-2-phenylmorpholine,Schedule II (1971),134-49-6,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PP 006 134-49-6 PHENMETRAZINE 3-methyl-2-phenylmorpholine,2026-04-24T17:19:40.499545+00:00
+1715016-75-3,"1715016-75-3 5F-ADB, 5F-MDMB- Methyl(2S)-2-{[1-(fluoropentyl)-1H-indazole-3-",Schedule II (1971),1715016-75-3,"PINACA carbonyl]amino}-3,3-dimethylbutanoate",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PP 011 1715016-75-3 5F-ADB, 5F-MDMB- Methyl(2S)-2-{[1-(fluoropentyl)-1H-indazole-3-
+PINACA carbonyl]amino}-3,3-dimethylbutanoate",2026-04-24T17:19:40.499545+00:00
+1445752-09-9,1445752-09-9 AB-PINACA N-[(2S)-1-Amino-3-methyl-1-oxobutan-2-yl]-1- pentyl-,Schedule II (1971),1445752-09-9,1H-indazole-3-carboxamide,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PP 018 1445752-09-9 AB-PINACA N-[(2S)-1-Amino-3-methyl-1-oxobutan-2-yl]-1- pentyl-
+1H-indazole-3-carboxamide",2026-04-24T17:19:40.499545+00:00
+14530-33-7,14530-33-7 alpha-PVP α-pyrrolidinovalerophenone,Schedule II (1971),14530-33-7,7 International Other non-proprietary,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PP 022 14530-33-7 alpha-PVP α-pyrrolidinovalerophenone
+7
+International Other non-proprietary",2026-04-24T17:19:40.499545+00:00
+1445569-01-6,"1445569-01-6 para-Methyl-4- 4-Methyl-5-(4-methylphenyl)-4,5-dihydro-1,3-oxazol-2-",Schedule II (1971),1445569-01-6,"methylaminorex, 4,4’- amine DMAR",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PP 023 1445569-01-6 para-Methyl-4- 4-Methyl-5-(4-methylphenyl)-4,5-dihydro-1,3-oxazol-2-
+methylaminorex, 4,4’- amine
+DMAR",2026-04-24T17:19:40.499545+00:00
+879722-57-3,879722-57-3 pentedrone (±)-2-(methylamino)-1-phenylpentan-1-one,Schedule II (1971),879722-57-3,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PP 025 879722-57-3 pentedrone (±)-2-(methylamino)-1-phenylpentan-1-one,2026-04-24T17:19:40.499545+00:00
+1400742-41-7,1400742-41-7 5F-PB-22 Quinolin-8-yl 1-(5-fluoropentyl)-1H-indole-3-,Schedule II (1971),1400742-41-7,carboxylate,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PP 026 1400742-41-7 5F-PB-22 Quinolin-8-yl 1-(5-fluoropentyl)-1H-indole-3-
+carboxylate",2026-04-24T17:19:40.499545+00:00
+13415-86-6,13415-86-6 alpha-PHP (RS)-1-Phenyl-2-(pyrrolidin-1-yl)hexan-1-one,Schedule II (1971),13415-86-6,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PP 027 13415-86-6 alpha-PHP (RS)-1-Phenyl-2-(pyrrolidin-1-yl)hexan-1-one,2026-04-24T17:19:40.499545+00:00
+2181620-71-1,2181620-71-1 alpha-PiHP 4-methyl-1-phenyl-2-(pyrrolidin-1-yl)pentan-1-one,Schedule II (1971),2181620-71-1,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PP 028 2181620-71-1 alpha-PiHP 4-methyl-1-phenyl-2-(pyrrolidin-1-yl)pentan-1-one,2026-04-24T17:19:40.499545+00:00
+76-73-3,76-73-3 SECOBARBITAL 5-allyl-5-(1-methylbutyl)barbituric acid,Schedule II (1971),76-73-3,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PS 001 76-73-3 SECOBARBITAL 5-allyl-5-(1-methylbutyl)barbituric acid,2026-04-24T17:19:40.499545+00:00
+1199943-44-6,"1199943-44-6 UR-144 (1-Pentyl-1H-indol-3-yl)(2,2,3,3-",Schedule II (1971),1199943-44-6,tetramethylcyclopropoyl)methanone,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PU 001 1199943-44-6 UR-144 (1-Pentyl-1H-indol-3-yl)(2,2,3,3-
+tetramethylcyclopropoyl)methanone",2026-04-24T17:19:40.499545+00:00
+1364933-54-9,1364933-54-9 XLR-11 [1-(5-Fluoropentyl)-1H-indol-3-,Schedule II (1971),1364933-54-9,"yl](2,2,3,3tetramethylcyclopropyl)methanone",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PX 001 1364933-54-9 XLR-11 [1-(5-Fluoropentyl)-1H-indol-3-
+yl](2,2,3,3tetramethylcyclopropyl)methanone",2026-04-24T17:19:40.499545+00:00
+34758-83-3,34758-83-3 ZIPEPROL α-(α-methoxybenzyl)-4-(β-methoxyphenethyl)-,Schedule II (1971),34758-83-3,1-piperazineethanol 8,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PZ 001 34758-83-3 ZIPEPROL α-(α-methoxybenzyl)-4-(β-methoxyphenethyl)-
+1-piperazineethanol
+8",2026-04-24T17:19:40.499545+00:00
+57-43-2,57-43-2 AMOBARBITAL 5-ethyl-5-isopentylbarbituric acid,Schedule III (1971),57-43-2,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PA 002 57-43-2 AMOBARBITAL 5-ethyl-5-isopentylbarbituric acid,2026-04-24T17:19:40.499545+00:00
+77-26-9,77-26-9 BUTALBITAL 5-allyl-5-isobutylbarbituric acid,Schedule III (1971),77-26-9,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PB 004 77-26-9 BUTALBITAL 5-allyl-5-isobutylbarbituric acid,2026-04-24T17:19:40.499545+00:00
+52485-79-7,"52485-79-7 BUPRENORPHINE 2l-cyclopropyl-7-α-[(S)-1-hydroxy-1,2,2-",Schedule III (1971),52485-79-7,"trimethylpropyl]-6,14-endo-ethano-6,7,8,14- tetrahydrooripavine",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PB 006 52485-79-7 BUPRENORPHINE 2l-cyclopropyl-7-α-[(S)-1-hydroxy-1,2,2-
+trimethylpropyl]-6,14-endo-ethano-6,7,8,14-
+tetrahydrooripavine",2026-04-24T17:19:40.499545+00:00
+52-31-3,52-31-3 CYCLOBARBITAL 5-(1-cyclohexen-1-yl)-5-ethylbarbituric acid,Schedule III (1971),52-31-3,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PC 001 52-31-3 CYCLOBARBITAL 5-(1-cyclohexen-1-yl)-5-ethylbarbituric acid,2026-04-24T17:19:40.499545+00:00
+492-39-7,492-39-7 CATHINE (+)-norpseudoephedrine (+)-(S)-α-[(S)-1-aminoethyl]benzyl alcohol,Schedule III (1971),492-39-7,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PC 009 492-39-7 CATHINE (+)-norpseudoephedrine (+)-(S)-α-[(S)-1-aminoethyl]benzyl alcohol,2026-04-24T17:19:40.499545+00:00
+1622-62-4,"1622-62-4 FLUNITRAZEPAM 5-(o-fluorophenyl)-1,3-dihydro-1-methyl-7-nitro-2H-",Schedule III (1971),1622-62-4,"1,4-benzodiazepin-2-one",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PF 002 1622-62-4 FLUNITRAZEPAM 5-(o-fluorophenyl)-1,3-dihydro-1-methyl-7-nitro-2H-
+1,4-benzodiazepin-2-one",2026-04-24T17:19:40.499545+00:00
+77-21-4,77-21-4 GLUTETHIMIDE 2-ethyl-2-phenylglutarimide,Schedule III (1971),77-21-4,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PG 001 77-21-4 GLUTETHIMIDE 2-ethyl-2-phenylglutarimide,2026-04-24T17:19:40.499545+00:00
+76-74-4,76-74-4 PENTOBARBITAL 5-ethyl-5-(1-methylbutyl)barbituric acid,Schedule III (1971),76-74-4,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PP 002 76-74-4 PENTOBARBITAL 5-ethyl-5-(1-methylbutyl)barbituric acid,2026-04-24T17:19:40.499545+00:00
+359-83-1,"359-83-1 PENTAZOCINE (2R*,6R*,11R*)-1,2,3,4,5,6-hexahydro-6,11-",Schedule III (1971),359-83-1,"dimethyl-3-(3-methyl-2-butenyl)-2,6-methano- 3-benzazocin-8-ol 9",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PP 014 359-83-1 PENTAZOCINE (2R*,6R*,11R*)-1,2,3,4,5,6-hexahydro-6,11-
+dimethyl-3-(3-methyl-2-butenyl)-2,6-methano-
+3-benzazocin-8-ol
+9",2026-04-24T17:19:40.499545+00:00
+134-80-5,134-80-5 AMFEPRAMONE diethylpropion 2-(diethylamino)propiophenone,Schedule IV (1971),134-80-5,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PA 001 134-80-5 AMFEPRAMONE diethylpropion 2-(diethylamino)propiophenone,2026-04-24T17:19:40.499545+00:00
+28981-97-7,"28981-97-7 ALPRAZOLAM 8-chloro-1-methyl-6-phenyl-4H-s-triazolo[4,3-",Schedule IV (1971),28981-97-7,"a][1,4]benzodiazepine",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PA 004 28981-97-7 ALPRAZOLAM 8-chloro-1-methyl-6-phenyl-4H-s-triazolo[4,3-
+a][1,4]benzodiazepine",2026-04-24T17:19:40.499545+00:00
+52-43-7,"52-43-7 ALLOBARBITAL 5,5-diallylbarbituric acid",Schedule IV (1971),52-43-7,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PA 005 52-43-7 ALLOBARBITAL 5,5-diallylbarbituric acid",2026-04-24T17:19:40.499545+00:00
+2207-50-3,2207-50-3 AMINOREX 2-amino-5-phenyl-2-oxazoline,Schedule IV (1971),2207-50-3,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PA 006 2207-50-3 AMINOREX 2-amino-5-phenyl-2-oxazoline,2026-04-24T17:19:40.499545+00:00
+57-44-3,"57-44-3 BARBITAL 5,5-diethylbarbituric acid",Schedule IV (1971),57-44-3,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PB 001 57-44-3 BARBITAL 5,5-diethylbarbituric acid",2026-04-24T17:19:40.499545+00:00
+156-08-1,"156-08-1 BENZFETAMINE benzphetamine N-benzyl-N,α-dimethylphenethylamine",Schedule IV (1971),156-08-1,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PB 002 156-08-1 BENZFETAMINE benzphetamine N-benzyl-N,α-dimethylphenethylamine",2026-04-24T17:19:40.499545+00:00
+1812-30-2,"1812-30-2 BROMAZEPAM 7-bromo-1,3-dihydro-5-(2-pyridyl)-2H-1,4-",Schedule IV (1971),1812-30-2,benzodiazepin-2-one,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PB 003 1812-30-2 BROMAZEPAM 7-bromo-1,3-dihydro-5-(2-pyridyl)-2H-1,4-
+benzodiazepin-2-one",2026-04-24T17:19:40.499545+00:00
+77-28-1,77-28-1 butobarbital 5-butyl-5-ethylbarbituric acid,Schedule IV (1971),77-28-1,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PB 005 77-28-1 butobarbital 5-butyl-5-ethylbarbituric acid,2026-04-24T17:19:40.499545+00:00
+57801-81-7,"57801-81-7 BROTIZOLAM 2-bromo-4-(o-chlorophenyl)-9-methyl-6H-thieno[3,2-",Schedule IV (1971),57801-81-7,"f]-s-triazolo[4,3-a][1,4]diazepine",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PB 007 57801-81-7 BROTIZOLAM 2-bromo-4-(o-chlorophenyl)-9-methyl-6H-thieno[3,2-
+f]-s-triazolo[4,3-a][1,4]diazepine",2026-04-24T17:19:40.499545+00:00
+71368-80-4,"71368-80-4 bromazolam 8-bromo-1-methyl-6-phenyl-4H-[1,2,4]triazolo[4,3-",Schedule IV (1971),71368-80-4,"a][1,4]benzodiazepine",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PB 009 71368-80-4 bromazolam 8-bromo-1-methyl-6-phenyl-4H-[1,2,4]triazolo[4,3-
+a][1,4]benzodiazepine",2026-04-24T17:19:40.499545+00:00
+36104-80-0,"36104-80-0 CAMAZEPAM 7-chloro-1,3-dihydro-3-hydroxy-1-methyl-5-phenyl-",Schedule IV (1971),36104-80-0,"2H-1,4-benzodiazepin-2- one dimethylcarbamate (ester)",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PC 002 36104-80-0 CAMAZEPAM 7-chloro-1,3-dihydro-3-hydroxy-1-methyl-5-phenyl-
+2H-1,4-benzodiazepin-2-
+one dimethylcarbamate (ester)",2026-04-24T17:19:40.499545+00:00
+78-44-4,78-44-4 CARISOPRODOL 2-[(carbamoyloxy)methyl]-2-methylpentyl(1-,Schedule IV (1971),78-44-4,methylethyl)carbamate,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PC018 78-44-4 CARISOPRODOL 2-[(carbamoyloxy)methyl]-2-methylpentyl(1-
+methylethyl)carbamate",2026-04-24T17:19:40.499545+00:00
+58-25-3,"58-25-3 CHLORDIAZEPOXIDE 7-chloro-2-(methylamino)-5-phenyl-3H-1,4-",Schedule IV (1971),58-25-3,benzodiazepine-4-oxide,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PC 003 58-25-3 CHLORDIAZEPOXIDE 7-chloro-2-(methylamino)-5-phenyl-3H-1,4-
+benzodiazepine-4-oxide",2026-04-24T17:19:40.499545+00:00
+22316-47-8,"22316-47-8 CLOBAZAM 7-chloro-1-methyl-5-phenyl-1H-1,5-benzodiazepine-",Schedule IV (1971),22316-47-8,"2,4(3H,5H)-dione",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PC 004 22316-47-8 CLOBAZAM 7-chloro-1-methyl-5-phenyl-1H-1,5-benzodiazepine-
+2,4(3H,5H)-dione",2026-04-24T17:19:40.499545+00:00
+1622-61-3,"1622-61-3 CLONAZEPAM 5-(o-chlorophenyl)-1,3-dihydro-7-nitro-2H-1,4-",Schedule IV (1971),1622-61-3,benzodiazepin-2-one,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PC 005 1622-61-3 CLONAZEPAM 5-(o-chlorophenyl)-1,3-dihydro-7-nitro-2H-1,4-
+benzodiazepin-2-one",2026-04-24T17:19:40.499545+00:00
+23887-31-2,"23887-31-2 CLORAZEPATE 7-chloro-2,3-dihydro-2-oxo-5-phenyl-1H-1,4-",Schedule IV (1971),23887-31-2,benzodiazepine-3-carboxylic acid,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PC 006 23887-31-2 CLORAZEPATE 7-chloro-2,3-dihydro-2-oxo-5-phenyl-1H-1,4-
+benzodiazepine-3-carboxylic acid",2026-04-24T17:19:40.499545+00:00
+33671-46-4,"33671-46-4 CLOTIAZEPAM 5-(o-chlorophenyl)-7-ethyl-1,3-dihydro-1-methyl-2H-",Schedule IV (1971),33671-46-4,"thieno[2,3-e]-1,4-diazepin-2-one",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PC 007 33671-46-4 CLOTIAZEPAM 5-(o-chlorophenyl)-7-ethyl-1,3-dihydro-1-methyl-2H-
+thieno[2,3-e]-1,4-diazepin-2-one",2026-04-24T17:19:40.499545+00:00
+24166-13-0,"24166-13-0 CLOXAZOLAM 10-chloro-11b-(o-chlorophenyl)-2,3,7,11b-tetrahydro-",Schedule IV (1971),24166-13-0,"oxazolo-[3,2-d][1,4]benzodiazepin-6(5H)-one",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PC 008 24166-13-0 CLOXAZOLAM 10-chloro-11b-(o-chlorophenyl)-2,3,7,11b-tetrahydro-
+oxazolo-[3,2-d][1,4]benzodiazepin-6(5H)-one",2026-04-24T17:19:40.499545+00:00
+33887-0-4,33887-0-4 clonazolam 6-(2-Chlorophenyl)-1-methyl-8-nitro-4H-,Schedule IV (1971),,"benzo[f][1,2,4]triazolo[4,3-a][1,4]diazepine",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PC 016 33887-0-4 clonazolam 6-(2-Chlorophenyl)-1-methyl-8-nitro-4H-
+benzo[f][1,2,4]triazolo[4,3-a][1,4]diazepine",2026-04-24T17:19:40.499545+00:00
+2894-67-9,"2894-67-9 DELORAZEPAM 7-chloro-5-(o-chlorophenyl)-1,3-dihydro-2H-1,4-",Schedule IV (1971),2894-67-9,benzodiazepin-2-one,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PD 005 2894-67-9 DELORAZEPAM 7-chloro-5-(o-chlorophenyl)-1,3-dihydro-2H-1,4-
+benzodiazepin-2-one",2026-04-24T17:19:40.499545+00:00
+439-14-5,"439-14-5 DIAZEPAM 7-chloro-1,3-dihydro-1-methyl-5-phenyl-2H-1,4-",Schedule IV (1971),439-14-5,benzodiazepin-2-one,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PD 006 439-14-5 DIAZEPAM 7-chloro-1,3-dihydro-1-methyl-5-phenyl-2H-1,4-
+benzodiazepin-2-one",2026-04-24T17:19:40.499545+00:00
+2894-68-0,"2894-68-0 diclazepam, 7-Chloro-5-(2-chlorophenyl)-1-methyl-1,3-dihydro-2H-",Schedule IV (1971),2894-68-0,"chlorodiazepam benzo[e][1,4]diazepin2-one",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PD 013 2894-68-0 diclazepam, 7-Chloro-5-(2-chlorophenyl)-1-methyl-1,3-dihydro-2H-
+chlorodiazepam benzo[e][1,4]diazepin2-one",2026-04-24T17:19:40.499545+00:00
+113-18-8,113-18-8 ETHCHLORVYNOL 1-chloro-3-ethyl-1-penten-4-yn-3-ol,Schedule IV (1971),113-18-8,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PE 001 113-18-8 ETHCHLORVYNOL 1-chloro-3-ethyl-1-penten-4-yn-3-ol,2026-04-24T17:19:40.499545+00:00
+126-52-3,126-52-3 ETHINAMATE 1-ethynylcyclohexanolcarbamate,Schedule IV (1971),126-52-3,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PE 002 126-52-3 ETHINAMATE 1-ethynylcyclohexanolcarbamate,2026-04-24T17:19:40.499545+00:00
+29975-16-4,"29975-16-4 ESTAZOLAM 8-chloro-6-phenyl-4H-s-triazolo[4,3-",Schedule IV (1971),29975-16-4,"a][1,4]benzodiazepine",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PE 003 29975-16-4 ESTAZOLAM 8-chloro-6-phenyl-4H-s-triazolo[4,3-
+a][1,4]benzodiazepine",2026-04-24T17:19:40.499545+00:00
+29177-84-2,"29177-84-2 ETHYL LOFLAZEPATE ethyl 7-chloro-5-(o-fluorophenyl)-2,3-dihydro-2-oxo-",Schedule IV (1971),29177-84-2,"1H-1,4-benzodiazepine-3-carboxylate",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PE 004 29177-84-2 ETHYL LOFLAZEPATE ethyl 7-chloro-5-(o-fluorophenyl)-2,3-dihydro-2-oxo-
+1H-1,4-benzodiazepine-3-carboxylate",2026-04-24T17:19:40.499545+00:00
+457-87-4,457-87-4 ETILAMFETAMINE N-ethylamphetamine N-ethyl-α-methylphenethylamine,Schedule IV (1971),457-87-4,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PE 005 457-87-4 ETILAMFETAMINE N-ethylamphetamine N-ethyl-α-methylphenethylamine,2026-04-24T17:19:40.499545+00:00
+40054-69-1,"40054-69-1 ETIZOLAM 4-(2-Chlorophenyl)-2-ethyl-9-methyl-6H-thieno[3,2-",Schedule IV (1971),40054-69-1,"f][1,2,4]triazolo[4,3a][1,4]diazepine",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PE 009 40054-69-1 ETIZOLAM 4-(2-Chlorophenyl)-2-ethyl-9-methyl-6H-thieno[3,2-
+f][1,2,4]triazolo[4,3a][1,4]diazepine",2026-04-24T17:19:40.499545+00:00
+3900-31-0,"3900-31-0 FLUDIAZEPAM 7-chloro-5-(o-fluorophenyl)-1,3-dihydro-1-methyl-2H-",Schedule IV (1971),3900-31-0,"1,4-benzodiazepin-2-one",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PF 001 3900-31-0 FLUDIAZEPAM 7-chloro-5-(o-fluorophenyl)-1,3-dihydro-1-methyl-2H-
+1,4-benzodiazepin-2-one",2026-04-24T17:19:40.499545+00:00
+17617-23-1,17617-23-1 FLURAZEPAM 7-chloro-1-[2-(diethylamino)ethyl]-5-(o-fluorophenyl)-,Schedule IV (1971),17617-23-1,"1,3-dihydro-2H-1,4-benzodiazepin-2-one",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PF 003 17617-23-1 FLURAZEPAM 7-chloro-1-[2-(diethylamino)ethyl]-5-(o-fluorophenyl)-
+1,3-dihydro-2H-1,4-benzodiazepin-2-one",2026-04-24T17:19:40.499545+00:00
+1209-98-9,1209-98-9 FENCAMFAMIN N-ethyl-3-phenyl-2-norbornanamine,Schedule IV (1971),1209-98-9,10 International Other non-proprietary,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PF 004 1209-98-9 FENCAMFAMIN N-ethyl-3-phenyl-2-norbornanamine
+10
+International Other non-proprietary",2026-04-24T17:19:40.499545+00:00
+16397-28-7,16397-28-7 FENPROPOREX (±)-3-[(α-methylphenylethyl)amino]propionitrile,Schedule IV (1971),16397-28-7,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PF 006 16397-28-7 FENPROPOREX (±)-3-[(α-methylphenylethyl)amino]propionitrile,2026-04-24T17:19:40.499545+00:00
+28910-91-0,28910-91-0 flualprazolam 8-Chloro-6-(2-fluoro-phenyl)-1-methyl-4h-,Schedule IV (1971),28910-91-0,"benzo[f][1,2,4]triazolo[4,3-a][1,4]diazepime",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PF 011 28910-91-0 flualprazolam 8-Chloro-6-(2-fluoro-phenyl)-1-methyl-4h-
+benzo[f][1,2,4]triazolo[4,3-a][1,4]diazepime",2026-04-24T17:19:40.499545+00:00
+612526-40-6,612526-40-6 flubromazolam 8-Bromo-6-(2-fluorophenyl)-1-methyl-4H-,Schedule IV (1971),612526-40-6,"benzo[f][1,2,4]triazolo[4,3-a][1,4]diazepine",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PF 012 612526-40-6 flubromazolam 8-Bromo-6-(2-fluorophenyl)-1-methyl-4H-
+benzo[f][1,2,4]triazolo[4,3-a][1,4]diazepine",2026-04-24T17:19:40.499545+00:00
+23092-17-3,"23092-17-3 HALAZEPAM 7-chloro-1,3-dihydro-5-phenyl-1-(2,2,2-trifluoroethyl)-",Schedule IV (1971),23092-17-3,"2H-1,4-benzodiazepin-2-one",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PH 001 23092-17-3 HALAZEPAM 7-chloro-1,3-dihydro-5-phenyl-1-(2,2,2-trifluoroethyl)-
+2H-1,4-benzodiazepin-2-one",2026-04-24T17:19:40.499545+00:00
+59128-97-1,"59128-97-1 HALOXAZOLAM 10-bromo-11b-(o-fluorophenyl)-2,3,7,11b-",Schedule IV (1971),59128-97-1,"tetrahydrooxazolo[3,2-d] [1,4]benzodiazepin- 6(5H)-one",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PH 002 59128-97-1 HALOXAZOLAM 10-bromo-11b-(o-fluorophenyl)-2,3,7,11b-
+tetrahydrooxazolo[3,2-d] [1,4]benzodiazepin-
+6(5H)-one",2026-04-24T17:19:40.499545+00:00
+27223-35-4,"27223-35-4 KETAZOLAM 11-chloro-8,12b-dihydro-2,8-dimethyl-12b-phenyl-4H-",Schedule IV (1971),27223-35-4,"[1,3]oxazino[3,2-d][1,4]benzodiazepin-4,7(6H)- dione",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PK 001 27223-35-4 KETAZOLAM 11-chloro-8,12b-dihydro-2,8-dimethyl-12b-phenyl-4H-
+[1,3]oxazino[3,2-d][1,4]benzodiazepin-4,7(6H)-
+dione",2026-04-24T17:19:40.499545+00:00
+7262-75-1,"7262-75-1 LEFETAMINE SPA (–)-N,N-dimethyl-1,2-diphenylethylamine",Schedule IV (1971),7262-75-1,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PL 001 7262-75-1 LEFETAMINE SPA (–)-N,N-dimethyl-1,2-diphenylethylamine",2026-04-24T17:19:40.499545+00:00
+61197-73-7,"61197-73-7 LOPRAZOLAM 6-(o-chlorophenyl)-2,4-dihydro-2-[(4-methyl-1-",Schedule IV (1971),61197-73-7,"piperazinyl)methylene]-8-nitro-1H-imidazo[1,2- a][1,4]benzodiazepin-1-one",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PL 003 61197-73-7 LOPRAZOLAM 6-(o-chlorophenyl)-2,4-dihydro-2-[(4-methyl-1-
+piperazinyl)methylene]-8-nitro-1H-imidazo[1,2-
+a][1,4]benzodiazepin-1-one",2026-04-24T17:19:40.499545+00:00
+846-49-1,"846-49-1 LORAZEPAM 7-chloro-5-(o-chlorophenyl)-1,3-dihydro-3-hydroxy-2H-",Schedule IV (1971),846-49-1,"1,4-benzodiazepin-2-one",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PL 004 846-49-1 LORAZEPAM 7-chloro-5-(o-chlorophenyl)-1,3-dihydro-3-hydroxy-2H-
+1,4-benzodiazepin-2-one",2026-04-24T17:19:40.499545+00:00
+848-75-9,"848-75-9 LORMETAZEPAM 7-chloro-5-(o-chlorophenyl)-1,3-dihydro-3-hydroxy-1-",Schedule IV (1971),848-75-9,"methyl-2H-1,4-benzodiazepin-2-one",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PL 005 848-75-9 LORMETAZEPAM 7-chloro-5-(o-chlorophenyl)-1,3-dihydro-3-hydroxy-1-
+methyl-2H-1,4-benzodiazepin-2-one",2026-04-24T17:19:40.499545+00:00
+22232-71-9,"22232-71-9 MAZINDOL 5-(p-chlorophenyl)-2,5-dihydro-3H-imidazo[2,1-",Schedule IV (1971),22232-71-9,a]isoindol-5-ol,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PM 001 22232-71-9 MAZINDOL 5-(p-chlorophenyl)-2,5-dihydro-3H-imidazo[2,1-
+a]isoindol-5-ol",2026-04-24T17:19:40.499545+00:00
+57-53-4,"57-53-4 MEPROBAMATE 2-methyl-2-propyl-1,3-propanedioldicarbamate",Schedule IV (1971),57-53-4,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PM 003 57-53-4 MEPROBAMATE 2-methyl-2-propyl-1,3-propanedioldicarbamate",2026-04-24T17:19:40.499545+00:00
+115-38-8,115-38-8 METHYLPHENOBARBITAL 5-ethyl-1-methyl-5-phenylbarbituric acid,Schedule IV (1971),115-38-8,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PM 008 115-38-8 METHYLPHENOBARBITAL 5-ethyl-1-methyl-5-phenylbarbituric acid,2026-04-24T17:19:40.499545+00:00
+125-64-4,"125-64-4 METHYPRYLON 3,3-diethyl-5-methyl-2,4-piperidine-dione",Schedule IV (1971),125-64-4,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PM 009 125-64-4 METHYPRYLON 3,3-diethyl-5-methyl-2,4-piperidine-dione",2026-04-24T17:19:40.499545+00:00
+2898-12-6,"2898-12-6 MEDAZEPAM 7-chloro-2,3-dihydro-1-methyl-5-phenyl-1H-1,4-",Schedule IV (1971),2898-12-6,benzodiazepine,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PM 010 2898-12-6 MEDAZEPAM 7-chloro-2,3-dihydro-1-methyl-5-phenyl-1H-1,4-
+benzodiazepine",2026-04-24T17:19:40.499545+00:00
+17243-57-1,17243-57-1 MEFENOREX N-(3-chloropropyl)-α-methylphenethylamine,Schedule IV (1971),17243-57-1,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PM 012 17243-57-1 MEFENOREX N-(3-chloropropyl)-α-methylphenethylamine,2026-04-24T17:19:40.499545+00:00
+59467-70-8,59467-70-8 MIDAZOLAM 8-chloro-6-(o-fluorophenyl)-1-methyl-4H-,Schedule IV (1971),59467-70-8,"imidazo[1,5- a][1,4]benzodiazepine",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PM 016 59467-70-8 MIDAZOLAM 8-chloro-6-(o-fluorophenyl)-1-methyl-4H-
+imidazo[1,5- a][1,4]benzodiazepine",2026-04-24T17:19:40.499545+00:00
+34262-84-5,34262-84-5 MESOCARB 3-(α-methylphenethyl)-N-,Schedule IV (1971),34262-84-5,(phenylcarbamoyl)sydnone imine,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PM 018 34262-84-5 MESOCARB 3-(α-methylphenethyl)-N-
+(phenylcarbamoyl)sydnone imine",2026-04-24T17:19:40.499545+00:00
+2011-67-8,"2011-67-8 NIMETAZEPAM 1,3-dihydro-1-methyl-7-nitro-5-phenyl-2H-1,4-",Schedule IV (1971),2011-67-8,benzodiazepin-2-one,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PN 001 2011-67-8 NIMETAZEPAM 1,3-dihydro-1-methyl-7-nitro-5-phenyl-2H-1,4-
+benzodiazepin-2-one",2026-04-24T17:19:40.499545+00:00
+146-22-5,"146-22-5 NITRAZEPAM 1,3-dihydro-7-nitro-5-phenyl-2H-1,4-benzodiazepin-",Schedule IV (1971),146-22-5,2-one,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PN 002 146-22-5 NITRAZEPAM 1,3-dihydro-7-nitro-5-phenyl-2H-1,4-benzodiazepin-
+2-one",2026-04-24T17:19:40.499545+00:00
+1088-11-5,"1088-11-5 NORDAZEPAM 7-chloro-1,3-dihydro-5-phenyl-2H-1,4-",Schedule IV (1971),1088-11-5,benzodiazepin-2-one,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PN 003 1088-11-5 NORDAZEPAM 7-chloro-1,3-dihydro-5-phenyl-2H-1,4-
+benzodiazepin-2-one",2026-04-24T17:19:40.499545+00:00
+604-75-1,"604-75-1 OXAZEPAM 7-chloro-1,3-dihydro-3-hydroxy-5-phenyl-2H-1,4-",Schedule IV (1971),604-75-1,benzodiazepin-2-one,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PO 001 604-75-1 OXAZEPAM 7-chloro-1,3-dihydro-3-hydroxy-5-phenyl-2H-1,4-
+benzodiazepin-2-one",2026-04-24T17:19:40.499545+00:00
+24143-17-7,"24143-17-7 OXAZOLAM 10-chloro-2,3,7,11b-tetrahydro-2-methyl-11b-",Schedule IV (1971),24143-17-7,"phenyloxazolo[3,2-d][1,4]benzodiazepin- 6(5H)-one",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PO 002 24143-17-7 OXAZOLAM 10-chloro-2,3,7,11b-tetrahydro-2-methyl-11b-
+phenyloxazolo[3,2-d][1,4]benzodiazepin-
+6(5H)-one",2026-04-24T17:19:40.499545+00:00
+634-03-7,"634-03-7 PHENDIMETRAZINE (+)-(2S,3S)-3,4-dimethyl-2-phenylmorpholine",Schedule IV (1971),634-03-7,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PP 004 634-03-7 PHENDIMETRAZINE (+)-(2S,3S)-3,4-dimethyl-2-phenylmorpholine",2026-04-24T17:19:40.499545+00:00
+50-06-6,50-06-6 PHENOBARBITAL 5-ethyl-5-phenylbarbituric acid,Schedule IV (1971),50-06-6,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PP 008 50-06-6 PHENOBARBITAL 5-ethyl-5-phenylbarbituric acid,2026-04-24T17:19:40.499545+00:00
+122-09-8,"122-09-8 PHENTERMINE α,α-dimethylphenethylamine",Schedule IV (1971),122-09-8,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PP 009 122-09-8 PHENTERMINE α,α-dimethylphenethylamine",2026-04-24T17:19:40.499545+00:00
+467-60-7,"467-60-7 PIPRADROL 1,1-diphenyl-1-(2-piperidyl)methanol",Schedule IV (1971),467-60-7,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PP 010 467-60-7 PIPRADROL 1,1-diphenyl-1-(2-piperidyl)methanol",2026-04-24T17:19:40.499545+00:00
+52463-83-9,"52463-83-9 PINAZEPAM 7-chloro-1,3-dihydro-5-phenyl-1-(2-propynyl)-2H-",Schedule IV (1971),52463-83-9,"1,4-benzodiazepin-2-one",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PP 015 52463-83-9 PINAZEPAM 7-chloro-1,3-dihydro-5-phenyl-1-(2-propynyl)-2H-
+1,4-benzodiazepin-2-one",2026-04-24T17:19:40.499545+00:00
+2955-38-6,"2955-38-6 PRAZEPAM 7-chloro-1-(cyclopropylmethyl)-1,3-dihydro-5-",Schedule IV (1971),2955-38-6,"phenyl-2H-1,4-benzodiazepin-2-one",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PP 016 2955-38-6 PRAZEPAM 7-chloro-1-(cyclopropylmethyl)-1,3-dihydro-5-
+phenyl-2H-1,4-benzodiazepin-2-one",2026-04-24T17:19:40.499545+00:00
+3563-49-3,3563-49-3 PYROVALERONE 4’-methyl-2-(1-pyrrolidinyl)valerophenone,Schedule IV (1971),3563-49-3,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PP 019 3563-49-3 PYROVALERONE 4’-methyl-2-(1-pyrrolidinyl)valerophenone,2026-04-24T17:19:40.499545+00:00
+2152-34-3,2152-34-3 PEMOLINE 2-amino-5-phenyl-2-oxazolin-4-one,Schedule IV (1971),2152-34-3,11 International Other non-proprietary,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PP 020 2152-34-3 PEMOLINE 2-amino-5-phenyl-2-oxazolin-4-one
+11
+International Other non-proprietary",2026-04-24T17:19:40.499545+00:00
+51753-57-2,"51753-57-2 phenazepam, 7-bromo-5-(2-chlorophenyl)-1,3-dihydro-2H-1,4-",Schedule IV (1971),51753-57-2,fenazepam benzodiazepin-2-one,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PP 024 51753-57-2 phenazepam, 7-bromo-5-(2-chlorophenyl)-1,3-dihydro-2H-1,4-
+fenazepam benzodiazepin-2-one",2026-04-24T17:19:40.499545+00:00
+125-40-6,125-40-6 SECBUTABARBITAL 5-sec-butyl-5-ethylbarbituric acid,Schedule IV (1971),125-40-6,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PS 003 125-40-6 SECBUTABARBITAL 5-sec-butyl-5-ethylbarbituric acid,2026-04-24T17:19:40.499545+00:00
+846-50-4,"846-50-4 TEMAZEPAM 7-chloro-1,3-dihydro-3-hydroxy-1-methyl-5-phenyl-",Schedule IV (1971),846-50-4,"2H-1,4-benzodiazepin-2-one",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PT 003 846-50-4 TEMAZEPAM 7-chloro-1,3-dihydro-3-hydroxy-1-methyl-5-phenyl-
+2H-1,4-benzodiazepin-2-one",2026-04-24T17:19:40.499545+00:00
+10379-14-3,"10379-14-3 TETRAZEPAM 7-chloro-5-(1-cyclohexen-1-yl)-1,3-dihydro-1-",Schedule IV (1971),10379-14-3,"methyl-2H-1,4-benzodiazepin-2-one",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PT 004 10379-14-3 TETRAZEPAM 7-chloro-5-(1-cyclohexen-1-yl)-1,3-dihydro-1-
+methyl-2H-1,4-benzodiazepin-2-one",2026-04-24T17:19:40.499545+00:00
+28911-01-5,28911-01-5 TRIAZOLAM 8-chloro-6-(o-chlorophenyl)-1-methyl-4H-s-,Schedule IV (1971),28911-01-5,"triazolo[4,3- a][1,4] benzodiazepine",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PT 005 28911-01-5 TRIAZOLAM 8-chloro-6-(o-chlorophenyl)-1-methyl-4H-s-
+triazolo[4,3- a][1,4] benzodiazepine",2026-04-24T17:19:40.499545+00:00
+2430-49-1,2430-49-1 VINYLBITAL 5-(1-methylbutyl)-5-vinylbarbituric acid,Schedule IV (1971),2430-49-1,,https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,PV 001 2430-49-1 VINYLBITAL 5-(1-methylbutyl)-5-vinylbarbituric acid,2026-04-24T17:19:40.499545+00:00
+82626-48-0,"82626-48-0 ZOLPIDEM N,N,6-trimethyl-2-p-tolylimidazo[1,2-a]pyridine-3-",Schedule IV (1971),82626-48-0,"acetamide 12 international control Psychotropic substance Base or salt CAS Number Theoretical percentage of anhydrous base 25B-NBOMe Hydrochloride 1539266-15-3 91.3 25C-NBOMe Hydrochloride 1539266-19-7 90.2 25I-NBOMe Hydrochloride 1043868-97-8 92.1 AH-7921 Hydrochloride 41804-96-0 90.0 Allobarbital Aminophenazone 58-15-1 50.6 Amfepramone Glutamate 58.3 Hydrochloride 134-80-5 84.9 Resinate 100.0 Amfetamine Acetylsalicylate 42.9 Adipate 48.1 Aspartate 50.4 Aspartate monohydrate 851591-76-9 64.2 Bitartrate 47.0 Hydrochloride 27-06-50-5 79.2 Para-aminophencylacetate 47.2 Parachlorophenoxyacetate 42.0 Pentobarbiturate 37.4 Phosphate (1 mol. base) 139-10-6 58.0 Phosphate (2 mol. base) 73.4 Resinate — Sulfate (2 mol. base) 60-10-6 73.4 Tannate 29.6 Tartrate (2 mol. base) 64.3 Amineptine Hydrochloride 90.2 Aminorex Fumarate 13425-22-4 58.3 Hydrochloride 81.7 Amobarbital Resinate — Sodium 64-43-7 91.1 N-benzylpiperazine (BZP) Dihydrochloride 5321-63-1 70.8 Hydrochloride 72-878-35-4 82.9 Barbital Calcium (2 mol. base) 90.6 Magnesium (2 mol. base) 94.3 Sodium 144-02-3 89.3 Benzfetamine Hydrochloride 5411-22-3 86.8 Brolamfetamine (DOB) Hydrochloride 29705-96-2 88.3 Buprenorphine Bitartrate 76.0 Hydrochloride 53152-21-9 92.8 Sulfate (2 mol. base) 91.0 2-CB Hydrochloride 56281-37-9 87.7 Cathinone Hydrochloride 80.3 Cathine Hydrochloride 2153-98-2 80.6 Phenobarbiturate 39.4 Resinate — Sulfate (2 mol. base) 75.5 Chlordiazepoxide Dibunate 48.3 Hydrochloride 438-41-5 89.1 13 Psychotropic substance Base or salt CAS Number Theoretical percentage of anhydrous base Clorazepate Dipotassium 57109-90-7 76.9 Monopotassium 5991-71-9 89.2 Cyclobarbital Calcium (2 mol. base) 143-76-0 92.5 DET Hydrochloride 7558-72-7 85.6 Dexamfetamine Adipate 48.1 Carboxymethylcellulose — Hydrochloride 1462-73-3 79.2 Pentobarbiturate 37.4 Phosphate (2 mol. base) 73.4 Phosphate 7528-0-9 58.0 Resinate — Saccharate (monobasic) 39.1 Sulfate (2 mol. base) 51-63-8 73.4 Tannate 29.6 Tartrate 47.4 DMA Hydrochloride 84.2 DMT Hydrochloride 83.8 Methyliodide 57.0 DOET Hydrochloride 22139-65-7 85.9 Etilamfetamine Hydrochloride 16105-78-5 81.7 Eticyclidine Hydrochloride 84.8 Etryptamine Acetate 118-68-3 75.8 Hydrochloride 83.8 Fencamfamin Hydrochloride 2240-14-4 85.5 Fenetylline Hydrochloride 1892-80-4 90.3 Fenproporex Diphenylacetate 77816-15-0 47.0 Hydrochloride 16359-54-9 83.8 Resinate — Flurazepam Dihydrochloride 84.2 Hydrochloride 36105-20-1 91.0 gamma-Hydroxybutyric acid Sodium 502-85-2 83.0 N-ethyl MDA Hydrochloride 74341-83-6 85.0 N-hydroxy MDA Hydrochloride 74341-83-6 84.2 Lefetamine (SPA) Hydrochloride 14148-99-3 86.0 Levamfetamine Alginate — Succinate 5634-40-2 53.4 Sulfate 51-62-7 73.4 Levomethamphetamine Hydrochloride 80.3 Loprazolam Mesilate 70111-54-5 82.9 Methylsulfonate (1 H2O) 80.3 Lorazepam Acetate 84.0 Mesilate 77.0 Pivalate 57773-81-6 75.9 (+) Lysergide Tartrate (2 mol. base, 2 CH3OH) 75.1 Tartrate (2 mol. base, 2 H2O) 77.7 MDMA Hydrochloride 92279-84-0 84.2 Mecloqualone Hydrochloride 88.2 Medazepam Dibunate 45.8 14 Psychotropic substance Base or salt CAS Number Theoretical percentage of anhydrous base Hydrochloride 2898-11-5 88.2 Mefenorex Hydrochloride 5586-87-8 85.3 Mescaline Aurichloride (1 H2O) 6533-56-8 37.1 Hydrochloride 832-92-8 85.3 Picrate 5967-44-2 48.0 Platinichloride (2 mol. base) 36.1 Sulfate 68.3 Sulfate (2 mol. base, 2 H2O) 75.9 Mephedrone Hydrochloride 1189726-22-4 82.9 MDPV Hydrochloride 24622-62-6 88.3 Metamfetamine Tartrate 49.9 Hydrochloride 51-57-0 80.4 Sulfate (2 mol. base) 75.2 Metamphetanmine racemate Hydrochloride 300-42-5 80.4 Methaqualone Hydrochloride 340-56-7 87.3 Resinate — Methcathinone Hydrochloride 49656-78-2 81.1 Methoxetamine (MXE) Hydrochloride 87.2 4-Methylaminorex Hydrochloride 82.8 Methylone Hydrochloride 186028-80-8 85.0 Methylphenidate Hydrochloride 298-59-9 86.5 Methylphenobarbital Sodium 91.8 Midazolam Hydrochloride 59467-96-8 89.9 Maleate 59467-94-6 73.7 MMDA Hydrochloride 85.0 4-MTA Hydrochloride 83.2 Oxazepam Acetate 83.0 Hemisuccinate 82.9 Succinate 70.8 Valproate 66.5 Pemoline Copper 64.4 Iron 58.7 Magnesium 18968-99-5 75.1 Nickel 57.8 Pentazocine Hydrochloride 2276-52-0 88.7 Lactate 76.0 Pentobarbital Calcium (2 mol. base) 92.2 Sodium 57-33-0 91.1 Phencyclidine Hydrobromide 75.1 Hydrochloride 956-90-1 87.0 Phendimetrazine Tartrate 50-58-8 56.0 Hydrochloride 7635-51-0 84.0 Pamoate 49.6 Phenmetrazine Tartrate 54.1 Hydrochloride 1707-14-8 82.9 Sulfate (2 mol. base) 78.3 Theoclate 13931-75-4 45.2 15 Psychotropic substance Base or salt CAS Number Theoretical percentage of anhydrous base Phenobarbital Ammonium 93.2 Calcium (2 mol. base) 7645-06-9 92.4 Diethylamine 76.0 Diethylaminoethanol 66.5 Lysidine 73.4 Magnesium (2 mol. base) 95.4 Propylhexedrine 59.9 Quinidine 1400-48-2 41.7 Sodium 57-30-7 91.4 Sodium-magnesium (3 mol. base) 94.0 Sparteine (2 mol. base) 66.5 Tetramethylammonium 75.6 Yohimbine 39.6 Phentermine Hydrochloride 1197-21-3 80.4 Resinate — Pipradrol Hydrochloride (1 H2O) 71-78-3 88.0 PMA Hydrochloride 64-13-1 81.9 PMMA (para- Hydrochloride 83.1 methoxymethylamphetamine) Psilocine Hydrochloride 85.0 Psilocybine Base (1 CH3OH) 90.0 Hydrochloride 88.6 Pyrovalerone Hydrochloride 1147-62-2 87.1 alpha-Pyrrolidinovalerophenone Hydrochloride 86.4 (α PVP) Secbutabarbital Sodium 143-81-7 90.6 Secobarbital Calcium 86.3 Resinate — Sodium 91.6 STP, DOM Hydrochloride 15589-00-1 85.2 Tenamfetamine (MDA) Hydrochloride 6292-917 83.1 Tenocyclidine Hydrochloride 1867-65-8 87.2 TMA Hydrochloride 593-81-7 86.1 Zipeprol Dihydrochloride 34758-84-4 84.1 Zolpidem Hemitartrate (Tartrate) 99294-93-6 80.2 16 Convention on Psychotropic Substances of 1971 The Secretary-General has transmitted notifications concerning the prohibition of the importation of specific substances in Schedules II, III and IV of the 1971 Convention that were received from the countries listed below. In the first table presented below, the notifying countries are listed alphabetically, followed by the names of the prohibited substances and dates of notification. In the second table presented below, the prohibited substances are listed alphabetically, followed by the names of the notifying countries. The prohibitions are effective, with respect to exporting countries, as at the date of receipt of the Secretary-General’s notification. Note to exporting countries Upon notification of a prohibition, a country must take measures to ensure that none of the substances specified in the notification is exported to the notifying country or any of its regions. Exports of the prohibited substance may be permitted only when a special import licence has been issued by the notifying country, in accordance with the provisions of article 13 of the 1971 Convention. Notifications concerning the prohibition of and restrictions on export and import pursuant to article 13 of the Convention on Psychotropic Substances 1971, by notifying country Date of notification by the Notifying country Prohibited substance Secretary-General Argentina Mecloqualone 15 January 1987 Methaqualone 24 March 1982 Australia Methaqualone 8 August 1980 Belize Amfetamine 9 May 1989 Dexamfetamine Fenetylline Levamfetamine Levomethamphetamine Mecloqualone Metamfetamine Metamfetamine racemate Methaqualone Methylphenidate Phencyclidine (PCP) Phenmetrazine Secobarbital Bulgaria Amfetamine 12 August 1993 Dexamfetamine Fenetylline Levamfetamine Metamfetamine Metamfetamine racemate Chile Glutethimide 1 July 1981 Lefetamine (SPA) Mecloqualone Methaqualone Phencyclidine Phenmetrazine Colombia Methaqualone 11 November 1981 Gabon Methaqualone 28 July 1993 Iceland Phencyclidine 28 November 1979 17 Date of notification by the Notifying country Prohibited substance Secretary-General India Amfepramone 30 May 1991 Aminorex 27 October 2005 Benzfetamine 30 May 1991 Bromazepam Brotizolam 27 October 2005 Camazepam 30 May 1991 Clotiazepam Cloxazolam Delorazepam Estazolam Ethinamate Ethyl loflazepate Fludiazepam Flunitrazepam Haloxazolam Ketazolam Lefetamine (SPA) Loprazolam Lormetazepam Mazindol Medazepam Mesocarb 27 October 2005 Methaqualone 30 April 1993 Methyprylon 30 May 1991 Oxazolam 30 May 1991 Phendimetrazine Pinazepam 30 May 1991 Pipradrol Prazepam Temazepam Tetrazepam Japan Amfetamine 31 January 1991 Dexamfetamine Levamfetamine Levomethamphetamine Metamfetamine Metamfetamine racemate Latvia Amfetamine 7 November 1995 Cathine Dexamfetamine Etilamfetamine Fenetylline Fenproporex Levamfetamine Mefenorex Metamfetamine Metamfetamine racemate Phentermine 18 Date of notification by the Notifying country Prohibited substance Secretary-General Lebanon Amfetamine 16 October 2000 Benzfetamine 21 August 2007 Cathine 16 October 2000 delta-9-tetrahydrocannabinol Dexamfetamine Fenetylline Flunitrazepam 21 August 2007 Levamfetamine 16 October 2000 Levomethamphetamine Mecloqualone Metamfetamine Metamfetamine racemate Methaqualone Phencyclidine Triazolam 21 August 2007 Lithuania Amfetamine 29 August 1997 Cathine Dexamfetamine Fenetylline Levamfetamine Metamfetamine Metamfetamine racemate Madagascar Methaqualone 15 December 1978 Nigeria Amfetamine 27 February 1986 Dexamfetamine Metamfetamine Methaqualone Methylphenidate Pemoline 29 October 1990 Phencyclidine 27 February 1986 Phenmetrazine Secobarbital Pakistan Amfepramone 6 December 1985 Amfetamine Barbital Benzfetamine Camazepam Clotiazepam Cloxazolam Cyclobarbital Delorazepam Dexamfetamine Ethchlorvynol Ethinamate Ethyl loflazepate Flunitrazepam Flurazepam Glutethimide Halazepam 19 Date of notification by the Notifying country Prohibited substance Secretary-General Pakistan (continued) Haloxazolam Lefetamine (SPA) Loprazolam Mazindol Mecloqualone Metamfetamine Methaqualone Methylphenobarbital Methyprylon Nordazepam Oxazolam Phencyclidine Phendimetrazine Phenmetrazine Pipradrol Secobarbital Tetrazepam Peru Lefetamine 7 April 2005 Phendimetrazine 8 April 2005 Russian Federation Cathine 9 November 2005 Saudi Arabia Fenetylline 31 December 1987 Methaqualone Senegal Amfetamine 16 May 1980 Dexamfetamine Mecloqualone 31 January 1991 Metamfetamine 16 May 1980 Methaqualone Methylphenidate Phencyclidine Phenmetrazine South Africa Methaqualone 15 December 1978 Thailand Amfetamine 15 August 1991 Dexamfetamine Fenetylline Levamfetamine Levomethamphetamine Metamfetamine Phenmetrazine 15 August 1991 Togo Amfetamine 28 July 1993 Ethinamate Lefetamine (SPA) Mecloqualone Metamfetamine Methylphenidate Methylphenobarbital Methyprylon Pemoline Phencyclidine 20 Date of notification by the Notifying country Prohibited substance Secretary-General Togo (continued) Pipradrol Secobarbital Türkiye Amfepramone 30 June 1981 Amfetamine Dexamfetamine Fenetylline 27 September 1999 Flunitrazepam Metamfetamine 30 June 1981 Metamfetamine racemate 27 September 1999 Methaqualone 20 August 1982 Methylphenidate 30 June 1981 Pemoline 27 September 1999 Phendimetrazine 30 June 1981 Phenmetrazine Phentermine Pipradrol United States of America Flunitrazepam 9 October 1996 Methaqualone 9 September 1985 Venezuela (Bolivarian Republic of) Amfetamine 2 June 1992 Dexamfetamine Levamfetamine Levomethamphetamine Metamfetamine Metamfetamine racemate Methaqualone 22 May 1986 Phenmetrazine 2 June 1992 Yemen Amfetamine 18 November 1980 Ethinamate Lefetamine (SPA) Metamfetamine Methaqualone Methylphenidate Methylphenobarbital Methyprylon Phencyclidine Phenmetrazine Pipradrol 21 Notifications concerning the prohibition of and restrictions on export and import pursuant to article 13 of the Convention on Psychotropic Substances 1971, by prohibited substance Prohibited substance Notifying country Aminorex India Amfepramone India Pakistan Türkiye Amfetamine Belize Bulgaria Japan Latvia Lebanon Lithuania Nigeria Pakistan Senegal Thailand Togo Türkiye Venezuela (Bolivarian Republic of) Yemen Barbital Pakistan Brotizolam India Benzfetamine India Lebanon Pakistan Bromazepam India Camazepam India Pakistan Cathine Latvia Lebanon Lithuania Russian Federation Clotiazepam India Pakistan Cloxazolam India Pakistan Cyclobarbital Pakistan Delorazepam India Pakistan delta-9-tetrahydrocannabinol Lebanon Dexamfetamine Belize Bulgaria Japan Latvia Lebanon Lithuania Nigeria Pakistan 22 Prohibited substance Notifying country Senegal Thailand Togo Türkiye Venezuela (Bolivarian Republic of) Yemen Estazolam India Ethchlorvynol Pakistan Ethinamate India Pakistan Togo Yemen Ethyl loflazepate India Pakistan Etilamfetamine Latvia Fenetylline Belize Bulgaria Latvia Lebanon Lithuania Saudi Arabia Thailand Türkiye Fenproporex Latvia Fludiazepam India Flunitrazepam India Lebanon Pakistan Türkiye United States of America Flurazepam Pakistan Glutethimide Chile Pakistan Halazepam Pakistan Haloxazolam India Pakistan Ketazolam India Lefetamine (SPA) Chile India Pakistan Peru Togo Yemen Levamfetamine Belize Bulgaria Japan Latvia Lebanon 23 Prohibited substance Notifying country Lithuania Thailand Venezuela (Bolivarian Republic of) Levomethamphetamine Belize Japan Lebanon Thailand Venezuela (Bolivarian Republic of) Loprazolam India Pakistan Lormetazepam India Mazindol India Pakistan Mecloqualone Argentina Belize Chile Lebanon Pakistan Senegal Togo Medazepam India Mefenorex Latvia Mesocarb India Metamfetamine Belize Bulgaria Japan Latvia Lebanon Lithuania Nigeria Pakistan Senegal Thailand Togo Türkiye Venezuela (Bolivarian Republic of) Yemen Metamfetamine racemate Belize Bulgaria Japan Latvia Lebanon Lithuania Türkiye Venezuela (Bolivarian Republic of) Methaqualone Argentina Australia Belize Chile 24 Prohibited substance Notifying country Colombia Gabon India Lebanon Madagascar Nigeria Pakistan Saudi Arabia Senegal South Africa Togo Türkiye United States of America Venezuela (Bolivarian Republic of) Yemen Methylphenidate Belize Nigeria Senegal Togo Türkiye Yemen Methylphenobarbital Pakistan Togo Yemen Methyprylon India Pakistan Senegal Togo Yemen Nordazepam Pakistan Oxazolam India Pakistan Pemoline Nigeria Togo Türkiye Phencyclidine Belize Chile Iceland Lebanon Nigeria Pakistan Senegal Togo Yemen Phendimetrazine India Pakistan Peru Türkiye 25 Prohibited substance Notifying country Phenmetrazine Belize Chile Nigeria Pakistan Senegal Thailand Togo Türkiye Venezuela (Bolivarian Republic of) Yemen Phentermine Latvia Türkiye Pinazepam India Pipradrol India Pakistan Thailand Togo Türkiye Yemen Prazepam India Secobarbital Belize Nigeria Pakistan Togo Temazepam India Tetrazepam India Pakistan Triazolam Lebanon 26",https://www.incb.org/incb/uploads/documents/Psychotropics/forms/greenlist/2026/2510307E.pdf,"PZ 002 82626-48-0 ZOLPIDEM N,N,6-trimethyl-2-p-tolylimidazo[1,2-a]pyridine-3-
+acetamide
+12
+international control
+Psychotropic substance Base or salt CAS Number Theoretical percentage of anhydrous base
+25B-NBOMe Hydrochloride 1539266-15-3 91.3
+25C-NBOMe Hydrochloride 1539266-19-7 90.2
+25I-NBOMe Hydrochloride 1043868-97-8 92.1
+AH-7921 Hydrochloride 41804-96-0 90.0
+Allobarbital Aminophenazone 58-15-1 50.6
+Amfepramone Glutamate 58.3
+Hydrochloride 134-80-5 84.9
+Resinate 100.0
+Amfetamine Acetylsalicylate 42.9
+Adipate 48.1
+Aspartate 50.4
+Aspartate monohydrate 851591-76-9 64.2
+Bitartrate 47.0
+Hydrochloride 27-06-50-5 79.2
+Para-aminophencylacetate 47.2
+Parachlorophenoxyacetate 42.0
+Pentobarbiturate 37.4
+Phosphate (1 mol. base) 139-10-6 58.0
+Phosphate (2 mol. base) 73.4
+Resinate —
+Sulfate (2 mol. base) 60-10-6 73.4
+Tannate 29.6
+Tartrate (2 mol. base) 64.3
+Amineptine Hydrochloride 90.2
+Aminorex Fumarate 13425-22-4 58.3
+Hydrochloride 81.7
+Amobarbital Resinate —
+Sodium 64-43-7 91.1
+N-benzylpiperazine (BZP) Dihydrochloride 5321-63-1 70.8
+Hydrochloride 72-878-35-4 82.9
+Barbital Calcium (2 mol. base) 90.6
+Magnesium (2 mol. base) 94.3
+Sodium 144-02-3 89.3
+Benzfetamine Hydrochloride 5411-22-3 86.8
+Brolamfetamine (DOB) Hydrochloride 29705-96-2 88.3
+Buprenorphine Bitartrate 76.0
+Hydrochloride 53152-21-9 92.8
+Sulfate (2 mol. base) 91.0
+2-CB Hydrochloride 56281-37-9 87.7
+Cathinone Hydrochloride 80.3
+Cathine Hydrochloride 2153-98-2 80.6
+Phenobarbiturate 39.4
+Resinate —
+Sulfate (2 mol. base) 75.5
+Chlordiazepoxide Dibunate 48.3
+Hydrochloride 438-41-5 89.1
+13
+Psychotropic substance Base or salt CAS Number Theoretical percentage of anhydrous base
+Clorazepate Dipotassium 57109-90-7 76.9
+Monopotassium 5991-71-9 89.2
+Cyclobarbital Calcium (2 mol. base) 143-76-0 92.5
+DET Hydrochloride 7558-72-7 85.6
+Dexamfetamine Adipate 48.1
+Carboxymethylcellulose —
+Hydrochloride 1462-73-3 79.2
+Pentobarbiturate 37.4
+Phosphate (2 mol. base) 73.4
+Phosphate 7528-0-9 58.0
+Resinate —
+Saccharate (monobasic) 39.1
+Sulfate (2 mol. base) 51-63-8 73.4
+Tannate 29.6
+Tartrate 47.4
+DMA Hydrochloride 84.2
+DMT Hydrochloride 83.8
+Methyliodide 57.0
+DOET Hydrochloride 22139-65-7 85.9
+Etilamfetamine Hydrochloride 16105-78-5 81.7
+Eticyclidine Hydrochloride 84.8
+Etryptamine Acetate 118-68-3 75.8
+Hydrochloride 83.8
+Fencamfamin Hydrochloride 2240-14-4 85.5
+Fenetylline Hydrochloride 1892-80-4 90.3
+Fenproporex Diphenylacetate 77816-15-0 47.0
+Hydrochloride 16359-54-9 83.8
+Resinate —
+Flurazepam Dihydrochloride 84.2
+Hydrochloride 36105-20-1 91.0
+gamma-Hydroxybutyric acid Sodium 502-85-2 83.0
+N-ethyl MDA Hydrochloride 74341-83-6 85.0
+N-hydroxy MDA Hydrochloride 74341-83-6 84.2
+Lefetamine (SPA) Hydrochloride 14148-99-3 86.0
+Levamfetamine Alginate —
+Succinate 5634-40-2 53.4
+Sulfate 51-62-7 73.4
+Levomethamphetamine Hydrochloride 80.3
+Loprazolam Mesilate 70111-54-5 82.9
+Methylsulfonate (1 H2O) 80.3
+Lorazepam Acetate 84.0
+Mesilate 77.0
+Pivalate 57773-81-6 75.9
+(+) Lysergide Tartrate (2 mol. base, 2 CH3OH) 75.1
+Tartrate (2 mol. base, 2 H2O) 77.7
+MDMA Hydrochloride 92279-84-0 84.2
+Mecloqualone Hydrochloride 88.2
+Medazepam Dibunate 45.8
+14
+Psychotropic substance Base or salt CAS Number Theoretical percentage of anhydrous base
+Hydrochloride 2898-11-5 88.2
+Mefenorex Hydrochloride 5586-87-8 85.3
+Mescaline Aurichloride (1 H2O) 6533-56-8 37.1
+Hydrochloride 832-92-8 85.3
+Picrate 5967-44-2 48.0
+Platinichloride (2 mol. base) 36.1
+Sulfate 68.3
+Sulfate (2 mol. base, 2 H2O) 75.9
+Mephedrone Hydrochloride 1189726-22-4 82.9
+MDPV Hydrochloride 24622-62-6 88.3
+Metamfetamine Tartrate 49.9
+Hydrochloride 51-57-0 80.4
+Sulfate (2 mol. base) 75.2
+Metamphetanmine racemate Hydrochloride 300-42-5 80.4
+Methaqualone Hydrochloride 340-56-7 87.3
+Resinate —
+Methcathinone Hydrochloride 49656-78-2 81.1
+Methoxetamine (MXE) Hydrochloride 87.2
+4-Methylaminorex Hydrochloride 82.8
+Methylone Hydrochloride 186028-80-8 85.0
+Methylphenidate Hydrochloride 298-59-9 86.5
+Methylphenobarbital Sodium 91.8
+Midazolam Hydrochloride 59467-96-8 89.9
+Maleate 59467-94-6 73.7
+MMDA Hydrochloride 85.0
+4-MTA Hydrochloride 83.2
+Oxazepam Acetate 83.0
+Hemisuccinate 82.9
+Succinate 70.8
+Valproate 66.5
+Pemoline Copper 64.4
+Iron 58.7
+Magnesium 18968-99-5 75.1
+Nickel 57.8
+Pentazocine Hydrochloride 2276-52-0 88.7
+Lactate 76.0
+Pentobarbital Calcium (2 mol. base) 92.2
+Sodium 57-33-0 91.1
+Phencyclidine Hydrobromide 75.1
+Hydrochloride 956-90-1 87.0
+Phendimetrazine Tartrate 50-58-8 56.0
+Hydrochloride 7635-51-0 84.0
+Pamoate 49.6
+Phenmetrazine Tartrate 54.1
+Hydrochloride 1707-14-8 82.9
+Sulfate (2 mol. base) 78.3
+Theoclate 13931-75-4 45.2
+15
+Psychotropic substance Base or salt CAS Number Theoretical percentage of anhydrous base
+Phenobarbital Ammonium 93.2
+Calcium (2 mol. base) 7645-06-9 92.4
+Diethylamine 76.0
+Diethylaminoethanol 66.5
+Lysidine 73.4
+Magnesium (2 mol. base) 95.4
+Propylhexedrine 59.9
+Quinidine 1400-48-2 41.7
+Sodium 57-30-7 91.4
+Sodium-magnesium (3 mol. base) 94.0
+Sparteine (2 mol. base) 66.5
+Tetramethylammonium 75.6
+Yohimbine 39.6
+Phentermine Hydrochloride 1197-21-3 80.4
+Resinate —
+Pipradrol Hydrochloride (1 H2O) 71-78-3 88.0
+PMA Hydrochloride 64-13-1 81.9
+PMMA (para- Hydrochloride 83.1
+methoxymethylamphetamine)
+Psilocine Hydrochloride 85.0
+Psilocybine Base (1 CH3OH) 90.0
+Hydrochloride 88.6
+Pyrovalerone Hydrochloride 1147-62-2 87.1
+alpha-Pyrrolidinovalerophenone Hydrochloride 86.4
+(α PVP)
+Secbutabarbital Sodium 143-81-7 90.6
+Secobarbital Calcium 86.3
+Resinate —
+Sodium 91.6
+STP, DOM Hydrochloride 15589-00-1 85.2
+Tenamfetamine (MDA) Hydrochloride 6292-917 83.1
+Tenocyclidine Hydrochloride 1867-65-8 87.2
+TMA Hydrochloride 593-81-7 86.1
+Zipeprol Dihydrochloride 34758-84-4 84.1
+Zolpidem Hemitartrate (Tartrate) 99294-93-6 80.2
+16
+Convention on Psychotropic Substances of 1971
+The Secretary-General has transmitted notifications concerning the prohibition of the importation of specific substances
+in Schedules II, III and IV of the 1971 Convention that were received from the countries listed below. In the first table
+presented below, the notifying countries are listed alphabetically, followed by the names of the prohibited substances
+and dates of notification. In the second table presented below, the prohibited substances are listed alphabetically,
+followed by the names of the notifying countries. The prohibitions are effective, with respect to exporting countries, as
+at the date of receipt of the Secretary-General’s notification.
+Note to exporting countries
+Upon notification of a prohibition, a country must take measures to ensure that none of the substances specified in the
+notification is exported to the notifying country or any of its regions. Exports of the prohibited substance may be
+permitted only when a special import licence has been issued by the notifying country, in accordance with the provisions
+of
+article 13 of the 1971 Convention.
+Notifications concerning the prohibition of and restrictions on export and import pursuant to
+article 13 of the Convention on Psychotropic Substances 1971, by notifying country
+Date of notification by the
+Notifying country Prohibited substance Secretary-General
+Argentina Mecloqualone 15 January 1987
+Methaqualone 24 March 1982
+Australia Methaqualone 8 August 1980
+Belize Amfetamine 9 May 1989
+Dexamfetamine
+Fenetylline
+Levamfetamine
+Levomethamphetamine
+Mecloqualone
+Metamfetamine
+Metamfetamine racemate
+Methaqualone
+Methylphenidate
+Phencyclidine (PCP)
+Phenmetrazine
+Secobarbital
+Bulgaria Amfetamine 12 August 1993
+Dexamfetamine
+Fenetylline
+Levamfetamine
+Metamfetamine
+Metamfetamine racemate
+Chile Glutethimide 1 July 1981
+Lefetamine (SPA)
+Mecloqualone
+Methaqualone
+Phencyclidine
+Phenmetrazine
+Colombia Methaqualone 11 November 1981
+Gabon Methaqualone 28 July 1993
+Iceland Phencyclidine 28 November 1979
+17
+Date of notification by the
+Notifying country Prohibited substance Secretary-General
+India Amfepramone 30 May 1991
+Aminorex 27 October 2005
+Benzfetamine 30 May 1991
+Bromazepam
+Brotizolam 27 October 2005
+Camazepam 30 May 1991
+Clotiazepam
+Cloxazolam
+Delorazepam
+Estazolam
+Ethinamate
+Ethyl loflazepate
+Fludiazepam
+Flunitrazepam
+Haloxazolam
+Ketazolam
+Lefetamine (SPA)
+Loprazolam
+Lormetazepam
+Mazindol
+Medazepam
+Mesocarb 27 October 2005
+Methaqualone 30 April 1993
+Methyprylon 30 May 1991
+Oxazolam 30 May 1991
+Phendimetrazine
+Pinazepam 30 May 1991
+Pipradrol
+Prazepam
+Temazepam
+Tetrazepam
+Japan Amfetamine 31 January 1991
+Dexamfetamine
+Levamfetamine
+Levomethamphetamine
+Metamfetamine
+Metamfetamine racemate
+Latvia Amfetamine 7 November 1995
+Cathine
+Dexamfetamine
+Etilamfetamine
+Fenetylline
+Fenproporex
+Levamfetamine
+Mefenorex
+Metamfetamine
+Metamfetamine racemate
+Phentermine
+18
+Date of notification by the
+Notifying country Prohibited substance Secretary-General
+Lebanon Amfetamine 16 October 2000
+Benzfetamine 21 August 2007
+Cathine 16 October 2000
+delta-9-tetrahydrocannabinol
+Dexamfetamine
+Fenetylline
+Flunitrazepam 21 August 2007
+Levamfetamine 16 October 2000
+Levomethamphetamine
+Mecloqualone
+Metamfetamine
+Metamfetamine racemate
+Methaqualone
+Phencyclidine
+Triazolam 21 August 2007
+Lithuania Amfetamine 29 August 1997
+Cathine
+Dexamfetamine
+Fenetylline
+Levamfetamine
+Metamfetamine
+Metamfetamine racemate
+Madagascar Methaqualone 15 December 1978
+Nigeria Amfetamine 27 February 1986
+Dexamfetamine
+Metamfetamine
+Methaqualone
+Methylphenidate
+Pemoline 29 October 1990
+Phencyclidine 27 February 1986
+Phenmetrazine
+Secobarbital
+Pakistan Amfepramone 6 December 1985
+Amfetamine
+Barbital
+Benzfetamine
+Camazepam
+Clotiazepam
+Cloxazolam
+Cyclobarbital
+Delorazepam
+Dexamfetamine
+Ethchlorvynol
+Ethinamate
+Ethyl loflazepate
+Flunitrazepam
+Flurazepam
+Glutethimide
+Halazepam
+19
+Date of notification by the
+Notifying country Prohibited substance Secretary-General
+Pakistan (continued) Haloxazolam
+Lefetamine (SPA)
+Loprazolam
+Mazindol
+Mecloqualone
+Metamfetamine
+Methaqualone
+Methylphenobarbital
+Methyprylon
+Nordazepam
+Oxazolam
+Phencyclidine
+Phendimetrazine
+Phenmetrazine
+Pipradrol
+Secobarbital
+Tetrazepam
+Peru Lefetamine 7 April 2005
+Phendimetrazine 8 April 2005
+Russian Federation Cathine 9 November 2005
+Saudi Arabia Fenetylline 31 December 1987
+Methaqualone
+Senegal Amfetamine 16 May 1980
+Dexamfetamine
+Mecloqualone 31 January 1991
+Metamfetamine 16 May 1980
+Methaqualone
+Methylphenidate
+Phencyclidine
+Phenmetrazine
+South Africa Methaqualone 15 December 1978
+Thailand Amfetamine 15 August 1991
+Dexamfetamine
+Fenetylline
+Levamfetamine
+Levomethamphetamine
+Metamfetamine
+Phenmetrazine 15 August 1991
+Togo Amfetamine 28 July 1993
+Ethinamate
+Lefetamine (SPA)
+Mecloqualone
+Metamfetamine
+Methylphenidate
+Methylphenobarbital
+Methyprylon
+Pemoline
+Phencyclidine
+20
+Date of notification by the
+Notifying country Prohibited substance Secretary-General
+Togo (continued) Pipradrol
+Secobarbital
+Türkiye Amfepramone 30 June 1981
+Amfetamine
+Dexamfetamine
+Fenetylline 27 September 1999
+Flunitrazepam
+Metamfetamine 30 June 1981
+Metamfetamine racemate 27 September 1999
+Methaqualone 20 August 1982
+Methylphenidate 30 June 1981
+Pemoline 27 September 1999
+Phendimetrazine 30 June 1981
+Phenmetrazine
+Phentermine
+Pipradrol
+United States of America Flunitrazepam 9 October 1996
+Methaqualone 9 September 1985
+Venezuela (Bolivarian Republic of) Amfetamine 2 June 1992
+Dexamfetamine
+Levamfetamine
+Levomethamphetamine
+Metamfetamine
+Metamfetamine racemate
+Methaqualone 22 May 1986
+Phenmetrazine 2 June 1992
+Yemen Amfetamine 18 November 1980
+Ethinamate
+Lefetamine (SPA)
+Metamfetamine
+Methaqualone
+Methylphenidate
+Methylphenobarbital
+Methyprylon
+Phencyclidine
+Phenmetrazine
+Pipradrol
+21
+Notifications concerning the prohibition of and restrictions on export and import pursuant to
+article 13 of the Convention on Psychotropic Substances 1971, by prohibited substance
+Prohibited substance Notifying country
+Aminorex India
+Amfepramone India
+Pakistan
+Türkiye
+Amfetamine Belize
+Bulgaria
+Japan
+Latvia
+Lebanon
+Lithuania
+Nigeria
+Pakistan
+Senegal
+Thailand
+Togo
+Türkiye
+Venezuela (Bolivarian Republic of)
+Yemen
+Barbital Pakistan
+Brotizolam India
+Benzfetamine India
+Lebanon
+Pakistan
+Bromazepam India
+Camazepam India
+Pakistan
+Cathine Latvia
+Lebanon
+Lithuania
+Russian Federation
+Clotiazepam India
+Pakistan
+Cloxazolam India
+Pakistan
+Cyclobarbital Pakistan
+Delorazepam India
+Pakistan
+delta-9-tetrahydrocannabinol Lebanon
+Dexamfetamine Belize
+Bulgaria
+Japan
+Latvia
+Lebanon
+Lithuania
+Nigeria
+Pakistan
+22
+Prohibited substance Notifying country
+Senegal
+Thailand
+Togo
+Türkiye
+Venezuela (Bolivarian Republic of)
+Yemen
+Estazolam India
+Ethchlorvynol Pakistan
+Ethinamate India
+Pakistan
+Togo
+Yemen
+Ethyl loflazepate India
+Pakistan
+Etilamfetamine Latvia
+Fenetylline Belize
+Bulgaria
+Latvia
+Lebanon
+Lithuania
+Saudi Arabia
+Thailand
+Türkiye
+Fenproporex Latvia
+Fludiazepam India
+Flunitrazepam India
+Lebanon
+Pakistan
+Türkiye
+United States of America
+Flurazepam Pakistan
+Glutethimide Chile
+Pakistan
+Halazepam Pakistan
+Haloxazolam India
+Pakistan
+Ketazolam India
+Lefetamine (SPA) Chile
+India
+Pakistan
+Peru
+Togo
+Yemen
+Levamfetamine Belize
+Bulgaria
+Japan
+Latvia
+Lebanon
+23
+Prohibited substance Notifying country
+Lithuania
+Thailand
+Venezuela (Bolivarian Republic of)
+Levomethamphetamine Belize
+Japan
+Lebanon
+Thailand
+Venezuela (Bolivarian Republic of)
+Loprazolam India
+Pakistan
+Lormetazepam India
+Mazindol India
+Pakistan
+Mecloqualone Argentina
+Belize
+Chile
+Lebanon
+Pakistan
+Senegal
+Togo
+Medazepam India
+Mefenorex Latvia
+Mesocarb India
+Metamfetamine Belize
+Bulgaria
+Japan
+Latvia
+Lebanon
+Lithuania
+Nigeria
+Pakistan
+Senegal
+Thailand
+Togo
+Türkiye
+Venezuela (Bolivarian Republic of)
+Yemen
+Metamfetamine racemate Belize
+Bulgaria
+Japan
+Latvia
+Lebanon
+Lithuania
+Türkiye
+Venezuela (Bolivarian Republic of)
+Methaqualone Argentina
+Australia
+Belize
+Chile
+24
+Prohibited substance Notifying country
+Colombia
+Gabon
+India
+Lebanon
+Madagascar
+Nigeria
+Pakistan
+Saudi Arabia
+Senegal
+South Africa
+Togo
+Türkiye
+United States of America
+Venezuela (Bolivarian Republic of)
+Yemen
+Methylphenidate Belize
+Nigeria
+Senegal
+Togo
+Türkiye
+Yemen
+Methylphenobarbital Pakistan
+Togo
+Yemen
+Methyprylon India
+Pakistan
+Senegal
+Togo
+Yemen
+Nordazepam Pakistan
+Oxazolam India
+Pakistan
+Pemoline Nigeria
+Togo
+Türkiye
+Phencyclidine Belize
+Chile
+Iceland
+Lebanon
+Nigeria
+Pakistan
+Senegal
+Togo
+Yemen
+Phendimetrazine India
+Pakistan
+Peru
+Türkiye
+25
+Prohibited substance Notifying country
+Phenmetrazine Belize
+Chile
+Nigeria
+Pakistan
+Senegal
+Thailand
+Togo
+Türkiye
+Venezuela (Bolivarian Republic of)
+Yemen
+Phentermine Latvia
+Türkiye
+Pinazepam India
+Pipradrol India
+Pakistan
+Thailand
+Togo
+Türkiye
+Yemen
+Prazepam India
+Secobarbital Belize
+Nigeria
+Pakistan
+Togo
+Temazepam India
+Tetrazepam India
+Pakistan
+Triazolam Lebanon
+26",2026-04-24T17:19:40.499545+00:00

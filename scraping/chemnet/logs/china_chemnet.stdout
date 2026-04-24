@@ -1,0 +1,460 @@
+2026-04-24 13:27:56,188 INFO [seed 1/53] 4-ANPP (N-phenyl-N-piperidin-4-ylpropionamide) (CAS 21409-26-7, cat=fentanyl)
+2026-04-24 13:27:56,189 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=21409-26-7 (try 1)
+2026-04-24 13:27:58,337 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=21409-26-7
+2026-04-24 13:27:58,337 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=21409-26-7 (try 2)
+2026-04-24 13:27:59,705 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=21409-26-7
+2026-04-24 13:27:59,706 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=4-ANPP+%28N-phenyl-N-piperidin-4-ylpropionamide%29 (try 1)
+2026-04-24 13:28:01,821 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=4-ANPP+%28N-phenyl-N-piperidin-4-ylpropionamide%29
+2026-04-24 13:28:01,821 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=4-ANPP+%28N-phenyl-N-piperidin-4-ylpropionamide%29 (try 2)
+2026-04-24 13:28:03,517 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=4-ANPP+%28N-phenyl-N-piperidin-4-ylpropionamide%29
+2026-04-24 13:28:03,518 INFO [seed 2/53] NPP (1-phenethyl-4-piperidone) (CAS 39742-60-4, cat=fentanyl)
+2026-04-24 13:28:03,518 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=39742-60-4 (try 1)
+2026-04-24 13:28:05,096 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=39742-60-4
+2026-04-24 13:28:05,096 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=39742-60-4 (try 2)
+2026-04-24 13:28:06,491 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=39742-60-4
+2026-04-24 13:28:06,492 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=NPP+%281-phenethyl-4-piperidone%29 (try 1)
+2026-04-24 13:28:08,143 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=NPP+%281-phenethyl-4-piperidone%29
+2026-04-24 13:28:08,143 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=NPP+%281-phenethyl-4-piperidone%29 (try 2)
+2026-04-24 13:28:09,786 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=NPP+%281-phenethyl-4-piperidone%29
+2026-04-24 13:28:09,789 INFO [seed 3/53] 1-Boc-4-piperidone (CAS 79099-07-3, cat=fentanyl)
+2026-04-24 13:28:09,790 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=79099-07-3 (try 1)
+2026-04-24 13:28:11,304 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=79099-07-3
+2026-04-24 13:28:11,304 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=79099-07-3 (try 2)
+2026-04-24 13:28:12,721 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=79099-07-3
+2026-04-24 13:28:12,722 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=1-Boc-4-piperidone (try 1)
+2026-04-24 13:28:14,642 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=1-Boc-4-piperidone
+2026-04-24 13:28:14,642 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=1-Boc-4-piperidone (try 2)
+2026-04-24 13:28:16,351 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=1-Boc-4-piperidone
+2026-04-24 13:28:16,353 INFO [seed 4/53] 4-Piperidone hydrochloride hydrate (CAS 41979-39-9, cat=fentanyl)
+2026-04-24 13:28:16,353 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=41979-39-9 (try 1)
+2026-04-24 13:28:17,891 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=41979-39-9
+2026-04-24 13:28:17,891 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=41979-39-9 (try 2)
+2026-04-24 13:28:19,364 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=41979-39-9
+2026-04-24 13:28:19,365 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=4-Piperidone+hydrochloride+hydrate (try 1)
+2026-04-24 13:28:21,042 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=4-Piperidone+hydrochloride+hydrate
+2026-04-24 13:28:21,043 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=4-Piperidone+hydrochloride+hydrate (try 2)
+2026-04-24 13:28:22,736 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=4-Piperidone+hydrochloride+hydrate
+2026-04-24 13:28:22,737 INFO [seed 5/53] 4-Piperidone monohydrate hydrochloride (CAS 3612-20-2, cat=fentanyl)
+2026-04-24 13:28:22,737 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=3612-20-2 (try 1)
+2026-04-24 13:28:24,409 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=3612-20-2
+2026-04-24 13:28:24,409 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=3612-20-2 (try 2)
+2026-04-24 13:28:25,759 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=3612-20-2
+2026-04-24 13:28:25,761 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=4-Piperidone+monohydrate+hydrochloride (try 1)
+2026-04-24 13:28:27,457 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=4-Piperidone+monohydrate+hydrochloride
+2026-04-24 13:28:27,457 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=4-Piperidone+monohydrate+hydrochloride (try 2)
+2026-04-24 13:28:29,205 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=4-Piperidone+monohydrate+hydrochloride
+2026-04-24 13:28:29,207 INFO [seed 6/53] Piperidine (CAS 110-89-4, cat=fentanyl)
+2026-04-24 13:28:29,208 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=110-89-4 (try 1)
+2026-04-24 13:28:31,127 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=110-89-4
+2026-04-24 13:28:31,128 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=110-89-4 (try 2)
+2026-04-24 13:28:32,606 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=110-89-4
+2026-04-24 13:28:32,607 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Piperidine (try 1)
+2026-04-24 13:28:35,766 INFO [seed 7/53] Aniline (CAS 62-53-3, cat=fentanyl)
+2026-04-24 13:28:35,767 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=62-53-3 (try 1)
+2026-04-24 13:28:39,543 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Aniline (try 1)
+2026-04-24 13:28:42,710 INFO [seed 8/53] Propionyl chloride (CAS 79-03-8, cat=fentanyl)
+2026-04-24 13:28:42,710 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=79-03-8 (try 1)
+2026-04-24 13:28:44,198 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=79-03-8
+2026-04-24 13:28:44,198 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=79-03-8 (try 2)
+2026-04-24 13:28:45,597 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=79-03-8
+2026-04-24 13:28:45,598 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Propionyl+chloride (try 1)
+2026-04-24 13:28:47,414 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Propionyl+chloride
+2026-04-24 13:28:47,414 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Propionyl+chloride (try 2)
+2026-04-24 13:28:48,974 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Propionyl+chloride
+2026-04-24 13:28:48,977 INFO [seed 9/53] Propionic anhydride (CAS 123-62-6, cat=fentanyl)
+2026-04-24 13:28:48,977 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=123-62-6 (try 1)
+2026-04-24 13:28:50,443 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=123-62-6
+2026-04-24 13:28:50,443 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=123-62-6 (try 2)
+2026-04-24 13:28:51,863 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=123-62-6
+2026-04-24 13:28:51,865 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Propionic+anhydride (try 1)
+2026-04-24 13:28:53,487 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Propionic+anhydride
+2026-04-24 13:28:53,487 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Propionic+anhydride (try 2)
+2026-04-24 13:28:55,079 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Propionic+anhydride
+2026-04-24 13:28:55,080 INFO [seed 10/53] (2-Bromoethyl)benzene (CAS 103-63-9, cat=fentanyl)
+2026-04-24 13:28:55,080 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=103-63-9 (try 1)
+2026-04-24 13:28:56,549 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=103-63-9
+2026-04-24 13:28:56,549 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=103-63-9 (try 2)
+2026-04-24 13:28:57,992 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=103-63-9
+2026-04-24 13:28:57,994 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=%282-Bromoethyl%29benzene (try 1)
+2026-04-24 13:29:00,020 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=%282-Bromoethyl%29benzene
+2026-04-24 13:29:00,020 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=%282-Bromoethyl%29benzene (try 2)
+2026-04-24 13:29:01,598 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=%282-Bromoethyl%29benzene
+2026-04-24 13:29:01,601 INFO [seed 11/53] N-Phenyl-4-piperidinamine (4-AP) (CAS 23056-29-3, cat=fentanyl)
+2026-04-24 13:29:01,602 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=23056-29-3 (try 1)
+2026-04-24 13:29:03,872 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=23056-29-3
+2026-04-24 13:29:03,873 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=23056-29-3 (try 2)
+2026-04-24 13:29:05,840 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=23056-29-3
+2026-04-24 13:29:05,841 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=N-Phenyl-4-piperidinamine+%284-AP%29 (try 1)
+2026-04-24 13:29:08,403 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=N-Phenyl-4-piperidinamine+%284-AP%29
+2026-04-24 13:29:08,403 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=N-Phenyl-4-piperidinamine+%284-AP%29 (try 2)
+2026-04-24 13:29:10,026 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=N-Phenyl-4-piperidinamine+%284-AP%29
+2026-04-24 13:29:10,029 INFO [seed 12/53] N-Phenyl-1-(phenethyl)piperidin-4-amine (CAS 3731-41-9, cat=fentanyl)
+2026-04-24 13:29:10,029 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=3731-41-9 (try 1)
+2026-04-24 13:29:11,597 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=3731-41-9
+2026-04-24 13:29:11,597 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=3731-41-9 (try 2)
+2026-04-24 13:29:13,119 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=3731-41-9
+2026-04-24 13:29:13,121 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=N-Phenyl-1-%28phenethyl%29piperidin-4-amine (try 1)
+2026-04-24 13:29:14,838 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=N-Phenyl-1-%28phenethyl%29piperidin-4-amine
+2026-04-24 13:29:14,838 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=N-Phenyl-1-%28phenethyl%29piperidin-4-amine (try 2)
+2026-04-24 13:29:16,789 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=N-Phenyl-1-%28phenethyl%29piperidin-4-amine
+2026-04-24 13:29:16,792 INFO [seed 13/53] Norfentanyl (CAS 1609-66-1, cat=fentanyl)
+2026-04-24 13:29:16,793 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=1609-66-1 (try 1)
+2026-04-24 13:29:18,362 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=1609-66-1
+2026-04-24 13:29:18,362 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=1609-66-1 (try 2)
+2026-04-24 13:29:19,942 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=1609-66-1
+2026-04-24 13:29:19,944 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Norfentanyl (try 1)
+2026-04-24 13:29:21,628 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Norfentanyl
+2026-04-24 13:29:21,628 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Norfentanyl (try 2)
+2026-04-24 13:29:23,207 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Norfentanyl
+2026-04-24 13:29:23,208 INFO [seed 14/53] Ephedrine (CAS 299-42-3, cat=meth)
+2026-04-24 13:29:23,208 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=299-42-3 (try 1)
+2026-04-24 13:29:24,861 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=299-42-3
+2026-04-24 13:29:24,861 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=299-42-3 (try 2)
+2026-04-24 13:29:26,535 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=299-42-3
+2026-04-24 13:29:26,536 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Ephedrine (try 1)
+2026-04-24 13:29:28,435 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Ephedrine
+2026-04-24 13:29:28,436 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Ephedrine (try 2)
+2026-04-24 13:29:30,420 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Ephedrine
+2026-04-24 13:29:30,421 INFO [seed 15/53] Pseudoephedrine (CAS 90-82-4, cat=meth)
+2026-04-24 13:29:30,422 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=90-82-4 (try 1)
+2026-04-24 13:29:33,497 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Pseudoephedrine (try 1)
+2026-04-24 13:29:35,129 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Pseudoephedrine
+2026-04-24 13:29:35,129 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Pseudoephedrine (try 2)
+2026-04-24 13:29:36,675 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Pseudoephedrine
+2026-04-24 13:29:36,676 INFO [seed 16/53] Phenylpropanolamine (norephedrine) (CAS 14838-15-4, cat=meth)
+2026-04-24 13:29:36,676 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=14838-15-4 (try 1)
+2026-04-24 13:29:39,679 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=14838-15-4
+2026-04-24 13:29:39,679 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=14838-15-4 (try 2)
+2026-04-24 13:29:41,550 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=14838-15-4
+2026-04-24 13:29:41,553 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Phenylpropanolamine+%28norephedrine%29 (try 1)
+2026-04-24 13:29:43,134 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Phenylpropanolamine+%28norephedrine%29
+2026-04-24 13:29:43,134 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Phenylpropanolamine+%28norephedrine%29 (try 2)
+2026-04-24 13:29:45,143 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Phenylpropanolamine+%28norephedrine%29
+2026-04-24 13:29:45,144 INFO [seed 17/53] P-2-P / Phenyl-2-propanone (CAS 103-79-7, cat=meth)
+2026-04-24 13:29:45,144 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=103-79-7 (try 1)
+2026-04-24 13:29:46,599 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=103-79-7
+2026-04-24 13:29:46,599 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=103-79-7 (try 2)
+2026-04-24 13:29:48,037 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=103-79-7
+2026-04-24 13:29:48,039 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=P-2-P+%2F+Phenyl-2-propanone (try 1)
+2026-04-24 13:29:49,665 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=P-2-P+%2F+Phenyl-2-propanone
+2026-04-24 13:29:49,665 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=P-2-P+%2F+Phenyl-2-propanone (try 2)
+2026-04-24 13:29:51,681 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=P-2-P+%2F+Phenyl-2-propanone
+2026-04-24 13:29:51,683 INFO [seed 18/53] APAAN (α-phenylacetoacetonitrile) (CAS 4468-48-8, cat=meth)
+2026-04-24 13:29:51,683 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=4468-48-8 (try 1)
+2026-04-24 13:29:53,579 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=4468-48-8
+2026-04-24 13:29:53,579 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=4468-48-8 (try 2)
+2026-04-24 13:29:55,036 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=4468-48-8
+2026-04-24 13:29:55,036 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=APAAN+%28%CE%B1-phenylacetoacetonitrile%29 (try 1)
+2026-04-24 13:29:57,225 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=APAAN+%28%CE%B1-phenylacetoacetonitrile%29
+2026-04-24 13:29:57,225 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=APAAN+%28%CE%B1-phenylacetoacetonitrile%29 (try 2)
+2026-04-24 13:29:59,521 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=APAAN+%28%CE%B1-phenylacetoacetonitrile%29
+2026-04-24 13:29:59,522 INFO [seed 19/53] Methylamine (CAS 74-89-5, cat=meth)
+2026-04-24 13:29:59,522 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=74-89-5 (try 1)
+2026-04-24 13:30:02,430 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Methylamine (try 1)
+2026-04-24 13:30:04,096 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Methylamine
+2026-04-24 13:30:04,097 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Methylamine (try 2)
+2026-04-24 13:30:06,534 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Methylamine
+2026-04-24 13:30:06,537 INFO [seed 20/53] Red phosphorus (CAS 7723-14-0, cat=meth)
+2026-04-24 13:30:06,537 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=7723-14-0 (try 1)
+2026-04-24 13:30:10,010 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Red+phosphorus (try 1)
+2026-04-24 13:30:11,800 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Red+phosphorus
+2026-04-24 13:30:11,801 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Red+phosphorus (try 2)
+2026-04-24 13:30:14,821 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Red+phosphorus
+2026-04-24 13:30:14,824 INFO [seed 21/53] Iodine (CAS 7553-56-2, cat=meth)
+2026-04-24 13:30:14,824 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=7553-56-2 (try 1)
+2026-04-24 13:30:18,012 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Iodine (try 1)
+2026-04-24 13:30:20,129 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Iodine
+2026-04-24 13:30:20,129 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Iodine (try 2)
+2026-04-24 13:30:21,929 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Iodine
+2026-04-24 13:30:21,931 INFO [seed 22/53] Hydriodic acid (CAS 10034-85-2, cat=meth)
+2026-04-24 13:30:21,931 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=10034-85-2 (try 1)
+2026-04-24 13:30:25,837 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Hydriodic+acid (try 1)
+2026-04-24 13:30:29,345 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Hydriodic+acid
+2026-04-24 13:30:29,345 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Hydriodic+acid (try 2)
+2026-04-24 13:30:31,721 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Hydriodic+acid
+2026-04-24 13:30:31,721 INFO [seed 23/53] Potassium permanganate (CAS 7722-64-7, cat=meth)
+2026-04-24 13:30:31,721 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=7722-64-7 (try 1)
+2026-04-24 13:30:33,407 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=7722-64-7
+2026-04-24 13:30:33,408 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=7722-64-7 (try 2)
+2026-04-24 13:30:36,611 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=7722-64-7
+2026-04-24 13:30:36,612 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Potassium+permanganate (try 1)
+2026-04-24 13:30:38,620 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Potassium+permanganate
+2026-04-24 13:30:38,620 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Potassium+permanganate (try 2)
+2026-04-24 13:30:40,176 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Potassium+permanganate
+2026-04-24 13:30:40,180 INFO [seed 24/53] Phenylacetic acid (CAS 103-82-2, cat=meth)
+2026-04-24 13:30:40,181 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=103-82-2 (try 1)
+2026-04-24 13:30:41,721 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=103-82-2
+2026-04-24 13:30:41,721 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=103-82-2 (try 2)
+2026-04-24 13:30:43,248 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=103-82-2
+2026-04-24 13:30:43,249 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Phenylacetic+acid (try 1)
+2026-04-24 13:30:44,824 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Phenylacetic+acid
+2026-04-24 13:30:44,824 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Phenylacetic+acid (try 2)
+2026-04-24 13:30:46,299 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Phenylacetic+acid
+2026-04-24 13:30:46,302 INFO [seed 25/53] Safrole (CAS 94-59-7, cat=mdma)
+2026-04-24 13:30:46,302 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=94-59-7 (try 1)
+2026-04-24 13:30:49,213 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Safrole (try 1)
+2026-04-24 13:30:50,864 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Safrole
+2026-04-24 13:30:50,864 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Safrole (try 2)
+2026-04-24 13:30:52,368 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Safrole
+2026-04-24 13:30:52,371 INFO [seed 26/53] Isosafrole (CAS 120-58-1, cat=mdma)
+2026-04-24 13:30:52,371 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=120-58-1 (try 1)
+2026-04-24 13:30:53,813 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=120-58-1
+2026-04-24 13:30:53,813 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=120-58-1 (try 2)
+2026-04-24 13:30:55,440 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=120-58-1
+2026-04-24 13:30:55,441 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Isosafrole (try 1)
+2026-04-24 13:30:57,415 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Isosafrole
+2026-04-24 13:30:57,415 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Isosafrole (try 2)
+2026-04-24 13:30:59,106 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Isosafrole
+2026-04-24 13:30:59,107 INFO [seed 27/53] Piperonal (CAS 120-57-0, cat=mdma)
+2026-04-24 13:30:59,107 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=120-57-0 (try 1)
+2026-04-24 13:31:02,430 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=120-57-0
+2026-04-24 13:31:02,431 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=120-57-0 (try 2)
+2026-04-24 13:31:04,120 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=120-57-0
+2026-04-24 13:31:04,122 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Piperonal (try 1)
+2026-04-24 13:31:06,181 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Piperonal
+2026-04-24 13:31:06,181 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Piperonal (try 2)
+2026-04-24 13:31:08,819 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Piperonal
+2026-04-24 13:31:08,823 INFO [seed 28/53] 3,4-MDP-2-P (methylenedioxyphenyl-2-propanone) (CAS 4676-39-5, cat=mdma)
+2026-04-24 13:31:08,824 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=4676-39-5 (try 1)
+2026-04-24 13:31:11,777 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=4676-39-5
+2026-04-24 13:31:11,778 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=4676-39-5 (try 2)
+2026-04-24 13:31:13,409 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=4676-39-5
+2026-04-24 13:31:13,410 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=3%2C4-MDP-2-P+%28methylenedioxyphenyl-2-propanone%29 (try 1)
+2026-04-24 13:31:15,288 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=3%2C4-MDP-2-P+%28methylenedioxyphenyl-2-propanone%29
+2026-04-24 13:31:15,289 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=3%2C4-MDP-2-P+%28methylenedioxyphenyl-2-propanone%29 (try 2)
+2026-04-24 13:31:16,854 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=3%2C4-MDP-2-P+%28methylenedioxyphenyl-2-propanone%29
+2026-04-24 13:31:16,858 INFO [seed 29/53] BMK glycidate (methyl alpha-phenylacetoacetate) (CAS 16648-44-5, cat=mdma)
+2026-04-24 13:31:16,858 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=16648-44-5 (try 1)
+2026-04-24 13:31:18,814 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=16648-44-5
+2026-04-24 13:31:18,814 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=16648-44-5 (try 2)
+2026-04-24 13:31:20,378 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=16648-44-5
+2026-04-24 13:31:20,380 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=BMK+glycidate+%28methyl+alpha-phenylacetoacetate%29 (try 1)
+2026-04-24 13:31:22,040 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=BMK+glycidate+%28methyl+alpha-phenylacetoacetate%29
+2026-04-24 13:31:22,040 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=BMK+glycidate+%28methyl+alpha-phenylacetoacetate%29 (try 2)
+2026-04-24 13:31:23,614 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=BMK+glycidate+%28methyl+alpha-phenylacetoacetate%29
+2026-04-24 13:31:23,618 INFO [seed 30/53] PMK glycidate (CAS 13605-48-6, cat=mdma)
+2026-04-24 13:31:23,619 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=13605-48-6 (try 1)
+2026-04-24 13:31:25,085 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=13605-48-6
+2026-04-24 13:31:25,085 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=13605-48-6 (try 2)
+2026-04-24 13:31:26,534 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=13605-48-6
+2026-04-24 13:31:26,534 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=PMK+glycidate (try 1)
+2026-04-24 13:31:28,237 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=PMK+glycidate
+2026-04-24 13:31:28,238 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=PMK+glycidate (try 2)
+2026-04-24 13:31:29,757 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=PMK+glycidate
+2026-04-24 13:31:29,759 INFO [seed 31/53] Methyl benzoate (CAS 93-58-3, cat=cocaine)
+2026-04-24 13:31:29,759 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=93-58-3 (try 1)
+2026-04-24 13:31:33,033 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Methyl+benzoate (try 1)
+2026-04-24 13:31:36,188 INFO [seed 32/53] Catechol (CAS 120-80-9, cat=cocaine)
+2026-04-24 13:31:36,188 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=120-80-9 (try 1)
+2026-04-24 13:31:39,196 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Catechol (try 1)
+2026-04-24 13:31:41,410 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Catechol
+2026-04-24 13:31:41,411 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Catechol (try 2)
+2026-04-24 13:31:44,207 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Catechol
+2026-04-24 13:31:44,210 INFO [seed 33/53] Acetic anhydride (CAS 108-24-7, cat=general)
+2026-04-24 13:31:44,211 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=108-24-7 (try 1)
+2026-04-24 13:31:45,744 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=108-24-7
+2026-04-24 13:31:45,745 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=108-24-7 (try 2)
+2026-04-24 13:31:49,912 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=108-24-7
+2026-04-24 13:31:49,914 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Acetic+anhydride (try 1)
+2026-04-24 13:31:51,616 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Acetic+anhydride
+2026-04-24 13:31:51,617 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Acetic+anhydride (try 2)
+2026-04-24 13:31:55,657 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Acetic+anhydride
+2026-04-24 13:31:55,661 INFO [seed 34/53] N-Acetylanthranilic acid (CAS 89-52-1, cat=general)
+2026-04-24 13:31:55,661 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=89-52-1 (try 1)
+2026-04-24 13:31:57,690 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=89-52-1
+2026-04-24 13:31:57,690 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=89-52-1 (try 2)
+2026-04-24 13:31:59,694 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=89-52-1
+2026-04-24 13:31:59,696 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=N-Acetylanthranilic+acid (try 1)
+2026-04-24 13:32:01,303 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=N-Acetylanthranilic+acid
+2026-04-24 13:32:01,303 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=N-Acetylanthranilic+acid (try 2)
+2026-04-24 13:32:03,915 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=N-Acetylanthranilic+acid
+2026-04-24 13:32:03,917 INFO [seed 35/53] Anthranilic acid (CAS 118-92-3, cat=general)
+2026-04-24 13:32:03,917 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=118-92-3 (try 1)
+2026-04-24 13:32:06,037 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=118-92-3
+2026-04-24 13:32:06,039 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=118-92-3 (try 2)
+2026-04-24 13:32:08,051 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=118-92-3
+2026-04-24 13:32:08,053 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Anthranilic+acid (try 1)
+2026-04-24 13:32:09,722 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Anthranilic+acid
+2026-04-24 13:32:09,722 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Anthranilic+acid (try 2)
+2026-04-24 13:32:12,595 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Anthranilic+acid
+2026-04-24 13:32:12,596 INFO [seed 36/53] Nitroethane (CAS 79-24-3, cat=general)
+2026-04-24 13:32:12,596 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=79-24-3 (try 1)
+2026-04-24 13:32:16,106 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Nitroethane (try 1)
+2026-04-24 13:32:18,078 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Nitroethane
+2026-04-24 13:32:18,079 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Nitroethane (try 2)
+2026-04-24 13:32:20,211 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Nitroethane
+2026-04-24 13:32:20,213 INFO [seed 37/53] Benzaldehyde (CAS 100-52-7, cat=general)
+2026-04-24 13:32:20,213 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=100-52-7 (try 1)
+2026-04-24 13:32:22,411 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=100-52-7
+2026-04-24 13:32:22,412 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=100-52-7 (try 2)
+2026-04-24 13:32:24,505 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=100-52-7
+2026-04-24 13:32:24,509 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Benzaldehyde (try 1)
+2026-04-24 13:32:28,216 INFO [seed 38/53] Benzyl chloride (CAS 100-44-7, cat=general)
+2026-04-24 13:32:28,216 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=100-44-7 (try 1)
+2026-04-24 13:32:31,781 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Benzyl+chloride (try 1)
+2026-04-24 13:32:33,949 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Benzyl+chloride
+2026-04-24 13:32:33,949 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Benzyl+chloride (try 2)
+2026-04-24 13:32:36,118 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Benzyl+chloride
+2026-04-24 13:32:36,121 INFO [seed 39/53] Formamide (CAS 75-12-7, cat=general)
+2026-04-24 13:32:36,121 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=75-12-7 (try 1)
+2026-04-24 13:32:39,147 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Formamide (try 1)
+2026-04-24 13:32:41,784 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Formamide
+2026-04-24 13:32:41,785 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Formamide (try 2)
+2026-04-24 13:32:43,439 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Formamide
+2026-04-24 13:32:43,442 INFO [seed 40/53] N-Methylformamide (CAS 123-39-7, cat=general)
+2026-04-24 13:32:43,442 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=123-39-7 (try 1)
+2026-04-24 13:32:44,939 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=123-39-7
+2026-04-24 13:32:44,940 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=123-39-7 (try 2)
+2026-04-24 13:32:46,428 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=123-39-7
+2026-04-24 13:32:46,430 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=N-Methylformamide (try 1)
+2026-04-24 13:32:49,596 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=N-Methylformamide
+2026-04-24 13:32:49,596 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=N-Methylformamide (try 2)
+2026-04-24 13:32:51,128 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=N-Methylformamide
+2026-04-24 13:32:51,131 INFO [seed 41/53] Ergometrine (CAS 60-79-7, cat=lsd)
+2026-04-24 13:32:51,131 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=60-79-7 (try 1)
+2026-04-24 13:32:54,871 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Ergometrine (try 1)
+2026-04-24 13:32:56,457 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Ergometrine
+2026-04-24 13:32:56,457 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Ergometrine (try 2)
+2026-04-24 13:32:57,975 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Ergometrine
+2026-04-24 13:32:57,977 INFO [seed 42/53] Ergotamine (CAS 113-15-5, cat=lsd)
+2026-04-24 13:32:57,978 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=113-15-5 (try 1)
+2026-04-24 13:33:01,004 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=113-15-5
+2026-04-24 13:33:01,004 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=113-15-5 (try 2)
+2026-04-24 13:33:02,520 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=113-15-5
+2026-04-24 13:33:02,521 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Ergotamine (try 1)
+2026-04-24 13:33:05,173 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Ergotamine
+2026-04-24 13:33:05,173 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Ergotamine (try 2)
+2026-04-24 13:33:06,757 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Ergotamine
+2026-04-24 13:33:06,762 INFO [seed 43/53] Lysergic acid (CAS 82-58-6, cat=lsd)
+2026-04-24 13:33:06,762 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=82-58-6 (try 1)
+2026-04-24 13:33:11,200 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Lysergic+acid (try 1)
+2026-04-24 13:33:12,954 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Lysergic+acid
+2026-04-24 13:33:12,955 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Lysergic+acid (try 2)
+2026-04-24 13:33:14,720 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Lysergic+acid
+2026-04-24 13:33:14,720 INFO [seed 44/53] Gamma-butyrolactone (GBL) (CAS 96-48-0, cat=ghb)
+2026-04-24 13:33:14,720 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=96-48-0 (try 1)
+2026-04-24 13:33:19,151 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Gamma-butyrolactone+%28GBL%29 (try 1)
+2026-04-24 13:33:21,430 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Gamma-butyrolactone+%28GBL%29
+2026-04-24 13:33:21,430 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Gamma-butyrolactone+%28GBL%29 (try 2)
+2026-04-24 13:33:23,538 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Gamma-butyrolactone+%28GBL%29
+2026-04-24 13:33:23,541 INFO [seed 45/53] 1,4-Butanediol (CAS 110-63-4, cat=ghb)
+2026-04-24 13:33:23,541 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=110-63-4 (try 1)
+2026-04-24 13:33:27,648 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=1%2C4-Butanediol (try 1)
+2026-04-24 13:33:29,331 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=1%2C4-Butanediol
+2026-04-24 13:33:29,331 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=1%2C4-Butanediol (try 2)
+2026-04-24 13:33:30,929 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=1%2C4-Butanediol
+2026-04-24 13:33:30,933 INFO [seed 46/53] Acetone (CAS 67-64-1, cat=solvent)
+2026-04-24 13:33:30,933 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=67-64-1 (try 1)
+2026-04-24 13:33:33,984 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Acetone (try 1)
+2026-04-24 13:33:35,610 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Acetone
+2026-04-24 13:33:35,610 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Acetone (try 2)
+2026-04-24 13:33:37,190 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Acetone
+2026-04-24 13:33:37,192 INFO [seed 47/53] Toluene (CAS 108-88-3, cat=solvent)
+2026-04-24 13:33:37,192 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=108-88-3 (try 1)
+2026-04-24 13:33:39,330 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=108-88-3
+2026-04-24 13:33:39,330 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=108-88-3 (try 2)
+2026-04-24 13:33:42,348 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=108-88-3
+2026-04-24 13:33:42,349 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Toluene (try 1)
+2026-04-24 13:33:45,589 INFO [seed 48/53] Methyl ethyl ketone (CAS 78-93-3, cat=solvent)
+2026-04-24 13:33:45,590 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=78-93-3 (try 1)
+2026-04-24 13:33:47,068 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=78-93-3
+2026-04-24 13:33:47,069 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=78-93-3 (try 2)
+2026-04-24 13:33:48,498 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=78-93-3
+2026-04-24 13:33:48,502 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Methyl+ethyl+ketone (try 1)
+2026-04-24 13:33:51,865 INFO [seed 49/53] Chloroform (CAS 67-66-3, cat=solvent)
+2026-04-24 13:33:51,866 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=67-66-3 (try 1)
+2026-04-24 13:33:53,924 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=67-66-3
+2026-04-24 13:33:53,924 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=67-66-3 (try 2)
+2026-04-24 13:33:55,463 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=67-66-3
+2026-04-24 13:33:55,465 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Chloroform (try 1)
+2026-04-24 13:33:57,345 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Chloroform
+2026-04-24 13:33:57,346 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Chloroform (try 2)
+2026-04-24 13:33:58,999 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Chloroform
+2026-04-24 13:33:59,003 INFO [seed 50/53] Dichloromethane (CAS 75-09-2, cat=solvent)
+2026-04-24 13:33:59,003 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=75-09-2 (try 1)
+2026-04-24 13:34:02,123 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Dichloromethane (try 1)
+2026-04-24 13:34:03,799 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Dichloromethane
+2026-04-24 13:34:03,799 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Dichloromethane (try 2)
+2026-04-24 13:34:05,401 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Dichloromethane
+2026-04-24 13:34:05,403 INFO [seed 51/53] Diethyl ether (CAS 60-29-7, cat=solvent)
+2026-04-24 13:34:05,403 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=60-29-7 (try 1)
+2026-04-24 13:34:09,153 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Diethyl+ether (try 1)
+2026-04-24 13:34:10,690 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Diethyl+ether
+2026-04-24 13:34:10,690 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Diethyl+ether (try 2)
+2026-04-24 13:34:12,371 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Diethyl+ether
+2026-04-24 13:34:12,376 INFO [seed 52/53] Hydrochloric acid (CAS 7647-01-0, cat=solvent)
+2026-04-24 13:34:12,376 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=7647-01-0 (try 1)
+2026-04-24 13:34:14,206 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=7647-01-0
+2026-04-24 13:34:14,206 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=7647-01-0 (try 2)
+2026-04-24 13:34:16,003 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=7647-01-0
+2026-04-24 13:34:16,006 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Hydrochloric+acid (try 1)
+2026-04-24 13:34:17,789 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Hydrochloric+acid
+2026-04-24 13:34:17,789 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Hydrochloric+acid (try 2)
+2026-04-24 13:34:20,049 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Hydrochloric+acid
+2026-04-24 13:34:20,050 INFO [seed 53/53] Sulfuric acid (CAS 7664-93-9, cat=solvent)
+2026-04-24 13:34:20,050 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=7664-93-9 (try 1)
+2026-04-24 13:34:21,517 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=7664-93-9
+2026-04-24 13:34:21,518 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=7664-93-9 (try 2)
+2026-04-24 13:34:23,143 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=7664-93-9
+2026-04-24 13:34:23,146 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Sulfuric+acid (try 1)
+2026-04-24 13:34:25,693 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Sulfuric+acid
+2026-04-24 13:34:25,694 INFO GET https://china.chemnet.com/product/search.cgi?f=plist&terms=Sulfuric+acid (try 2)
+2026-04-24 13:34:27,401 WARNING status 404 on https://china.chemnet.com/product/search.cgi?f=plist&terms=Sulfuric+acid
+2026-04-24 13:34:27,403 INFO [hot] https://china.chemnet.com/hot-product/a.html
+2026-04-24 13:34:27,403 INFO GET https://china.chemnet.com/hot-product/a.html (try 1)
+2026-04-24 13:34:29,945 INFO [hot] https://china.chemnet.com/hot-product/b.html
+2026-04-24 13:34:29,945 INFO GET https://china.chemnet.com/hot-product/b.html (try 1)
+2026-04-24 13:34:32,435 INFO [hot] https://china.chemnet.com/hot-product/c.html
+2026-04-24 13:34:32,435 INFO GET https://china.chemnet.com/hot-product/c.html (try 1)
+2026-04-24 13:34:35,121 INFO [hot] https://china.chemnet.com/hot-product/d.html
+2026-04-24 13:34:35,121 INFO GET https://china.chemnet.com/hot-product/d.html (try 1)
+2026-04-24 13:34:38,996 INFO [hot] https://china.chemnet.com/hot-product/e.html
+2026-04-24 13:34:38,997 INFO GET https://china.chemnet.com/hot-product/e.html (try 1)
+2026-04-24 13:34:42,855 INFO [hot] https://china.chemnet.com/hot-product/f.html
+2026-04-24 13:34:42,855 INFO GET https://china.chemnet.com/hot-product/f.html (try 1)
+2026-04-24 13:34:45,351 INFO [hot] https://china.chemnet.com/hot-product/g.html
+2026-04-24 13:34:45,351 INFO GET https://china.chemnet.com/hot-product/g.html (try 1)
+2026-04-24 13:34:47,972 INFO [hot] https://china.chemnet.com/hot-product/h.html
+2026-04-24 13:34:47,972 INFO GET https://china.chemnet.com/hot-product/h.html (try 1)
+2026-04-24 13:34:50,418 INFO [hot] https://china.chemnet.com/hot-product/i.html
+2026-04-24 13:34:50,418 INFO GET https://china.chemnet.com/hot-product/i.html (try 1)
+2026-04-24 13:34:53,028 INFO [hot] https://china.chemnet.com/hot-product/j.html
+2026-04-24 13:34:53,028 INFO GET https://china.chemnet.com/hot-product/j.html (try 1)
+2026-04-24 13:34:55,621 INFO [hot] https://china.chemnet.com/hot-product/k.html
+2026-04-24 13:34:55,622 INFO GET https://china.chemnet.com/hot-product/k.html (try 1)
+2026-04-24 13:34:58,137 INFO [hot] https://china.chemnet.com/hot-product/l.html
+2026-04-24 13:34:58,139 INFO GET https://china.chemnet.com/hot-product/l.html (try 1)
+2026-04-24 13:35:00,620 INFO [hot] https://china.chemnet.com/hot-product/m.html
+2026-04-24 13:35:00,620 INFO GET https://china.chemnet.com/hot-product/m.html (try 1)
+2026-04-24 13:35:03,123 INFO [hot] https://china.chemnet.com/hot-product/n.html
+2026-04-24 13:35:03,124 INFO GET https://china.chemnet.com/hot-product/n.html (try 1)
+2026-04-24 13:35:06,349 INFO [hot] https://china.chemnet.com/hot-product/o.html
+2026-04-24 13:35:06,349 INFO GET https://china.chemnet.com/hot-product/o.html (try 1)
+2026-04-24 13:35:08,849 INFO [hot] https://china.chemnet.com/hot-product/p.html
+2026-04-24 13:35:08,849 INFO GET https://china.chemnet.com/hot-product/p.html (try 1)
+2026-04-24 13:35:12,163 INFO [hot] https://china.chemnet.com/hot-product/q.html
+2026-04-24 13:35:12,164 INFO GET https://china.chemnet.com/hot-product/q.html (try 1)
+2026-04-24 13:35:14,737 INFO [hot] https://china.chemnet.com/hot-product/r.html
+2026-04-24 13:35:14,738 INFO GET https://china.chemnet.com/hot-product/r.html (try 1)
+2026-04-24 13:35:17,193 INFO [hot] https://china.chemnet.com/hot-product/s.html
+2026-04-24 13:35:17,194 INFO GET https://china.chemnet.com/hot-product/s.html (try 1)
+2026-04-24 13:35:19,708 INFO [hot] https://china.chemnet.com/hot-product/t.html
+2026-04-24 13:35:19,709 INFO GET https://china.chemnet.com/hot-product/t.html (try 1)
+2026-04-24 13:35:23,441 INFO [hot] https://china.chemnet.com/hot-product/u.html
+2026-04-24 13:35:23,442 INFO GET https://china.chemnet.com/hot-product/u.html (try 1)
+2026-04-24 13:35:26,002 INFO [hot] https://china.chemnet.com/hot-product/v.html
+2026-04-24 13:35:26,002 INFO GET https://china.chemnet.com/hot-product/v.html (try 1)
+2026-04-24 13:35:28,478 INFO [hot] https://china.chemnet.com/hot-product/w.html
+2026-04-24 13:35:28,479 INFO GET https://china.chemnet.com/hot-product/w.html (try 1)
+2026-04-24 13:35:31,089 INFO [hot] https://china.chemnet.com/hot-product/x.html
+2026-04-24 13:35:31,089 INFO GET https://china.chemnet.com/hot-product/x.html (try 1)
+2026-04-24 13:35:33,562 INFO [hot] https://china.chemnet.com/hot-product/y.html
+2026-04-24 13:35:33,563 INFO GET https://china.chemnet.com/hot-product/y.html (try 1)
+2026-04-24 13:35:36,547 INFO [hot] https://china.chemnet.com/hot-product/z.html
+2026-04-24 13:35:36,548 INFO GET https://china.chemnet.com/hot-product/z.html (try 1)
+2026-04-24 13:35:39,055 INFO [hot] https://china.chemnet.com/hot-product/09.html
+2026-04-24 13:35:39,056 INFO GET https://china.chemnet.com/hot-product/09.html (try 1)
+2026-04-24 13:35:42,157 INFO wrote /Users/carsonmulligan/Desktop/Workspace/apps/web-rails-holocron-gov-hackathon/data/chemnet/csv/china_chemnet_products.csv
+2026-04-24 13:35:42,157 INFO wrote /Users/carsonmulligan/Desktop/Workspace/apps/web-rails-holocron-gov-hackathon/data/chemnet/csv/china_chemnet_hot_products.csv
+2026-04-24 13:35:42,158 INFO wrote /Users/carsonmulligan/Desktop/Workspace/apps/web-rails-holocron-gov-hackathon/data/chemnet/csv/china_chemnet_raw_queries.csv
+2026-04-24 13:35:42,158 INFO DONE. seed_products=17 exact_cas_matches=0 hot_products=0

@@ -1,0 +1,145 @@
+2026-04-24 13:19:52,067 INFO chemnet.com scraper starting; 40 seed chemicals
+2026-04-24 13:19:52,067 INFO [1/40] Acetic anhydride (108-24-7)
+2026-04-24 13:19:55,015 INFO [2/40] Acetone (67-64-1)
+2026-04-24 13:19:55,042 INFO [3/40] Ephedrine (299-42-3)
+2026-04-24 13:19:57,398 INFO [4/40] Pseudoephedrine (90-82-4)
+2026-04-24 13:20:00,717 INFO [5/40] Phenylpropanolamine (14838-15-4)
+2026-04-24 13:20:02,022 INFO [6/40] Ergometrine (60-79-7)
+2026-04-24 13:20:05,502 INFO [7/40] Ergotamine (113-15-5)
+2026-04-24 13:20:07,989 INFO [8/40] Lysergic acid (82-58-6)
+2026-04-24 13:20:09,729 INFO [9/40] N-acetylanthranilic acid (89-52-1)
+2026-04-24 13:20:13,469 INFO [10/40] Anthranilic acid (118-92-3)
+2026-04-24 13:20:31,644 INFO [11/40] Phenylacetic acid (103-82-2)
+/Users/carsonmulligan/Desktop/Workspace/apps/web-rails-holocron-gov-hackathon/data/chemnet/scrape_chemnet_com.py:345: MarkupResemblesLocatorWarning: The input looks more like a filename than markup. You may want to open this file and pass the filehandle into Beautiful Soup.
+  supplier_name = _clean(BeautifulSoup(raw_name, "lxml").get_text())
+2026-04-24 13:20:41,588 INFO [12/40] Piperonal (120-57-0)
+2026-04-24 13:20:45,586 INFO [13/40] Safrole (94-59-7)
+2026-04-24 13:20:47,701 INFO [14/40] Isosafrole (120-58-1)
+2026-04-24 13:20:49,866 INFO [15/40] 3,4-MDP-2-P (4676-39-5)
+2026-04-24 13:20:52,080 INFO [16/40] Phenyl-2-propanone (103-79-7)
+2026-04-24 13:20:52,117 INFO [17/40] APAAN (4468-48-8)
+2026-04-24 13:20:52,130 INFO [18/40] BMK glycidate (16648-44-5)
+2026-04-24 13:20:54,059 INFO [19/40] Methylamine (74-89-5)
+2026-04-24 13:20:55,789 INFO [20/40] Red phosphorus (7723-14-0)
+2026-04-24 13:21:05,663 INFO [21/40] Iodine (7553-56-2)
+2026-04-24 13:21:35,731 INFO [22/40] Hydriodic acid (10034-85-2)
+2026-04-24 13:21:47,766 INFO [23/40] Toluene (108-88-3)
+2026-04-24 13:21:51,799 INFO [24/40] Diethyl ether (60-29-7)
+2026-04-24 13:21:55,774 INFO [25/40] Hydrochloric acid (7647-01-0)
+2026-04-24 13:22:09,823 INFO [26/40] Sulfuric acid (7664-93-9)
+2026-04-24 13:22:29,822 INFO [27/40] Potassium permanganate (7722-64-7)
+2026-04-24 13:22:33,826 INFO [28/40] Sodium permanganate (10101-50-5)
+2026-04-24 13:22:36,185 INFO [29/40] Sodium hypochlorite (7681-52-9)
+2026-04-24 13:23:17,970 INFO [30/40] Palladium chloride (7647-10-1)
+2026-04-24 13:23:20,175 INFO [31/40] Chloroform (67-66-3)
+2026-04-24 13:24:00,031 INFO [32/40] Dichloromethane (75-09-2)
+2026-04-24 13:24:42,194 INFO [33/40] N-methylformamide (123-39-7)
+2026-04-24 13:24:44,576 INFO [34/40] Formamide (75-12-7)
+2026-04-24 13:24:58,257 INFO [35/40] Benzaldehyde (100-52-7)
+2026-04-24 13:25:00,631 INFO [36/40] Nitroethane (79-24-3)
+2026-04-24 13:25:04,168 INFO [37/40] Hydrogen peroxide (7722-84-1)
+2026-04-24 13:25:44,346 INFO [38/40] Benzyl chloride (100-44-7)
+2026-04-24 13:25:46,489 INFO [39/40] Methyl ethyl ketone (78-93-3)
+2026-04-24 13:26:28,337 INFO [40/40] Gamma-butyrolactone (96-48-0)
+2026-04-24 13:26:40,388 INFO seed pass done; products=5273 supplier-upserts=1748 elapsed=408.3s
+2026-04-24 13:26:42,565 INFO breadth [1/80] acetic-anhydride -> 10 suppliers
+2026-04-24 13:26:44,415 INFO breadth [2/80] sorbic-acid -> 10 suppliers
+2026-04-24 13:26:46,413 INFO breadth [3/80] potassium-sorbate -> 10 suppliers
+2026-04-24 13:26:48,430 INFO breadth [4/80] sodium-dehydroacetate -> 10 suppliers
+2026-04-24 13:26:50,469 INFO breadth [5/80] methyl-acetoacetate -> 10 suppliers
+2026-04-24 13:26:52,543 INFO breadth [6/80] ethyl-acetoacetate -> 10 suppliers
+2026-04-24 13:26:54,622 INFO breadth [7/80] xylene -> 10 suppliers
+2026-04-24 13:26:56,790 INFO breadth [8/80] 1,2-propanediol -> 10 suppliers
+2026-04-24 13:26:56,809 INFO breadth [9/80] dichloromethane -> 10 suppliers
+2026-04-24 13:26:58,445 INFO breadth [10/80] triethylamine -> 10 suppliers
+2026-04-24 13:27:00,478 INFO breadth [11/80] acetic-acid -> 10 suppliers
+2026-04-24 13:27:02,574 INFO breadth [12/80] crotonaldehyde -> 10 suppliers
+2026-04-24 13:27:04,391 INFO breadth [13/80] trichloroisocyanyr-ic-acid -> 1 suppliers
+2026-04-24 13:27:06,458 INFO breadth [14/80] tcca -> 10 suppliers
+2026-04-24 13:27:08,738 INFO breadth [15/80] sodium-dichloroisocyanurate -> 10 suppliers
+2026-04-24 13:27:10,438 INFO breadth [16/80] dccna -> 3 suppliers
+2026-04-24 13:27:12,460 INFO breadth [17/80] acetylacetone -> 10 suppliers
+2026-04-24 13:27:14,432 INFO breadth [18/80] 2,4-pentanedione -> 10 suppliers
+2026-04-24 13:27:16,969 INFO breadth [19/80] pva -> 10 suppliers
+2026-04-24 13:27:18,408 INFO breadth [20/80] water-retention-agent -> 1 suppliers
+2026-04-24 13:27:20,414 INFO breadth [21/80] vae-adhesive -> 1 suppliers
+2026-04-24 13:27:22,490 INFO breadth [22/80] frog-brand-series -> 1 suppliers
+2026-04-24 13:27:24,509 INFO breadth [23/80] dibutyl-phthalate -> 10 suppliers
+2026-04-24 13:27:24,524 INFO breadth [24/80] trichloromethane -> 10 suppliers
+2026-04-24 13:27:26,538 INFO breadth [25/80] liquid-ammonia -> 10 suppliers
+2026-04-24 13:27:28,616 INFO breadth [26/80] perchlorethylene -> 10 suppliers
+2026-04-24 13:27:30,550 INFO breadth [27/80] trichloroethylene -> 10 suppliers
+2026-04-24 13:27:32,598 INFO breadth [28/80] isobutyl-acetate -> 10 suppliers
+2026-04-24 13:27:34,542 INFO breadth [29/80] 4-hydroxy-2-butanone -> 8 suppliers
+2026-04-24 13:27:36,639 INFO breadth [30/80] trans-2-hexenal -> 10 suppliers
+2026-04-24 13:27:38,776 INFO breadth [31/80] trans-2-hexenol -> 10 suppliers
+2026-04-24 13:27:40,659 INFO breadth [32/80] trans-2-hexenyl-acetate -> 10 suppliers
+2026-04-24 13:27:42,516 INFO breadth [33/80] ace-k-artificial-sweetener -> 1 suppliers
+2026-04-24 13:27:44,471 WARNING status 404 on https://www.chemnet.com/Global/Products/acetic-acid-20-kosher-food-grade-passover/Suppliers-0-0.html
+2026-04-24 13:27:46,788 WARNING status 404 on https://china.chemnet.com/Global/Products/acetic-acid-20-kosher-food-grade-passover/Suppliers-0-0.html
+2026-04-24 13:27:47,850 WARNING fetch error https://web.archive.org/web/2024/https://www.chemnet.com/Global/Products/acetic-acid-20-kosher-food-grade-passover/Suppliers-0-0.html (attempt 1): HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/2024/https://www.chemnet.com/Global/Products/acetic-acid-20-kosher-food-grade-passover/Suppliers-0-0.html (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x109f16f10>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-04-24 13:27:52,938 WARNING fetch error https://web.archive.org/web/2024/https://www.chemnet.com/Global/Products/acetic-acid-20-kosher-food-grade-passover/Suppliers-0-0.html (attempt 2): HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/2024/https://www.chemnet.com/Global/Products/acetic-acid-20-kosher-food-grade-passover/Suppliers-0-0.html (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x109de2a50>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-04-24 13:27:55,554 WARNING status 404 on https://www.chemnet.com/Global/Products/acetic-acid-56/Suppliers-0-0.html
+2026-04-24 13:27:57,205 WARNING status 404 on https://china.chemnet.com/Global/Products/acetic-acid-56/Suppliers-0-0.html
+2026-04-24 13:27:58,941 WARNING fetch error https://web.archive.org/web/2024/https://www.chemnet.com/Global/Products/acetic-acid-56/Suppliers-0-0.html (attempt 1): HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/2024/https://www.chemnet.com/Global/Products/acetic-acid-56/Suppliers-0-0.html (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x109de0050>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-04-24 13:28:04,151 WARNING fetch error https://web.archive.org/web/2024/https://www.chemnet.com/Global/Products/acetic-acid-56/Suppliers-0-0.html (attempt 2): HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/2024/https://www.chemnet.com/Global/Products/acetic-acid-56/Suppliers-0-0.html (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x109de3710>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-04-24 13:28:06,659 WARNING status 404 on https://www.chemnet.com/Global/Products/acetic-acid-80/Suppliers-0-0.html
+2026-04-24 13:28:08,269 WARNING status 404 on https://china.chemnet.com/Global/Products/acetic-acid-80/Suppliers-0-0.html
+2026-04-24 13:28:10,054 WARNING fetch error https://web.archive.org/web/2024/https://www.chemnet.com/Global/Products/acetic-acid-80/Suppliers-0-0.html (attempt 1): HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/2024/https://www.chemnet.com/Global/Products/acetic-acid-80/Suppliers-0-0.html (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x109de18d0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-04-24 13:28:15,146 WARNING fetch error https://web.archive.org/web/2024/https://www.chemnet.com/Global/Products/acetic-acid-80/Suppliers-0-0.html (attempt 2): HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/2024/https://www.chemnet.com/Global/Products/acetic-acid-80/Suppliers-0-0.html (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x109da7690>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-04-24 13:28:17,877 WARNING status 404 on https://www.chemnet.com/Global/Products/acetic-acid-80-kosher-food-grade-passover/Suppliers-0-0.html
+2026-04-24 13:28:19,363 WARNING status 404 on https://china.chemnet.com/Global/Products/acetic-acid-80-kosher-food-grade-passover/Suppliers-0-0.html
+2026-04-24 13:28:21,179 WARNING fetch error https://web.archive.org/web/2024/https://www.chemnet.com/Global/Products/acetic-acid-80-kosher-food-grade-passover/Suppliers-0-0.html (attempt 1): HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/2024/https://www.chemnet.com/Global/Products/acetic-acid-80-kosher-food-grade-passover/Suppliers-0-0.html (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x109da4450>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-04-24 13:28:26,285 WARNING fetch error https://web.archive.org/web/2024/https://www.chemnet.com/Global/Products/acetic-acid-80-kosher-food-grade-passover/Suppliers-0-0.html (attempt 2): HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/2024/https://www.chemnet.com/Global/Products/acetic-acid-80-kosher-food-grade-passover/Suppliers-0-0.html (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x109da6050>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2026-04-24 13:28:29,311 INFO breadth [34/80] aluminum-sulfate -> 10 suppliers
+2026-04-24 13:28:31,158 INFO breadth [35/80] ferric-chloride -> 10 suppliers
+2026-04-24 13:28:33,010 INFO breadth [36/80] hydrogen-peroxide -> 10 suppliers
+2026-04-24 13:28:35,272 INFO breadth [37/80] sodium-nitrite -> 10 suppliers
+2026-04-24 13:28:37,178 INFO breadth [38/80] soda-ash -> 10 suppliers
+2026-04-24 13:28:39,019 INFO breadth [39/80] 2-acetylpyrazine -> 10 suppliers
+2026-04-24 13:28:41,073 INFO breadth [40/80] 2-acetylpyridine -> 10 suppliers
+2026-04-24 13:28:43,023 INFO breadth [41/80] 2-acetylpyrrole -> 10 suppliers
+2026-04-24 13:28:45,039 INFO breadth [42/80] 2-acetylthiazole -> 10 suppliers
+2026-04-24 13:28:47,023 INFO breadth [43/80] 3-acetylpyridine -> 10 suppliers
+2026-04-24 13:28:49,053 INFO breadth [44/80] ammonium-acetate -> 10 suppliers
+2026-04-24 13:28:51,059 INFO breadth [45/80] ammonium-chloride -> 10 suppliers
+2026-04-24 13:28:53,050 INFO breadth [46/80] ammonium-hydroxide -> 10 suppliers
+2026-04-24 13:28:55,046 INFO breadth [47/80] ammonium-nitrate -> 10 suppliers
+2026-04-24 13:28:57,065 INFO breadth [48/80] calcium-chloride -> 10 suppliers
+2026-04-24 13:28:59,019 INFO breadth [49/80] barium-chloride -> 10 suppliers
+2026-04-24 13:29:01,086 INFO breadth [50/80] boric-acid -> 10 suppliers
+2026-04-24 13:29:03,908 INFO breadth [51/80] copper-chloride -> 10 suppliers
+2026-04-24 13:29:05,304 INFO breadth [52/80] ascorbic-acid -> 10 suppliers
+2026-04-24 13:29:07,095 INFO breadth [53/80] 1,3-propanediol -> 10 suppliers
+2026-04-24 13:29:09,179 INFO breadth [54/80] benzalkonium-chloride -> 10 suppliers
+2026-04-24 13:29:11,115 INFO breadth [55/80] n-octane -> 10 suppliers
+2026-04-24 13:29:13,172 INFO breadth [56/80] p-chloro-m-cresol -> 10 suppliers
+2026-04-24 13:29:15,233 INFO breadth [57/80] phenylacetyl-chloride -> 10 suppliers
+2026-04-24 13:29:17,114 INFO breadth [58/80] paraxylene -> 10 suppliers
+2026-04-24 13:29:19,126 INFO breadth [59/80] naphthalene-dicarboxylate -> 2 suppliers
+2026-04-24 13:29:21,211 INFO breadth [60/80] metaxylene -> 10 suppliers
+2026-04-24 13:29:23,143 INFO breadth [61/80] zirconium-silicate -> 10 suppliers
+2026-04-24 13:29:25,206 INFO breadth [62/80] sodium-carbonate -> 10 suppliers
+2026-04-24 13:29:27,314 INFO breadth [63/80] phthalic-anhydride -> 10 suppliers
+2026-04-24 13:29:29,177 INFO breadth [64/80] carbon-black -> 10 suppliers
+2026-04-24 13:29:31,165 INFO breadth [65/80] dilute-acetic-acid -> 2 suppliers
+2026-04-24 13:29:33,118 INFO breadth [66/80] acetaldehyde -> 10 suppliers
+2026-04-24 13:29:35,117 INFO breadth [67/80] glacial-acetic-acid -> 10 suppliers
+2026-04-24 13:29:37,143 INFO breadth [68/80] p-benzoquinone -> 10 suppliers
+2026-04-24 13:29:39,159 INFO breadth [69/80] acetonitrile -> 10 suppliers
+2026-04-24 13:29:41,134 INFO breadth [70/80] aluminum-chloride -> 10 suppliers
+2026-04-24 13:29:43,180 INFO breadth [71/80] acetamide -> 10 suppliers
+2026-04-24 13:29:45,131 INFO breadth [72/80] acetic-acid-glacial -> 10 suppliers
+2026-04-24 13:29:47,141 INFO breadth [73/80] acid-mixture -> 1 suppliers
+2026-04-24 13:29:49,208 INFO breadth [74/80] acarbose -> 10 suppliers
+2026-04-24 13:29:51,199 INFO breadth [75/80] acacia -> 10 suppliers
+2026-04-24 13:29:53,171 INFO breadth [76/80] aceclofenac -> 10 suppliers
+2026-04-24 13:29:55,180 INFO breadth [77/80] cyclohexane -> 10 suppliers
+2026-04-24 13:29:57,272 INFO breadth [78/80] heptane -> 10 suppliers
+2026-04-24 13:29:59,191 INFO breadth [79/80] hexane -> 10 suppliers
+2026-04-24 13:30:01,296 INFO breadth [80/80] mineral-seal-oil -> 10 suppliers
+2026-04-24 13:30:01,296 INFO breadth crawl fetched 80 additional product pages
+2026-04-24 13:30:01,337 INFO wrote /Users/carsonmulligan/Desktop/Workspace/apps/web-rails-holocron-gov-hackathon/data/chemnet/csv/chemnet_com_products.csv (9489 rows)
+2026-04-24 13:30:01,345 INFO wrote /Users/carsonmulligan/Desktop/Workspace/apps/web-rails-holocron-gov-hackathon/data/chemnet/csv/chemnet_com_suppliers.csv (1341 rows)
+2026-04-24 13:30:01,346 INFO wrote /Users/carsonmulligan/Desktop/Workspace/apps/web-rails-holocron-gov-hackathon/data/chemnet/csv/chemnet_com_raw_queries.csv (305 rows)
+2026-04-24 13:30:01,346 INFO DONE products=9489 suppliers=1341 raw_queries=305 failures=0

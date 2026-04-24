@@ -1,0 +1,86 @@
+{{Short description|Multilateral export control regime established in 1985}}
+{{Use dmy dates|date=January 2025}}
+[[File:Australia Group Map 2024.png|thumb|Australia group participation map]]
+
+{{Weapons of mass destruction}}
+{{Non-proliferation, Disarmament, & Arms control}}
+The '''Australia Group''' ('''AG''') is a [[multilateral export control regime]] (MECR) and an informal group of countries (now joined by the [[European Commission]]) established in 1985 (after the use of [[chemical weapon]]s by Iraq in 1984) to help member countries to identify those exports which need to be controlled so as not to contribute to the spread of [[chemical weapon|chemical]] and [[biological weapon|biological]] [[weapon]]s.<ref>{{Cite web|url=http://www.australiagroup.net/en/origins.html|title=The Australia Group – Origins|website=australiagroup.net|access-date=2017-12-12}}</ref>
+
+The group, initially consisting of 15 members, held its first meeting in [[Brussels]], Belgium, in June 1985.<ref>{{cite web |title=The Australia Group – Origins |url=https://australiagroup.net/en/origins.html |website=australiagroup.net |access-date=23 May 2020}}</ref> With the incorporation of India on 19 January 2018, it now has 43 members,<ref>{{Cite web|url=http://www.australiagroup.net/en/india_statement.html|title=The Australia Group – Membership|website=australiagroup.net|access-date=2018-01-20}}</ref> including Australia, New Zealand, the [[European Commission]], all 27 [[member states of the European Union]], United Kingdom, the United States, Canada, India, Ukraine, and Argentina. The name comes from Australia's initiative to create the group. Australia manages the secretariat.
+
+The initial members of the group had different assessments of which [[chemical precursor]]s should be subject to [[export control]]. Later adherents initially had no such controls. Today, members of the group maintain export controls on a uniform list of 90<ref name="AG">{{cite web|url=https://costanziresearch.com/cw-nonproliferation/cw-control-lists/ag-chemicals/|title=Australia Group Chemical Weapons Precursors List 
+|website=costanziresearch.com|date=2020-02-28|access-date=2020-10-05|quote=Of these 87 chemicals, 22 are Novichok precursors that were added on 28 February 2020, to complement the recent addition of Novichok agents to CWC Schedule 1}}</ref> [[chemical compound|compounds]], including several that are not prohibited for export under the [[Chemical Weapons Convention]], but can be used in the manufacture of chemical weapons.<ref>{{cite web |title=The Australia Group – Activities |url=https://australiagroup.net/en/activities.html |website=australiagroup.net |access-date=23 May 2020}}</ref> Additionally, the Australia Group expanded its standardization of licensing and export controls to cover technology related to the manufacturing of chemical weapons or controlled components.
+
+In 2002, the group took two important steps to strengthen export control. The first was the "no-undercut" requirement, which stated that any member of the group considering making an export to another state that had already been denied an export by any other member of the group must first consult with that member state before approving the export. The second was the "catch-all" provision, which requires member states to halt all exports that could be used by importers in chemical or biological weapons programs, regardless of whether the export is on the group's control lists.<ref>Arms Control Association, "The Australia Group at a Glance", September 2003, available at www.armscontrol.org/factssheets/australiagroup.asp</ref> Delegations representing the members meet every year in [[Paris]], France.<ref name = "croddy">{{cite book | first = Eric | last = Croddy | title = Chemical and Biological Weapons: A Comprehensive Study for the Concerned Citizen | publisher = Copernicus Books | year = 2002 | isbn = 0-387-95076-1 | pages = [https://archive.org/details/chemicalbiologic00crod/page/180 180–1] | url-access = registration | url = https://archive.org/details/chemicalbiologic00crod/page/180 }}</ref>
+
+==Members==
+
+===Participants===
+{{div col|colwidth=23em}}
+*{{flag|Argentina}} (1993)
+*{{flag|Australia}} (1985)
+*{{flag|Austria}} (1989)
+*{{flag|Belgium}} (1985)
+*{{flag|Bulgaria}} (2001)
+*{{flag|Canada}} (1985)
+*{{flag|Croatia}} (2007)
+*{{flag|Cyprus}} (2000)
+*{{flag|Czech Republic}} (2004)
+*{{flag|Denmark}} (1985)
+*{{flag|Estonia}} (2004)
+*{{flag|European Union}} (1985)
+*{{flag|Finland}} (1991)
+*{{flag|France}} (1985)
+*{{flag|Germany}} (1985)
+*{{flag|Greece}} (1985)
+*{{flag|Hungary}} (1993)
+*{{flag|Iceland}} (1993)
+*{{flag|India}} (2018)
+*{{flag|Ireland}} (1985)
+*{{flag|Italy}} (1985)
+*{{flag|Japan}} (1985)
+*{{flag|South Korea}} (1996)
+*{{flag|Latvia}} (2004)
+*{{flag|Lithuania}} (2004)
+*{{flag|Luxembourg}} (1985)
+*{{flag|Malta}} (2004)
+*{{flag|Mexico}} (2013)
+*{{flag|Netherlands}} (1985)
+*{{flag|New Zealand}} (1985)
+*{{flag|Norway}} (1986)
+*{{flag|Poland}} (1994)
+*{{flag|Portugal}} (1985)
+*{{flag|Romania}} (1995)
+*{{flag|Slovakia}} (1994)
+*{{flag|Slovenia}} (2004)
+*{{flag|Spain}} (1985)
+*{{flag|Sweden}} (1991)
+*{{flag|Switzerland}} (1987)
+*{{flag|Turkey}} (2000)
+*{{flag|Ukraine}} (2005)
+*{{flag|United Kingdom}} (1985)
+*{{flag|United States}} (1985)
+{{div col end}}
+
+===Adherents===
+Becoming an adherent of the Australia Group is a unilateral decision made by the adherent and does not require acceptance by established members of the group. To become an adherent member, the adherent must notify the Chair of the Australia Group of their political commitment to adhere to the Australia Group Guidelines and Common Control Lists, and to notify the Chair of any subsequent changes to this commitment.<ref name=":0">https://www.dfat.gov.au/publications/minisite/theaustraliagroupnet/site/en/participants.html</ref> 
+
+As of November 2025, the following countries are adherents:<ref name=":0" />
+
+* {{Flag|Albania}} (2025)
+* {{Flag|Montenegro}} (2025)
+* {{Flag|Kazakhstan}} (2015)
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.australiagroup.net The Australia Group homepage]
+
+{{Bioterrorism}}
+{{Authority control}}
+
+[[Category:International diplomatic organizations]]
+[[Category:Intergovernmental organizations]]
+[[Category:Weapons of mass destruction]]
+[[Category:1985 establishments in Australia]]

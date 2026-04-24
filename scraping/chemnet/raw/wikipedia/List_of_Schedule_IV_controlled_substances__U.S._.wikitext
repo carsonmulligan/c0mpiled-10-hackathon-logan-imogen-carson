@@ -1,0 +1,302 @@
+{{Short description|none}}
+This is the '''list of Schedule IV controlled substances''' in the United States as defined by the [[Controlled Substances Act]].<ref>{{Cite web |title=21 CFR 1308.14 (Schedule IV) |url=https://www.ecfr.gov/current/title-21/chapter-II/part-1308/subject-group-ECFRf62f8e189108c4d/section-1308.14 |access-date=September 9, 2023 |website=[[Code of Federal Regulations]]}}</ref> The following findings are required for substances to be placed in this schedule:<ref>{{uscsub|21|812|b|4}} retrieved October 2, 2007</ref>
+# The drug or other substance has a low potential for abuse relative to the drugs or other substances in [[List of Schedule III drugs (US)|schedule III]].
+# The drug or other substance has a currently accepted medical use in treatment in the United States.
+# Abuse of the drug or other substance may lead to limited physical dependence or psychological dependence relative to the drugs or other substances in schedule III.
+
+The complete list of Schedule IV substances is as follows. The [[Administrative Controlled Substances Code Number]] and [[Federal Register]] citation for each substance is included.
+
+==Narcotics==
+{| class="wikitable sortable"
+|-
+! [[Administrative Controlled Substances Code Number|ACSCN]] !! Drug
+|-
+| 9167
+| Not more than 1 milligram of [[difenoxin]] and not less than 25 micrograms of [[atropine]] sulfate per dosage unit.<ref>{{Cite web |last=Bensinger |first=Peter |date=August 28, 1978 |title=Placement of Preparations Containing Difenoxin in Combination With Atropine Sulfate Into Schedules IV and V |url=http://isomerdesign.com/Cdsa/FR/43FR38382.pdf |url-status=live |archive-url=https://web.archive.org/web/20220303023202/http://isomerdesign.com/Cdsa/FR/43FR38382.pdf |archive-date=March 3, 2022 |access-date=January 16, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 9278
+| [[Dextropropoxyphene]]<ref>{{Cite web |last=Bensinger |first=Peter |date=July 24, 1980 |title=Classification of Dextropropoxyphene as a Narcotic Drug in Schedule IV of the Controlled Substances Act |url=http://isomerdesign.com/Cdsa/FR/45FR42264.pdf |url-status=live |archive-url=https://web.archive.org/web/20220303023125/http://isomerdesign.com/Cdsa/FR/45FR42264.pdf |archive-date=March 3, 2022 |access-date=January 16, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 9752
+| [[Tramadol]]<ref>{{Cite web |last=Harrigan |first=Thomas |date=July 2, 2014 |title=Schedules of Controlled Substances: Placement of Tramadol Into Schedule IV |url=https://www.federalregister.gov/documents/2014/07/02/2014-15548/schedules-of-controlled-substances-placement-of-tramadol-into-schedule-iv |access-date=January 16, 2023 |website=Federal Register |publisher=[[Drug Enforcement Administration]]}}</ref>
+|}
+
+==Depressants==
+{| class="wikitable sortable"
+|-
+! [[Administrative Controlled Substances Code Number|ACSCN]] !! Drug
+|-
+| 2731
+| [[Alfaxalone]]<ref>{{Cite web |last=Leonhart |first=Michele |date=February 27, 2014 |title=Schedules of Controlled Substances: Placement of Alfaxalone into Schedule IV |url=https://www.federalregister.gov/documents/2014/02/27/2014-04332/schedules-of-controlled-substances-placement-of-alfaxalone-into-schedule-iv |access-date=January 16, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 2882
+| [[Alprazolam]]<ref>{{Cite web |last=Mullen, Jr. |first=Francis M. |date=November 12, 1981 |title=Schedules of Controlled Substsnces; Placement of Alprazolam in Schedule IV |url=http://isomerdesign.com/Cdsa/FR/46FR55688.pdf |url-status=live |archive-url=https://web.archive.org/web/20220303023145/http://isomerdesign.com/Cdsa/FR/46FR55688.pdf |archive-date=March 3, 2022 |access-date=January 16, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 2145
+| [[Barbital]]<ref name=":1">{{Cite web |last=Bartels Jr. |first=John R. |date=June 20, 1974 |title=PART 1308— SCHEDULES OF CONTROLLED SUBSTANCES: Annual Publication |url=https://archives.federalregister.gov/issue_slice/1974/6/20/22139-22143.pdf#page=2 |archive-url=https://web.archive.org/web/20230906194000/https://archives.federalregister.gov/issue_slice/1974/6/20/22139-22143.pdf |archive-date=September 6, 2023 |access-date=September 6, 2023 |website=[[Government Publishing Office]] |publisher=[[Drug Enforcement Administration]]}}</ref>{{Efn|This substance was expressly scheduled by the [[Controlled Substances Act]] on October 27, 1970. The 1974 [[Federal Register]] ruling (by Administrator John R. Bartels, Jr.) merely organized its listing in the [[Code of Federal Regulations]].|group=note|name=Bartels}}
+|-
+|2400
+|[[Brexanolone]]<ref>{{Cite web |last=Dhillon |first=Uttam |date=January 24, 2020 |title=Schedules of Controlled Substances: Placement of Brexanolone in Schedule IV |url=https://www.federalregister.gov/documents/2020/01/24/2020-00669/schedules-of-controlled-substances-placement-of-brexanolone-in-schedule-iv |access-date=September 6, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 2748
+| [[Bromazepam]]<ref name=":0">{{Cite web |last=Mullen, Jr. |first=Francis M. |date=October 5, 1984 |title=Schedules of Controlled Substances; Temporary Placement of Bromazepam, Camazepam, Clobazam, Clotiazepam, Cloxazolam, Delorazepam, Estazolam, Ethyl Loflazepate, Fludiazepam, Flunitrazepam, Haloxazolam, Ketazolam, Loprazolam, Lormetazepam, Medazepam, Nimetazepam, Nitrazepam, Nordiazepam, Oxazolam, Pinazepam, and Tetrazepam Into Schedule IV |url=http://isomerdesign.com/Cdsa/FR/49FR39307.pdf |url-status=live |archive-url=https://web.archive.org/web/20220303023103/http://isomerdesign.com/Cdsa/FR/49FR39307.pdf |archive-date=March 3, 2022 |access-date=January 16, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 2749
+| [[Camazepam]]<ref name=":0" />
+|-
+| 8192
+| [[Carisoprodol]]<ref>{{Cite web |last=Leonhart |first=Michele |date=December 12, 2011 |title=Schedules of Controlled Substances: Placement of Carisoprodol Into Schedule IV |url=https://www.federalregister.gov/documents/2011/12/12/2011-31542/schedules-of-controlled-substances-placement-of-carisoprodol-into-schedule-iv |access-date=January 16, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 2460
+| [[Chloral betaine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 2465
+| [[Chloral hydrate]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 2744
+| [[Chlordiazepoxide]]<ref name=":2">{{Cite web |last=Bartels, Jr. |first=John R. |date=May 28, 1975 |title=Schedules of Controlled Substances; Placement of Chlordiazepoxide, Diazepam, Oxazepam, Chlorazepate, Flurazepam, and Clonazepam into Schedule IV |url=http://isomerdesign.com/Cdsa/FR/40FR23998.pdf |url-status=live |archive-url=https://web.archive.org/web/20220303023101/http://isomerdesign.com/Cdsa/FR/40FR23998.pdf |archive-date=March 3, 2022 |access-date=January 16, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 2751
+| [[Clobazam]]<ref name=":0" />
+|-
+| 2737
+| [[Clonazepam]]<ref name=":2" />
+|-
+| 2768
+| [[Clorazepate]]<ref name=":2" />
+|-
+| 2752
+| [[Clotiazepam]]<ref name=":0" />
+|-
+| 2753
+| [[Cloxazolam]]<ref name=":0" />
+|-
+|2410
+|[[Daridorexant]]<ref>{{Cite web |last=Milgram |first=Anne |date=April 7, 2022 |title=Schedules of Controlled Substances: Placement of Daridorexant in Schedule IV |url=https://www.federalregister.gov/documents/2022/04/07/2022-07322/schedules-of-controlled-substances-placement-of-daridorexant-in-schedule-iv |access-date=January 16, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 2754
+| [[Delorazepam]]<ref name=":0" />
+|-
+| 2765
+| [[Diazepam]]<ref name=":2" />
+|-
+| 2467
+| [[Dichloraphenazone]]<ref>{{Cite web |last=Simpkins |first=William |date=August 16, 2001 |title=Schedules of controlled substances: Dichloralphenazone; placement into Schedule IV |url=https://regulations.vlex.com/vid/schedules-dichloralphenazone-placement-22950329 |url-status=live |archive-url=https://archive.today/20230116114000/https://regulations.vlex.com/vid/schedules-dichloralphenazone-placement-22950329 |archive-date=January 16, 2023 |access-date=January 16, 2023 |website=VLEX |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 2756
+| [[Estazolam]]<ref name=":0" />
+|-
+| 2540
+| [[Ethchlorvynol]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 2545
+| [[Ethinamate]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 2758
+| [[Ethyl loflazepate]]<ref name=":0" />
+|-
+| 2759
+| [[Fludiazepam]]<ref name=":0" />
+|-
+| 2763
+| [[Flunitrazepam]]<sup>[[#note|†]]</sup> <ref name=":0" />
+|-
+| 2767
+| [[Flurazepam]]<ref name=":2" />
+|-
+| 2138
+| [[Fospropofol]]<ref>{{Cite web |last=Leonhart |first=Michele |date=October 6, 2009 |title=Schedules of Controlled Substances; Placement of Fospropofol Into Schedule IV |url=https://www.federalregister.gov/documents/2009/10/06/E9-23971/schedules-of-controlled-substances-placement-of-fospropofol-into-schedule-iv |access-date=January 16, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 2762
+| [[Halazepam]]<ref>{{Cite web |last=Mullen, Jr. |first=Francis M. |date=October 29, 1981 |title=Schedules of Controlled Substances: Placement of Halazepam in Schedule IV |url=http://isomerdesign.com/Cdsa/FR/46FR53407.pdf |url-status=live |archive-url=https://web.archive.org/web/20220303023138/http://isomerdesign.com/Cdsa/FR/46FR53407.pdf |archive-date=March 3, 2022 |access-date=January 16, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 2771
+| [[Haloxazolam]]<ref name=":0" />
+|-
+| 2772
+| [[Ketazolam]]<ref name=":0" />
+|-
+| 2245
+| [[Lemborexant]]<ref>{{Cite web |last=Evans |first=D. Christopher |date=March 3, 2021 |title=Schedules of Controlled Substances: Placement of Lemborexant in Schedule IV |url=https://www.federalregister.gov/documents/2021/03/03/2021-04183/schedules-of-controlled-substances-placement-of-lemborexant-in-schedule-iv |access-date=January 16, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 2773
+| [[Loprazolam]]<ref name=":0" />
+|-
+| 2885
+| [[Lorazepam]]<ref>{{Cite web |last=Bensinger |first=Peter |date=October 7, 1977 |title=Placement of Lorazepam in Schedule IV |url=http://isomerdesign.com/Cdsa/FR/42FR54546.pdf |url-status=live |archive-url=https://web.archive.org/web/20220303023055/http://isomerdesign.com/Cdsa/FR/42FR54546.pdf |archive-date=March 3, 2022 |access-date=January 16, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 2774
+| [[Lormetazepam]]<ref name=":0" />
+|-
+| 2800
+| [[Mebutamate]]<ref>{{Cite web |last=Bartels, Jr. |first=John R. |date=January 30, 1975 |title=Placement of Mebutamate in Schedule IV |url=http://isomerdesign.com/Cdsa/FR/40FR4418.pdf |url-status=live |archive-url=https://web.archive.org/web/20220303023155/http://isomerdesign.com/Cdsa/FR/40FR4418.pdf |archive-date=March 3, 2022 |access-date=January 16, 2022 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 2836
+| [[Medazepam]]<ref name=":0" />
+|-
+| 2820
+| [[Meprobamate]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 2264
+| [[Methohexital]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 2250
+| [[Methylphenobarbital]] (mephobarbital)<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 2884
+| [[Midazolam]]<ref name=":3">{{Cite web |last=Lawn |first=John |date=March 25, 1986 |title=Schedules of Controlled Substances; Placement of Quazepam and Midazolam into Schedule IV |url=http://isomerdesign.com/Cdsa/FR/51FR10190.pdf |url-status=live |archive-url=https://web.archive.org/web/20220303023138/http://isomerdesign.com/Cdsa/FR/51FR10190.pdf |archive-date=March 3, 2022 |access-date=January 16, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 2837
+| [[Nimetazepam]]<ref name=":0" />
+|-
+| 2834
+| [[Nitrazepam]]<ref name=":0" />
+|-
+| 2838
+| [[Nordiazepam]]<ref name=":0" />
+|-
+| 2835
+| [[Oxazepam]]<ref name=":2" />
+|-
+| 2839
+| [[Oxazolam]]<ref name=":0" />
+|-
+| 2585
+| [[Paraldehyde]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 2591
+| [[Petrichloral]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 2285
+| [[Phenobarbital]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 2883
+| [[Pinazepam]]<ref name=":0" />
+|-
+| 2764
+| [[Prazepam]]<ref>{{Cite web |last=Bensinger |first=Peter |date=December 17, 1976 |title=Placement of Prazepam into Schedule IV |url=http://isomerdesign.com/Cdsa/FR/41FR55176.pdf |url-status=live |archive-url=https://web.archive.org/web/20220303023350/http://isomerdesign.com/Cdsa/FR/41FR55176.pdf |archive-date=March 3, 2022 |access-date=January 16, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 2881
+| [[Quazepam]]<ref name=":3" />
+|-
+|2846
+|[[Remimazolam]]<ref>{{Cite web |last=Evans |first=D. Christopher |date=July 2, 2021 |title=Schedules of Controlled Substances: Placement of Remimazolam in Schedule IV |url=https://www.federalregister.gov/documents/2021/06/02/2021-11512/schedules-of-controlled-substances-placement-of-remimazolam-in-schedule-iv |access-date=September 6, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 2223
+| [[Suvorexant]]<ref>{{Cite web |last=Harrigan |first=Thomas |date=August 28, 2014 |title=Schedules of Controlled Substances: Placement of Suvorexant into Schedule IV |url=https://www.federalregister.gov/documents/2014/08/28/2014-20515/schedules-of-controlled-substances-placement-of-suvorexant-into-schedule-iv |access-date=January 16, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 2925
+| [[Temazepam]]<sup>[[#note|†]]</sup><ref>{{Cite web |last=Bensinger |first=Peter |date=April 7, 1981 |title=Schedules of Controlled Substances; Placement of Temazepam into Schedule IV |url=http://isomerdesign.com/Cdsa/FR/46FR20671.pdf |url-status=live |archive-url=https://web.archive.org/web/20220303023143/http://isomerdesign.com/Cdsa/FR/46FR20671.pdf |archive-date=March 3, 2022 |access-date=January 16, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 2886
+| [[Tetrazepam]]<ref name=":0" />
+|-
+| 2887
+| [[Triazolam]]<ref>{{Cite web |last=Mullen, Jr. |first=Francis M. |date=December 28, 1982 |title=Schedules of Controlled Substances; Placement of Triazolam into Schedule IV |url=http://isomerdesign.com/Cdsa/FR/47FR57693.pdf |url-status=live |archive-url=https://web.archive.org/web/20220303023131/http://isomerdesign.com/Cdsa/FR/47FR57693.pdf |archive-date=March 3, 2022 |access-date=January 16, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 2781
+| [[Zaleplon]]<ref>{{Cite web |last=Marshall |first=Donnie |date=September 15, 1999 |title=Schedules of Controlled Substances; Placement of Zaleplon into Schedule IV |url=https://www.govinfo.gov/content/pkg/FR-1999-09-15/html/99-23968.htm |access-date=January 16, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 2783
+| [[Zolpidem]]<ref>{{Cite web |last=Bonner |first=Robert |date=February 5, 1993 |title=Schedules of Controlled Substances; Placement of Zolpidem into Schedule IV |url=http://isomerdesign.com/Cdsa/FR/58FR7186.pdf |archive-url=https://web.archive.org/web/20220303023130/http://isomerdesign.com/Cdsa/FR/58FR7186.pdf |archive-date=March 3, 2022 |access-date=January 16, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 2784
+| [[Zopiclone]]<ref>{{Cite web |last=Leonhart |first=Michele |date=April 4, 2005 |title=Schedules of Controlled Substances: Placement of Zopiclone Into Schedule IV |url=https://www.federalregister.gov/documents/2005/04/04/05-6703/schedules-of-controlled-substances-placement-of-zopiclone-into-schedule-iv |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+|2420
+|[[Zuranolone]]<ref>{{Cite web |last=Milgram |first=Anne |date=October 31, 2023 |title=Schedules of Controlled Substances: Placement of Zuranolone in Schedule IV |url=https://www.federalregister.gov/documents/2023/10/31/2023-23982/schedules-of-controlled-substances-placement-of-zuranolone-in-schedule-iv |access-date=November 3, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|}
+
+<div id="note"></div><sup>†</sup><small>Flunitrazepam has not been approved by the Food and Drug Administration for medical use, and is considered to be an illegal drug.</small>
+
+<sup>†</sup><small>Temazepam may require a specially coded prescription in certain States.</small>
+
+==Lorcaserin==
+{| class="wikitable"
+|-
+! [[Administrative Controlled Substances Code Number|ACSCN]] !! Drug
+|-
+| 1625
+| [[Lorcaserin]]<ref>{{Cite web |last=Leonhart |first=Michele |date=May 8, 2013 |title=Schedules of Controlled Substances: Placement of Lorcaserin Into Schedule IV |url=https://www.federalregister.gov/documents/2013/05/08/2013-10895/schedules-of-controlled-substances-placement-of-lorcaserin-into-schedule-iv |access-date=January 16, 2023 |website=Federal Register |publisher=[[Drug Enforcement Administration]]}}</ref>
+|}
+
+==Stimulants==
+{| class="wikitable sortable"
+|-
+! [[Administrative Controlled Substances Code Number|ACSCN]] !! Drug
+|-
+| 1230
+| [[Cathine]]<ref name=":4">{{Cite web |last=Lawn |first=John |date=May 17, 1988 |title=Schedules of Controlled Substances; Temporary Placement of Cathine ((+ )-norpseudoephedrine), Fencamfamin, Fenproporex and Mefenorex Into Schedule IV |url=http://isomerdesign.com/Cdsa/FR/53FR17459.pdf |archive-url=https://web.archive.org/web/20220303023140/http://isomerdesign.com/Cdsa/FR/53FR17459.pdf |archive-date=March 3, 2022 |access-date=January 16, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 1610
+| [[Diethylpropion]]<ref name=":5">{{Cite web |last=Ingersoll |first=John |date=July 6, 1973 |title=Diethylpropion and Phentermine; Temporary Placement in Schedule IV |url=http://isomerdesign.com/Cdsa/FR/38FR18013.pdf |url-status=live |archive-url=https://web.archive.org/web/20220303023151/http://isomerdesign.com/Cdsa/FR/38FR18013.pdf |archive-date=March 3, 2022 |access-date=January 16, 2023 |website=Isomer Design |publisher=Bureau of Narcotics and Dangerous Drugs}}</ref>
+|-
+| 1760
+| [[Fencamfamin]]<ref name=":4" />
+|-
+| 1575
+| [[Fenproporex]]<ref name=":4" />
+|-
+| 1605
+| [[Mazindol]]<ref>{{Cite web |last=Mullen, Jr. |first=Francis M. |date=October 27, 1981 |title=Rescheduling of Mazindol into Schedule IV |url=http://www.isomerdesign.com/Cdsa/FR/46FR52333.pdf |url-status=live |archive-url=https://web.archive.org/web/20210926012035/http://www.isomerdesign.com/Cdsa/FR/46FR52333.pdf |archive-date=September 26, 2021 |access-date=January 16, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 1580
+| [[Mefenorex]]<ref name=":4" />
+|-
+| 1680
+| [[Modafinil]] and enantiopure [[armodafinil]]<ref>{{Cite web |last=Marshall |first=Donnie |date=January 27, 1999 |title=Schedules of Controlled Substances: Placement of Modafinil Into Schedule IV |url=https://www.govinfo.gov/content/pkg/FR-1999-01-27/html/99-1791.htm |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 1530
+| [[Pemoline]]<ref>{{Cite web |last=Bartels, Jr. |first=John R. |date=January 28, 1975 |title=Placement of Pemoline in Schedule IV |url=http://isomerdesign.com/Cdsa/FR/40FR4150.pdf |url-status=live |archive-url=https://web.archive.org/web/20220303023110/http://isomerdesign.com/Cdsa/FR/40FR4150.pdf |archive-date=March 3, 2022 |access-date=January 16, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 1640
+| [[Phentermine]]<ref name=":5" />
+|-
+| 1750
+| [[Pipradrol]]<ref name=":6">{{Cite web |last=Bensinger |first=Peter |date=September 30, 1980 |title=Pipradrol and SPA in Schedule IV |url=http://isomerdesign.com/Cdsa/FR/45FR64570.pdf |url-status=live |archive-url=https://web.archive.org/web/20220303023219/http://isomerdesign.com/Cdsa/FR/45FR64570.pdf |archive-date=March 3, 2022 |access-date=January 16, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+|1729
+|[[Serdexmethylphenidate]]<ref>{{Cite web |last=Milgram |first=Anne |date=July 25, 2022 |title=Schedules of Controlled Substances: Placement of Serdexmethylphenidate in Schedule IV |url=https://www.federalregister.gov/documents/2022/06/24/2022-13538/schedules-of-controlled-substances-placement-of-serdexmethylphenidate-in-schedule-iv |access-date=September 6, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 1675
+| [[Sibutramine]]<ref>{{Cite web |last=Gruden |first=Peter |date=February 11, 1998 |title=Schedules of Controlled Substances: Placement of Sibutramine Into Schedule IV |url=https://www.govinfo.gov/content/pkg/FR-1998-02-11/html/98-3439.htm |access-date=January 16, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 1650
+| [[Solriamfetol]]<ref>{{Cite web |last=Dhillon |first=Uttam |date=January 7, 2020 |title=Schedules of Controlled Substances: Placement of Solriamfetol in Schedule IV |url=https://www.federalregister.gov/documents/2020/01/07/2019-27955/schedules-of-controlled-substances-placement-of-solriamfetol-in-schedule-iv |access-date=January 16, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 1635
+| [[Lefetamine|SPA / (-)-1-dimethylamino- 1,2-diphenylethane]]<ref name=":6" />
+|}
+
+==Others==
+{| class="wikitable sortable"
+|-
+! [[Administrative Controlled Substances Code Number|ACSCN]] !! Drug
+|-
+| 9709
+| [[Pentazocine]]<ref>{{Cite web |last=Bensinger |first=Peter |date=February 9, 1979 |title=Placement of Pentazocine into Schedule IV |url=http://isomerdesign.com/Cdsa/FR/44FR2169.pdf |url-status=live |archive-url=https://web.archive.org/web/20220303023302/http://isomerdesign.com/Cdsa/FR/44FR2169.pdf |archive-date=March 3, 2022 |access-date=January 16, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 9720
+| [[Butorphanol]]<ref>{{Cite web |last=Milford, Jr. |first=James S. |date=October 31, 1997 |title=Schedules of Controlled Substances Placement of Butorphanol Into Schedule IV |url=https://www.govinfo.gov/content/pkg/FR-1997-10-01/html/97-25969.htm |url-status=live |archive-url=https://ghostarchive.org/archive/20230116090131/https://www.govinfo.gov/content/pkg/FR-1997-10-01/html/97-25969.htm |archive-date=January 16, 2023 |access-date=January 16, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 9725
+| [[Eluxadoline]]<ref>{{Cite web |last=Rosenberg |first=Chuck |date=November 12, 2015 |title=Schedules of Controlled Substances: Placement of Eluxadoline Into Schedule IV |url=https://www.federalregister.gov/documents/2015/11/12/2015-28718/schedules-of-controlled-substances-placement-of-eluxadoline-into-schedule-iv |url-status=live |archive-url=https://archive.today/20230116092225/https://www.federalregister.gov/documents/2015/11/12/2015-28718/schedules-of-controlled-substances-placement-of-eluxadoline-into-schedule-iv |archive-date=January 16, 2023 |access-date=January 16, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|}
+
+==See also==
+* [[List of Schedule I controlled substances (U.S.)]]
+* [[List of Schedule II controlled substances (U.S.)]]
+* [[List of Schedule III controlled substances (U.S.)]]
+* [[List of Schedule V controlled substances (U.S.)]]
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+{{Drug control laws}}
+
+{{DEFAULTSORT:Schedule IV drugs (US)}}
+[[Category:Controlled Substances Act]]
+[[Category:Drug-related lists]]

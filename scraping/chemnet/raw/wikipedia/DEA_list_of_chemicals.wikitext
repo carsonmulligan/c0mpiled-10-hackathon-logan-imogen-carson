@@ -1,0 +1,402 @@
+{{short description|none}}
+
+The [[United States]] [[Drug Enforcement Administration]] (DEA) maintains lists regarding the classification of [[illicit drugs]] (see [[Controlled Substances Act#Schedules of controlled substances|DEA Schedules]]). It also maintains '''List I of chemicals''' and '''List II of chemicals''', which contain chemicals that are used to manufacture the controlled substances/illicit drugs. The list is designated within the [[Controlled Substances Act]]<ref>{{UnitedStatesCode|21|802}}, paragraphs 34 (list I) and 35 (list II)</ref> but can be modified by the [[U.S. Attorney General]] as illegal manufacturing practices change.
+
+Although the list is controlled by the Attorney General, the list is considered a DEA list because the DEA publishes and enforces the list.
+
+Suppliers of these products are subject to regulation and control measures:<ref>{{Cite web|url=https://www.deadiversion.usdoj.gov/pubs/manuals/chem/chem_manual.pdf|title=Chemical Handler's Manual|last=DEA|date=2013|website=usdoj.gov|access-date=2017-05-05|archive-url=https://web.archive.org/web/20170427125859/https://www.deadiversion.usdoj.gov/pubs/manuals/chem/chem_manual.pdf|archive-date=2017-04-27|url-status=dead}}</ref>
+
+{| class="wikitable"
+!Regulation
+!List I
+!List II
+!Tableting and Encapsulating Machines
+!Special Surveillance List
+|-
+|[[Know your customer]]
+|X
+|X
+|X
+|X
+|-
+|Annual manufacturing, inventory, and use reports for bulk manufacturers
+|X
+|X
+|X
+|
+|-
+|15 day advanced DEA notice required for imports, exports, and transshipments
+|X
+|X
+|
+|
+|-
+|15 day advanced DEA notice required for international transactions
+|X
+|X
+|
+|
+|-
+|Keep transaction records for at least two years
+|X
+|X
+|
+|
+|-
+|Maintain effective security controls
+|X
+|X
+|
+|
+|-
+|Required reporting for unusual sales and losses or sales to DEA-identified companies
+|X
+|X
+|
+|
+|-
+|Registration required for manufacturing, distribution, import, or export
+|X
+|
+|
+|
+|-
+|Reports of mail-order sales to non-regulated entities
+|X
+|
+|
+|
+|}
+
+==List I chemicals==
+These chemicals are designated as those that are used in the manufacture of the controlled substances and are important to the manufacture of the substances:<ref>{{Cite web |date=2022-05-11 |title=eCFR :: 21 CFR 1310.02 -- Substances covered. |url=https://www.ecfr.gov/current/title-21/chapter-II/part-1310/section-1310.02 |access-date=2022-05-12 |website= |archive-url=https://web.archive.org/web/20220511002823/https://www.ecfr.gov/current/title-21/chapter-II/part-1310/section-1310.02 |archive-date=11 May 2022 |url-status=dead}}</ref>
+<!-- This list copied from http://www.law.cornell.edu/uscode/text/21/802 on 18-Aug-2014, updated 19-May-2016 from deadiversion.usdoj.gov -->
+
+{| class="wikitable sortable"
+!Chemical
+!Illicit drug
+|-
+|Alpha-phenylacetoacetonitrile and its salts, optical isomers, and salts of optical isomers (APAAN)
+|[[phenylacetone]], [[methamphetamine]], [[amphetamine]]
+|-
+|[[Anthranilic acid]], its esters, and its salts
+|[[methaqualone]] and analogues
+|-
+|[[Benzyl cyanide]]
+|[[phenylacetic acid]], [[phenylacetone]], [[amphetamine]]
+|-
+|[[Ephedrine]], its salts, optical isomers, and salts of optical isomers 
+|[[methamphetamine]]
+|-
+|[[Ergonovine]] and its salts
+|[[lysergic acid diethylamide]]
+|-
+|[[Ergotamine]] and its salts
+|[[lysergic acid diethylamide]]
+|-
+|[[N-Acetylanthranilic acid]], its esters, and its salts
+|[[methaqualone]]
+|-
+|[[Norpseudoephedrine]], its salts, optical isomers, and salts of optical isomers
+|[[amphetamine]]
+|-
+|[[Phenylacetic acid]], its esters, and its salts
+|[[phenylacetone]], [[amphetamine]], [[methamphetamine]]
+|-
+|[[Phenylpropanolamine]], its salts, optical isomers, and salts of optical isomers
+|[[amphetamine]], [[methamphetamine]]
+|-
+|[[Piperidine]] and its salts
+|[[phencyclidine]] and analogues
+|-
+|[[Pseudoephedrine]], its salts, optical isomers, and salts of optical isomers
+|[[methamphetamine]]
+|-
+|[[3,4-Methylenedioxyphenyl-2-propanone]]
+|[[MDMA]], [[3,4-Methylenedioxyamphetamine|MDA]], [[Methylenedioxyethylamphetamine|MDEA]], [[MDOH]]
+|-
+|[[Methylamine]] and its salts 
+|[[methamphetamine]]
+|-
+|[[Ethylamine]] and its salts
+|[[etilamfetamine]]
+|-
+|[[Propionic anhydride]]
+|[[fentanyl]]
+|-
+|[[Isosafrole]]
+|[[MDMA]], [[3,4-Methylenedioxyamphetamine|MDA]]
+|-
+|[[Safrole]]
+|[[MDMA]], [[3,4-Methylenedioxyamphetamine|MDA]]
+|-
+|[[Piperonal]]
+|[[MDMA]], [[3,4-Methylenedioxyamphetamine|MDA]]
+|-
+|[[N-Methylephedrine]], its salts, optical isomers, and salts of optical isomers 
+|[[methamphetamine]]
+|-
+|[[N-Methylpseudoephedrine]], its salts, optical isomers, and salts of optical isomers 
+|[[methamphetamine]]
+|-
+|[[Hydroiodic acid]]
+|[[methamphetamine]], [[amphetamine]]
+|-
+|[[Benzaldehyde]]
+|[[methamphetamine]], [[amphetamine]]
+|-
+|[[Nitroethane]] 
+|[[methamphetamine]], [[amphetamine]]
+|-
+|[[Gamma butyrolactone]] (other names include: GBL; dihydro-2(3H)-furanone; 1,2-butanolide; 1,4-butanolide; 4-hydroxybutanoic acid lactone; gamma-hydroxybutyric acid lactone) 
+|[[Gamma-Hydroxybutyric acid]] (GHB)
+|-
+|[[Red phosphorus]]
+|[[methamphetamine]], [[amphetamine]]
+|-
+|[[White phosphorus]] (other names: yellow phosphorus)
+|[[methamphetamine]], [[amphetamine]]
+|-
+|[[Hypophosphorous acid]] and its salts (including [[ammonium hypophosphite]], calcium hypophosphite, iron hypophosphite, potassium hypophosphite, manganese hypophosphite, magnesium hypophosphite and [[sodium hypophosphite]]) 
+|[[methamphetamine]], [[amphetamine]]
+|-
+|[[N-Phenethyl-4-piperidone]] (NPP)
+|[[fentanyl]]
+|-
+|[[Iodine]] 
+|[[methamphetamine]], [[amphetamine]]
+|-
+|[[Ergocristine]] and its salts 
+|[[lysergic acid diethylamide]]
+|-
+|N-(1-benzylpiperidin-4-yl)-N-phenylpropionamide ([[benzylfentanyl]]) and its salts
+|[[fentanyl]]
+|-
+|N-phenylpiperidin-4-amine(4-anilinopiperidine; N-phenyl-4-piperidinamine; 4-AP), its amides, its carbamates, and its salts
+|[[fentanyl]]
+|-
+|3,4-MDP-2-P methyl glycidate (PMK glycidate) and its optical and geometric isomers
+|[[MDMA]] and other "ecstasy"-type substances
+|-
+|3,4-MDP-2-P methyl glycidic acid (PMK glycidic acid) and its salts, optical and geometric isomers, and salts of isomers
+|[[MDMA]] and other "ecstasy"-type substances
+|-
+|Alpha-phenylacetoacetamide (APAA) and its optical isomers
+|[[amphetamine]], [[methamphetamine]]
+|-
+|Methyl alpha-phenylacetoacetate (MAPA; methyl 3-oxo-2-phenylbutanoate) and its optical isomers
+|[[phenylacetone]], [[methamphetamine]], [[amphetamine]]
+|-
+|[[4-Piperidone]]
+|[[fentanyl]]
+|-
+|[[1-boc-4-AP]] (''tert''-butyl 4-(phenylamino)piperidine-1-carboxylate) and its salts
+|[[fentanyl]]
+|}
+
+==List II chemicals==
+These chemicals are designated as those that are used in the manufacture of controlled substances:<ref name="DEADiversion">{{cite web |title=Title 21 CFR - PART 1310 - Section 1310.02 Substances covered |url=http://www.deadiversion.usdoj.gov/21cfr/cfr/1310/1310_02.htm |url-status=dead |accessdate=August 28, 2014 |archive-url=https://web.archive.org/web/20141215061452/http://www.deadiversion.usdoj.gov/21cfr/cfr/1310/1310_02.htm |archive-date=December 15, 2014}}</ref>
+
+{{ordered list|
+|[[Acetic anhydride]]
+|[[Acetone]]
+|[[Benzyl chloride]]
+|[[Diethyl ether]]
+|[[Potassium permanganate]]
+|[[2-Butanone]] (or [[methyl ethyl ketone]] or MEK)
+|[[Toluene]]
+|[[Hydrochloric acid]] (including anhydrous [[hydrogen chloride]])
+|[[Sulfuric acid]]
+|[[Methyl isobutyl ketone]] (MIBK)
+|[[Sodium permanganate]]
+}}
+
+==Special Surveillance List==
+===Chemicals===
+All listed chemicals<ref name=autogenerated1>{{cite web|url=http://www.deadiversion.usdoj.gov/chem_prog/advisories/surveillance.htm |title=Special Surveillance List of Chemicals, Products, Materials and Equipment Used in the Clandestine Production of Controlled Substances or Listed Chemicals |accessdate=May 20, 2011 |url-status=dead |archiveurl=https://web.archive.org/web/20110420054619/http://www.deadiversion.usdoj.gov/chem_prog/advisories/surveillance.htm |archivedate=April 20, 2011 }}</ref> as specified in 21 CFR 1310.02 (a) or (b). This includes supplements which contain a listed chemical, regardless of their dosage form or packaging and regardless of whether the chemical mixture, drug product or [[dietary supplement]] is exempt from regulatory controls. For each chemical, its illicit manufacturing use is given in parentheses. Some Special Surveillance List chemicals do not have an exclusive manufacturing use for a specific illicit drug but rather have a broad range of uses in both legitimate and illicit manufacturing operations.
+
+{| class="wikitable sortable"
+!Chemical
+!Illicit drug
+|-
+|[[Phenyl-2-nitropropene]]
+|[[Substituted amphetamine|substituted amphetamines]]
+|-
+|1-(4-bromophenyl)propan-1-one
+|[[Substituted cathinone|substituted cathinones]] and [[Substituted amphetamine|substituted amphetamines]]
+|-
+|1-(4-chlorophenyl)propan-1-one
+|[[Substituted cathinone|substituted cathinones]] and [[Substituted amphetamine|substituted amphetamines]]
+|-
+|1-(4-methylphenyl)propan-1-one
+|[[Substituted cathinone|substituted cathinones]] and [[Substituted amphetamine|substituted amphetamines]]
+|-
+|[[Carbonyldiimidazole]]
+|[[LSD]]
+|-
+|[[1,1-Dichloro-1-fluoroethane]]
+|solvent
+|-
+|N-benzyl-4-piperidone
+|[[fentanyl]]
+|-
+|chloroephedrine
+|methamphetamine
+|-
+|[[Butyrophenone]]
+|[[Substituted cathinone|substituted cathinones]]
+|-
+|[[Valerophenone]]
+|[[Substituted cathinone|substituted cathinones]]
+|-
+|[[Propiophenone]]
+|[[Substituted cathinone|substituted cathinones]]
+|-
+|[[2C-H]]
+|[[2C-x]] and [[DOx]]
+|-
+|2-bromo-1-(4-chlorophenyl)propan-1-one
+|[[Substituted cathinone|substituted cathinones]] and [[Substituted amphetamine|substituted amphetamines]]
+|-
+|2-bromo-1-(4-methoxyphenyl)propan-1-one
+|[[Substituted cathinone|substituted cathinones]] and [[Substituted amphetamine|substituted amphetamines]]
+|-
+|2-bromo-1-(4-methylphenyl)propan-1-one
+|[[Substituted cathinone|substituted cathinones]] and [[Substituted amphetamine|substituted amphetamines]]
+|-
+|2-bromo-1-phenylpentan-1-one
+|[[Substituted cathinone|substituted cathinones]] and [[Substituted amphetamine|substituted amphetamines]]
+|-
+|2-bromo-1-phenylpropan-1-one
+|[[Substituted cathinone|substituted cathinones]] and [[Substituted amphetamine|substituted amphetamines]]
+|-
+|BMK glycidic acid and esters 
+|methamphetamine
+|-
+|3-oxo-2-phenylbutanoic acid and its esters
+|methamphetamine
+|-
+|3,4-methylenedioxyphenyl-2-nitropropene (MDP2NP)
+|[[MDMA]]
+|-
+|[[Ammonia]] gas 
+|[[amphetamine]], [[methamphetamine]]
+|-
+|[[Ammonium formate]] 
+|amphetamine, methamphetamine
+|-
+|[[Azobisisobutyronitrile]]
+|radical initiator
+|-
+|[[Bromobenzene]] 
+|[[phencyclidine]]
+|-
+|[[1,4-Butanediol]]
+|[[GHB]] and [[Gamma-Butyrolactone]]
+|-
+|[[Cyclohexanone]] 
+|phencyclidine
+|-
+|[[Diethylamine]] and its salts
+| lysergic acid diethylamide
+|-
+|ethyl 3-oxo-4-phenylbutanoate
+|[[phenylacetone]]
+|-
+|ethyl-3-(1,3-benzodioxol-5-yl)-2-methyloxirane-2-carboxylate (MDP2P ethyl glycidate)
+|[[MDMA]]
+|-
+|[[Formamide]]
+|amphetamine, methamphetamine
+|-
+|[[Formic acid]] 
+|amphetamine, methamphetamine
+|-
+|[[Lithium aluminum hydride]]
+|amphetamine, methamphetamine
+|-
+|[[Lithium]] metal
+|amphetamine, methamphetamine
+|-
+|[[Magnesium]] metal (turnings)
+|phencyclidine
+|-
+|[[Mercuric chloride]]
+|amphetamine, methamphetamine
+|-
+|methyl 2-(1,3-benzodioxol-5-yl)-3-oxobutanoate
+|[[MDMA]]
+|-
+|[[N-Methylformamide]]
+|amphetamine, methamphetamine
+|-
+|Organomagnesium halides ([[Grignard reagents]]) (e.g. [[ethylmagnesium bromide]] and [[phenylmagnesium bromide]])
+|phencyclidine
+|-
+|[[ortho-Toluidine]]
+|[[methaqualone]]
+|-
+|[[2-Phenylethyl bromide]]
+|[[fentanyl]]
+|-
+|[[Phenylethanolamine]] and its salts
+|-
+|[[Phosphorus pentachloride]]
+|lysergic acid diethylamide
+|-
+|[[Potassium dichromate]] 
+|general-purpose oxidizing agent
+|-
+|[[Pyridine]] and its salts
+|general-purpose solvent
+|-
+|[[Sodium borohydride]]
+|reducing agent
+|-
+|[[Sodium dichromate]]
+|general-purpose oxidizing agent
+|-
+|[[Sodium]] metal
+|[[phenylacetone]]
+|-
+|[[Sodium triacetoxyborohydride]]
+|reducing agent
+|-
+|''para''-fluoro-1-boc-4-anilopiperidine
+|[[parafluorofentanyl]]
+|-
+|[[Thioglycolic acid]]
+|[[modafinil]]
+|-
+|[[Thionyl chloride]]
+|lysergic acid diethylamide
+|-
+|[[Trichloromonofluoromethane]] (aka freon-11, carrene-2)
+|-
+|[[1,1,2-Trichloro-1,2,2-trifluoroethane]] (aka freon 113)
+|}
+
+===Equipment===
+The equipment list:<ref name=autogenerated1 />
+
+* 22-liter [[heating mantle]]s
+* Encapsulating machines
+* [[Hydrogenator]]s
+* [[Tableting]] machines, including punches and dies
+
+==See also==
+* [[Chemical Diversion and Trafficking Act]]
+* [[Combat Methamphetamine Epidemic Act of 2005]]
+* [[Drug precursors]]
+* [[European law on drug precursors]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.deadiversion.usdoj.gov/schedules/index.html DEA Controlled Substance Schedules] ({{Webarchive|url=https://web.archive.org/web/20210425032741/https://www.deadiversion.usdoj.gov/schedules/index.html |date=2021-04-25 }})
+
+[[Category:Chemistry-related lists]]
+[[Category:Drug control law in the United States]]
+[[Category:Drug Enforcement Administration]]
+[[Category:Regulation of chemicals in the United States]]

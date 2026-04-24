@@ -2,6 +2,10 @@ Rails.application.routes.draw do
   get "up" => "rails/health#show", as: :rails_health_check
 
   resources :investigations do
+    member do
+      get :setup
+    end
+
     resources :sources, only: [:create, :destroy]
     resources :scrapers, only: [:create, :destroy] do
       member do
@@ -12,5 +16,5 @@ Rails.application.routes.draw do
     resources :shares, only: [:create, :destroy]
   end
 
-  root "investigations#show", defaults: { id: "current" }
+  root "investigations#new"
 end

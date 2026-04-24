@@ -1,0 +1,28 @@
+<% content_for :title, "Preparing Investigation" %>
+<% content_for :head do %>
+  <meta http-equiv="refresh" content="3;url=<%= investigation_path(@investigation) %>">
+<% end %>
+
+<div class="usa-page">
+  <div class="usa-process-list" role="status" aria-live="polite">
+    <div class="usa-process-line" aria-hidden="true"></div>
+
+    <% @setup_steps.each do |step| %>
+      <section class="usa-process-item">
+        <div class="usa-step-marker" aria-hidden="true"><%= step[:number] %></div>
+        <h1 class="<%= step[:number] == 1 ? 'usa-step-title' : 'usa-step-title' %>"><%= step[:title] %></h1>
+        <% if step[:details].any? %>
+          <ul class="usa-step-details">
+            <% step[:details].each do |detail| %>
+              <li><%= detail %></li>
+            <% end %>
+          </ul>
+        <% end %>
+      </section>
+    <% end %>
+
+    <p class="mt-16 text-[16px] leading-6 text-slate-500">
+      Workspace setup is in progress. If you are not redirected automatically, <%= link_to "open the investigation", investigation_path(@investigation), class: "text-blue-700 underline" %>.
+    </p>
+  </div>
+</div>

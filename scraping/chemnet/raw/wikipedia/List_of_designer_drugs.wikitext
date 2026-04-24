@@ -1,0 +1,1145 @@
+{{Short description|None}}
+[[File:Designerdrugs.jpg|thumb|right|300px|An assortment of several designer drugs.]]
+'''[[Designer drug]]s''' are structural or functional analogues of [[controlled substance]]s that are designed to mimic the pharmacological effects of the parent drug while avoiding detection or classification as illegal. Many of the older designer drugs ([[research chemical]]s) are structural analogues of psychoactive [[tryptamine]]s or [[phenethylamine]]s but there are many other chemically unrelated '''new psychoactive substances''' that can be considered part of the designer drug group.<ref name=EMCDDA2013>{{cite web | url=https://www.emcdda.europa.eu/publications/implementation-reports/2013 | title=EMCDDA–Europol 2013 Annual Report on the information exchange, risk assessment and control of new&nbsp;psychoactive substances (implementation of Council Decision 2005/387/JHA) | publisher=[[EMCDDA]] | date=July 2014 | access-date=8 August 2014 }}</ref><ref name=EMCDDA-NPD2012>{{cite web | url=https://www.emcdda.europa.eu/publications/implementation-reports/2012 | title=EMCDDA–Europol 2012 Annual Report on the implementation of Council Decision 2005/387/JHA (New drugs in Europe, 2012) | publisher=[[EMCDDA]] | date=May 2013 | access-date=8 August 2014 }}</ref><ref name=EMCDDA-NPD2011>{{cite web | url=https://www.emcdda.europa.eu/publications/implementation-reports/2011 | title=EMCDDA–Europol 2011 Annual Report on the (information exchange, risk assessment and control of new&nbsp;psychoactive substances) implementation of Council Decision 2005/387/JHA | publisher=[[EMCDDA]] | date=April 2012 | access-date=8 August 2014 }}</ref><ref name=EMCDDA-NPD2010>{{cite web | url=https://www.emcdda.europa.eu/publications/implementation-reports/2010 | title=EMCDDA–Europol 2010 Annual Report on the implementation of Council Decision 2005/387/JHA | publisher=[[EMCDDA]] | date=May 2011| access-date=8 August 2014 }}</ref> Designer drugs can also include substances that are not psychoactive in effect, such as analogues of controlled [[anabolic steroid]]s and other '''performance and image enhancing drugs''' (PIEDs), including [[nootropic]]s, [[weight loss]] drugs and [[erectile dysfunction]] medications. The pharmaceutical activities of these compounds might not be predictable based strictly upon [[structure activity relationship|structural examination]]. Many of the substances have common effects while structurally different or different effects while structurally similar due to [[Quantitative structure-activity relationship#SAR and the SAR paradox|SAR paradox]]. As a result of no real official naming for some of these compounds, as well as [[slang|regional naming]], this can all lead to potentially hazardous mix ups for users.<ref>{{cite journal | vauthors = Shimizu E, Watanabe H, Kojima T, Hagiwara H, Fujisaki M, Miyatake R, Hashimoto K, Iyo M | display-authors = 6 | title = Combined intoxication with methylone and 5-MeO-MIPT | journal = Progress in Neuro-Psychopharmacology & Biological Psychiatry | volume = 31 | issue = 1 | pages = 288–291 | date = January 2007 | pmid = 16876302 | doi = 10.1016/j.pnpbp.2006.06.012 | s2cid = 29089303 }}</ref> The following list is not exhaustive.
+
+== Androgens ==
+Androgenic [[anabolic steroid]]s have approved medical uses as well as illicit use as [[performance-enhancing drug]]s to build muscle mass and strength. Anabolic steroids that have been designed to evade detection in [[doping in sport#drug testing|sport doping tests]] are known as "designer steroids".<ref name="pmid20020364">{{cite book | vauthors = Kazlauskas R | chapter = Designer Steroids | title = Doping in Sports | volume = 195 | issue = <!-- --> | pages = 155–85 | pmid = 20020364 | doi = 10.1007/978-3-540-79088-4_7 | series = Handbook of Experimental Pharmacology | date = 2009 | isbn = 978-3-540-79087-7 }}</ref><ref name="pmid24702116">{{cite journal | vauthors = Abushareeda W, Fragkaki A, Vonaparti A, Angelis Y, Tsivou M, Saad K, Kraiem S, Lyris E, Alsayrafi M, Georgakopoulos C | display-authors = 6 | title = Advances in the detection of designer steroids in anti-doping | journal = Bioanalysis | volume = 6 | issue = 6 | pages = 881–896 | date = March 2014 | pmid = 24702116 | doi = 10.4155/bio.14.9 }}</ref>
+
+=== [[Dihydrotestosterone|DHT]] based ===
+{{columns-list|colwidth=25em|
+* [[1-Testosterone]], Dihydroboldenone
+* [[Desoxymethyltestosterone]], Madol, "DMT"
+* [[Dihydrotestosterone]], DHT
+* [[Drostanolone]], Masteron
+* [[Epiandrosterone]]
+* [[Mestanolone]]
+* [[Mesterolone]], Proviron
+* [[Metenolone enanthate]], Primobolan
+* [[Methasterone]], Superdrol, Methasteron, Methyldrostanolone
+* [[Methyl-1-testosterone]], M1T
+* [[Oxandrolone]], Anavar
+* [[Oxymetholone]], Anadrol
+* [[Prostanozol]], prodrug for Stanozolol
+* [[Stanozolol]], Winstrol
+}}
+
+=== [[Estranes]] ===
+{{columns-list|colwidth=25em|
+* [[Dimethandrolone]]
+* [[Dimethyltrienolone]]
+* [[Metribolone]], Methyltrenbolone
+* [[Mibolerone]], Cheque Drops
+* [[Nandrolone]], Deca durabolin, NPP
+* [[Norbolethone]], Genabol
+* [[Tetrahydrogestrinone]], THG, "The Clear"
+* [[Trenbolone]]
+* [[Trestolone]], MENT
+}}
+
+=== SARMs ===
+[[Selective androgen receptor modulator]]s (SARMs) are a novel class of [[androgen receptor]] ligands. They are intended to maintain the desirable muscle building effects of anabolic steroids while reducing undesirable androgenic actions (e.g., increased risk of [[prostate cancer]]). SARMs that are more selective in their action could potentially be used for a broader range of clinical indications other than the relatively limited legitimate uses that anabolic steroids are currently approved for.<ref name="pmid23231475">{{cite journal | vauthors = Zhang X, Sui Z | title = Deciphering the selective androgen receptor modulators paradigm | journal = Expert Opinion on Drug Discovery | volume = 8 | issue = 2 | pages = 191–218 | date = February 2013 | pmid = 23231475 | doi = 10.1517/17460441.2013.741582 | s2cid = 2584722 }}</ref>
+
+{{columns-list|colwidth=25em|
+* [[AC-262,356]]
+* [[Andarine]], S-4, GTx-007
+* [[JNJ-28330835]]
+* [[BMS-564,929]]
+* [[Enobosarm]], Ostarine, GTx-024, MK-2866
+* [[LGD-2226]]
+* [[LGD-3303]]
+* [[LGD-4033]]
+* [[RAD140]]
+* [[S-40503]]
+* [[S-23 (drug)|S-23]]
+* [[YK-11]]
+}}
+
+=== [[Testosterone (medication)|Testosterone]] based ===
+{{columns-list|colwidth=25em|
+* [[4-Chlorodehydromethyltestosterone]], Turinabol
+* [[11-Ketotestosterone]]
+* [[Adrenosterone]]
+* [[Boldenone]]
+* [[Clostebol]], 4-Chloro-Testosterone
+* [[Fluoxymesterone]], Halotestin
+* [[Methandrostenolone]], Dianabol
+* [[Methyltestosterone]], Methyltestosterone
+* [[Testosterone (medication)|Testosterone]]
+}}
+
+== Empathogens ==
+[[Empathogen-entactogen|Empathogens]] are a class of psychoactive drugs that produce distinctive emotional and social effects similar to those of MDMA. Users of empathogens say the drugs often produce feelings of empathy, love, and emotional closeness to others.
+
+=== Amphetamines ===
+[[Substituted amphetamine]]s are a chemical class of stimulants, entactogens, hallucinogens, and other drugs. They feature a phenethylamine core with a methyl group attached to the alpha carbon resulting in amphetamine, along with additional substitutions.
+{{columns-list|colwidth=25em|
+* [[Para-Bromoamphetamine|4-BA]], 4-Bromoamphetamine, PBA
+* [[Para-Chloroamphetamine|4-CA]], 4-Chloroamphetamine, PCA
+* [[Para-Chloromethamphetamine|4-CMA]], 4-Chloromethamphetamine, PCMA
+* [[4-Fluoroamphetamine|4-FA]], 4-Fluoroamphetamine, PFA
+* [[4-Fluoromethamphetamine|4-FMA]], 4-Fluoromethamphetamine, PFMA
+* [[4-Fluoroselegiline]], 4F-Deprenyl
+* [[4-Methylamphetamine|4-MA]], 4-Methylamphetamine, PAL-313
+* [[Paramethoxyamphetamine|4-MeOA]], 4-Methoxyamphetamine, PMA, 4-MeO-A, "Death"
+* [[Paramethoxymethamphetamine|4-MeOMA]], 4-Methoxymethamphetamine, PMMA, 4-MeO-MA
+* [[4-Methylthioamphetamine|4-MTA]], 4-Methylthioamphetamine
+* [[Methamnetamine]], N-Methyl-PAL-287, Methylnaphetamine, MNT, MNA
+* [[3-Methoxy-4-methylamphetamine|MMA]], 3-Methoxy-4-Methylamphetamine
+* [[3-Fluoroethamphetamine|3-FEA]], 3F-Ethamphetamine, 3-Fluoroethamphetamine}}
+
+=== Benzofurans ===
+[[Benzofuran]]s are similar in structure to MD(M)A but differ in that the methylenedioxy groups have been modified, removing one of the two oxygens in the methylenedioxy ring to render a benzofuran ring.
+{{columns-list|colwidth=25em|
+* [[5-APB]]
+* [[5-EAPB]]
+* [[5-MAPB]]
+* [[5-APDB]]
+* [[5-MAPDB]]
+* [[5-MBPB]]
+* [[6-APB]], "Benzo Fury"
+* [[6-EAPB]]
+* [[6-MAPB]]
+* [[6-APDB]]
+* [[6-MAPDB]]
+}}
+
+=== MDxx ===
+[[Substituted methylenedioxyphenethylamines]] (MDxx) are a large chemical class of derivatives of the phenethylamines, which includes many psychoactive drugs that act as entactogens, psychedelics, and/or stimulants, as well as entheogens.
+{{columns-list|colwidth=25em|
+* [[5-Methoxymethylone]], βk-MMDMA, "2-A1MP" 
+* [[5-Methylethylone]], 5-Me-βk-MDEA, 5-ME
+* [[5-Methyl-MDA]]
+* [[Butylone]], βk-MBDB
+* [[Dibutylone]], βk-DMBDB
+* [[DiFMDA|Difluoromethylenedioxyamphetamine]], DiFMDA
+* [[Dimethylone]], βk-MDDMA, "M11"
+* [[Dipentylone]], βk-DMBDP
+* [[1,3-Benzodioxolyl-N-ethylbutanamine|EBDB]], Ethylbenzodioxolylbutanamine
+* [[EDMA]], Ethylenedioxymethylamphetamine
+* [[EFLEA]], N-Hydroxy-EDMA<ref>{{cite web| work = PubChem|title=N-[1-(2,3-Dihydro-1,4-benzodioxin-6-yl)propan-2-yl]-N-methylhydroxylamine|url=https://pubchem.ncbi.nlm.nih.gov/compound/122213804| publisher = U.S. National Library of Medicine}}</ref><ref name="Uchiyama_2015">{{cite journal | vauthors = Uchiyama N, Shimokawa Y, Kikura-Hanajiri R, Demizu Y, Goda Y, Hakamatsuka T | title = A synthetic cannabinoid FDU-NNEI, two 2''H''-indazole isomers of synthetic cannabinoids AB-CHMINACA and NNEI indazole analog (MN-18), a phenethylamine derivative ''N''-OH-EDMA, and a cathinone derivative dimethoxy-α-PHP, newly identified in illegal products | journal = Forensic Toxicology | volume = 33 | issue = 2 | pages = 244–259 | date = 1 July 2015 | pmid = 26257833 | pmc = 4525202 | doi = 10.1007/s11419-015-0268-7 }}</ref>
+* [[Ethylone]], βk-MDEA
+* [[Eutylone]], βk-EBDB, N-Ethyl-Butylone
+* [[3,4-Methylenedioxy-N-hydroxy-N-methylamphetamine|FLEA]], Methylenedioxyhydroxymethamphetamine, MDHMA
+* [[1,3-Benzodioxolyl-N-methylpentanamine|MBDP]], Methylbenzodioxylpentanamine
+* [[1,3-Benzodioxolyl-N-methylbutanamine|MBDB]], Methylbenzodioxylbutanamine, "Eden"
+* [[Methylenedioxyethylamphetamine|MDEA]], Methylenedioxyethylamphetamine, MDE, "Eve"
+* [[Methylenedioxyhydroxyamphetamine]], MDOH
+* [[Methylenedioxydeschlorobupropion]], N-Tert-Butyl-Methylone
+* [[Methylone]], βk-MDMA
+* [[MMDA (drug)|MMDA]], 5-MeO-MDA
+* [[MMDA-2]], 6-MeO-MDA
+* [[Pentylone]], βk-MBDP
+* [[Putylone]], βk-PDBD, N-Propylbutylone
+}}
+
+=== Phenethylamines ===
+
+Drugs containing the [[phenethylamine]] moiety bear close structural resemblance to [[dopamine]] but substitution on the benzene ring gives rise to drugs with a much higher affinity for serotonin receptors.
+{{columns-list|colwidth=25em|
+* [[2C-B]]
+* [[2C-C]]
+* [[2C-D]]
+* [[2C-E]]
+* [[2C-I]]
+* [[2C-P]]
+* [[3C-E]]
+* [[3C-P]]
+* [[Allylescaline]], "AL"
+* [[Escaline]], "E"
+* [[Isoproscaline]], "IP"
+* [[Methallylescaline]], "MAL"
+* [[Proscaline]], "P"
+}}
+
+=== Miscellaneous polycyclic phenethylamines ===
+[[Indane]] and [[tetralin]]-type phenethylamines are vaguely related to their amphetamine analogues.
+{{columns-list|colwidth=25em|
+* [[MDMAI]]
+* [[5-APDI]], Indanylaminopropane, IAP
+* [[MDAI]]
+* [[MEAI]], "Chaperon"
+* [[NM-2-AI]]
+}}
+
+Only one non-tryptamine [[indole]] has been sold, 5-IT. It shows strong MAOI activity.
+* [[5-IT]], 5-API, PAL-571
+
+=== Tryptamines ===
+Drugs containing the [[tryptamine]] moiety are typically substrates for the [[serotonin]] receptors, in keeping with their close structural resemblance to serotonin, a neurotransmitter.
+{{columns-list|colwidth=25em|
+* [[Alpha-Ethyltryptamine|αET]], α-Ethyltryptamine, "Monase"
+* [[5-MeO-AET|5-MeO-αET]], α,O-Diethylserotonin
+* [[Alpha-Methyltryptamine|αMT]], α-Methyltryptamine, "Indopan"
+* [[5-MeO-AMT|5-MeO-αMT]], α,O-Dimethylserotonin
+}}
+
+== Dissociatives ==
+[[Dissociative]]s are a class of hallucinogens which distort perceptions of sight and sound and produce feelings of detachment - dissociation - from the environment and self. This is done through reducing or blocking signals to the conscious mind from other parts of the brain. Although many kinds of drugs are capable of such action, dissociatives are unique in that they do so in such a way that they produce hallucinogenic effects, which may include sensory deprivation, dissociation, hallucinations, and dream-like states or trances. Some, which are nonselective in action and affect the dopamine and/or opioid systems, may be capable of inducing euphoria. Many dissociatives have general depressant effects and can produce sedation, respiratory depression, analgesia, anesthesia, and ataxia, as well as cognitive and memory impairment and amnesia.
+
+=== Arylcyclohexylamines ===
+[[Arylcyclohexylamine]]s are the oldest and most widely used dissociatives. The class includes the well known [[anaesthetic]], [[ketamine]].
+
+{{columns-list|colwidth=25em|
+* [[2-Bromodeschloroketamine]], 2-BDCK, Bromoketamine, 2-Bromoketamine
+* [[2-Fluorodeschloroketamine]], 2-FDCK,<ref>{{cite web | url=https://vbchemicalsltd.com/product/2-fdck/ | archive-url=https://web.archive.org/web/20240521070126/https://vbchemicalsltd.com/product/2-fdck/ | url-status=usurped | archive-date=May 21, 2024 | title=2-FDCK
+ | publisher=VBCHEMICALS LTD | date=2023 | access-date=21 May 2024}}</ref> Fluoroketamine, 2-Fluoroketamine
+* [[3-Fluorodeschloroketamine]], 3-FDCK, FXM, 3-Fluoroketamine
+* [[2'-Oxo-PCE]], Eticyclidinone, O-PCE, Deschloroethylnorketamine, 2-DCNEK
+* [[2'-Oxo-3-F-PCE]], Fluoroeticyclidinone, Fluorxetamine
+* [[2'-Oxo-3-Me-PCE]], Deoxymethoxetamine, DMXE
+* [[2-Trifluoromethyldeschloroketamine]], 2-TFMDCK
+* [[3-Cl-PCP]]
+* [[3-F-PCP]]
+* [[3-HO-PCE]], Hydroxyeticyclidine<ref name="Morris_2014">{{cite journal | vauthors = Morris H, Wallach J | title = From PCP to MXE: a comprehensive review of the non-medical use of dissociative drugs | journal = Drug Testing and Analysis | volume = 6 | issue = 7–8 | pages = 614–632 | year = 2014 | pmid = 24678061 | doi = 10.1002/dta.1620 }}</ref>
+* [[3-HO-PCP]]
+* [[3-Me-PCE]]
+* [[3-Me-PCP]]
+* [[3-Me-PCPy]], 3-Methylrolicyclidine
+* [[3-MeO-PCE]]
+* [[3-MeO-PCMo]]
+* [[3-MeO-PCP]]
+* [[4-MeO-PCP]], Methoxydine
+* [[Deschloroketamine]], 2'-Oxo-PCM, 2-DCK, DCK, O-PCM
+* [[Eticyclidine]], PCE, CI-400
+* [[Methoxetamine]], MXE, 3-MeO-2'-Oxo-PCE
+* [[Methoxmetamine]], MXM, MMXE, 3-MeO-2'-Oxo-PCM, E-MXE
+* [[Methoxpropamine]], MXPr, 3-MeO-2'-Oxo-PCPr
+* [[Methoxisopropamine]], MXiPR, Isopropyloxetamine
+* [[Methoxyketamine]], 2-MeO-2-Deschloroketamine, 2-MeO-Ketamine
+* [[N-Ethylnorketamine]], NENK, N-Ethylketamine
+}}
+
+=== 1,2-Diarylethylamines ===
+[[1,2-Diarylethylamine]]s began to appear on grey markets only as recently as 2013.
+
+{{columns-list|colwidth=25em|
+* [[2-Chloro-Ephenidine]]
+* [[2-MeO-Ephenidine]]
+* [[Diphenidine]]
+* [[Ephenidine]], NEDPA, EPE
+* [[Fluorolintane]]
+* [[Methoxphenidine]], 2-MeO-Diphenidine, MXP
+* [[N-Methylephenidine]], "Ephenidine-2"
+* [[N-Ethyl-lanicemine]]
+}}
+
+=== Misc ===
+
+* [[Dizocilpine]], MK-801
+* [[PD-137889]] (P-89)
+* [[8A-PDHQ]]
+
+== Nootropics ==
+{{transcluded section|Nootropic|part=yes|title=Nootropic § Types}}
+{{trim|{{#Section-h:Nootropic|Types}}}}
+
+===Examples===
+{{div col|colwidth=20em}}
+* [[Adderall]]
+* [[Adrafinil]]
+* [[Amphetamine]]
+* [[Aniracetam]]
+* [[Armodafinil]]
+* [[Caffeine]]
+* [[Cocaine]] at low doses.
+* [[Dexmethylphenidate]]
+* [[Dextroamphetamine]]
+* [[Ethylphenidate]]
+* [[Lisdexamphetamine]]
+* [[Methylphenidate]]
+* [[Modafinil]]
+* [[Nicotine]]
+* [[Noopept]]
+* [[Oxiracetam]]
+* [[Phenylpiracetam]]
+* [[Piracetam]]
+* [[Pramiracetam]]
+* [[Tobacco]]
+* [[Vitamin B1]]
+* [[Vitamin B6]]
+* [[Vitamin B9]]
+{{Div col end}}
+
+== PDE5 inhibitors ==
+[[PDE5 inhibitor]]s are typically used to treat pulmonary hypertension and erectile dysfunction.<ref>{{Citation |last1=Dhaliwal |first1=Armaan |title=PDE5 Inhibitors |date=2023 |url=https://www.ncbi.nlm.nih.gov/books/NBK549843/ |work=StatPearls |access-date=2023-10-24 |place=Treasure Island (FL) |publisher=StatPearls Publishing |pmid=31751033 |last2=Gupta |first2=Mohit}}</ref>
+{{columns-list|colwidth=25em|
+* [[Acetildenafil]]
+* [[Aildenafil]]
+* [[Aminotadalafil]]<ref>{{cite web | url=https://www.fda.gov/Drugs/ResourcesForYou/Consumers/BuyingUsingMedicineSafely/MedicationHealthFraud/ucm301182.htm | archive-url=https://web.archive.org/web/20120427211038/http://www.fda.gov/Drugs/ResourcesForYou/Consumers/BuyingUsingMedicineSafely/MedicationHealthFraud/ucm301182.htm | url-status=dead | archive-date=April 27, 2012 | title=Public Notification: "RigiRx Plus" Contains Undeclared Drug Ingredient | publisher=US FDA | date=20 April 2012 | access-date=15 August 2014}}</ref>
+* [[Gendenafil]]
+* [[Homosildenafil]]
+* [[Hydroxyacetildenafil]]
+* [[Hydroxythiohomosildenafil]]
+* [[Lodenafil]]
+* [[Nitrosoprodenafil]]
+* [[Piperidino acetildenafil]]
+* [[Piperidinovardenafil]]
+* [[Sulfoaildenafil]]
+* [[Thiosildenafil]]
+}}
+
+== Peptides ==
+
+=== GHRH analogues ===
+[[Growth-hormone-releasing hormone|GHRH analogues]] stimulate the release of [[growth hormone]].
+{{columns-list|colwidth=25em|
+* [[CJC-1293]]
+* [[CJC-1295]]
+* [[Sermorelin]]
+* [[Tesamorelin]]
+}}
+
+=== Growth hormone secretagogue receptor agonists ===
+Agonists of the [[growth hormone secretagogue receptor]] stimulate the release of growth hormone through the ghrelin receptor.
+{{columns-list|colwidth=25em|
+* [[Examorelin]], Hexarelin
+* [[Growth hormone releasing hexapeptide|GHRP-2]]
+* [[Growth hormone releasing hexapeptide|GHRP-6]]
+* [[Ibutamoren]], MK-677, L-163,191
+* [[Growth hormone secretagogue receptor|Ipamorelin]]
+}}
+
+=== Others ===
+{{columns-list|colwidth=25em|
+* [[Bremelanotide]], PT-141
+* [[BPC-157]]
+* [[Carnosine]]
+* [[Delta sleep-inducing peptide|Delta sleep - inducing peptide]]
+* [[IGF-1 Ec]], MGF
+* [[IGF-1 LR3]]
+* [[IGF-1 DES]]
+* [[Afamelanotide|Melanotan]]
+* [[Melanotan II]]
+* [[P21]]
+* [[TB500]]
+* [[Human Growth Hormone Fragment 176–191]]}}
+
+== Piperazines ==
+[[Piperazine]] containing designer drugs have effects similar to [[MDMA]] (ecstasy). This class of drugs are mimics of serotonin that activate [[5-HT receptor]] subtypes that release norepinephrine and dopamine.
+{{columns-list|colwidth=25em|
+* [[2C-B-BZP]]
+* [[Meta-Chlorophenylpiperazine|3-Chlorophenylpiperazine]], meta-Chlorophenylpiperazine, mCPP
+* [[Para-Fluorophenylpiperazine|4-Fluorophenylpiperazine]], para-Fluorophenylpiperazine, pFPP, 4-FPP, Fluoperazine, Flipiperazine
+* [[Para-Methoxyphenylpiperazine|4-Methoxyphenylpiperazine]], para-Methoxyphenylpiperazine, MeOPP, pMPP, 4-MPP, Paraperazine
+* [[Benzylpiperazine]], BZP
+* [[Dibenzylpiperazine]], DBZP
+* [[Difluoromethylenedioxybenzylpiperazine]], DF-MDBP, DB-MDBP<ref>{{cite web| work = PubChem |title= Difluoromethylenedioxybenzylpiperazine |url= https://pubchem.ncbi.nlm.nih.gov/compound/66553702|publisher = U.S. National Library of Medicine }}</ref>
+* [[Methoxypiperamide]], MEOP, MEXP
+* [[Methylbenzylpiperazine]], MBZP
+* [[Methylenedioxybenzylpiperazine]], MDBZP, Piperonylpiperazine
+* [[Trifluoromethylphenylpiperazine]], TFMPP
+}}
+
+== Psychedelics ==
+
+{{see also|List of psychedelic drugs}}
+A [[Psychedelic drug|psychedelic substance]] is a psychoactive drug whose primary action is to alter cognition and perception. [[Psychedelic drug|Psychedelics]] tend to affect and explore the mind in ways that result in the experience being qualitatively different from those of ordinary consciousness. The psychedelic experience is often compared to non-ordinary forms of consciousness such as trance, meditation, yoga, religious ecstasy, dreaming and even near-death experiences.
+
+=== Benzofurans ===
+
+{{columns-list|colwidth=25em|
+* [[5-MeO-DiBF]]
+* [[Dimemebfe]], aka 5-MeO-Benzofuranethanamine, 5-MeO-BFE
+}}
+
+==== 2C-x ====
+
+[[2C (psychedelics)|2C-x]] class of psychedelics are 2,5-dimethoxy-phenethylamine derivatives.
+
+{{columns-list|colwidth=25em|
+* [[2C-B]]
+* [[2C-B-AN]], Brolphetaminil<ref>{{Cite book | vauthors = Trachsel D, Lehmann D, Enzensperger C | title = Phenethylamine Von der Struktur zur Funktion | publisher = Nachtschatten Verlag AG | date = 2013 | isbn = 978-3-03788-700-4}}</ref>
+* [[2C-B-FLY]]
+* [[2C-C]]
+* [[2C-D]], 2C-M
+* [[2C-E]], "Europa"
+* [[2C-G]]
+* [[2C-iP]], "Jelena"
+* [[2C-I]]
+* [[2C-P]]
+* [[2C-T-2]]
+* [[2C-T-4]]
+* [[2C-T-7]]
+* [[2C-T-21]]
+* [[βk-2C-B]]
+* [[BOB (psychedelic)|BOB]], β-Methoxy-2C-B
+* [[BOD (psychedelic)|BOD]], β-Methoxy-2C-D
+* [[BOH-2C-B]], β-Hydroxy-2C-B, βOH-2CB<ref>{{cite journal | vauthors = Glennon RA, Bondarev ML, Khorana N, Young R, May JA, Hellberg MR, McLaughlin MA, Sharif NA | display-authors = 6 | title = Beta-oxygenated analogues of the 5-HT2A serotonin receptor agonist 1-(4-bromo-2,5-dimethoxyphenyl)-2-aminopropane | journal = Journal of Medicinal Chemistry | volume = 47 | issue = 24 | pages = 6034–6041 | date = November 2004 | pmid = 15537358 | doi = 10.1021/jm040082s }}</ref><ref>{{citation|title=Beta-hydroxyphenylalkylamines and their use for treating glaucoma|url=https://patents.google.com/patent/US20060106106A1/en}}</ref>
+* [[HOT-7]]
+* [[N-Ethyl-2C-B]]
+}}
+
+==== DOx ====
+The [[DOx]] family of psychedelics are also known as "substituted amphetamines" as they contain the amphetamine backbone but are substituted on the benzene ring. This gives rise to serotonin agonists similar to the 2C-X class but more resistant to elimination in the body.
+
+{{columns-list|colwidth=25em|
+* [[Aleph (psychedelic)|Aleph]], DOT
+* [[Bromo-DragonFLY]], DOB-DragonFLY
+* [[2,5-Dimethoxy-4-bromoamphetamine|DOB]]
+* [[2,5-Dimethoxy-4-chloroamphetamine|DOC]]
+* [[2,5-Dimethoxy-4-ethylamphetamine|DOE]], DOET, "Hecate"
+* [[2,5-dimethoxy-4-iodoamphetamine|DOI]]
+* [[2,5-Dimethoxy-4-isopropylamphetamine|DOiPR]], DOiP
+* [[2,5-Dimethoxy-4-methylamphetamine|DOM]], "STP"
+* [[2,5-Dimethoxy-4-nitroamphetamine|DON]]
+* [[2,5-Dimethoxy-4-propylamphetamine|DOPR]]
+* [[Trimethoxyamphetamine|TMA-2]]
+* [[Trimethoxyamphetamine|TMA-6]]
+}}
+
+==== NBxx ====
+{{columns-list|colwidth=25em|
+* [[2CBCB-NBOMe]]
+* [[25B-NB23DM]]
+* [[25B-NB25DM]]
+* [[25B-NBF]]
+* [[25B-NBOH]]
+* [[25B-NBOMe]], "Nova", Cimbi-36
+* [[25C-NBF]]
+* [[25C-NBOH]]
+* [[25C-NBOMe]], "Pandora", Cimbi-82
+* [[25D-NBOMe]], "Divination"
+* [[25E-NBOMe]]
+* [[25I-NBF]], Cimbi-21
+* [[25I-NBMD]], Cimbi-29
+* [[25I-NBOH]], Cimbi-27
+* [[25I-NBOMe]], Cimbi-5, "Solaris", "N-Bomb"
+* [[25iP-NBOMe]]
+* [[25H-NBOMe]]
+* [[25N-NBOMe]]
+* [[25P-NBOMe]]
+* [[Mescaline-NBOMe]]
+}}
+
+==== NNxx ====
+
+{{columns-list|colwidth=25em|
+'''[[25-NM]]:'''
+* [[25B-NMe7BF]]
+* [[25B-NMe7BT]]
+* [[25B-NMe7Bim]]
+* [[25B-NMe7Box]]
+* [[25B-NMe7DHBF]]
+* [[25B-NMe7Ind]]
+* [[25B-NMe7Indz]]
+* [[25B-NMePyr]]
+* [[25I-NMe7DHBF]]
+* [[25I-NMeFur]]
+* [[25I-NMeTHF]]
+* [[25I-NMeTh]]
+}}
+
+=== Lysergamides ===
+
+[[Lysergamide]]s are amide derivatives of the alkaloid [[lysergic acid]].
+
+{{columns-list|colwidth=25em|
+* [[1B-LSD]], 1-Butanoyl-LSD
+* [[1cP-AL-LAD]], 1-Cyclopropionyl-6-Allyl-6-Nor-LSD
+* [[1cP-LSD]], 1-Cyclopropionyl-LSD
+* [[1cP-MiPLA]], 1-Cyclopropionylmethylisopropyllysergamide
+* [[1D-LSD]], 1,2-Dimethylcyclobutane-1-carbonyllysergamide
+* [[1P-AL-LAD]], 1-Propionyl-AL-LAD<ref>{{cite journal | vauthors = Brandt SD, Kavanagh PV, Westphal F, Pulver B, Schwelm HM, Whitelock K, Stratford A, Auwärter V, Halberstadt AL | display-authors = 6 | title = Analytical profile, in vitro metabolism and behavioral properties of the lysergamide 1P-AL-LAD | journal = Drug Testing and Analysis | volume = 14 | issue = 8 | pages = 1503–1518 | date = August 2022 | pmid = 35524430 | pmc = 9546273 | doi = 10.1002/dta.3281 }}</ref>
+* [[1P-ETH-LAD]], 1-Propionyl-ETH-LAD
+* [[1P-LSD]], 1-Propionyl-LSD
+* [[1S-LSD]], 1-(3-(trimethylsilyl)propionyl)-LSD
+* [[1V-LSD]], 1-Valeroyl-LSD, Valerie
+* [[ALD-52]], 1-Acetyl-LSD
+* [[AL-LAD]], 6-Allyl-6-Nor-LSD
+* [[ETH-LAD]], 6-Ethyl-6-Nor-LSD
+* [[LSM-775]], N-Morpholinyllysergamide
+* [[LSZ]], LA-SS-Az
+* [[MiPLA]], Methylisopropyllysergamide
+* [[1Fe-LSD]], 1-(ferrocenecarbonyl)-LSD
+}}
+
+=== Tryptamines ===
+
+Drugs containing the [[tryptamine]] moiety are typically substrates for the [[serotonin]] receptors, in keeping with their close structural resemblance to serotonin, a neurotransmitter.
+{{columns-list|colwidth=25em|
+* [[4-AcO-DALT]], Dalcetin
+* [[4-AcO-DET]], Ethacetin
+* [[4-Acetoxy-DiPT|4-AcO-DiPT]], Ipracetin
+* [[4-Acetoxy-DMT|4-AcO-DMT]], Psilacetin
+* [[4-AcO-DPT]], Depracetin
+* [[4-AcO-EiPT]], Ethipracetin
+* [[4-AcO-MET]], Metacetin
+* [[4-AcO-MiPT]], Mipracetin
+* [[4-HO-DALT]], Dalocin<ref>{{cite web | url=https://isomerdesign.com/PiHKAL/explore.php?domain=tk&id=5530 | title=4-HO-DALT | publisher=Isomerdesign}}</ref>
+* [[4-HO-DET]], Ethocin
+* [[4-HO-DiPT]], Iprocin
+* [[4-HO-DPT]], Deprocin
+* [[4-HO-MET]], Metocin
+* [[4-HO-MiPT]], Miprocin
+* [[4-HO-MPMI]], Lucigenol
+* [[4-HO-McPT]]
+* [[4-HO-MPT]], Meprocin
+* [[4-HO-EPT]]
+* [[4-MeO-MiPT]]
+* [[5-Bromo-DMT]]
+* [[5-Chloro-DMT]]
+* [[5-MeO-DALT]]
+* [[5-MeO-DET]]
+* [[5-MeO-DiPT]], Foxy Methoxy
+* [[5-MeO-DMT]]
+* [[5-MeO-DPT]]
+* [[5-MeO-EiPT]]
+* [[5-MeO-EPT]]
+* [[5-MeO-MALT]]
+* [[5-MeO-MET]]
+* [[5-MeO-MiPT]], Moxy Methoxy
+* [[5-MeO-MPMI]]
+* [[5-MeO-NiPT]]<ref>{{cite web | url=https://isomerdesign.com/PiHKAL/explore.php?domain=tk&id=5088 | title=5-MeO-NiPT | publisher=Isomerdesign}}</ref>
+* [[5-MeO-TMT]], Indapex
+* [[DALT]], Diallyltryptamine
+* [[Diethyltryptamine|DET]], Diethyltryptamine
+* [[Diisopropyltryptamine|DiPT]], Diisopropyltryptamine
+* [[Dipropyltryptamine|DPT]], Dipropyltryptamine
+* [[Ethocybin|4-PO-DET]], Ethocybin, CEY-19
+* [[Ethylisopropyltryptamine|EiPT]], Ethylisopropyltryptamine
+* [[Ethylpropyltryptamine|EPT]], Ethylpropyltryptamine
+* [[Methylisopropyltryptamine|MiPT]], Methylisopropyltryptamine
+* [[Methylcyclopropyltryptamine|McPT]], Methylcyclopropyltryptamine<ref>{{cite web| work = PubChem |title=N-[2-(1H-Indol-3-yl)ethyl]-N-methylcyclopropanamine|url=https://pubchem.ncbi.nlm.nih.gov/compound/67231643| publisher = U.S. National Library of Medicine }}</ref>
+* [[Ethylcyclopropyltryptamine|EcPT]]
+* [[Propylcyclopropyltryptamine|PcPT]]
+* [[Methylethyltryptamine|MET]], Methylethyltryptamine
+}}
+
+== Sedatives ==
+
+[[Sedative]]s are substances that induces sedation by reducing irritability or excitement. At higher doses they may result in slurred speech, staggering gait, poor judgment, and slow, uncertain reflexes. Doses of sedatives such as benzodiazepines, when used as a hypnotic to induce sleep, tend to be higher than amounts used to relieve anxiety, whereas only low doses are needed to provide a peaceful effect.
+Sedatives can be misused to produce an overly-calming effect. In the event of an overdose or if combined with another sedative, many of these drugs can cause unconsciousness and even death.
+
+=== Alcohols ===
+{{also|Comparison of psychoactive alcohols in alcoholic drinks}}
+
+* [[tert-Amyl alcohol|2-Methyl-2-butanol]], 2M2B, tert-Amyl alcohol
+* [[2-Methyl-2-pentanol]]
+
+=== Benzodiazepines ===
+{{see also|List of benzodiazepines}}
+{{columns-list|colwidth=25em|
+* [[3-Hydroxyphenazepam]]
+* [[4'-Chlorodeschloroalprazolam]]<ref>{{cite journal | vauthors = Trigg S, Wells JM, McGann J, Bock S, Holman A, Harrison SM, Goh CY, Moggach SA, Brown DH | display-authors = 6 | title = The alprazolam analogue 4'-chloro deschloroalprazolam identified in seized capsules | journal = Drug Testing and Analysis | volume = 14 | issue = 9 | pages = 1672–1680 | date = September 2022 | pmid = 35666014 | doi = 10.1002/dta.3325 | s2cid = 249382539 }}</ref>
+* [[Adinazolam]]
+* [[Bromazolam]], 2'-Desfluoroflubromazolam, 8-Bromodeschloroalprazolam
+* [[Clonazolam]], 8-Nitrodeschlorotriazolam, Clonitrazolam
+* [[Cloniprazepam]], 1-Cyclopropylmethylclonazepam
+* [[Desalkylgidazepam]], Deschlorophenazepam<ref>{{cite web|title=ChemIDplus - 7-Bromo-5-phenyl-1,2-dihydro-2H-1,4-benzodiazepin-2-one|url=https://pubchem.ncbi.nlm.nih.gov/#tab/sidsrcname=ChemIDplus&query=2894-61-3&input_type=text|website=chem.nlm.nih.gov}}</ref><ref>{{cite journal | vauthors = Andronati SA, Zin'kovskiĭ VG, Totrova MI, Golovenko NI, Stankevich EA, Zhuk OV | title = [Biokinetics of a new prodrug gidazepam and its metabolite] | journal = Biulleten' Eksperimental'noi Biologii I Meditsiny | volume = 113 | issue = 1 | pages = 45–47 | date = January 1992 | pmid = 1356504 }}</ref>
+* [[Desmethylflunitrazepam]], Fonazepam
+* [[Diclazepam]], 2'-Chlorodiazepam
+* [[Flualprazolam]], Fludiazolam
+* [[Flubromazepam]]
+* [[Flubromazolam]]
+* [[Flunitrazolam]], 2'-Fluorodeschloroclonazolam
+* [[Meclonazepam]], 3-Methylclonazepam
+* [[N-Desalkylflurazepam]], Norflurazepam
+* [[Nimetazepam]], 3-Hydroxynimetazepam
+* [[Nifoxipam]], 3-Hydroxydesmethylflunitrazepam
+* [[Nitrazolam]]
+* [[Phenazepam]]
+* [[Pyrazolam]]
+* [[Ro5-4864]], 4'-Chlorodiazepam
+}}
+
+==== Thienodiazepines ====
+{{columns-list|colwidth=25em|
+* [[Deschloroclotizolam]]
+* [[Deschloroetizolam]], Etizolam-2
+* [[Etizolam]]
+* [[Flubrotizolam]]
+* [[Fluclotizolam]]
+* [[Metizolam]], Desmethyletizolam
+}}
+
+=== GHB analogues ===
+{{columns-list|colwidth=25em|
+* [[1,4-Butanediol]], 1,4-BD
+* [[Gamma-butyrolactone|GBL]], γ-Butyrolactone
+* [[Gamma-Hydroxyvaleric acid|GHV]], γ-Hydroxyvaleric acid (4-Methyl-GHB)
+* [[Gamma-Valerolactone|GVL]], γ-Valerolactone
+}}
+
+=== Methaqualone analogues ===
+{{columns-list|colwidth=25em|
+* [[Afloqualone]]
+* [[Etaqualone]], 2-Ethylnormethaqualone, "ECQ"
+* [[Mebroqualone]], 2-Bromonormethaqalone, "MBQ"
+* [[Mecloqualone]], 2-Chloronormethaqualone, "MCQ"
+* [[Methylmethaqualone]], 4-Methylmethaqualone, "MMQ"
+* [[Nitromethaqualone]], 2-Methoxy-4-nitronormethaqualone
+* [[SL-164]]
+}}
+
+=== Opioids ===
+{{see also|List of opioids|List of fentanyl analogues}}
+[[Opioid]]s have pharmacologic actions resembling [[morphine]] and other components of [[opium]].
+{{columns-list|colwidth=25em|
+* [[2-Fluoroviminol]], 2F-Viminol
+* [[2-Methyl-AP-237]]<ref name="Vandeputte_2020">{{cite journal | vauthors = Vandeputte MM, Cannaert A, Stove CP | title = In vitro functional characterization of a panel of non-fentanyl opioid new psychoactive substances | journal = Archives of Toxicology | volume = 94 | issue = 11 | pages = 3819–3830 | date = November 2020 | pmid = 32734307 | doi = 10.1007/s00204-020-02855-7 | bibcode = 2020ArTox..94.3819V | hdl-access = free | s2cid = 220881657 | hdl = 1854/LU-8687070 | url = https://biblio.ugent.be/publication/8687070 }}</ref>
+* [[3-Methylbutyrfentanyl]], 3-MBF
+* [[3-Methylfentanyl]], 3-MF
+* [[4-Chloroisobutyrfentanyl]], 4-CliBF, p-CliBF
+* [[4-Fluorobutyrfentanyl]], 4-FBF, p-FBF
+* [[4-Fluoroisobutyrfentanyl]], 4-FiBF, p-FiBF
+* [[4-Methoxybutyrfentanyl]], 4-MeO-BF
+* [[Parafluorofentanyl|4-Fluorofentanyl]], 4-FF, p-FF
+* [[p-hydroxy-butyrylfentanyl]]<ref>{{cite journal | vauthors = Oldenhof S, Ten Pierick A, Bruinsma J, Eustace S, Hulshof J, van den Berg J, Hoitink M | title = Identification of a novel fentanyl analog: p-Hydroxy-butyrylfentanyl | journal = Drug Testing and Analysis | volume = 12 | issue = 1 | pages = 152–155 | date = January 2020 | pmid = 31518047 | doi = 10.1002/dta.2695 | doi-access = free }}</ref>
+* [[Acetylfentanyl]], AF
+* [[Acetoxymethylketobemidone]], O-AMKD
+* [[Acrylfentanyl]]
+* [[AH-7921]]
+* [[Alphamethylfentanyl|α-Methylfentanyl]], "China White"
+* [[AP-238]]
+* [[BDPC]], Bromadol
+* [[Bromadoline]], U-47931E
+* [[Brorphine]]
+* [[Bucinnazine]], AP-237
+* [[Butonitazene]]
+* [[Butyrfentanyl]], BF
+* [[Clonitazene]]
+* [[Cyclopentylfentanyl]], CP-F
+* [[Cyclopropylfentanyl]]
+* [[Crotonylfentanyl]]
+* [[Desmethylprodine]], MPPP
+* [[Desmethylmoramide]]
+* [[Diphenpipenol]]
+* [[Dipyanone]]
+* [[2,2'-Difluorofentanyl]]
+* [[Etazene]], Desnitroetonitazene
+* [[Etonitazene]]
+* [[Etonitazepyne]]<ref>{{cite journal | vauthors = Blanckaert P, Balcaen M, Vanhee C, Risseeuw M, Canfyn M, Desmedt B, Van Calenbergh S, Deconinck E | display-authors = 6 | title = Analytical characterization of "etonitazepyne," a new pyrrolidinyl-containing 2-benzylbenzimidazole opioid sold online | journal = Drug Testing and Analysis | volume = 13 | issue = 9 | pages = 1627–1634 | date = September 2021 | pmid = 34145779 | doi = 10.1002/dta.3113 | hdl-access = free | s2cid = 235479893 | hdl = 1854/LU-8737722 | url = https://biblio.ugent.be/publication/8737722 }}</ref>
+* [[Flunitazene]]
+* [[Furanylfentanyl]], Fu-F
+* [[Isotonitazene]]
+* [[Isotonitazepyne]]
+* [[Methoxyacetylfentanyl]]
+* [[Metodesnitazene]]
+* [[Metonitazene]]
+* [[MT-45]]
+* [[N-Desmethyl-BDPC]], Norbromadol
+* [[Nortilidine]]
+* [[O-Desmethyltramadol]], O-DSMT
+* [[Piperidylthiambutene]]
+* [[Protonitazene]]
+* [[Tetrahydrofuranylfentanyl]], THF-F
+* [[Tianeptine]]
+* [[U-47700]]
+* [[U-48800]]
+* [[U-49900]]<ref>{{cite journal | vauthors = Krotulski AJ, Mohr AL, Papsun DM, Logan BK | title = Metabolism of novel opioid agonists U-47700 and U-49900 using human liver microsomes with confirmation in authentic urine specimens from drug users | journal = Drug Testing and Analysis | volume = 10 | issue = 1 | pages = 127–136 | date = January 2018 | pmid = 28608586 | doi = 10.1002/dta.2228 | doi-access = free }}</ref>
+* [[U-51754]]<ref>{{cite web | url=https://www.chemspider.com/Chemical-Structure.28522781.html | title=2-(3,4-Dichlorophenyl)-N-[(1S,2S)-2-(dimethylamino)cyclohexyl]-N-methylacetamide | publisher=ChemSpider}}</ref>
+* [[Valerylfentanyl]], VF
+}}
+
+====Benzimidazole opioids====
+{{Main|List of benzimidazole opioids}}
+
+=====Nitazenes=====
+{{Main|Nitazenes}}
+
+* [[Metonitazene]]
+* [[Isotonitazene]]
+* [[N-Desethylisotonitazene]]
+
+====N-(2C)-fentanyl====
+{{main|N-(2C)-fentanyl}}
+
+{{columns-list|colwidth=25em|
+* [[N-(2C-B) fentanyl]]<ref>{{cite web |title=Explore N-(2C-B)-Fentanyl {{!}} PiHKAL · info |url=https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=7561 |website=isomerdesign.com}}</ref>
+* [[N-(2C-C) fentanyl]]<ref>{{cite web |title=Explore N-(2C-C)-Fentanyl {{!}} PiHKAL · info |url=https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14010 |website=isomerdesign.com}}</ref>
+* [[N-(2C-D) fentanyl]]<ref>{{cite web |title=Explore N-(2C-D)-Fentanyl {{!}} PiHKAL · info |url=https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14008 |website=isomerdesign.com}}</ref>
+* [[N-(2C-E) fentanyl]]<ref>{{cite web |title=Explore N-(2C-E)-Fentanyl {{!}} PiHKAL · info |url=https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14013 |website=isomerdesign.com}}</ref>
+* [[N-(2C-G) fentanyl]]<ref>{{cite web |title=Explore N-(2C-G)-Fentanyl {{!}} PiHKAL · info |url=https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14011 |website=isomerdesign.com}}</ref>
+* [[N-(2C-H) fentanyl]]<ref>{{cite web |title=Explore N-(2C-H)-Fentanyl {{!}} PiHKAL · info |url=https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=9531 |website=isomerdesign.com}}</ref>
+* [[N-(2C-I) fentanyl]]<ref>{{cite web |title=Explore N-(2C-I)-Fentanyl {{!}} PiHKAL · info |url=https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14009 |website=isomerdesign.com}}</ref>
+* [[N-(2C-IP) fentanyl]]<ref>{{cite web |title=Explore N-(2C-IP)-Fentanyl {{!}} PiHKAL · info |url=https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14022 |website=isomerdesign.com}}</ref>
+* [[N-(2C-N) fentanyl]]<ref>{{cite web |title=Explore N-(2C-N)-Fentanyl {{!}} PiHKAL · info |url=https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=13234 |website=isomerdesign.com}}</ref>
+* [[N-(2C-P) fentanyl]]<ref>{{cite web |title=Explore N-(2C-P) fentanyl {{!}} PiHKAL · info |url=https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14023 |website=isomerdesign.com}}</ref>
+* [[N-(2C-T) fentanyl]]<ref>{{cite web |title=Explore N-(2C-T)-Fentanyl {{!}} PiHKAL · info |url=https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14019 |website=isomerdesign.com}}</ref>
+* [[N-(2C-T-2) fentanyl]]<ref>{{cite web |title=Explore N-(2C-T-2)-Fentanyl {{!}} PiHKAL · info |url=https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14025 |website=isomerdesign.com}}</ref>
+* [[N-(2C-T-4) fentanyl]]<ref>{{cite web |title=Explore N-(2C-T-4)-Fentanyl {{!}} PiHKAL · info |url=https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14027 |website=isomerdesign.com}}</ref>
+* [[N-(2C-T-7) fentanyl]]<ref>{{cite web |title=Explore N-(2C-T-7)-Fentanyl {{!}} PiHKAL · info |url=https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14026 |website=isomerdesign.com}}</ref>
+* [[N-(2C-TFM) fentanyl]]<ref>{{cite web |title=Explore N-(2C-TFM)-Fentanyl {{!}} PiHKAL · info |url=https://isomerdesign.com/PiHKAL/explore.php?domain=pk&id=14028 |website=isomerdesign.com}}</ref>
+}}
+
+=== Misc ===
+{{columns-list|colwidth=25em|
+* [[3,4,5-Trimethoxyphenibut]]
+* [[4-Fluorophenibut]]
+* [[Benzylbutylbarbiturate]]
+* [[Pagoclone]]
+* [[Phenibut]]
+* [[Tolibut]]
+* [[W-18 (drug)|W-18]]
+}}
+
+== Stimulants ==
+[[Stimulant]]s produce a variety of different kinds of effects by enhancing the activity of the central and peripheral nervous systems. Common effects, which vary depending on the substance and dosage in question, may include enhanced alertness, awareness, wakefulness, endurance, productivity, and motivation, increased arousal, locomotion, heart rate, and blood pressure, and the perception of a diminished requirement for food and sleep.
+
+=== Amphetamines ===
+[[Substituted amphetamine|Amphetamines]] are a chemical class of stimulants, entactogens, hallucinogens, and other drugs. They feature a phenethylamine core with a methyl group attached to the alpha carbon resulting in amphetamine, along with additional substitutions.
+{{columns-list|colwidth=25em|
+* [[2-Fluoroamphetamine|2-FA]], 2-Fluoroamphetamine
+* [[2-Fluoromethamphetamine|2-FMA]], 2-Fluoromethamphetamine
+* [[Ortetamine|2-MA]], 2-Methylamphetamine, Ortetamine
+* [[3-Fluoroamphetamine|3-FA]], 3-Fluoroamphetamine
+* [[3-Fluoromethamphetamine|3-FMA]], 3-Fluoromethamphetamine
+* [[3-Methylamphetamine]], 3-MA, meta-Methamphetamine
+* [[Beta-Phenylmethamphetamine|β-Phenylmethamphetamine]]
+* [[N,alpha-Diethylphenylethylamine]], EAPB
+}}
+
+=== Cathinones ===
+[[Substituted cathinone|Cathinones]] include some stimulants and entactogens, which are derivatives of cathinone. They feature a phenethylamine core with an alkyl group attached to the alpha carbon, and a ketone group attached to the beta carbon, along with additional substitutions.
+
+{{columns-list|colwidth=25em|
+* [[2-Chloromethcathinone]], 2-CMC
+* [[2-Fluoromethcathinone]], 2-FMC<ref>{{cite web | url=https://www.swgdrug.org/Monographs/2-FMC.pdf | title=2-FMC | publisher=SWGDRUG | date=2013 | access-date=19 August 2014}}</ref>
+* [[2-Methylethcathinone]], 2-MEC<ref>{{cite web | url=https://www.caymanchem.com/product/11221 | title=2-Methylethcathinone | publisher=Cayman Chemical | access-date=6 September 2015}}</ref>
+* [[2-Methylmethcathinone]], 2-MMC
+* [[2,4-Dimethylethcathinone]], 2,4-DMEC<ref>{{cite web| work = PubChem|title=2,4-Dimethylethcathinone|url=https://pubchem.ncbi.nlm.nih.gov/compound/82100531| publisher = U.S. National Library of Medicine}}</ref>
+* [[2,4-Dimethylmethcathinone]], 2-Methylmephedrone, 2,4-DMMC<ref>{{cite web| work = PubChem|title=2,4-Dimethylmethcathinone|url=https://pubchem.ncbi.nlm.nih.gov/compound/82100563| publisher = U.S. National Library of Medicine}}</ref>
+* [[3,4-Dimethylmethcathinone]], 3,4-DMMC
+* [[3,4-Dimethyl-N-ethylbuphedrone]], 3,4-DMNEB<ref name="Mitsumoto_2015">{{cite journal| vauthors = Kaizaki-Mitsumoto A, Noguchi N, Yamaguchi S, Odanaka Y, Matsubayashi S, Kumamoto H, Fukuhara K, Funada M, Wada K, Numazawa S | display-authors = 6 |title=Three 25-NBOMe-type drugs, three other phenethylamine-type drugs (25I-NBMD, RH34, and escaline), eight cathinone derivatives, and a phencyclidine analog MMXE, newly identified in ingredients of drug products before they were sold on the drug market |journal=Forensic Toxicology |date=January 2016 |issn=1860-8965 |pages=108–114 |volume=34 |issue=1 |doi=10.1007/s11419-015-0293-6 | s2cid = 45890497 }}</ref>
+* [[3,4-Dimethyl-N-ethylpentedrone]], 3,4-DMNPD<ref name="Mitsumoto_2015"/>
+* [[3-Chloromethcathinone]], 3-CMC, Clophedrone
+* [[3-Chloroethcathinone]], 3-CEC
+* [[3-Ethylethcathinone]], 3-EEC<ref>{{cite web | url=https://www.caymanchem.com/product/11198 | title=3-Ethylethcathinone | publisher=Cayman Chemical | access-date=29 September 2015}}</ref>
+* [[3-Fluoromethcathinone]], 3-FMC
+* [[3-Fluoro-4-methylmethcathinone]], 3-Fluoromephedrone
+* [[3-Methoxymethcathinone]], 3-MeOMC<ref>{{cite web | url=https://www.caymanchem.com/product/9001187 | title=3-MeOMC | publisher=Cayman Chemical | access-date=27 December 2014}}</ref>
+* [[3-Methylethcathinone]], 3-MEC<ref>{{cite web | url=https://www.swgdrug.org/Monographs/3-MEC.pdf | title=3-MEC | publisher=SWGDRUG | date=2013 | access-date=19 August 2014}}</ref>
+* [[3-Methylmethcathinone]], 3-MMC<ref>{{cite web | url=https://vbchemicalsltd.com/product/3-mmc-powder | archive-url=https://web.archive.org/web/20240521074446/https://vbchemicalsltd.com/product/3-mmc-powder/ | url-status=usurped | archive-date=May 21, 2024 | title=3-MMC Powder
+ | publisher=VBCHEMICALS LTD | date=2023 | access-date=5 May 2024}}</ref>
+* [[4-Bromo-N-methylcathinone|4-Bromomethcathinone]], 4-BMC, Brephedrone
+* [[4-Bromoethcathinone]], 4-BEC<ref>{{cite web| work = PubChem|title=CID 82100370|url=https://pubchem.ncbi.nlm.nih.gov/compound/82100370| publisher = U.S. National Library of Medicine}}</ref>
+* [[4-Chlorobutylcathinone]], 4-CBC
+* [[4-Chlorodimethylcathinone]], 4-CDMC
+* [[4-Chloroethcathinone]], 4-CEC<ref>{{cite web | url=https://patents.google.com/patent/US3313687 | title=US Patent 3313687 - Appetite-suppressing and weight reducing composition | date=11 April 1967 | vauthors = Harm S }}</ref>
+* [[4-Chloroisopropylcathinone]], 4-CiPC
+* [[4-Chloromethcathinone]], 4-CMC, Clephedrone
+* [[4-Ethylethcathinone]], 4-EEC
+* [[4-Ethylmethcathinone]], 4-EMC
+* [[4-Fluoroethcathinone]], 4-FEC
+* [[Flephedrone|4-Fluoromethcathinone]], Flephedrone, 4-FMC
+* [[4-Fluoro-NiPP]], 4F-IVP, 4-Fluoro-N-Isopropylpentedrone, 4-Fluoro-α-Isopropylamino-Valerophenone, 4-Fluoro-iPAVP, 4-Fluoro-NPP<ref>{{cite web | url=https://www.caymanchem.com/product/9002414 | title=4F-IVP | publisher=Cayman Chemical | access-date=29 September 2015}}</ref>
+* [[4-Fluoropentedrone]], 4-FPD<ref>{{cite web | url=https://www.caymanchem.com/product/9002182 | title=4-FPD | publisher=Cayman Chemical | access-date=7 April 2015}}</ref>
+* [[4-Methyl-α-Ethylaminopentiophenone]], 4-MEAPP, N-Ethyl-4-Methylpentedrone<ref name="Uchiyama_2013"/>
+* [[4-Methylbuphedrone]], 4-MeMABP, BZ-6378
+* [[4-Methylcathinone]], 4-MC, Normephedrone
+* [[4-Methyldimethcathinone]], 4-MDMC<ref>{{cite web | url=https://www.caymanchem.com/product/17393 | title=4-methyl-N,N-DMC | publisher=Cayman Chemical | access-date=7 April 2015}}</ref>
+* [[4-Methylethcathinone]], 4-MEC
+* [[4-Methylpentedrone]], 4-MPD
+* [[4-Methylpropylcathinone]], 4-MPC
+* [[Benzedrone]], 4-MBC
+* [[Buphedrone]], α-Methylamino-Butyrophenone, MABP
+* [[DL-4662]], Dimethoxyethylpentedrone, VEVP<ref name="Weiß_2014">{{cite journal | vauthors = Weiß JA, Taschwer M, Kunert O, Schmid MG | title = Analysis of a new drug of abuse: cathinone derivative 1-(3,4-dimethoxyphenyl)-2-(ethylamino)pentan-1-one | journal = Journal of Separation Science | volume = 38 | issue = 5 | pages = 825–828 | date = March 2015 | pmid = 25545103 | doi = 10.1002/jssc.201401052 }}</ref>
+* [[Ephylone]], N-Ethylpentylone, βk-Ethyl-K, βk-EBDP
+* [[Ethcathinone]], EC
+* [[Hexedrone]], α-Methylamino-Caprophenone
+* [[Mephedrone|4-Methylmethcathinone]], Mephedrone, 4-MMC, 4-Methylephedrone, "MCAT"
+* [[Methedrone|4-Methoxymethcathinone]], Methedrone, βk-PMMA, 4-Methoxyephedrone, 4-MeoMC
+* [[Mexedrone]]
+* [[N,N-Diethyl-4-Methcathinone]], N,N-DEMC
+* [[N-Ethylbuphedrone]], NEB
+* [[N-Ethylheptedrone]], HEP
+* [[N-Ethylhexedrone]], NEH, "Hexen"
+* [[N-Ethylpentedrone]], NEP
+* [[4-Fluoro-N-Ethylbuphedrone]], 4-Fluoro-NEB, 4-FNEB
+* [[NiPH]], N-Isopropylnorhexedrone
+* [[NiPP]], α-Isopropylamino-Valerophenone, iPAVP, N-Isopropylnorpentedrone, NPP<ref>{{cite web| work = PubChem|title=N-Isopropylpentedrone|url=https://pubchem.ncbi.nlm.nih.gov/compound/119057572| publisher = U.S. National Library of Medicine}}</ref>
+* [[Pentedrone]], α-Methylamino-Valerophenone, MAVP, PD
+* [[α-Ethylaminopentiophenone]], EAPP, N-Ethylpentedrone<ref name="Uchiyama_2013">{{cite journal | vauthors = Uchiyama N, Matsuda S, Kawamura M, Shimokawa Y, Kikura-Hanajiri R, Aritake K, Urade Y, Goda Y | display-authors = 6 | title = Characterization of four new designer drugs, 5-chloro-NNEI, NNEI indazole analog, α-PHPP and α-POP, with 11 newly distributed designer drugs in illegal products | journal = Forensic Science International | volume = 243 | pages = 1–13 | date = October 2014 | pmid = 24769262 | doi = 10.1016/j.forsciint.2014.03.013 }}</ref>
+* [[βk-IBP]], Indanyl-N-ethylbuphedrone<ref name="Mitsumoto_2015"/>
+* [[βk-IVP]], Indanyl-N-ethylpentedrone<ref name="Mitsumoto_2015"/><ref>{{cite web| work = PubChem|title=1-(2,3-Dihydro-1H-inden-5-yl)-2-(ethylamino)pentan-1-one|url=https://pubchem.ncbi.nlm.nih.gov/compound/129844562| publisher = U.S. National Library of Medicine}}</ref>
+}}
+
+=== Oxazolidines ===
+[[Oxazolidine]]s are a five-membered ring compounds consisting of three carbons, a nitrogen, and an oxygen. The oxygen and NH are the 1 and 3 positions, respectively. In oxazolidine derivatives, there is always a carbon between the oxygen and the nitrogen.
+{{columns-list|colwidth=25em|
+* [[4'-Bromo-4-methylaminorex]], 4'-B-4-MAR, 4B-MAR
+* [[4'-Chloro-4-methylaminorex]], 4'-C-4-MAR, 4C-MAR
+* [[4'-Fluoro-4-methylaminorex]], 4'-F-4-MAR, 4F-MAR
+* [[4,4'-Dimethylaminorex]], 4,4'-DMAR, "Serotoni"
+}}
+
+=== Phenylmorpholines ===
+Phenylmorpholines are a class of stimulants containing a [[phenethylamine]] skeleton in which the terminal amine is incorporated into a [[morpholine]] ring.
+{{columns-list|colwidth=25em|
+* [[Isophenmetrazine]], PAL-730<ref>{{cite web| work = PubChem|title=5-Methyl-2-phenylmorpholine|url=https://pubchem.ncbi.nlm.nih.gov/compound/12945120| publisher = U.S. National Library of Medicine}}</ref>
+* [[2-Hydroxy-4'-Ethylphenmetrazine]], 2-HO-4'-EPM, 2-Hydroxyphenmetetrazine, N-Ethylphenmetrazol
+* [[3,4-Methylenedioxyphendimetrazine]], MDMPM
+* [[3-Chlorophenmetrazine]], 3-CPM
+* [[3-Fluorophenetrazine]], 3-FPE<ref>{{cite web|title=3-Fluorophenetrazine Hydrochloride|url=https://www.trc-canada.com/product-detail/?F595070|website=www.trc-canada.com}}</ref>
+* [[3-Fluorophenmetrazine]], 3-FPM, PAL-593
+* [[3-Methylphenmetrazine]], 3-MPM, PAL-773
+* [[N-Ethylphenmetrazine]], Phenmetetrazine<ref>{{cite web| work = PubChem|title=4-Ethyl-3-methyl-2-phenylmorpholine|url=https://pubchem.ncbi.nlm.nih.gov/compound/14425810| publisher = U.S. National Library of Medicine}}</ref>
+* [[4-Methylphenmetrazine]], 4-MPM
+* [[2-Phenyl-3,6-dimethylmorpholine|6-Methylphenmetrazine]], 6-MPM
+* [[G-130]]
+* [[Methylmorphenate]]
+* [[PDM-35]], 5-Methylphenmetrazine, 5-MPM
+* [[Phenetrazine]], PE<ref>{{cite web| work = PubChem|title=3-Ethyl-2-phenylmorpholine|url=https://pubchem.ncbi.nlm.nih.gov/compound/43350824| publisher = U.S. National Library of Medicine}}</ref>
+* [[Viloxazine]]
+}}
+
+=== Piperidines and tropanes ===
+[[Tropane alkaloid]]s occur in plants of the families [[erythroxylaceae]] (including [[coca]]). [[Piperidine]] and its derivatives are ubiquitous building blocks in the synthesis of many pharmaceuticals and fine chemicals.
+{{columns-list|colwidth=25em|
+* [[2-Diphenylmethylpyrrolidine]], Desoxy-D2PM, 2-Benzhydrylpyrrolidine
+* [[3,4-Dichloromethylphenidate]], 3,4-CTMP
+* [[4'-Fluorococaine]], 4'-FC
+* [[4-Benzylpiperidine]], 4-PMPD
+* [[4-Fluoroethylphenidate]], 4F-EPH, 4-FEPH
+* [[4-Fluoromethylphenidate]], 4F-MPH, 4-FMPH
+* [[4-Methylmethylphenidate]], 4-Me-TMP, 4-MMPH
+* [[Benocyclidine]], BTCP
+* [[Desoxypipradrol]], 2-DPMP, 2-Diphenylmethylpiperidine
+* [[Dichloropane]], RTI-111, O-401
+* [[Ethylphenidate]], EPH
+* [[HDEP-28]], Ethylnaphthidate
+* [[HDMP-28]], Methylnaphthidate
+* [[Isopropylphenidate]], IPH, IPPD
+* [[Meprylcaine]]
+* [[Nitracaine]], 4-Nitro-Dimethocaine
+* [[Pipradrol]], Meratran
+* [[Propylphenidate]], PPH
+* [[Troparil]], WIN 35,065-2, β-CPT
+}}
+
+=== Pyrrolidines and Pyrrolidinophenones ===
+[[Pyrrolidine]]s are [[amphetamine]]s with a pyrrolidine group. [[Pyrrolidinophenone]]s (also called Pyrovalerones) are [[cathinone]]s (βk-amphetamines) with a pyrrolidine group.
+{{columns-list|colwidth=25em|
+* [[Diphenylprolinol]], D2PM
+* [[2-Diphenylmethylpyrrolidine]], Desoxy-D2PM
+* [[Alpha-Pyrrolidinopropiophenone|α-Pyrrolidinopropiophenone]], α-PPP
+* [[2',4'-Dimethyl-α-pyrrolidinopropiophenone]], DMPPP, 2,4-DM-α-PPP
+* [[3',4'-Methylenedioxy-α-pyrrolidinopropiophenone]], MDPPP, 3,4-MD-α-PPP
+* [[4'-Chloro-α-pyrrolidinopropiophenone]], 4-Chloro-α-PPP
+* [[4'-Methoxy-α-pyrrolidinopropiophenone]], MOPPP, 4-MeO-α-PPP
+* [[4'-Methyl-α-pyrrolidinopropiophenone]], 4-MePPP, MPPP, MαPPP
+* [[Alpha-Pyrrolidinobutiophenone|α-Pyrrolidinobutiophenone]], α-PBP
+* [[3',4'-Methylenedioxy-α-pyrrolidinobutiophenone]], MDPBP, 3,4-MD-α-PBP
+* [[4'-Fluoro-α-pyrrolidinobutyrophenone]], 4-Fluoro-α-PBP<ref>{{cite journal | vauthors = Gaspar H, Bronze S, Ciríaco S, Queirós CR, Matias A, Rodrigues J, Oliveira C, Cordeiro C, Santos S | display-authors = 6 | title = 4F-PBP (4'-fluoro-α-pyrrolidinobutyrophenone), a new substance of abuse: Structural characterization and purity NMR profiling | journal = Forensic Science International | volume = 252 | pages = 168–176 | date = July 2015 | pmid = 26005857 | doi = 10.1016/j.forsciint.2015.05.003 }}</ref>
+* [[4-Methoxy-α-pyrrolidinobutyrophenone]], 4-MeO-α-PBP<ref>{{cite journal | title=Identification and quantification of 4′-methoxy-α-pyrrolidinobutiophenone (4-MeOPBP) in human plasma and urine using LC–TOF-MS in an autopsy case | vauthors = Shintani-Ishida K, Nakamura M, Tojo M, Idota N, Ikegaya H | journal=Forensic Toxicology |date=May 2015 | doi=10.1007/s11419-015-0281-x | volume=33 |issue = 2| pages=348–354| s2cid = 24716021 }}</ref>
+* [[4'-Methyl-α-pyrrolidinobutiophenone]], MPBP, 4-Me-α-PBP
+* [[5-PPDI]], Indanyl-α-PBP<ref>{{cite web| work = PubChem|title=1-(2,3-Dihydro-1H-inden-5-yl)-2-pyrrolidin-1-ylbutan-1-one|url=https://pubchem.ncbi.nlm.nih.gov/compound/132989234| publisher = U.S. National Library of Medicine}}</ref>
+* [[TH-PBP]], Cyclohexane-α-PBP
+* [[α-Pyrrolidinobutiothiophenone]], α-PBT<ref>{{cite web | url=https://www.caymanchem.com/product/15358 | title=α-PBT | publisher=Cayman Chemical | access-date=27 December 2014}}</ref>
+* [[α-PCYP]]
+* [[Alpha-Pyrrolidinopentiophenone|α-Pyrrolidinopentiophenone]], α-PVP, βk-Prolintane, O-2387
+* [[2'-Methyl-α-pyrrolidinopentiophenone]], 2-Methyl-α-PVP, 2-Me-α-PVP
+* [[α-Pyrrolidino-2-phenylacetophenone]], α-D2PV
+* [[3-Methyl-4-fluoro-α-pyrrolidinopentiophenone]], 3-M-4-F-α-PVP, 4F-3M-α-PVP, MFPVP
+* [[3',4'-Dimethoxy-α-pyrrolidinopentiophenone]], 3,4-DMPV
+* [[3',4'-Dimethyl-α-pyrrolidinopentiophenone]], 3,4-DMPV<ref name="Mitsumoto_2015"/>
+* [[4'-Bromo-α-pyrrolidinopentiophenone]], 4-Bromo-α-PVP
+* [[4'-Chloro-α-pyrrolidinopentiophenone]], 4-Chloro-α-PVP
+* [[4'-Fluoro-α-pyrrolidinopentiophenone]], 4-Fluoro-PVP, 4-Fluoro-α-PVP
+* [[4'-Methoxy-α-pyrrolidinopentiophenone]], 4-MeO-α-PVP, 4-MeO-PVP, MOPVP
+* [[5-DBFPV]], 5-Dihydrobenzofuranpyrovalerone, 3-Desoxy-MDPV
+* [[Pyrovalerone]], 4-Me-α-PVP, Centroton, Thymergix, O-2371
+* [[Methylenedioxypyrovalerone]], MDPV
+* [[Naphyrone]], Naphthylpyrovalerone, O-2482
+* [[Pyrophenidone]], α-Phenyl-Pyrovalerone
+* [[Indapyrophenidone]], Indanyl-α-Phenyl-α-PVP
+* [[TH-PVP]], Cyclohexane-α-PVP
+* [[Alpha-Pyrrolidinopentiothiophenone|α-Pyrrolidinopentiothiophenone]], α-PVT
+* [[Αlpha-Pyrrolidinoisohexaphenone|α-Pyrrolidinoisohexaphenone]], α-PiHP
+* [[Alpha-Pyrrolidinohexiophenone|α-Pyrrolidinohexiophenone]], α-PHP, PV-7
+* [[3',4'-Dimethoxy-α-PHP]], 3,4-DMPHP<ref name="Uchiyama_2015" />
+* [[4'-Fluoro-α-pyrrolidinohexiophenone]], 4-Fluoro-α-PHP
+* [[4'-Methyl-α-pyrrolidinohexiophenone]], MPHP, 4-Me-α-PHP, PV-4
+* [[4'-Methoxy-α-pyrrolidinohexiophenone]], 4-MeO-α-PHP
+* [[TH-PHP]], Cyclohexane-α-PHP
+* [[5-BPDI]], Indanyl-α-PHP<ref>{{cite web| work = PubChem|title=1-(2,3-Dihydro-1H-inden-5-yl)-2-pyrrolidin-1-ylhexan-1-one|url=https://pubchem.ncbi.nlm.nih.gov/compound/132989236| publisher = U.S. National Library of Medicine}}</ref>
+* [[Methylenedioxypyrrolidinohexiophenone]], MDPHP<ref name="Mitsumoto_2015"/><ref>{{cite web | url=https://www.caymanchem.com/product/16361 | title=3,4-MDPHP | publisher=Cayman Chemical | access-date=7 April 2015}}</ref>
+* [[α-Pyrrolidinoheptiophenone]], PV-8, α-PHPP<ref>{{cite web | url=http://forendex.safs1966.org/index.php/detail/index/1283 | title=PV-8 | publisher=Forendex. Southern Association of Forensic Scientists | access-date=13 August 2014}}</ref>
+* [[4'-Fluoro-α-pyrrolidinoheptiophenone]], 4-Fluoro-PV-8, 4-Fluoro-α-PHPP<ref name="Uchiyama_2013"/>
+* [[4'-Methoxy-α-pyrrolidinoheptiophenone]], 4-MeO-PV-8, 4-MeO-α-PHPP
+* [[α-Pyrrolidinooctanophenone]], PV-9, α-POP<ref name="Uchiyama_2013"/>
+* [[4'-Fluoro-α-pyrrolidinooctanophenone]], 4-Fluoro-PV-9, 4-Fluoro-α-POP
+* [[4'-Methoxy-α-pyrrolidinooctanophenone]], 4-MeO-PV-9, 4-MeO-α-POP<ref>{{cite web | url=https://www.caymanchem.com/product/15064 | title= 4-MeO-PV-9 | publisher=Cayman Chemical | access-date=27 December 2014}}</ref>
+* [[α-Pyrrolidinononanophenone]], PV-10, α-PNP<ref>{{cite web | url=https://www.caymanchem.com/product/17138 | title=PV-10 | publisher=Cayman Chemical | access-date=7 April 2015}}</ref>
+}}
+
+=== Thiophenes ===
+[[Thiophene]]s are stimulant drugs which are analogues of amphetamine or cathinone where the phenyl ring has been replaced by thiophene.
+{{columns-list|colwidth=25em|
+* [[5-Methylmethiopropamine]], 5-MMPA, "Mephedrene"
+* [[Thiopropamine]]
+* [[Methiopropamine]], MPA
+* [[Thiothinone]], βk-MPA
+* [[Cyclo-Methiodrone]], TCAT
+}}
+
+=== Misc ===
+{{columns-list|colwidth=25em|
+* [[1,3-Dimethylbutylamine]], 1,3-DMBA, "AMP-Citrate"
+* [[2-Aminoindane|2-AI]]
+* [[2-MPPP]],  2-methyl-1-phenyl-3-(piperidin-1-yl)propan-1-one
+* [[4-Fluorodimethocaine]]
+* [[Amfonelic acid]], AFA, WIN 25,978
+* [[Bromantane]]
+* [[Camfetamine]]
+* [[CRL-40,940]], Bisfluoromodafinil
+* [[CRL-40,941]], Fladrafinil, Fluorafinil
+* [[Diclofensine]], Ro 8-4650
+* [[Dimethocaine]], Larocaine
+* [[Mazindol|Homomazindol]]
+* [[Mephtetramine]], MTTA<ref name="Power_2014">{{cite journal | vauthors = Power JD, Scott KR, Gardner EA, Curran McAteer BM, O'Brien JE, Brehon M, Talbot B, Kavanagh PV | display-authors = 6 | title = The syntheses, characterization and in vitro metabolism of nitracaine, methoxypiperamide and mephtetramine | journal = Drug Testing and Analysis | volume = 6 | issue = 7–8 | pages = 668–675 | date = January 2014 | pmid = 24574100 | doi = 10.1002/dta.1616 }}</ref><ref>{{cite journal | vauthors = Odoardi S, Mestria S, Biosa G, Arfè R, Tirri M, Marti M, Strano Rossi S | title = Metabolism study and toxicological determination of mephtetramine in biological samples by liquid chromatography coupled with high-resolution mass spectrometry | journal = Drug Testing and Analysis | volume = 13 | issue = 8 | pages = 1516–1526 | date = August 2021 | pmid = 33835674 | pmc = 8453881 | doi = 10.1002/dta.3044 | doi-access = free }}</ref>
+* [[Methylhexanamine]], DMAA
+* [[Modafiendz]], Methyldifluoromodafinil<ref>{{cite web| work = PubChem|title=2-[Bis(4-fluorophenyl)methylsulfinyl]-N-methylacetamide|url=https://pubchem.ncbi.nlm.nih.gov/compound/132989661| publisher = U.S. National Library of Medicine}}</ref>
+}}
+
+== Synthetic cannabinoids ==
+{{main|Synthetic cannabinoid}}
+
+Agonists of the central [[cannabinoid receptor type 1]] mimic the behavioral effects of cannabis.
+
+=== Classical cannabinoids ===
+{{columns-list|colwidth=25em|
+* [[Nabilone]]
+* [[Parahexyl]]
+* [[Dimethylheptylpyran]]
+* [[HU-210]]
+* [[JWH-051]]
+* [[JWH-133]]
+* [[HU-243]]
+* [[AM-087]]
+* [[Ajulemic acid]]
+* [[HU-308]]
+}}
+
+=== Cyclohexeylphenol cannabinoids ===
+{{columns-list|colwidth=25em|
+* [[CP 47,497]] and its (C8) homologue [[cannabicyclohexanol]]
+* [[CP 55,940]]
+* [[CP 55,244]]
+}}
+
+=== Indazole based ===
+[[Indazole]] containing cannabinoid receptor agonists include:
+{{columns-list|colwidth=25em|
+* [[4F-ADB]], 4F-MDMB-PINACA
+* [[4F‐MDMB‐BINACA]]<ref>{{cite journal | vauthors = Krotulski AJ, Mohr AL, Kacinko SL, Fogarty MF, Shuda SA, Diamond FX, Kinney WA, Menendez MJ, Logan BK | display-authors = 6 | title = 4F-MDMB-BINACA: A New Synthetic Cannabinoid Widely Implicated in Forensic Casework | journal = Journal of Forensic Sciences | volume = 64 | issue = 5 | pages = 1451–1461 | date = September 2019 | pmid = 31260580 | doi = 10.1111/1556-4029.14101 | s2cid = 195770459 }}</ref><ref>{{cite journal | vauthors = Haschimi B, Mogler L, Halter S, Giorgetti A, Schwarze B, Westphal F, Fischmann S, Auwärter V | display-authors = 6 | title = Detection of the recently emerged synthetic cannabinoid 4F-MDMB-BINACA in "legal high" products and human urine specimens | journal = Drug Testing and Analysis | volume = 11 | issue = 9 | pages = 1377–1386 | date = September 2019 | pmid = 31228224 | doi = 10.1002/dta.2666 | s2cid = 195260495 }}</ref>
+* [[4CN-ADB]], 4CN-MDMB-PINACA
+* [[5C-APINACA]], 5C-AKB48<ref>{{cite web| work = PubChem|title=5-Chloro AKB48|url=https://pubchem.ncbi.nlm.nih.gov/compound/129514129| publisher = U.S. National Library of Medicine}}</ref>
+* [[5F-AB-PINACA]]
+* [[5F-ADB-PINACA]]
+* [[5F-ADB]], 5F-MDMB-PINACA
+* [[5F-AMB]]
+* [[5F-APINACA]], 5F-AKB48
+* [[5F-CUMYL-PINACA]], SGT-25, C-Liquid
+* [[5F-EMB-PINACA]], 5F-AEB
+* [[5F-MN-18]]<ref name="Forendex - 5F-MN-18">{{cite web | url=http://forendex.safs1966.org/index.php/detail/index/1269 | title=5F-MN-18 | publisher=Southern Association of Forensic Scientists | work=Forendex | access-date=12 August 2014}}</ref>
+* [[5F-NPB-22]]<ref>{{cite web | url=https://www.caymanchem.com/product/15536 | title=5F-NPB-22 | publisher=Cayman Chemical | access-date=9 May 2015}}</ref>
+* [[5F-SDB-005]]<ref>{{cite web | url=http://forendex.safs1966.org/index.php/detail/index/1273 | title=5F-SDB-005 | publisher=Forendex. Southern Association of Forensic Scientists | access-date=13 August 2014}}</ref>
+* [[AB-CHMINACA]]
+* [[AB-FUBINACA]], PX-4
+* [[AB-PINACA]]
+* [[ADAMANTYL-THPINACA]]
+* [[ADB-BINACA]], ADB-BUTINACA
+* [[ADB-CHMINACA]], MAB-CHMINACA, "MA-CHMINACA"
+* [[ADB-FUBINACA]], MAB-FUBINACA
+* [[ADB-PINACA]], MAB-PINACA
+* [[ADSB-FUB-187]]
+* [[AMB (drug)|AMB]]<ref>{{cite web | url=http://forendex.safs1966.org/index.php/detail/index/1267 | title=AMB | publisher=Forendex. Southern Association of Forensic Scientists | access-date=13 August 2014}}</ref>
+* [[AMB-CHMINACA]], "MA-CHMINACA"
+* [[AMB-FUBINACA]], FUB-AMB, MMB-FUBINACA
+* [[APINACA]], AKB48
+* [[APP-BINACA]], APP‐BUTINACA<ref>{{cite journal | vauthors = Krotulski AJ, Mohr AL, Diamond FX, Logan BK | title = Detection and characterization of the new synthetic cannabinoid APP-BINACA in forensic casework | journal = Drug Testing and Analysis | volume = 12 | issue = 1 | pages = 136–144 | date = January 2020 | pmid = 31788963 | doi = 10.1002/dta.2698 | doi-access = free }}</ref>
+* [[APP-FUBINACA]], PX-4
+* [[BiPICANA]]<ref>{{cite journal | title=Identification of N,N-bis(1-pentylindol-3-yl-carboxy)naphthylamine (BiPICANA) found in an herbal blend product in the Tokyo metropolitan area and its cannabimimetic effects evaluated by in vitro [35S]GTPγS binding assays | vauthors = Nakajima JI, Takahashi M, Uemura N, Seto T, Fukaya H, Suzuki J, Yoshida M, Kusano M, Nakayama H, Zaitsu K, Ishii A | display-authors = 6 | journal=Forensic Toxicology |date=November 2014 | doi=10.1007/s11419-014-0253-6 | volume=33 | pages=84–92| s2cid = 25165289 }}</ref>
+* [[CUMYL-4CN-BINACA]], SGT-78
+* [[CUMYL-PINACA]], SGT-24
+* [[CUMYL-THPINACA]], SGT-42
+* [[Cumyl-TsINACA]]<ref>{{cite journal | vauthors = Pulver B, Schönberger T, Weigel D, Köck M, Eschenlohr Y, Lucas T, Podlesnik N, Opatz T, Dreiseitel W, Pütz M, Schäper J, Jacobsen-Bauer A, Auwärter V, Westphal F | display-authors = 6 | title = Structure elucidation of the novel synthetic cannabinoid Cumyl-Tosyl-Indazole-3-Carboxamide (Cumyl-TsINACA) found in illicit products in Germany | journal = Drug Testing and Analysis | volume = 14 | issue = 8 | pages = 1387–1406 | date = August 2022 | pmid = 35338591 | doi = 10.1002/dta.3261 | s2cid = 247713676 }}</ref>
+* [[EMB-FUBINACA]],<ref>{{cite journal |last1=Pulver |first1=Benedikt |last2=Fischmann |first2=Svenja |last3=Gallegos |first3=Ana |last4=Christie |first4=Rachel |title=EMCDDA framework and practical guidance for naming synthetic cannabinoids |journal=Drug Testing and Analysis |date=March 2023 |volume=15 |issue=3 |pages=255–276 |doi=10.1002/dta.3403|pmid=36346325 }}</ref> FU-AEB<ref>{{cite web| work = PubChem|title=<nowiki>Ethyl (2S)-2-[[1-[(4-fluorophenyl)methyl]indazole-3-carbonyl]amino]-3-methylbutanoate</nowiki>|url=https://pubchem.ncbi.nlm.nih.gov/compound/125181443| publisher = U.S. National Library of Medicine}}</ref>
+* [[FAB-144]]
+* [[FUB-APINACA]], FUB-AKB48
+* [[FUB-NPB-22]]<ref>{{cite web | url=https://www.caymanchem.com/product/16883 | title=FUB-NPB-22 | publisher=Cayman Chemical | access-date=9 May 2015}}</ref>
+* [[IPO-33]]
+* [[MDMB-4en-PINACA]]
+* [[MDMB-CHMINACA]], MDMB(N)-CHM
+* [[MDMB-FUBINACA]], MDMB(N)-Bz-F, MDMB-Bz-F, FUB-MDMB
+* [[MN-18]]
+* [[NPB-22]]<ref>{{cite web | url=https://www.caymanchem.com/product/15535 | title=NPB-22 | publisher=Cayman Chemical | access-date=9 May 2015}}</ref>
+* [[PX-2]], 5F-APP-PINACA, FU-PX, PPA(N)-2201
+* [[PX-3]], APP-CHMINACA
+* [[SDB-005]]
+* [[THJ-018]]
+* [[THJ-2201]]
+}}
+
+=== Indole based ===
+[[Indole]] containing cannabinoid receptor agonists include:
+{{columns-list|colwidth=25em|
+* [[4-HTMPIPO]]
+* [[4F-MDMB-BICA]]
+* [[5C-MN-24]], 5C-NNEI<ref name="Uchiyama_2013"/>
+* [[5F-AB-PICA]]<ref name="Banister_2015">{{cite journal | vauthors = Banister SD, Moir M, Stuart J, Kevin RC, Wood KE, Longworth M, Wilkinson SM, Beinat C, Buchanan AS, Glass M, Connor M, McGregor IS, Kassiou M | display-authors = 6 | title = Pharmacology of Indole and Indazole Synthetic Cannabinoid Designer Drugs AB-FUBINACA, ADB-FUBINACA, AB-PINACA, ADB-PINACA, 5F-AB-PINACA, 5F-ADB-PINACA, ADBICA, and 5F-ADBICA | journal = ACS Chemical Neuroscience | volume = 6 | issue = 9 | pages = 1546–1559 | date = September 2015 | pmid = 26134475 | doi = 10.1021/acschemneuro.5b00112 }}</ref>
+* [[5F-ADBICA]]
+* [[5F-AMB-PICA]], I-AMB, MMB-2201
+* [[5F-AMP]]
+* [[5F-EDMB-PICA]]
+* [[5F-EMB-PICA]]
+* [[5F-NNE1]], 5F-NNEI, 5F-MN-24
+* [[5F-PY-PICA]]<ref>{{cite web| work = PubChem|title=[1-(5-Fluoropentyl)indol-3-yl]-pyrrolidin-1-ylmethanone|url=https://pubchem.ncbi.nlm.nih.gov/compound/129520948| publisher = U.S. National Library of Medicine}}</ref>
+* [[5F-SDB-006]]
+* [[AB-005]]
+* [[AB-BICA]]<ref name="Qian_2015">{{cite journal | vauthors = Qian Z, Hua Z, Liu C, Jia W | title = Four types of cannabimimetic indazole and indole derivatives, ADB-BINACA, AB-FUBICA, ADB-FUBICA, and AB-BICA, identified as new psychoactive substances | journal = Forensic Toxicology | volume = 34 | issue = 1 | pages = 133–143 | date = January 2016 | pmid = 26793280 | pmc = 4705129 | doi = 10.1007/s11419-015-0297-2 }}</ref>
+* [[AB-FUBICA]]
+* [[AB-PICA]]
+* [[ADB-BICA]]<ref name="Qian_2016">{{cite journal | vauthors = Qian Z, Jia W, Li T, Hua Z, Liu C | title = Identification and analytical characterization of four synthetic cannabinoids ADB-BICA, NNL-1, NNL-2, and PPA(N)-2201 | journal = Drug Testing and Analysis | volume = 9 | issue = 1 | pages = 51–60 | date = January 2017 | pmid = 27239006 | doi = 10.1002/dta.1990 }}</ref>
+* [[ADB-FUBIATA]]<ref>{{cite journal | vauthors = Deventer MH, Van Uytfanghe K, Vinckier IM, Reniero F, Guillou C, Stove CP | title = A new cannabinoid receptor 1 selective agonist evading the 2021 "China ban": ADB-FUBIATA | journal = Drug Testing and Analysis | volume = 14 | issue = 9 | pages = 1639–1644 | date = September 2022 | pmid = 35570246 | doi = 10.1002/dta.3285 | hdl = 1854/LU-01GQ757043ZZ4MNSKMZ52FAKJ1 | s2cid = 248812121 | url = https://biblio.ugent.be/publication/01GQ757043ZZ4MNSKMZ52FAKJ1 | hdl-access = free }}</ref>
+* [[ADB-FUBICA]]
+* [[ADBICA]], ADB-PICA
+* [[APICA (synthetic cannabinoid drug)|APICA]], SDB-001, 2NE1
+* [[AMB-CHMICA]], MMB-CHMICA, "MA-CHMINACA"
+* [[BzODZ-EPyr]]
+* [[CH-PIACA]]<ref>{{cite journal | vauthors = Pasin D, Nedahl M, Mollerup CB, Tortzen C, Reitzel LA, Dalsgaard PW | title = Identification of the synthetic cannabinoid-type new psychoactive substance, CH-PIACA, in seized material | journal = Drug Testing and Analysis | volume = 14 | issue = 9 | pages = 1645–1651 | date = September 2022 | pmid = 35687099 | pmc = 9544820 | doi = 10.1002/dta.3333 }}</ref>
+* [[CUMYL-PEGACLONE]], SGT-151
+* [[CUMYL-PICA]]
+* [[FDU-NNE1]], FDU-NNEI, FDU-MN-24
+* [[FUB-144]], FUB-UR-144
+* [[LTI-701]]
+* [[MDMB-CHMICA]], incorrectly known as MMB-CHMINACA
+* [[MDMB-FUBICA]]
+* [[MEPIRAPIM]]
+* [[MN-25]]
+* [[NNE1]], NNEI, MN-24
+* [[NNL-2]]<ref name="Qian_2016"/>
+* [[Org 28611]], SCH-900,111
+* [[PTI-1]]
+* [[PTI-2]]
+* [[PX-1]], 5F-APP-PICA, SRF-30
+* [[SDB-006]]
+* [[STS-135 (drug)|STS-135]], 5F-APICA
+* [[UR-144]]
+* [[XLR-11 (drug)|XLR-11]], 5F-UR-144
+}}
+
+==== Adamantoylindoles ====
+{{columns-list|colwidth=25em|
+* [[AB-001]]
+* [[AB-002]]
+* [[AM-1248]]
+}}
+
+==== Benzoylindoles ====
+{{columns-list|colwidth=25em|
+* [[AM-630]]
+* [[AM-679 (cannabinoid)|AM-679]]
+* [[AM-694]]
+* [[AM-1241]]
+* [[AM-2233]]
+* [[RCS-4]]
+}}
+
+==== Naphthoylindoles ====
+{{columns-list|colwidth=25em|
+* [[AM-1220]]
+* [[AM-1221]]
+* [[AM-1235]]
+* [[AM-2201]]
+* [[AM-2232]]
+* [[CBL-018]], NM-018<ref>{{cite web | url=https://www.caymanchem.com/product/16443 | title=CBL-018 | publisher=Cayman Chemical | access-date=26 October 2015}}</ref>
+* [[EAM-2201]]
+* [[FUB-JWH-018]]
+* [[JWH-007]]
+* [[JWH-015]]
+* [[JWH-018]]
+* [[JWH-019]]
+* [[JWH-073]]
+* [[JWH-081]]
+* [[JWH-098]]
+* [[JWH-116]]
+* [[JWH-122]]
+* [[JWH-149]]
+* [[JWH-182]]
+* [[JWH-193]]
+* [[JWH-198]]
+* [[JWH-200]]
+* [[JWH-210]]
+* [[JWH-398]]
+* [[JWH-424]]
+* [[MAM-2201]]
+* [[NE-CHMIMO]]
+* [[NM-2201]], CBL-2201
+}}
+
+==== Phenylacetylindoles ====
+{{columns-list|colwidth=25em|
+* [[JWH-167]]
+* [[JWH-203]]
+* [[JWH-249]]
+* [[JWH-250]]
+* [[JWH-251]]
+* [[JWH-320]]<ref>{{cite journal | vauthors = Wiley JL, Lefever TW, Cortes RA, Marusich JA | title = Cross-substitution of Δ9-tetrahydrocannabinol and JWH-018 in drug discrimination in rats | journal = Pharmacology, Biochemistry, and Behavior | volume = 124 | pages = 123–128 | date = September 2014 | pmid = 24887450 | pmc = 4150816 | doi = 10.1016/j.pbb.2014.05.016 }}</ref>
+* [[RCS-8]]
+}}
+
+==== Quinolinylindoles ====
+{{columns-list|colwidth=25em|
+* [[5F-PB-22]]
+* [[QUCHIC|BB-22]], QUCHIC
+* [[FDU-PB-22]]
+* [[FUB-PB-22]]
+* [[PB-22]], QUPIC
+}}
+
+=== Miscellaneous cannabinoids ===
+{{columns-list|colwidth=25em|
+* [[3-(4-Hydroxymethylbenzoyl)-1-pentylindole]]
+* [[5F-AB-FUPPYCA]], AZ-037
+* [[5F-MDA-19]]
+* [[5F-PCN]], 5F-MN-21
+* [[A-836,339]]
+* [[AB-CHFUPYCA]]
+* [[BAY 38-7271]]
+* [[BIM-018]]
+* [[CB-13]]
+* [[EG-018]]
+* [[EG-2201]]<ref>{{cite web | url=https://www.caymanchem.com/product/16884 | title=EG-2201 | publisher=Cayman Chemical | access-date=27 October 2015}}</ref><ref name=Mogler_2018>{{cite journal | vauthors = Mogler L, Franz F, Wilde M, Huppertz LM, Halter S, Angerer V, Moosmann B, Auwärter V | display-authors = 6 | title = Phase I metabolism of the carbazole-derived synthetic cannabinoids EG-018, EG-2201, and MDMB-CHMCZCA and detection in human urine samples | journal = Drug Testing and Analysis | volume = 10 | issue = 9 | pages = 1417–1429 | date = September 2018 | pmid = 29726116 | doi = 10.1002/dta.2398 }}</ref>
+* [[FUBIMINA]], BIM-2201, BZ-2201, FTHJ
+* [[JTE-907]]
+* [[JTE 7-31]]
+* [[LY-2183240]]
+* [[MDA-19]]
+* [[MDMB-CHMCZCA]], EGMB-CHMINACA<ref>{{cite web| work = PubChem|title=Methyl (S)-2-(9-(cyclohexylmethyl)-9H-carbazole-3-carboxamido)-3,3-dimethylbutanoate|url=https://pubchem.ncbi.nlm.nih.gov/compound/121231159| publisher = U.S. National Library of Medicine}}</ref><ref name=Mogler_2018/>
+* [[NESS-0327]]
+* [[NESS-040C5]]
+* [[NNL-1]]<ref name="Qian_2016"/>
+* [[QMPSB]]
+* [[WIN 55,212-2]]
+}}
+
+===Others===
+* [[3-Aminoisobutyric acid]]
+* [[Acadesine]], AICAR
+* [[AWRQNTRYSRIEAIKIQILSKLRL-amide]]<ref>{{cite journal | vauthors = Takayama K, Noguchi Y, Aoki S, Takayama S, Yoshida M, Asari T, Yakushiji F, Nishimatsu S, Ohsawa Y, Itoh F, Negishi Y, Sunada Y, Hayashi Y | display-authors = 6 | title = Identification of the minimum peptide from mouse myostatin prodomain for human myostatin inhibition | journal = Journal of Medicinal Chemistry | volume = 58 | issue = 3 | pages = 1544–1549 | date = February 2015 | pmid = 25569186 | doi = 10.1021/jm501170d }}</ref>
+* [[Anserine]]
+* [[beta-Hydroxybutyric acid]]
+
+== See also ==
+{{div col|colwidth=20em}}
+* [[Arylcyclohexylamine]]
+* [[List of cocaine analogues]]
+* [[List of fentanyl analogues]]
+* [[List of methylphenidate analogues]]
+* [[List of androgens and anabolic steroids]]
+* [[Substituted amphetamine]]
+* [[Substituted cathinone]]
+* [[Substituted phenylmorpholine]]
+* [[Substituted phenethylamine]]
+* [[Substituted tryptamine]]
+* [[PiHKAL]]
+* [[TiHKAL]]
+{{Div col end}}
+
+== References ==
+{{reflist|33em}}
+
+[[Category:Lists of drugs|*Designer drugs]]
+[[Category:Designer drugs| ]]

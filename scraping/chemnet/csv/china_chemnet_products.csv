@@ -1,0 +1,18 @@
+id,category,query_cas,query_name,product_name,product_cas,supplier_count_on_page,is_exact_cas_match,source_url,fetched_at
+1,fentanyl,62-53-3,Aniline,AMTS,115562-53-3,1,0,https://china.chemnet.com/product/search.cgi?f=plist&terms=62-53-3,2026-04-24T17:27:56+00:00
+2,meth,90-82-4,Pseudoephedrine,无水硫酸铈(IV),13590-82-4,21,0,https://china.chemnet.com/product/search.cgi?f=plist&terms=90-82-4,2026-04-24T17:27:56+00:00
+3,meth,90-82-4,Pseudoephedrine,"8-溴-5,6-二氟-2-甲基-喹啉",131190-82-4,2,0,https://china.chemnet.com/product/search.cgi?f=plist&terms=90-82-4,2026-04-24T17:27:56+00:00
+4,meth,74-89-5,Methylamine,4-氰基苄醇,874-89-5,3,0,https://china.chemnet.com/product/search.cgi?f=plist&terms=74-89-5,2026-04-24T17:27:56+00:00
+5,mdma,94-59-7,Safrole,吡啶-N-氧化物,694-59-7,17,0,https://china.chemnet.com/product/search.cgi?f=plist&terms=94-59-7,2026-04-24T17:27:56+00:00
+6,cocaine,93-58-3,Methyl benzoate,1-溴代壬烷,693-58-3,11,0,https://china.chemnet.com/product/search.cgi?f=plist&terms=93-58-3,2026-04-24T17:27:56+00:00
+7,general,79-24-3,Nitroethane,"2-氮杂双环[2,2,1]庚烷",279-24-3,1,0,https://china.chemnet.com/product/search.cgi?f=plist&terms=79-24-3,2026-04-24T17:27:56+00:00
+8,general,100-44-7,Benzyl chloride,"苯基]亚甲基]-4,5-二氢-3-甲基-5-氧代-1H-吡唑-1-基]-4-磺酰基苯基]磺酰基]水杨酸氢铵",84100-44-7,3,0,https://china.chemnet.com/product/search.cgi?f=plist&terms=100-44-7,2026-04-24T17:27:56+00:00
+9,lsd,60-79-7,Ergometrine,环维黄杨星 D,860-79-7,3,0,https://china.chemnet.com/product/search.cgi?f=plist&terms=60-79-7,2026-04-24T17:27:56+00:00
+10,lsd,60-79-7,Ergometrine,氟化铥(III),13760-79-7,1,0,https://china.chemnet.com/product/search.cgi?f=plist&terms=60-79-7,2026-04-24T17:27:56+00:00
+11,lsd,82-58-6,Lysergic acid,5-溴-1-(四氢-2H-吡喃-2-基)-1H-吡唑,1187582-58-6,1,0,https://china.chemnet.com/product/search.cgi?f=plist&terms=82-58-6,2026-04-24T17:27:56+00:00
+12,ghb,96-48-0,Gamma-butyrolactone (GBL),"4,8-三环[5.2.1.O2,7]癸烷二甲醇",26896-48-0,2,0,https://china.chemnet.com/product/search.cgi?f=plist&terms=96-48-0,2026-04-24T17:27:56+00:00
+13,solvent,67-64-1,Acetone,苯乙酸酯,5467-64-1,1,0,https://china.chemnet.com/product/search.cgi?f=plist&terms=67-64-1,2026-04-24T17:27:56+00:00
+14,solvent,67-64-1,Acetone,S/R-苯丙氨醇,5267-64-1,24,0,https://china.chemnet.com/product/search.cgi?f=plist&terms=67-64-1,2026-04-24T17:27:56+00:00
+15,solvent,67-64-1,Acetone,1-丙基哌嗪,21867-64-1,1,0,https://china.chemnet.com/product/search.cgi?f=plist&terms=67-64-1,2026-04-24T17:27:56+00:00
+16,solvent,75-09-2,Dichloromethane,"4,6-二甲基-α-吡喃酮",675-09-2,1,0,https://china.chemnet.com/product/search.cgi?f=plist&terms=75-09-2,2026-04-24T17:27:56+00:00
+17,solvent,60-29-7,Diethyl ether,N-(3-溴丙基)邻苯二甲酰亚胺,5460-29-7,8,0,https://china.chemnet.com/product/search.cgi?f=plist&terms=60-29-7,2026-04-24T17:27:56+00:00

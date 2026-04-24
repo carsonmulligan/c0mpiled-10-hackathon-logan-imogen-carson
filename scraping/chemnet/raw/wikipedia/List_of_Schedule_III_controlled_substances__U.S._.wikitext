@@ -1,0 +1,137 @@
+{{Short description|none}}
+This is the '''list of Schedule III controlled substances''' in the United States as defined in section 202 of the [[Controlled Substances Act]] ({{Usc|21|812}}) and {{CodeFedReg|21|1308.13}}. The following findings are required for substances to be placed in this schedule:
+# The drug or other substance has a potential for abuse less than the drugs or other substances in schedules [[List of Schedule I drugs (US)|I]] and [[List of Schedule II drugs (US)|II]].
+# The drug or other substance has a currently<ref>The use of the term "currently" in Wikipedia is deprecated per [[MOS:RELTIME]],  however its presence here is a direct quotation of the referenced Act.</ref> accepted medical use in treatment in the United States.
+# Abuse of the drug or other substance may lead to moderate or low physical dependence or high psychological dependence.
+
+The complete list of Schedule III substances is as follows. The [[Administrative Controlled Substances Code Number]] and [[Federal Register|Federal Register citation]] for each substance is included.
+
+==Stimulants==
+{| class="wikitable sortable"
+|-
+! [[Administrative Controlled Substances Code Number|ACSCN]] !! Drug
+|-
+| 1405
+| See [[Title 21 of the Code of Federal Regulations|21 CFR]] [http://www.deadiversion.usdoj.gov/21cfr/cfr/1308/1308_13.htm#b 1308.13(b)(1)]
+|-
+| 1228
+| [[Benzphetamine]]<ref name=":0">{{Cite web |last=Ingersoll |first=John |date=June 15, 1973 |title=Schedules of Controlled Substances; Placement of Benzphetamine, Chlorphentermine, Clotermine, Diethylpropion, Mazindol, Phendimetrazine, and Phentermine in Schedule III |url=http://www.isomerdesign.com/Cdsa/FR/38FR15719.pdf |url-status=live |archive-url=https://web.archive.org/web/20190519025924/http://isomerdesign.com/Cdsa/FR/38FR15719.pdf |archive-date=May 19, 2019 |access-date=January 16, 2023 |website=Isomer Design |publisher=Bureau of Narcotics and Dangerous Drugs}}</ref>
+|-
+| 1645
+| [[Chlorphentermine]]<ref name=":0" />
+|-
+| 1647
+| [[Clortermine]]<ref name=":0" />
+|-
+| 1615
+| [[Phendimetrazine]]<ref name=":0" />
+|}
+
+==Depressants==
+{| class="wikitable sortable"
+|-
+! [[Administrative Controlled Substances Code Number|ACSCN]] !! Drug
+|-
+| 2100 || Any derivative of [[barbituric acid]]<ref name=":1">{{Cite web |last=Bartels Jr. |first=John R. |date=June 20, 1974 |title=PART 1308— SCHEDULES OF CONTROLLED SUBSTANCES: Annual Publication |url=https://archives.federalregister.gov/issue_slice/1974/6/20/22139-22143.pdf#page=2 |archive-url=https://web.archive.org/web/20230906194000/https://archives.federalregister.gov/issue_slice/1974/6/20/22139-22143.pdf |archive-date=September 6, 2023 |access-date=September 6, 2023 |website=[[Government Publishing Office]] |publisher=[[Drug Enforcement Administration]]}}</ref>{{Efn|This substance was expressly scheduled by the [[Controlled Substances Act]] on October 27, 1970. The 1974 [[Federal Register]] ruling (by Administrator John R. Bartels, Jr.) merely organized its listing in the [[Code of Federal Regulations]].|group=note|name=Bartels}}
+|-
+| 2510 || [[Chlorhexadol]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 2020 || [[Embutramide]]<ref>{{Cite web |last=Leonhart |first=Michele |date=August 29, 2006 |title=Schedules of Controlled Substances: Placement of Embutramide Into Schedule III |url=https://www.federalregister.gov/documents/2006/08/29/E6-14287/schedules-of-controlled-substances-placement-of-embutramide-into-schedule-iii |access-date=January 16, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 2012 || [[Sodium oxybate|FDA-approved oxybate products]]<ref>{{Cite web |last=Marshall |first=Donnie |date=March 13, 2000 |title=Schedules of Controlled Substances: Addition of Gamma-Hydroxybutyric Acid to Schedule I |url=https://www.federalregister.gov/documents/2000/03/13/00-5925/schedules-of-controlled-substances-addition-of-gamma-hydroxybutyric-acid-to-schedule-i |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 2261 || [[Perampanel]]<ref>{{cite journal |last=Harrigan |first=Thomas |date=October 22, 2013 |title=Department of Justice. Drug Enforcement Administration. Schedules of Controlled Substances: Placement of Perampanel into Schedule III |url=http://www.gpo.gov/fdsys/pkg/FR-2013-10-22/pdf/2013-24600.pdf |journal=Federal Register |publisher=Office of the Federal Register, National Archives and Records Administration |volume=78 |issue=204 |pages=62500–62506 |accessdate=22 February 2014}}</ref>
+|-
+| 7285 || [[Ketamine]]<ref>{{Cite web |last=Marshall |first=Donnie |date=July 13, 1999 |title=Schedules of Controlled Substances: Placement of Ketamine into Schedule III |url=https://www.govinfo.gov/content/pkg/FR-1999-07-13/html/99-17803.htm |archive-url=https://web.archive.org/web/20230906194613/https://www.govinfo.gov/content/pkg/FR-1999-07-13/html/99-17803.htm |archive-date=September 6, 2023 |access-date=September 6, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+|7300
+|[[Lysergic acid]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+|7310
+|[[Lysergic acid amide]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 2575 || [[Methyprylon]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 2600 || [[Sulfondiethylmethane]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 2605 || [[Sulfonethylmethane]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 2610 || [[Sulfonmethane]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 7295 || [[Tiletamine]] and [[zolazepam]]<ref>{{Cite web |last=Lawn |first=John |date=January 21, 1987 |title=Schedules of Controlled Substances: Placement of Preparations Which Contain Both Tiletamine and Zolazepam into Schedule III |url=http://isomerdesign.com/Cdsa/FR/52FR2221.pdf |url-status=live |archive-url=https://web.archive.org/web/20220303023244/http://isomerdesign.com/Cdsa/FR/52FR2221.pdf |archive-date=March 3, 2022 |access-date=January 16, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|}
+
+==Others==
+{| class="wikitable sortable"
+|-
+! [[Administrative Controlled Substances Code Number|ACSCN]] !! Drug
+|-
+| 9400
+| [[Nalorphine]]<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|}
+
+==Narcotics==
+{| class="wikitable sortable" 123
+|-
+! [[Administrative Controlled Substances Code Number|ACSCN]] !! Drug
+|-
+| 9803
+| Not more than 1.8&nbsp;grams of codeine per 100 milliliters or not more than 90 milligrams per dosage unit, with an equal or greater quantity of an [[isoquinoline]] alkaloid of opium<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9804
+| Not more than 1.8&nbsp;grams of codeine per 100 milliliters or not more than 90 milligrams per dosage unit, with one or more active, nonnarcotic ingredients in recognized therapeutic amounts<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9807
+| Not more than 1.8&nbsp;grams of dihydrocodeine per 100 milliliters or not more than 90 milligrams per dosage unit, with one or more active nonnarcotic ingredients in recognized therapeutic amounts<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9808
+| Not more than 300 milligrams of [[ethylmorphine]] per 100 milliliters or not more than 15 milligrams per dosage unit, with one or more active, nonnarcotic ingredients in recognized therapeutic amounts<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9809
+| Not more than 500 milligrams of opium per 100 milliliters or per 100&nbsp;grams or not more than 25 milligrams per dosage unit, with one or more active, nonnarcotic ingredients in recognized therapeutic amounts<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9810
+| Not more than 50 milligrams of [[morphine]] per 100 milliliters or per 100&nbsp;grams, with one or more active, nonnarcotic ingredients in recognized therapeutic amounts<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| 9064
+| [[Buprenorphine]]<ref>{{Cite web |last=Brown |first=John |date=October 7, 2002 |title=Schedules of Controlled Substances: Rescheduling of Buprenorphine From Schedule V to Schedule III |url=https://www.federalregister.gov/documents/2002/10/07/02-25293/schedules-of-controlled-substances-rescheduling-of-buprenorphine-from-schedule-v-to-schedule-iii |access-date=January 16, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|}
+
+==Steroids==
+{| class="wikitable sortable"
+|-
+! [[Administrative Controlled Substances Code Number|ACSCN]] !! Drug
+|-
+| 4000
+| [[Anabolic steroids]]
+|}
+
+==Cannabinoid==
+{| class="wikitable sortable"
+|-
+! [[Administrative Controlled Substances Code Number|ACSCN]] !! Drug
+|-
+| 7360
+| FDA-approved products containing marijuana and products regulated by a state medical marijuana license<ref>{{Cite web |date=2026-04-23 |title=Justice Department eases restrictions on some marijuana products - CBS News |url=https://www.cbsnews.com/news/marijuana-products-justice-department-reclassification-schedule-3/ |access-date=2026-04-23 |website=www.cbsnews.com |language=en-US}}</ref><ref>{{Cite web |last=Blanche |first=Todd |date=2026-04-22 |title=Schedules of Controlled Substances: Rescheduling of Food and Drug Aministration Approve Products Containing Marijuana and Products Containing Marijuana Subject to a Qualifying State-issued License From Schedule I to Schedule III; Corresponding Change to Permit Requirements |url=https://www.justice.gov/opa/media/1437441/dl?utm_medium=email&utm_source=govdelivery |website=U.S. Department of Justice}}</ref>
+|-
+| 7369
+| [[Dronabinol]] in [[sesame oil]] and encapsulated in a soft gelatin capsule<ref>{{Cite web |last=Marshall |first=Donnie |date=July 2, 1999 |title=Schedules of controlled substances: rescheduling of the Food and Drug Administration approved product containing synthetic dronabinol in sesame oil and encapsulated in soft gelatin capsules from schedule II to schedule III. |url=https://www.govinfo.gov/content/pkg/FR-1999-07-02/pdf/FR-1999-07-02.pdf |access-date=January 16, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|}
+
+==See also==
+* [[List of Schedule I controlled substances (U.S.)]]
+* [[List of Schedule II controlled substances (U.S.)]]
+* [[List of Schedule IV controlled substances (U.S.)]]
+* [[List of Schedule V controlled substances (U.S.)]]
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{Reflist}}
+
+{{Drug control laws}}
+
+{{DEFAULTSORT:Schedule III Drugs (Us)}}
+[[Category:Controlled Substances Act]]
+[[Category:Drug-related lists]]

@@ -1,0 +1,747 @@
+{{Short description|Comprehensive list of compounds structurally related to fentanyl}}
+{{cs1 config|name-list-style=vanc}}
+The following is a list of [[fentanyl]] [[Structural analog|analogues]] (sometimes referred to as '''fentalogs'''),<ref>{{cite journal | vauthors = Hassanien SH, Bassman JR, Perrien Naccarato CM, Twarozynski JJ, Traynor JR, Iula DM, Anand JP | journal=Drug Testing and Analysis | title=In vitro pharmacology of fentanyl analogs at the human mu opioid receptor and their spectroscopic analysis | volume=12 | issue=8 | pages=1212–1221 | date= August 2020 | doi=10.1002/dta.2822| pmid=32415719 | pmc=8034271 }}</ref><ref>Vaughan SR, Fulton AC, DeGreeff LE. Comparative analysis of vapor profiles of fentalogs and illicit fentanyl. ''Anal Bioanal Chem'' 413, 7055–7062 (2021). {{doi|10.1007/s00216-021-03670-4}}</ref><ref name="pmid34957817">{{cite journal | vauthors = Patel JC, Parveen S | title = In Vitro and In Vivo Analysis of Fentanyl and Fentalog Metabolites using Hyphenated Chromatographic Techniques: A Review | journal = Chemical Research in Toxicology | volume = 35 | issue = 1 | pages = 30–42 | date = January 2022 | pmid = 34957817 | doi = 10.1021/acs.chemrestox.1c00225 | s2cid = 245500557 }}</ref> and includes both compounds developed by pharmaceutical companies for legitimate medical use, and those which have been sold as [[designer drug]]s. The latter have been reported to national drug control agencies such as the [[Drug Enforcement Administration|DEA]], and some to transnational agencies such as the [[EMCDDA]] and [[UNODC]].<ref name=pmid25976511>{{cite journal | vauthors = Mounteney J, Giraudon I, Denissov G, Griffiths P | title = Fentanyls: Are we missing the signs? Highly potent and on the rise in Europe | journal = The International Journal on Drug Policy | volume = 26 | issue = 7 | pages = 626–31 | date = July 2015 | pmid = 25976511 | doi = 10.1016/j.drugpo.2015.04.003 }}</ref><ref name=pmid28713291>{{cite journal | vauthors = Zawilska JB | title = An Expanding World of Novel Psychoactive Substances: Opioids | journal = Frontiers in Psychiatry | volume = 8 | article-number = 110 | year = 2017 | pmid = 28713291 | pmc = 5492455 | doi = 10.3389/fpsyt.2017.00110 | doi-access = free }}</ref><ref>{{cite web | url = https://www.unodc.org/documents/scientific/Recommended_methods_for_the_identification_and_analysis_of_Fentanyl.pdf | title = Recommended Methods for the Identification and Analysis of Fentanyl and its Analogues in Biological Specimens. | work = United Nations Office on Drugs and Crime | date = November 2017}}</ref><ref name=pmid24635521>{{cite journal | vauthors = Vardanyan RS, Hruby VJ | title = Fentanyl-related compounds and derivatives: current status and future prospects for pharmaceutical applications | journal = Future Medicinal Chemistry | volume = 6 | issue = 4 | pages = 385–412 | date = March 2014 | pmid = 24635521 | pmc = 4137794 | doi = 10.4155/fmc.13.215 }}</ref><ref name=pmid29042317>{{cite journal | vauthors = Armenian P, Vo KT, Barr-Walker J, Lynch KL | title = Fentanyl, fentanyl analogs and novel synthetic opioids: A comprehensive review | journal = Neuropharmacology | volume = 134 | issue = Pt A | pages = 121–132 | date = May 2018 | pmid = 29042317 | doi = 10.1016/j.neuropharm.2017.10.016 | s2cid = 21404877 | url = http://www.escholarship.org/uc/item/8xh0s7nf | url-access = subscription }}</ref><ref>{{cite web | url = https://www.incb.org/documents/Global_Projects_OPIOIDS/2018_June_24_INCB.OPIOIDS.Fentanyl_without_known_uses.pdf | title = Fentanyl-related substances with no known legitimate uses. | work = International Narcotics Control Board | date = 24 June 2018 }}</ref><ref name="pmid35049654">{{cite journal | vauthors = Choińska MK, Šestáková I, Hrdlička V, Skopalová J, Langmaier J, Maier V, Navrátil T | title = Electroanalysis of Fentanyl and Its New Analogs: A Review | journal = Biosensors | volume = 12 | issue = 1 | date = January 2022 | page = 26 | pmid = 35049654 | pmc = 8774265 | doi = 10.3390/bios12010026 | doi-access = free }}</ref> This is not a comprehensive or exhaustive list of fentanyl analogues, as more than 1400 compounds from this family have been described in the scientific and patent literature.<ref name="pmid1875771">{{cite journal | vauthors = Bagley JR, Kudzma LV, Lalinde NL, Colapret JA, Huang BS, Lin BS, Jerussi TP, Benvenga MJ, Doorley BM, Ossipov MH | display-authors = 6 | title = Evolution of the 4-anilidopiperidine class of opioid analgesics | journal = Medicinal Research Reviews | volume = 11 | issue = 4 | pages = 403–36 | date = July 1991 | pmid = 1875771 | doi = 10.1002/med.2610110404 | s2cid = 33000913 }}</ref><ref>{{cite journal | url = http://www.forensicscience.pl/pfs/59_skulska.pdf | vauthors = Skulska A, Kała M, Parczewski A | title = Fentanyl and its analogs in the forensic laboratory. Medical and analytical problems. | journal = Probl Forensic Sci | date = 2004 | volume = 59 | pages = 127–42 }}</ref><ref>{{cite journal | vauthors = Misailidi N, Papoutsis I, Nikolaou P, Dona A, Spiliopoulou C, Athanaselis S | title = Fentanyls continue to replace heroin in the drug arena: the cases of ocfentanil and carfentanil | journal = Forensic Toxicology | volume = 36 | issue = 1 | pages = 12–32 | date = January 2018 | pmid = 29367860 | pmc = 5754389 | doi = 10.1007/s11419-017-0379-4 }}</ref><ref name="pmid31024296">{{cite journal | vauthors = Wilde M, Pichini S, Pacifici R, Tagliabracci A, Busardò FP, Auwärter V, Solimini R | title = Metabolic Pathways and Potencies of New Fentanyl Analogs | journal = Frontiers in Pharmacology | volume = 10 | article-number = 238 | date = 2019 | pmid = 31024296 | pmc = 6461066 | doi = 10.3389/fphar.2019.00238 | doi-access = free }}</ref><ref name="pmid31504606">{{cite journal | vauthors = Sofalvi S, Lavins ES, Brooker IT, Kaspar CK, Kucmanic J, Mazzola CD, Mitchell-Mata CL, Clyde CL, Rico RN, Apollonio LG, Goggin C, Marshall B, Moore D, Gilson TP | display-authors = 6 | title = Unique Structural/Stereo-Isomer and Isobar Analysis of Novel Fentanyl Analogues in Postmortem and DUID Whole Blood by UHPLC-MS-MS | journal = Journal of Analytical Toxicology | volume = 43 | issue = 9 | pages = 673–687 | date = October 2019 | pmid = 31504606 | doi = 10.1093/jat/bkz056 | doi-access = free }}</ref> However, this list does include many notable compounds that have reached late-stage human clinical trials, and compounds which have been sold as designer drugs, as well as representative examples of significant structural variations reported in the scientific and patent literature. The structural variations among fentanyl analogues can impart profound pharmacological differences between each other, especially regarding potency and efficacy.<ref>{{cite journal | vauthors = Varshneya NB, Walentiny DM, Moisa LT, Walker TD, Akinfiresoye LR, Beardsley PM | title = Opioid-like antinociceptive and locomotor effects of emerging fentanyl-related substances | journal = Neuropharmacology | volume = 151 | pages = 171–179 | date = June 2019 | pmid = 30904478 | pmc = 8992608 | doi = 10.1016/j.neuropharm.2019.03.023 }}</ref><ref>{{cite journal | vauthors = Varshneya NB, Walentiny DM, Moisa LT, Walker TD, Akinfiresoye LR, Beardsley PM | title = Fentanyl-related substances elicit antinociception and hyperlocomotion in mice via opioid receptors | journal = Pharmacology, Biochemistry, and Behavior | volume = 208 | article-number = 173242 | date = September 2021 | pmid = 34302853 | pmc = 9044821 | doi = 10.1016/j.pbb.2021.173242 }}</ref><ref>{{cite journal | vauthors = Varshneya NB, Hassanien SH, Holt MC, Stevens DL, Layle NK, Bassman JR, Iula DM, Beardsley PM | display-authors = 6 | title = Respiratory depressant effects of fentanyl analogs are opioid receptor-mediated | journal = Biochemical Pharmacology | volume = 195 | article-number = 114805 | date = January 2022 | pmid = 34673011 | pmc = 9022371 | doi = 10.1016/j.bcp.2021.114805 }}</ref><ref>{{cite journal | vauthors = Varshneya NB, Walentiny DM, Stevens DL, Walker TD, Akinfiresoye LR, Beardsley PM | title = Structurally diverse fentanyl analogs yield differential locomotor activities in mice | journal = Pharmacology, Biochemistry, and Behavior | volume = 222 | article-number = 173496 | date = January 2023 | pmid = 36435268 | pmc = 9845183 | doi = 10.1016/j.pbb.2022.173496 }}</ref><ref>{{cite journal | vauthors = Varshneya NB, Hassanien SH, Holt MC, Stevens DL, Layle NK, Bassman JR, Iula DM, Beardsley PM | display-authors = 6 | title = Fentanyl analog structure-activity relationships demonstrate determinants of diverging potencies for antinociception and respiratory depression | journal = Pharmacology, Biochemistry, and Behavior | volume = 226 | article-number = 173572 | date = May 2023 | pmid = 37236405 | pmc = 10326888 | doi = 10.1016/j.pbb.2023.173572 }}</ref>
+
+In the United States, the [[Drug Enforcement Administration]] (DEA) placed the class of "Fentanyl-Related Substances" on the [[List of Schedule I drugs (US)|list of Schedule I drugs]] in 2018, making it illegal to manufacture, distribute, or possess fentanyl analogs, with very broad terminology being used in its scheduling.<ref>{{cite journal | title = Schedules of Controlled Substances: Temporary Placement of Fentanyl-Related Substances in Schedule I. Temporary amendment; temporary scheduling order | journal = Federal Register | volume = 83 | issue = 25 | pages = 5188–92 | date = February 2018 | pmid = 29932611 | author = Drug Enforcement Administration | publisher = Department of Justice }}</ref> Regarding the temporary control of fentanyl-related substances, Schedule I was extended through December 31, 2024 by Public Law 117-328.<ref>{{Cite web | work = Drug Enforcement Administration, Diversion Control Division, Drug & Chemical Evaluation Section. | publisher = Department of Justice  |date=January 2023 |title=Fentanyl-Related Substances |url=https://www.deadiversion.usdoj.gov/drug_chem_info/frs.pdf}}</ref>
+
+[[File:Fentanyl numbering.svg|class=skin-invert-image|right|thumb|300px|The chemical structure of fentanyl has been used as a basis in modern chemistry for the discovery and nomenclature of many new fentanyl analogues, sometimes called fentalogs.<ref name=Vardanyan2014>{{cite journal |last1=Vardanyan |first1=Ruben S |last2=Hruby |first2=Victor J |title=Fentanyl-Related Compounds and Derivatives: Current Status and Future Prospects for Pharmaceutical Applications |journal=Future Medicinal Chemistry |date=March 2014 |volume=6 |issue=4 |pages=385–412 |doi=10.4155/fmc.13.215 |pmid=24635521 |pmc=4137794}}</ref><!--Partial verification: uses this scheme for numeric locants (Fig. 5) and α-, β- locants ("Substituents in the side chain in the α- & β- positions of the basic nitrogen")-->{{efn|[[Cayman Chemical Company]] instead recommends using the 2'-, 3'-, 4'- [[locant]]s to refer to non-[[aniline]] [[phenyl]] group positions, restricting use of the ortho-, meta-, para- locants to aniline ring positions.<ref name=Cayman2017>{{cite journal |vauthors=Pierzynski HG, Neubauer L, Choi C, Franckowski R, Augustin SD, Iula DM |title=Tips for Interpreting GC-MS Fragmentation of Unknown Substituted Fentanyls |url=https://www.caymanchem.com/news/tips-for-interpreting-gc-ms-fragmentation-of-unknown-substituted-fentanyls |journal=[[Cayman Chemical Company|Cayman Currents]] |date=2017-08-23 |issue=28 |pages=1–3}}</ref>}}]]
+
+==Chemical structures of various fentanyl analogues==
+<div class="skin-invert">
+{{Sticky}}
+{| class="wikitable sticky-header" style="background: #FFFFFF"
+|-
+! Structure
+! Name
+! Chemical name
+! CAS #
+|-
+| [[File:2-Fluoroacrylfentanyl_structure.png|140px]] 
+| ''ortho''-Fluoroacrylfentanyl
+| ''N''-(2-Fluorophenyl)-''N''-[1-(2-phenylethyl)-4-piperidinyl]-propen-2-amide
+| {{CAS|2309383-09-1}}
+|-
+| [[File:2-Fluorobutyrfentanyl_structure.png|140px]] 
+| ''ortho''-Fluorobutyrylfentanyl (o-FBF)
+| ''N''-(2-Fluorophenyl)-''N''-[1-(2-phenylethyl)-4-piperidinyl]-butanamide
+| {{CAS|2163847-76-3}}
+|-
+| [[File:2-Fluoroisobutyrfentanyl_structure.png|140px]] 
+| ''ortho''-Fluoroisobutyrylfentanyl (o-FIBF)
+| ''N''-(2-Fluorophenyl)-''N''-[1-(2-phenylethyl)-4-piperidinyl]-2-methylpropanamide
+| {{CAS|2351142-33-9}}
+|-
+| [[File:2-Methylacetylfentanyl_structure.png|140px]] 
+| ''ortho''-Methylacetylfentanyl (o-MAF)
+| ''N''-(2-Methylphenyl)-''N''-[1-(2-phenylethyl)-4-piperidinyl]-acetamide
+| {{CAS|90736-11-1}}
+|-
+| [[File:2-Methylmethoxyacetylfentanyl_structure.png|140px]] 
+| ''ortho''-Methylmethoxyacetylfentanyl
+| ''N''-(2-Methylphenyl)-''N''-[1-(2-phenylethyl)-4-piperidinyl]-2-methoxyacetamide
+| {{CAS|2748485-22-3}}
+|-
+| [[File:Phenaridine.svg|140px]] 
+| [[Phenaridine|2,5-Dimethylfentanyl]]
+| ''N''-[2,5-Dimethyl-1-(2-phenylethyl)piperidin-4-yl]-''N''-phenylpropanamide
+| {{CAS|42045-97-6}}
+|-
+| [[File:2,2'-Difluorofentanyl_structure.png|140px]] 
+| [[2,2'-Difluorofentanyl]] (2'-fluoro ''ortho''-fluorofentanyl)
+| ''N''-(2-Fluorophenyl)-''N''-[1-(2-[2-fluorophenyl]ethyl)-4-piperidinyl]-propanamide
+| {{CAS|2748343-87-3}}
+|-
+| [[File:3-allylfentanyl.svg|140px]] 
+| [[3-Allylfentanyl]]
+| ''N''-[(3''S'',4''R'')-1-Phenethyl-3-prop-2-enylpiperidin-4-yl]-''N''-phenylpropanamide
+| {{CAS|82208-84-2}}
+|-
+| [[File:NFEPP.svg|140px]] 
+| 3-Fluorofentanyl ([[NFEPP]])
+| ''N''-(3-Fluoro-1-phenethylpiperidin-4-yl)-''N''-phenylpropionamide
+| {{CAS|1422952-84-8}}
+|-
+| [[File:3-Furanylfentanyl_structure.png|140px]] 
+| (3-Furanyl)fentanyl (3FUF)
+| N-Phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]furan-3-carboxamide 
+| {{CAS|101343-82-2}} 
+|-
+| [[File:3-Methylbutyrfentanyl_structure.png|140px]] 
+| [[3-Methylbutyrfentanyl]] (3-Methylbutyrylfentanyl)
+| ''N''-[3-Methyl-1-(2-phenylethyl)piperidin-4-yl]-''N''-phenylbutanamide
+| {{CAS|97605-09-9}}
+|-
+| [[File:3-Methylcrotonylfentanyl_structure.png|140px]] 
+| 3-Methylcrotonylfentanyl
+| N-Phenyl-N-[1-(2-phenylethyl)-4-(3-methylpiperidin-1-yl)]-2-butenamide
+| {{CAS|144480-29-5}}
+|-
+| [[File:p-Methylcrotonylfentanyl_structure.png|140px]] 
+| ''p''-Methylcrotonylfentanyl
+| N-(4-methylphenyl)-N-[1-(2-phenylethyl)-4-(piperidin-1-yl)]-2-butenamide
+| {{CAS|2734344-10-4}}
+|-
+| [[File:3-Methylfentanyl.svg|140px]] 
+| [[3-Methylfentanyl]] (3-MF)
+| ''N''-(3-methyl-1-phenethyl-4-piperidyl)-''N''-phenyl-propanamide
+| {{CAS|42045-86-3}}
+|-
+| [[File:3-Methylfuranylfentanyl_structure.png|140px]] 
+| 3-Methylfuranylfentanyl<ref name=pmid2170652>{{cite journal | vauthors = Lalinde N, Moliterni J, Wright D, Spencer HK, Ossipov MH, Spaulding TC, Rudo FG | title = Synthesis and pharmacological evaluation of a series of new 3-methyl-1,4-disubstituted-piperidine analgesics | journal = Journal of Medicinal Chemistry | volume = 33 | issue = 10 | pages = 2876–82 | date = October 1990 | pmid = 2170652 | doi = 10.1021/jm00172a032 }}</ref> (3MFUF, TMFUF)
+| N-Phenyl-N-[3-methyl-1-(2-phenylethyl)piperidin-4-yl]furan-2-carboxamide 
+| 
+|-
+| [[File:3-Methylthiofentanyl.svg|140px]] 
+| [[3-Methylthiofentanyl]]
+| ''N''-{3-Methyl-1-[2-(2-thienyl)ethyl]piperidin-4-yl}-''N''-phenylpropanamide
+| {{CAS|86052-04-2}}
+|-
+| [[File:3-Phenylpropanoylfentanyl.svg|140px]] 
+| [[3-Phenylpropanoylfentanyl]]<ref name="pmid36756728">{{cite journal | vauthors = Rautio T, Vangerven D, Dahlén J, Watanabe S, Kronstrand R, Vikingsson S, Konradsson P, Wu X, Gréen H | display-authors = 6 | title = In vitro metabolite identification of acetylbenzylfentanyl, benzoylbenzylfentanyl, 3-fluoro-methoxyacetylfentanyl, and 3-phenylpropanoylfentanyl using LC-QTOF-HRMS together with synthesized references | journal = Drug Testing and Analysis | volume =  15| issue =  7| date = February 2023 | pages = 711–729 | pmid = 36756728 | doi = 10.1002/dta.3454 | doi-access = free }}</ref> (β'-Phenyl fentanyl)
+| ''N''-Phenyl-''N''-[1-(2-phenylethyl)piperidin-4-yl]-3-phenylpropanamide
+| {{CAS|79279-02-0}}
+|-
+| [[File:4-Fluorobutyrfentanyl.png|140px]] 
+| [[4-Fluorobutyrfentanyl]] (''para''-Fluorobutyryl fentanyl, ''p''-FBF)
+| ''N''-(4-Fluorophenyl)-''N''-[1-(2-phenylethyl)-4-piperidinyl]-butanamide
+| {{CAS|244195-31-1}}
+|-
+| [[File:pCl-IBF_structure.png|140px]] 
+| [[4-Chloroisobutyrylfentanyl]] (''para''-Chloroisobutyryl fentanyl, 4-CIBF)<ref name="pmid32206028">{{cite journal | vauthors = Le AD, Alzghari SK | title = Systematic review of the clinical consequences of butyrfentanyl and corresponding analogues | journal = Interdisciplinary Toxicology | volume = 12 | issue = 2 | pages = 83–88 | date = October 2019 | pmid = 32206028 | pmc = 7071838 | doi = 10.2478/intox-2019-0009 }}</ref>
+| 2-Methyl-''N''-(4-chlorophenyl)-''N''-[1-(1-phenylpropan-2-yl)piperidin-4-yl]propanamide
+| {{CAS|244195-34-4}}
+|-
+| [[File:4-Fluoroisobutyrfentanyl.svg|140px]] 
+| [[4-Fluoroisobutyrfentanyl]] (''para''-Fluoroisobutyryl fentanyl, 4-FIBF)
+| ''N''-(4-Fluorophenyl)-''N''-[1-(2-phenylethyl)-4-piperidinyl]-isobutanamide
+| {{CAS|244195-32-2}}
+|-
+| [[File:Parafluorofentanyl.svg|140px]] 
+| [[Parafluorofentanyl]]
+| ''N''-(4-fluorophenyl)-''N''-[1-(2-phenylethyl)piperidin-4-yl]propanamide
+| {{CAS|90736-23-5}}
+|-
+| [[File:Paramethylfentanyl_structure.png|140px]] 
+| Paramethylfentanyl (''p''-MF)
+| ''N''-(4-methylphenyl)-''N''-[1-(2-phenylethyl)piperidin-4-yl]propanamide
+| {{CAS|1838-67-1}}
+|-
+| [[File:Parafluorofuranylfentanyl_structure.png|140px]] 
+| [[Parafluorofuranylfentanyl|''para''-fluorofuranylfentanyl]]<ref name="pmid33324608">{{cite journal | vauthors = Vincenti F, Montesano C, Di Ottavio F, Gregori A, Compagnone D, Sergi M, Dorrestein P | title = Molecular Networking: A Useful Tool for the Identification of New Psychoactive Substances in Seizures by LC-HRMS | journal = Frontiers in Chemistry | volume = 8 | issue = | article-number = 572952 | date = 2020 | pmid = 33324608 | pmc = 7723841 | doi = 10.3389/fchem.2020.572952 | bibcode = 2020FrCh....8.1039V | doi-access = free }}</ref> (p-F-Fu-F)
+| N-(1-phenethylpiperidin-4-yl)-N-(4-fluorophenyl)furan-2-carboxamide
+| {{CAS|1802489-71-9}}
+|-
+| [[File:Parachlorofuranylfentanyl_structure.png|140px]] 
+| ''para''-chlorofuranylfentanyl (p-Cl-Fu-F) 
+| N-(1-phenethylpiperidin-4-yl)-N-(4-chlorophenyl)furan-2-carboxamide
+| 
+|-
+| [[File:Orthomethylfuranylfentanyl_structure.png|140px]] 
+| ''ortho''-methylfuranylfentanyl (o-Me-Fu-F)
+| N-(1-phenethylpiperidin-4-yl)-N-(o-tolyl)furan-2-carboxamide
+| {{CAS|2309383-07-9}}
+|-
+| [[File:Orthomethoxyfuranylfentanyl_structure.png|140px]] 
+| ''ortho''-methoxyfuranylfentanyl (o-MeO-Fu-F)
+| N-(1-phenethylpiperidin-4-yl)-N-(2-methoxyphenyl)furan-2-carboxamide
+| {{CAS|101343-50-4}}
+|-
+| [[File:Orthoisopropylfuranylfentanyl_structure.png|140px]] 
+| ''ortho''-isopropylfuranylfentanyl (o-iPr-Fu-F)
+| N-(1-phenethylpiperidin-4-yl)-N-(2-isopropylphenyl)furan-2-carboxamide
+| 
+|-
+| [[File:4-Phenylfentanyl.png|140px]] 
+| [[4-Phenylfentanyl]]
+| ''N''-Phenyl-''N''-[4-phenyl-1-(2-phenylethyl)piperidin-4-yl]propanamide
+| {{CAS|120448-97-7}}
+|-
+| [[File:4-Methoxybutyrfentanyl.svg|140px]] 
+| [[4-Methoxybutyrfentanyl]] (''para''-Methoxy butyryl fentanyl)
+| ''N''-(4-Methoxyphenyl)-''N''-[1-(2-phenylethyl)-4-piperidinyl]-butanamide
+| {{CAS|2088842-68-4}}
+|-
+| [[File:4-Hydroxybutyrfentanyl_structure.png|140px]] 
+| ''para''-Hydroxy‐butyrylfentanyl<ref name="pmid31518047">{{cite journal | vauthors = Oldenhof S, Ten Pierick A, Bruinsma J, Eustace S, Hulshof J, van den Berg J, Hoitink M | title = Identification of a novel fentanyl analog: p-Hydroxy-butyrylfentanyl | journal = Drug Testing and Analysis | volume = 12 | issue = 1 | pages = 152–155 | date = January 2020 | pmid = 31518047 | doi = 10.1002/dta.2695 | s2cid = 202569865 | doi-access =  }}</ref>
+| ''N''-(4-hydroxyphenyl)-''N''-[1-(2-phenylethyl)-4-piperidinyl]-butanamide
+| 
+|-
+| [[File:4"-Fluorofentanyl_structure.png|140px]] 
+| 4"-Fluorofentanyl
+| ''N''-[1-[2-(4-Fluorophenyl)ethyl]-4-piperidinyl]-''N''-phenylpropanamide
+| {{CAS|2748343-99-7}}
+|-
+| [[File:4-Fluoro-o-fluoro-3-methylfentanyl_structure.png|140px]] 
+| 4"-Fluoro-''o''-fluoro-3-methylfentanyl
+| N-(2-fluorophenyl)-N-[1-[2-(4-fluorophenyl)ethyl]-3-methylpiperidin-4-yl]propanamide 
+|
+|-
+| [[File:4-Methyl-methoxyacetylfentanyl_structure.png|140px]] 
+| 4-Methyl-methoxyacetylfentanyl (''para''-Methyl methoxyacetyl fentanyl, 4-Me-MAF)
+| ''N''-(4-Methylphenyl)-''N''-[1-(2-phenylethyl)-4-piperidinyl]-2-methoxyacetamide
+| 
+|-
+| [[File:4-Methylphenethylacetylfentanyl_structure.png|140px]] 
+| [[4-Methylphenethylacetylfentanyl]]<ref name="pmid3752503">{{cite journal | vauthors = Moore JM, Allen AC, Cooper DA, Carr SM | title = Determination of fentanyl and related compounds by capillary gas chromatography with electron capture detection | journal = Analytical Chemistry | volume = 58 | issue = 8 | pages = 1656–60 | date = July 1986 | pmid = 3752503 | doi = 10.1021/ac00121a013 | bibcode = 1986AnaCh..58.1656M }}</ref> (4'-Methyl acetyl fentanyl)
+| ''N''-[1-[2-(4-Methylphenyl)ethyl]-4-piperidinyl]-''N''-phenylacetamide
+| {{CAS|1071703-95-1}}
+|-
+| [[File:Acrylfentanyl.svg|140px]] 
+| [[Acrylfentanyl]]
+| ''N''-Phenyl-''N''-[1-(2-phenylethyl)piperidin-4-yl]prop-2-enamide
+| {{CAS|82003-75-6}}
+|-
+| [[File:Alphamethylacetylfentanyl.svg|140px]] 
+| [[Alphamethylacetylfentanyl|α-Methylacetylfentanyl]]
+| ''N''-Phenyl-''N''-[1-(1-phenylpropan-2-yl)-4-piperidyl]acetamide
+| {{CAS|101860-00-8}}
+|-
+| [[File:Alphamethylbutyrfentanyl_structure.png|140px]] 
+| α-Methylbutyrfentanyl
+| ''N''-phenyl-''N''-[1-(1-phenylpropan-2-yl)-4-piperidyl]butanamide
+| {{CAS|244195-36-6}}
+|-
+| [[File:Alphamethylfentanyl.svg|140px]] 
+| [[Alphamethylfentanyl|α-Methylfentanyl]] (AMF)
+| ''N''-phenyl-''N''-[1-(1-phenylpropan-2-yl)-4-piperidyl]propanamide
+| {{CAS|79704-88-4}}
+|-
+| [[File:Alphamethylthiofentanyl.svg|140px]]
+| [[Alpha-methylthiofentanyl|α-Methylthiofentanyl]]
+| ''N''-Phenyl-''N''-[1-(1-thiophen-2-ylpropan-2-yl)-4-piperidyl]propanamide
+| {{CAS|103963-66-2}}
+|-
+| [[File:Alphamethylbetahydroxyfentanyl_structure.png|140px]] 
+| α-Methyl-β-hydroxyfentanyl<ref>{{cite book | url = https://books.google.com/books?id=9JLiJcjdqkcC&pg=PA540 | vauthors = Barceloux DG | title = Medical Toxicology of Drug Abuse: Synthesized Chemicals and Psychoactive Plants. | publisher = Wiley | date = 2012 |isbn=978-0-471-72760-6 }}</ref>
+| N-[1-(1-hydroxy-1-phenylpropan-2-yl)piperidin-4-yl]-N-phenylpropanamide
+| 
+|-
+| [[File:Acetylfentanyl.svg|140px]] 
+| [[Acetylfentanyl]]
+| ''N''-(1-Phenethylpiperidin-4-yl)-''N''-phenylacetamide
+| {{CAS|3258-84-2}}
+|-
+| [[File:Alfentanil-2D-skeletal.svg|140px]] 
+| [[Alfentanil|Alfentanyl]]
+| ''N''-{1-[2-(4-ethyl-5-oxo-4,5-dihydro-1''H''-1,2,3,4-tetrazol-1-yl)ethyl]-4-(methoxymethyl)piperidin-4-yl}-''N''-phenylpropanamide
+| {{CAS|71195-58-9}}
+|-
+| [[File:Benzodioxolefentanyl_structure.png|140px]] 
+| [[Benzodioxolefentanyl]]<ref name="pmid30904478">{{cite journal | vauthors = Varshneya NB, Walentiny DM, Moisa LT, Walker TD, Akinfiresoye LR, Beardsley PM | title = Opioid-like antinociceptive and locomotor effects of emerging fentanyl-related substances | journal = Neuropharmacology | volume = 151 | pages = 171–179 | date = June 2019 | pmid = 30904478 | doi = 10.1016/j.neuropharm.2019.03.023 | pmc = 8992608 | s2cid = 84182661 }}</ref>
+| ''N''-Phenyl-''N''-[1-(2-phenylethyl)piperidin-4-yl]-2''H''-1,3-benzodioxole-5-carboxamide
+| {{CAS|2306823-01-6}}
+|-
+| [[File:Benzoylfentanyl_structure.png|140px]] 
+| [[Benzoylfentanyl]]
+| ''N''-(1-Phenethylpiperidin-4-yl)-''N''-phenylbenzamide
+| {{CAS|2309383-15-9}}
+|-
+| [[File:benzylfentanyl.svg|140px]] 
+| [[Benzylfentanyl]]
+| ''N''-(1-Benzylpiperidin-4-yl)-''N''-phenylpropanamide
+| {{CAS|1474-02-8}}
+|-
+|[[File:Berger Fentanyl.svg|120px|Berger Fentanyl]]
+| BDBM50223545 (<span style="color:maroon">Berger Fentanyl</span>) 
+<ref>{{cite journal |author=Berger, J. G. |author2=Davidson, F. |author3=Langford, G. E. | journal=Journal of Medicinal Chemistry | title=Synthesis of some conformationally restricted analogs of fentanyl | volume=20 | issue=4 | pages=600–602 | date= April 1977 | issn=0022-2623 | doi=10.1021/jm00214a035 | pmid=850249 | url=https://pubs.acs.org/doi/abs/10.1021/jm00214a035 | access-date=November 18, 2022| url-access=subscription }}</ref>
+<ref>{{cite journal | vauthors = Lobbezoo MW, Soudijn W, van Wijngaarden I | title = Opiate receptor interaction of compounds derived from or structurally related to fentanyl | journal = Journal of Medicinal Chemistry | volume = 24 | issue = 7 | pages = 777–782 | date = July 1981 | pmid = 6268786 | doi = 10.1021/jm00139a003 }}</ref>
+| 1-[2-(2-phenylethyl)-3,4,4a,9b-tetrahydro-1H-pyrido[4,3-b]indol-5-yl]propan-1-one
+|
+|-
+| [[File:Betahydroxyfentanyl.svg|140px]] 
+| [[Betahydroxyfentanyl|β-Hydroxyfentanyl]]
+| ''N''-[1-(2-Hydroxy-2-phenylethyl)piperidin-4-yl]-''N''-phenylpropanamide
+| {{CAS|78995-10-5}}
+|-
+| [[File:Betahydroxythiofentanyl.svg|140px]] 
+| [[Betahydroxythiofentanyl|β-Hydroxythiofentanyl]]
+| ''N''-{1-[2-Hydroxy-2-(thiophen-2-yl)ethyl]piperidin-4-yl}-''N''-phenylpropanamide
+| {{CAS|1474-34-6}}
+|-
+| [[File:Beta-hydroxy-4-methylfentanyl_structure.png|140px]] 
+| β-Hydroxy-4-methylfentanyl
+| N-[1-(2-hydroxy-2-phenylethyl)-4-methylpiperidin-4-yl]-N-phenylpropanamide
+| 
+|-
+| [[File:Betamethylfentanyl.svg|140px]] 
+| [[beta-Methylfentanyl|β-Methylfentanyl]]
+| ''N''-Phenyl-''N''-[1-(2-phenylpropyl)piperidin-4-yl]propanamide
+| {{CAS|79146-56-8}}
+|-
+| [[File:Brorphine Structure.png|140px]] 
+| [[Brorphine]]<ref name="pmid30199635">{{cite journal | vauthors = Kennedy NM, Schmid CL, Ross NC, Lovell KM, Yue Z, Chen YT, Cameron MD, Bohn LM, Bannister TD | display-authors = 6 | title = Optimization of a Series of Mu Opioid Receptor (MOR) Agonists with High G Protein Signaling Bias | journal = Journal of Medicinal Chemistry | volume = 61 | issue = 19 | pages = 8895–8907 | date = October 2018 | pmid = 30199635 | pmc = 6386185 | doi = 10.1021/acs.jmedchem.8b01136 }}</ref>
+| 1-{1-[1-(4-bromophenyl)ethyl]piperidin-4-yl}-1,3-dihydro-2H-benzimidazol-2-one
+| {{CAS|2244737-98-0}}
+|-
+| [[File:Butyrfentanyl.png|140px]] 
+| [[Butyrfentanyl]] (Butyrylfentanyl, Bu-F, BUF)
+| ''N''-(1-(2-Phenylethyl)-4-piperidinyl)-''N''-phenylbutyramide
+| {{CAS|1169-70-6}}
+|-
+| [[File:Brifentanil.svg|140px]] 
+| [[Brifentanil|Brifentanyl]]
+| ''N''-[(3''R'',4''S'')-1-[2-(4-Ethyl-5-oxotetrazol-1-yl)ethyl] -3-methylpiperidin-4-yl]-''N''-(2-fluorophenyl)-2-methoxyacetamide
+| {{CAS|101345-71-5}}
+|-
+| [[File:Carfentanil.svg|140px]] 
+| [[Carfentanil|Carfentanyl]] ((4-Methoxycarbonyl)fentanyl)
+| Methyl 1-(2-phenylethyl)-4-[phenyl(propanoyl)amino]piperidine-4-carboxylate
+| {{CAS|59708-52-0}}
+|-
+| [[File:Benzylcarfentanil_structure.png|140px]] 
+| Benzylcarfentanil
+| Methyl 1-benzyl-4-[phenyl(propanoyl)amino]piperidine-4-carboxylate
+| {{CAS|61085-72-1}}
+|-
+| [[File:Ethylcarfentanil_structure.png|140px]] 
+| Ethylcarfentanil
+| Ethyl 1-(2-phenylethyl)-4-[phenyl(propanoyl)amino]piperidine-4-carboxylate
+| 
+|-
+| [[File:Crotonylfentanyl Structure.png|140px]] 
+| [[Crotonylfentanyl]]
+| N-Phenyl-N-[1-(2-phenylethyl)-4-piperidinyl]-2-butenamide
+| {{CAS|760930-59-4}}
+|-
+| [[File:Cyclopentyl-F_structure.png|140px]] 
+| [[Cyclopentylfentanyl]]
+| N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]cyclopentanecarboxamide
+| {{CAS|2088918-01-6}}
+|-
+| [[File:Cyclobutylfentanyl_structure.png|140px]] 
+| Cyclobutylfentanyl <ref>{{cite journal | vauthors = Elbardisy HM, Foster CW, Cumba L, Antonides LH, Gilbert N, Schofield CJ, Belal TS, Talaat W, Sutcliffe OB, Daabees HG, Banks CE | display-authors = 6 | title = Analytical determination of heroin, fentanyl and fentalogues using high-performance liquid chromatography with diode array and amperometric detection. | journal = Analytical Methods | date = 2019 | volume = 11 | issue = 8 | pages = 1053–63 | doi = 10.1039/C9AY00009G | doi-access = free }}</ref>
+| ''N''-[1-(2-Phenylethyl)piperidin-4-yl]-''N''-phenylcyclobutanecarboxamide
+| {{CAS|2306827-55-2}}
+|-
+| [[File:Cyclopropylfentanyl_structure.png|140px]] 
+| [[Cyclopropylfentanyl]]
+| ''N''-[1-(2-Phenylethyl)piperidin-4-yl]-''N''-phenylcyclopropanecarboxamide
+| {{CAS|1169-68-2}}
+|-
+| [[File:Molecular Structure of Psychofentanil (EAZ-91-5).png|140px]] 
+| EAZ-91-05, Psicofentanil
+| (quinuclidin-3-yl) 4-[phenyl(propanoyl)amino]-1-[2-(indol-3-yl)ethyl]piperidine-4-carboxylate
+| 
+|-
+| [[File:Ethoxyacetylfentanyl_structure.png|140px]] 
+| Ethoxyacetylfentanyl
+| 2-ethoxy-N-(1-phenethylpiperidin-4-yl)-N-phenylacetamide
+| {{CAS|778534-59-1}}
+|-
+| [[File:Isobutyrfentanyl_structure.png|140px]] 
+| [[Isobutyrylfentanyl]]
+| 2-methyl-N-phenyl-N-[1-(1-phenylpropan-2-yl)piperidin-4-yl]propanamide
+| {{CAS|119618-70-1}}
+|-
+| [[File:Isofentanyl_structure.png|140px]] 
+| [[Isofentanyl]]
+| ''N''-(1-Benzyl-3-methylpiperidin-4-yl)-''N''-phenylpropanamide
+| {{CAS|79278-40-3}}
+|-
+| [[File:Homofentanyl_structure.png|140px]] 
+| [[Homofentanyl]] (N-phenylpropylnorfentanyl) <ref name="pmid3711827">{{cite journal | vauthors = Cooper D, Jacob M, Allen A | title = Identification of fentanyl derivatives | journal = Journal of Forensic Sciences | volume = 31 | issue = 2 | pages = 511–28 | date = April 1986 | pmid = 3711827 | doi = 10.1520/JFS12283J }}</ref>
+| N-phenyl-N-[1-(3-phenylpropyl)piperidin-4-yl]propanamide
+| {{CAS|59708-54-2}}
+|-
+| [[File:Haloperidol-like fentanyl analogue.png|140px]] 
+| R-4173<ref>{{cite patent | country = US | number = 3161637 | status = granted | title = 1-(gamma-aroyl-propyl)-4-(nu-arylcarbonyl amino) piperidines and related compounds | gdate = 15 December 1964 | inventor = Janssen PA | assign1 = Janssen Research Labs }}</ref>
+| N-phenyl-N-{1-[4-(4-fluorophenyl)-4-oxobutyl]piperidin-4-yl}propanamide
+| {{CAS|2413-90-3}}
+|-
+| [[File:Tranyltanyl.png|140px]] 
+| ''trans''-phenylcyclopropyl-norfentanyl
+| 1-(''trans''-2-Phenylcyclopropyl)-4-(N-propionylanilino)piperidine. 
+| {{CAS|102504-49-4}}
+|-
+| [[File:Fentanyl-azepane_structure.png|140px]] 
+| [[Fentanyl azepane]]
+| N-phenyl-N-[1-(2-phenylethyl)azepan-4-yl]propanamide
+| 
+|-
+| [[File:Fentanyl-carbamate_structure.png|140px]] 
+| [[Fentanyl carbamate]]
+| ethyl N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]carbamate
+| {{CAS|1465-20-9}}
+|-
+| [[File:Fentroline.png|140px]] 
+| Pyridylfentanyl<ref name="pmid31844604">{{cite journal | vauthors = Robertson TB, Antonides LH, Gilbert N, Benjamin SL, Langley SK, Munro LJ, Sutcliffe OB, Mewis RE | title = Hyperpolarization of Pyridyl Fentalogues by Signal Amplification By Reversible Exchange (SABRE) | journal = ChemistryOpen | volume = 8 | issue = 12 | pages = 1375–1382 | date = December 2019 | pmid = 31844604 | pmc = 6892445 | doi = 10.1002/open.201900273 }}</ref>
+| N-phenyl-N-[1-(2-pyridin-4-ylethyl)piperidin-4-yl]propanamide
+| {{CAS|1443-41-0}}
+|-
+| [[File:Furanylbenzylfentanyl_structure.png|140px]] 
+| Furanylbenzylfentanyl
+| ''N''-Phenyl-N-(1-benzylpiperidin-4-yl)furan-2-carboxamide
+| {{CAS|497240-21-8}}
+|-
+| [[File:Furanylfentanyl.svg|140px]] 
+| [[Furanylfentanyl]] (Fu-F, FUF)
+| ''N''-Phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]furan-2-carboxamide
+| {{CAS|101345-66-8}}
+|-
+| [[File:Furanylfentanyl2_structure.png|140px]] 
+| Furanylethylfentanyl (Furanylethyl fentanyl, FUEF)
+| N-[1-[2-(2-furanyl)ethyl]-4-piperidinyl]-N-phenyl-propanamide
+| {{CAS|802544-02-1}}
+|-
+| [[File:2-Benzofuranylethyl-AMF_structure.png|140px]] 
+| 2-Benzofuranylethyl-alpha-methylfentanyl
+| N-(1-[1-(1-Benzofuran-2-yl)-2-propanyl]-4-piperidinyl)-N-phenylpropanamide
+| 
+|-
+| [[File:Homofentanyl.png|140px]] 
+| Fentanyl 4-methylene analogue (WO 2007/093603)
+| N-phenyl-N-{[1-(2-phenylethyl)piperidin-4-yl]methyl}propanamide
+| {{CAS|947139-57-3}}
+|-
+| [[File:Indolylethylfentanyl_structure.png|140px]] 
+| Indolylethylfentanyl 
+| N-(1-[2-(1H-indol-3-yl)ethyl]-4-piperidinyl)-N-phenyl-propanamide
+| {{CAS|58399-46-5}}
+|-
+| [[File:IQMF-4_structure.png|140px]] 
+| IQMF-4<ref name="pmid18706410">{{cite journal | vauthors = Goicoechea C, Sánchez E, Cano C, Jagerovic N, Martín MI | title = Analgesic activity and pharmacological characterization of N-[1-phenylpyrazol-3-yl]-N-[1-(2-phenethyl)-4-piperidyl] propenamide, a new opioid agonist acting peripherally | journal = European Journal of Pharmacology | volume = 595 | issue = 1–3 | pages = 22–9 | date = October 2008 | pmid = 18706410 | doi = 10.1016/j.ejphar.2008.07.052 }}</ref>
+| N-[1-(2-Phenylethyl)piperidin-4-yl]-N-(1-phenylpyrazol-3-yl)prop-2-enamide
+| {{CAS|497100-48-8}}
+|-
+| [[File:Lofentanil.svg|140px]] 
+| [[Lofentanil|Lofentanyl]]
+| methyl (3''S'',4''R'')-3-methyl-1-(2-phenylethyl)-4-[phenyl(propionyl)amino]piperidine-4-carboxylate
+| {{CAS|61380-40-3}}
+|-
+| [[File:N-methylcarfentanil_structure.png|140px]] 
+| [[N-Methylnorcarfentanil|N-Methylnorcarfentanyl]]
+| methyl 1-methyl-4-(N-phenylpropanamido)piperidine-4-carboxylate
+| {{CAS|59708-50-8}}
+|-
+| [[File:Methoxyacetylfentanyl_structure.png|140px]] 
+| [[Methoxyacetylfentanyl]] (MAF)
+| 2-Methoxy-N-(1-phenethylpiperidin-4-yl)-N-phenylacetamide
+| {{CAS|101345-67-9}}
+|-
+| [[File:Metafluorofentanyl_structure.png|140px]] 
+| ''meta''-fluorofentanyl 
+| N-(3-Fluorophenyl)-N-[1-(2-phenylethyl)-4-piperidinyl]-propanamide 
+| {{CAS|90736-22-4}}
+|-
+| [[File:Meta-fluoro-methoxyacetylfentanyl_structure.png|140px]] 
+| ''meta''-fluoro-methoxyacetylfentanyl
+| 2-Methoxy-N-(1-phenethylpiperidin-4-yl)-N-(3-fluorophenyl)acetamide
+| {{CAS|2306825-32-9}}
+|-
+| [[File:4-(Methylthiazolyl)-pyrazolylethylfentanyl_structure.png|140px]] 
+| 4-(Methylthiazolyl)-pyrazolylethylfentanyl<ref name="pmid2585442">{{cite journal | vauthors = Kudzma LV, Severnak SA, Benvenga MJ, Ezell EF, Ossipov MH, Knight VV, Rudo FG, Spencer HK, Spaulding TC | display-authors = 6 | title = 4-Phenyl- and 4-heteroaryl-4-anilidopiperidines. A novel class of analgesic and anesthetic agents | journal = Journal of Medicinal Chemistry | volume = 32 | issue = 12 | pages = 2534–2542 | date = December 1989 | pmid = 2585442 | doi = 10.1021/jm00132a007 | url = }}</ref>
+| 1-[2-(1H-pyrazol-1-yl)ethyl]-4-(4-methylthiazol-2-yl)-4-(N-phenylpropionamido)piperidine
+| {{CAS|120070-51-1}}
+|-
+| [[File:Mirfentanil.svg|140px]] 
+| [[Mirfentanil|Mirfentanyl]]
+| ''N''-[1-(2-Phenylethyl)piperidin-4-yl]-''N''-pyrazin-2-yl-2-furamide
+| {{CAS|117523-47-4}}
+|-
+|[[File:MP102.svg|140px|MP102]]
+| MP102
+| N-cycloheptyl-1-(2-phenylethyl)-4-(N-propanoylanilino)piperidine-4-carboxamide
+|
+|-
+| [[File:MP135_structure.png|140px]] 
+| MP135<ref name="pmid33170687">{{cite journal | vauthors = Faouzi A, Uprety R, Gomes I, Massaly N, Keresztes AI, Le Rouzic V, Gupta A, Zhang T, Yoon HJ, Ansonoff M, Allaoa A, Pan YX, Pintar J, Morón JA, Streicher JM, Devi LA, Majumdar S | title = Synthesis and Pharmacology of a Novel μ-δ Opioid Receptor Heteromer-Selective Agonist Based on the Carfentanyl Template | journal = Journal of Medicinal Chemistry | volume = 63 | issue = 22 | pages = 13618–13637 | date = November 2020 | pmid = 33170687 | doi = 10.1021/acs.jmedchem.0c00901 | pmc = 7745089 }}</ref>
+| ''N''-[4-{[2-(3-fluorophenyl)ethyl]carboxamido}-1-(2-phenylethyl)piperidin-4-yl]-''N''-benzylpropanamide
+| {{CAS|2677687-49-7}}
+|-
+| [[File:MDA-fentanyl_structure.png|140px]] 
+| N-(MDA)-fentanyl<ref name="pmid33296202">{{cite journal | vauthors = W De Silva I, Couch AN, Verbeck GF | title = Paper Spray Mass Spectrometry Utilized with a Synthetic Microporous Polyolefin Silica Matrix Substrate in the Rapid Detection and Identification of More than 190 Synthetic Fentanyl Analogs | journal = Journal of the American Society for Mass Spectrometry | volume = 32| issue = 2| pages = 420–428| date = December 2020 | pmid = 33296202 | doi = 10.1021/jasms.0c00250 | s2cid = 228088741 }}</ref>
+| N-(1-(1-(benzo[d][1,3]dioxol-5-yl)propan-2-yl)piperidin-4-yl)-N-phenylpropionamide
+|  
+|-
+| [[File:N-(2C-B)-fentanyl structure.png|140px]] 
+| N-(2C-B)-fentanyl
+| N-(1-(2-(2,5-dimethoxy-4-bromophenyl)ethyl)piperidin-4-yl)-N-phenylpropionamide
+|  
+|-
+| [[File:Ocfentanil.png|140px]] 
+| [[Ocfentanil|Ocfentanyl]]
+| ''N''-(2-Fluorophenyl)-2-methoxy-''N''-[1-(2-phenylethyl)piperidin-4-yl]acetamide
+| {{CAS|101343-69-5}}
+|-
+| [[File:Ohmefentanyl.svg|140px]] 
+| [[Ohmefentanyl]] (β-hydroxy-3-methylfentanyl)
+| N-[1-(2-hydroxy-2-phenylethyl)-3-methylpiperidin-4-yl]-N-phenylpropanamide
+| {{CAS|78995-14-9}}
+|-
+|[[File:Ohmecarfentanil.svg|140px|[[Ohmecarfentanil]]]]
+| [[Ohmecarfentanil]]
+| methyl 1-(2-hydroxy-2-phenylethyl)-3-methyl-4-(''N''-propanoylanilino)piperidine-4-carboxylate
+|
+|-
+|[[File:4-Fluoroohmefentanyl_structure.png|140px]]
+| 4"-Fluoroohmefentanyl
+| methyl 1-[2-hydroxy-2-(4-fluorophenyl)ethyl]-3-methyl-4-(''N''-propanoylanilino)piperidine-4-carboxylate
+|
+|-
+| [[File:Orthofluorofentanyl_structure.png|140px]] 
+| [[Orthofluorofentanyl]]
+| ''N''-(2-Fluorophenyl)-''N''-[1-(2-phenylethyl)-4-piperidinyl]-propanamide
+| {{CAS|910616-29-4}}
+|-
+| [[File:4-Bromofentanyl structure.png|140px]] 
+| [[4-Bromofentanyl|''p''-Bromofentanyl]] 
+| ''N''-(4-bromophenyl)-''N''-[1-(2-phenylethyl)-4-piperidinyl]-propanamide
+| {{CAS|117994-23-7}}
+|-
+| [[File:P-Nitrofentanyl structure.png|140px]] 
+| p-Nitrofentanyl <ref>{{cite conference | url = https://www.researchgate.net/publication/364836787 | vauthors = Stojanović A, Jevtic I, Krunić M, Ivanovic M | title = Synthesis of para-nitro fentanyl | conference = 8th Conference of Young Chemists of Serbia. | date = October 2022 }}</ref>
+| ''N''-(4-Nitrophenyl)-''N''-[1-(2-phenylethyl)-4-piperidinyl]-propanamide
+| 
+|-
+| [[File:Parafluoroisobutyrylbenzylfentanyl_structure.png|140px]] 
+| Parafluoroisobutyrylbenzylfentanyl
+| N-[(1-benzylpiperidin-4-yl)methyl]-N-(4-fluorophenyl)-2-methylpropanamide
+| 
+|-
+| [[File:4-Fluorocyclopropylbenzylfentanyl_structure.png|140px]] 
+| ''para''-Fluorocyclopropylbenzylfentanyl
+| ''N''-(1-benzylpiperidin-4-yl)-''N''-(4-fluorophenyl)cyclopropanecarboxamide
+| {{CAS|2344231-47-4}}
+|-
+| [[File:Pivaloylfentanyl_structure.png|140px]]
+| Pivaloylfentanyl
+| 2,2-dimethyl-N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]propanamide
+|
+|-
+| [[File:Pyrrolefentanyl Structure.png|140px]]
+| Pyrrole-fentanyl<ref>{{cite patent | inventor = Effland RC, Klein JT | title = Pyrrolylaminopiperidines. | country = US | number = 4452803 | gdate = 19 September 1983 }}</ref>{{better citation needed|date=March 2026}}
+| N-[1-(2-Phenylethyl)piperidin-4-yl]-N-pyrrol-1-ylpropanamide
+|
+|-
+| [[File:R-30490.svg|140px]] 
+| [[R-30490]]
+| ''N''-[4-(Methoxymethyl)-1-(2-phenylethyl)piperidin-4-yl]-''N''-phenylpropanamide
+| {{CAS|60618-49-7}}
+|-
+| [[File:Remifentanil2DCSDS.svg|140px]] 
+| [[Remifentanil|Remifentanyl]]
+| methyl 1-(3-methoxy-3-oxopropyl)-4-(''N''-phenylpropanamido)piperidine-4-carboxylate
+| {{CAS|132875-61-7}}
+|-
+| [[File:Remifentanil-bis-ethyl-ester_structure.png|140px]] 
+| Remifentanil bis ethyl ester
+| ethyl 1-(3-ethoxy-3-oxopropyl)-4-(''N''-phenylpropanamido)piperidine-4-carboxylate
+| 
+|-
+| [[File:RR49_structure.png|140px]] 
+| RR-49<ref name="pmid31531209">{{cite journal|author3-link=Bryan Roth | vauthors = Rosas R, Huang XP, Roth BL, Dockendorff C | title = β-Fluorofentanyls Are pH-Sensitive Mu Opioid Receptor Agonists | journal = ACS Medicinal Chemistry Letters | volume = 10 | issue = 9 | pages = 1353–1356 | date = September 2019 | pmid = 31531209 | doi = 10.1021/acsmedchemlett.9b00335 | pmc = 6746189 }}</ref> (2'-fluoro β-fluorofentanyl)
+| ''N''-{1-[2-Fluoro-2-(2-fluorophenyl)ethyl]piperidin-4-yl}-''N''-phenylpropanamide
+| {{CAS|2376328-79-7}}
+|-
+|[[File:SR 16412.svg|140px|SR 16412]]
+| SR-16412 <ref name="pmid15163178">{{cite journal | vauthors = Zaveri NT, Jiang F, Olsen CM, Deschamps JR, Parrish D, Polgar W, Toll L | title = A novel series of piperidin-4-yl-1,3-dihydroindol-2-ones as agonist and antagonist ligands at the nociceptin receptor | journal = Journal of Medicinal Chemistry | volume = 47 | issue = 12 | pages = 2973–6 | date = June 2004 | pmid = 15163178 | pmc = 3852901 | doi = 10.1021/jm034249d }}</ref>
+| 1-(1-benzylpiperidin-4-yl)-3H-indol-2-one
+| {{CAS|16223-24-8}}
+|-
+| [[File:Secofentanyl_structure.png|140px]] 
+| [[Secofentanyl]]<ref>{{cite journal | vauthors = Ivanović MD, Mićović I, Vučković S, Prostran M, Todorović Z, Ivanović E, Kiricojević V, Đorđević JB, Došen-Mićović L | title = The synthesis and pharmacological evaluation of (+/-)-2, 3-seco-fentanyl analogues. | journal = Journal of the Serbian Chemical Society | date = 2004 | volume = 69 | issue = 11 | pages = 955–68 | doi = 10.2298/JSC0411955I | doi-access = free }}</ref>
+| N-phenyl-N-{4-[methyl(2-phenylethyl)amino]butan-2-yl}propanamide
+| {{CAS|253342-66-4}}
+|-
+| [[File:Senecioylfentanyl_structure.png|140px]] 
+| Senecioylfentanyl <ref>{{cite journal | vauthors = Bergh MS, Bogen IL, Nerem E, Wohlfarth A, Wilson SR, Øiestad ÅM | title = Discovering the major metabolites of the three novel fentanyl analogues 3-methylcrotonylfentanyl, furanylbenzylfentanyl, and 4-fluorocyclopropylbenzylfentanyl for forensic case work. | journal = Forensic Toxicology | date = 2021 | volume = 39 | pages = 167–178 | doi = 10.1007/s11419-020-00560-9 | s2cid = 230110612 }}</ref>
+| N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl]-3-methylbut-2-enamide
+| {{CAS|2630378-28-6}}
+|-
+| [[File:Sufentanil.svg|140px]] 
+| [[Sufentanil]]
+| ''N''-[4-(Methoxymethyl)-1-(2-thiofuran-2-ylethyl)-4-piperidyl]-''N''-phenylpropanamide
+| {{CAS|56030-54-7}}
+|-
+| [[File:Tetrahydrofuranylfentanyl_structure.png|140px]] 
+| [[Tetrahydrofuranylfentanyl]]
+| ''N''-Phenyl-''N''-[1-(2-phenylethyl)piperidin-4-yl]oxolane-2-carboxamide
+| {{CAS|2142571-01-3}}
+|-
+| [[File:Tetramethylcyclopropylfentanyl_structure.png|140px]] 
+| [[Tetramethylcyclopropylfentanyl]]<ref name="pmid32749741">{{cite journal | vauthors = Åstrand A, Vikingsson S, Jakobsen I, Björn N, Kronstrand R, Gréen H | title = Activation of the μ-opioid receptor by alicyclic fentanyls: Changes from high potency full agonists to low potency partial agonists with increasing alicyclic substructure | journal = Drug Testing and Analysis | volume = 13| issue = 1| pages = 169–174| date = August 2020 | pmid = 32749741 | doi = 10.1002/dta.2906 | pmc = 7891621 | doi-access = free }}</ref>
+| 2,2,3,3-Tetramethyl-''N''-(1-phenethylpiperidin-4-yl)-''N''-phenylcyclopropane-1-carboxamide
+| {{CAS|2309383-11-5}}
+|-
+| [[File:Tetramethylfentanyl_structure.png|140px]] 
+| Tetramethylfentanyl
+| ''N''-(2,2,6,6-tetramethyl-1-phenethyl-4-piperidyl)-''N''-phenyl-propanamide
+| 
+|-
+| [[File:Thenylfentanyl.svg|140px]] 
+| [[Thenylfentanyl]]
+| N-phenyl-N-{[1-(thiophen-2-ylmethyl)piperidin-4-yl]methyl}propanamide
+| {{CAS|117332-93-1}}
+|-
+| [[File:Formel von A-3080.png|140px]] 
+| [[Thiafentanil]]
+| methyl 4-(N-(2-methoxyacetyl)anilino)-1-(2-thiophen-2-ylethyl)piperidine-4-carboxylate
+| {{CAS|101345-60-2}}
+|-
+| [[File:Thiofentanyl.svg|140px]] 
+| [[Thiofentanyl]]
+| ''N''-phenyl-''N''-<nowiki/>{1-[2-(2-thienyl)ethyl]piperidin-4-yl}propanamide
+| {{CAS|1165-22-6}}
+|-
+| [[File:Thiophenylfentanyl_structure.png|140px]] 
+| Thiophenylfentanyl (Thiofuranylfentanyl)<ref>Popławska, M., Bednarek, E., Naumczuk, B. et al. Identification and structure characterization of five synthetic opioids: 3,4-methylenedioxy-U-47700, o-methyl-acetylfentanyl, 2-thiophenefentanyl, benzoylfentanyl and benzoylbenzylfentanyl. ''Forensic Toxicol'' 39, 45–58 (2021) {{doi|10.1007/s11419-020-00539-6}}</ref>
+| ''N''-Phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]thiophene-2-carboxamide
+| {{CAS|2306823-38-9}}
+|-
+| [[File:Trefentanil Structure.svg|140px]] 
+| [[Trefentanil|Trefentanyl]]
+| ''N''-{1-[2-(4-ethyl-5-oxo-4,5-dihydro-1''H''-tetrazol-1-yl)ethyl]-4-phenylpiperidin-4-yl}-''N''-(2-fluorophenyl)propanamide
+| {{CAS|120656-93-1}}
+|-
+| [[File:Trifluorofentanyl Structure.png|140px]] 
+| Trifluorofentanyl <ref>{{cite patent | country = US | number = 2011046180 | title = N-aryl-n-piperidin-4-yl-propionamide derivatives and their use as opioid receptor ligands | inventor = Peters D, Eriksen BL, Munro G, Nielsen EØ | assign1 = Neurosearch AS | status = abandoned }}</ref>
+| ''N''-(3,4-difluorophenyl)-''N''-[1-(2-[4-fluorophenyl]ethyl)-4-piperidinyl]-propanamide
+|
+|-
+| [[File:Tropafentanyl.svg|160px|]]
+| Tropafentanyl ([[Fentanyl tropane]])
+| N-phenyl-N-[8-(2-phenylethyl)-8-azabicyclo[3.2.1]octan-3-yl]propanamide
+|
+|-
+| [[File:3,4-dichloro-4-MeO Fentanyl Structure.svg|140px]]
+| <nowiki>3,4-dichloro-4''-methoxyfentanyl</nowiki>
+| ''N''-(3,4-dichlorophenyl)-''N''-[1-(2-[4-methoxyphenyl]ethyl)-4-piperidinyl]-propanamide
+| {{CAS|1161705-29-8}}
+|-
+| [[File:Ureafentanyl_structure.png|140px|]]
+| Ureafentanyl
+| N,N-dimethyl-N'-phenyl-N'-[1-(2-phenylethyl)-4-piperidinyl]-urea
+| {{CAS|1443-50-1}}
+|-
+| [[File:Valerylfentanyl.svg|140px]] 
+| [[Valerylfentanyl]] (VF) 
+| ''N''-(1-(2-Phenylethyl)-4-piperidinyl)-''N''-phenylpentylamide
+| {{CAS|122882-90-0}}
+|}
+</div>
+
+==Analogue controls==
+Several jurisdictions have implemented [[Federal Analogue Act|analogue law]] controls of fentanyl analogues in an attempt to pre-emptively ban novel derivatives before they appear on the market. One representative example is the New Zealand provisions enacted in 1988 in response to the first wave of fentanyl derivatives. This bans a set of structures as follows;
+
+"Fentanyl analogues, in which the N-[1-(2-phenethyl)-4-piperidyl]aniline nucleus has additional radicals, either alone or in combination, attached as follows:
+
+(a) an acetyl, propionyl, butenoyl or butanoyl radical, attached to the aniline nitrogen atom:
+
+(b) 1 or more alkyl radicals, with up to 10 carbon atoms in total, attached to the ethyl moiety:
+
+(c) any combination of up to 5 alkyl radicals and/or alkoxy radicals (each with up to 6 carbon atoms, including cyclic radicals) and/or halogen radicals, attached to each of the benzene rings."<ref>{{cite web | url = http://www.legislation.govt.nz/act/public/1975/0116/latest/DLM436723.html | work = New Zealand Misuse of Drugs Act 1975 | title = Schedule 3 Class C Controlled Drugs; Part 7: Fentanyl analogues }}</ref>
+
+A more recent and somewhat broader example was introduced into US Federal legislation in 2018,<ref name="pmid33951192">{{cite journal | vauthors = Weedn VW, Elizabeth Zaney M, McCord B, Lurie I, Baker A | title = Fentanyl-related substance scheduling as an effective drug control strategy | journal = Journal of Forensic Sciences | volume = 66 | issue = 4 | pages = 1186–1200 | date = July 2021 | pmid = 33951192 | pmc = 8360110 | doi = 10.1111/1556-4029.14712 }}</ref> covering the following structures;
+
+"...fentanyl-related substances includes any substance not otherwise controlled in any schedule...that is structurally related to fentanyl by one or more of the following modifications:
+
+# Replacement of the phenyl portion of the phenethyl group by any monocycle, whether or not further substituted in or on the monocycle;
+# substitution in or on the phenethyl group with alkyl, alkenyl, alkoxyl, hydroxyl, halo, haloalkyl, amino or nitro groups;
+# substitution in or on the piperidine ring with alkyl, alkenyl, alkoxyl, ester, ether, hydroxyl, halo, haloalkyl, amino or nitro groups;
+# replacement of the aniline ring with any aromatic monocycle whether or not further substituted in or on the aromatic monocycle; and/or
+# replacement of the N-propionyl group by another acyl group."<ref>{{cite web | url = https://www.federalregister.gov/documents/2018/02/06/2018-02319/schedules-of-controlled-substances-temporary-placement-of-fentanyl-related-substances-in-schedule-i | work = United States Federal Register | title = Schedules of Controlled Substances: Temporary Placement of Fentanyl-Related Substances in Schedule I | date = 6 February 2018 }}</ref>
+
+==Organic chemistry==
+Because there are so many analogues of fentanyl, the naming for them tends to follow classical or IUPAC nomenclature conventions. This section is written to help illustrate the basic ring structure of fentanyl and what popular analogues reference on the carbon skeleton, helping a chemist working with fentanyl analogues quickly and consistently navigate the nomenclature system.
+
+; Part I
+
+[[File:Fentanyl Synthesis p1.png|class=skin-invert-image|right|thumb|300px|The synthesis of fentanyl and its analogues are illustrated in this skeletal diagram.]]
+
+The synthesis of fentanyl and its analogues are illustrated in these skeletal diagrams. The synthesis of fentalogs is done by reacting the ring structure as a base, 4-ANPP also called 4-anilino-N-phenethylpiperidine and despropionylfentanyl. 4-ANPP acts as a base because of its two amine nitrogens, the secondary amine acts as a base to react with an organic acid which condenses into an amide. Depending on the organic acid used in the amide condensation, different analogues of fentanyl will be produced. To help align this phenomenon in the eyes of chemists, we have numerated the precursor 4-ANPP with a [0.], and then the reactions synthesizing fentanyl, acetylfentanyl, butyrylfentanyl, and benzoylfentanyl with a [1.], [2.], [3.], and [4.] respectively. To further aid in the chemical pedagogy we have aligned each number with a reaction number -> precursor -> product system that follows the following scheme:
+EXAMPLE: reaction number -> precursor -> product [compound name] 1 -> α -> a [fentanyl] 2 -> β -> b [acetylfentanyl] 3 -> γ -> c [butyrylfentanyl] 4 -> δ -> d [benzoylfentanyl]
+
+Using the above scheme, a chemist can quickly extrapolate the reactions necessary for other fentanyl analogues with more complex organic acids, such as cyclopropryl fentanyl or cyclopentyl fentanyl, or any other fentanyl analogue derived from a reaction of 4-ANPP with a novel organic acid.
+
+; Part II
+
+[[File:Synthesis p2.png|class=skin-invert-image|right|thumb|300px|The synthesis of fentanyl and its analogues are illustrated in this skeletal diagram. Part II]]
+
+The modifications covered in this diagram have to do with carbon skeleton modifications of the original fentanyl molecular structure.
+These are organized into methyl acetate additions, which are most known for the fentanyl -> carfentanil conversion. Many analogues of great potency, such as ohmfentanyl and lofentanyl possess methyl acetate groups added to the 4-carbon (of the piperidine ring, in the para- position relative to the annular nitrogen). The methyl acetate is added here from the α-carbon of the acetate moiety as it is with ohm- and lofentanyl. The 4-carbon is not a chiral center in carfetnanil because of a lack of piperidinyl substituents, but this same carbon is a chiral center in both ohm- and lofentanyl because both of those analogues have piperidinyl substituents.
+
+The second group are organized into methyl additions, which are known for the fentanyl analogues such as α-methylfentanyl and cis-3-methylfentanyl. These analogues can possess a wide variety of modified pharmacological properties, including increased and decreased potency (receptor binding efficiency), increased or decreased half-life (metabolic binding efficiency) or other side effects on human physiology. Other substituents such as hydroxy, chloro, fluoro, and a wide variety of alkyl groups, are also substituted in place of these methylations to produce psychoactive analogues of fentanyl, but because they often use the same skeletal naming conventions as the simple methyl analogues, we did not reproduce them all in the image here.
+
+; Part III
+
+[[File:Fentanyl Synthesis p3.png|class=skin-invert-image|right|thumb|300px|The synthesis of fentanyl and its analogues are illustrated in this skeletal diagram. Part III]]
+
+The modifications described here cover alterations to the ring structure donated by the fentanyl precursor 4-ANPP. Although another series covered substitutions of hydrogen atoms on the original carbon ring structure, sometimes called functional group additions, this series focuses on the three main modifications to the phenethyl moiety. The first modifications is the removal of the phenethyl moeity from the piperidinyl nitrogen, depicted here as hydrolysis yielding phenethanol. This changes the parent skeletal name to norfentanyl.
+
+The second and third modifications are the removal and addition of a methylene moiety internally in the ethyl chain within the greater phenethyl moiety. The removal of a methylene, which shortens the chain by one carbon length, creates the benzylfentanyl structure. The addition of a methylene, which lengthens the chain by one length, creates homofentanyl.
+
+; Part IV
+
+[[File:Fentanyl Synthesis p4.png|class=skin-invert-image|right|thumb|300px|The synthesis of fentanyl and its analogues are illustrated in this skeletal diagram. Part IV]]
+
+The modifications covered in this diagram have to do with stereochemistry and the assignment of unique Cahn-Ingold-Prelog R/S assignments to complex analogues of fentanyl.
+The stereochemistry of fentanyl analogues can seem at first counter-intuitive, because of the complex and unique nature of the reasoning organic chemists must develop to internalize complex three dimensional geometries such as those needed to comprehend stereochemistry. Thankfully these images follow a simple procedure for organizing a potential analogue of fentanyl into the total number of unique stereoisomers, the number of true stereocenters on the molecule, and the number of Cahn-Ingold-Prelog R/S assignments that are appropriate for that analogue.
+
+The procedure used in the analysis of stereochemistry in these series of images is the following:
+
+# First the image is drawn out.
+# Second asterisks are placed by potential stereocenters as indicators (*).
+# Third the pairs of each stereocenters R and S orientations are combined through all possible permutations of stereocenters.
+# Fourth the permutations are checked for super-imposability, indicating that they are varying around what is not a true stereocenter and therefore the permutations are truly the self-same stereoisomer.
+
+This procedure will be used when making an assessment of the number of valid stereoisomers that an analogue of fentanyl will be predicted to have. Because the analogues of fentanyl are so large, and the moieities (sub-regions) of the molecule that are relevant to its chirality are so small, that we often reproduce the fentanyl analogue as a smaller, simpler molecule with the same number of, and dynamics between its, stereocenters. This saves significant space allowing us not to reproduce redundant material that consumes a lot of space on the image.
+
+The first case studied here is fentanyl itself, or propionyl-4-anilino-N-phenethylpiperidine, the most well known of the fentanyl analogues and the eponymous molecule (namesake) for the whole chemical category. The only identified stereocenter is found at the 4-carbon, opposite the piperidine nitrogen but adjacent to the aniline nitrogen. This seems to be a stereocenter because of the apparent 4 unique substituents. We transfer this stereocenter to the equivalent molecule cyclohexanol, with an analogous apparent stereocenter. Once we draw out the potential stereoisomers, we see that the two structures are super-imposable in three dimensions, and therefore are the self-same molecule. For this reason fentanyl does not have R/S assignments.
+
+The second case studied here is of 3-methylfentanyl. There are two potential stereocenters, at the 4-carbon and also at the 3-carbon, where there is additionally a methyl group. Now, we mark both 3 and 4 carbon as potential stereocenters with an asterisk (*), and see how many potential stereoisomers we can eliminate. We see that of the four permutations of stereoisomers, none are super-imposable in three dimensions, meaning each is a unique stereoisomer and that both potential stereocenters were true. This gives four potential R/S assignments, 1R3S, 1R3R, 1S3S, 1S3R. What is particularly interesting and quite a contrast from the previous example of cyclohexanol, is the stereocenter at C-4 is indeed a true stereocenter here, whereas in the previous example of cyclohexanol as an analogy to fentanyl, the C-4 was not a true stereocenter. This changed because the modification of the C-3 carbon without an equivalent change on the C-2 carbon created an imbalance between two formerly identical substituents, creating a novel stereocenter where there was not one previously. This is why it is so important to follow the 4 steps in the above procedure every time, as "inherited procedural wisdom" may hold an organic chemist back in finding the true or correct answer.
+
+; Part V
+
+[[File:Fentanyl Synthesis p5.png|class=skin-invert-image|right|thumb|300px|The synthesis of fentanyl and its analogues are illustrated in this skeletal diagram. Part V]]
+
+The third case studied here is alpha-methylfentanyl. This group contains a substitution similar to the 3-methylfentanyl that was examined in the previous example on the previous image in this series (Fentanyl Synthesis p4.png), but it is on the phenethyl chain as opposed to being implanted on the piperidine ring. We then mark the two stereocenters, one on the C-4 carbon just as on fentanyl itself, and the other on the C-α (alpha carbon). To analogize these stereocenters we chose N-(1-hydroxyethyl)-4-hydroxypiperidine. When we draw out all potential stereoisomers, we see that the C-4 stereocenter is super-imposable, eliminating it as a true stereocenter. This leaves only 2 R/S assignments that follow the orientation of the stereocenter at the C-α (alpha carbon) position for the real α-methylfentanyl. These are labeled 7S and 7R, a reflection of the stereocenter in the piperidine derivative we used being at C-7 position. It is interesting that the C-4 stereocenter, which has no chiral activity in fentanyl (1st example), activiates it in 3-methylfentanyl with an on-the-ring addition, and loses it again in α-methylfentanyl with an off-the-ring addition.
+
+The fourth case studied here is ohmfentanyl. Ohmfentanyl has three potential stereocenters, which are best analogized by another piperidine derivative: N-(1-hydroxyethyl)-3-methyl-4-hydroxypiperidine. This uses a similar structure to analogize the three potential stereocenters in ohmfentanyl, namely the 4-C, the 3-C, and the β-C (beta carbon). These three stereocenters are analogized in the C-4, C-3, and C-7 respectively. When we draw all potential stereoisomers out we see that they are not super-imposable in any combination of pairing, and therefore we have eight unique stereoisomers and three true stereocenters. This yields eight unique R/S assignment combinations which are outlined as captions under the stereoisomers of the analogous molecule.
+
+These fundamentals are typically enough to help a chemists navigate the world of fentanyl analogues proficiently. Other substituents and substitutions generally follow the naming conventions outlined in this section. However, the presence of three six-membered rings which can each be independently substituted can easily lead to confusion, especially with the inconsistent use of [[Prime (symbol)#Use in mathematics, statistics, and science|prime notation]].
+
+[[File:4-methylfentanyl_isomers_structure.png|class=skin-invert-image|left|thumb|300px|The structures of 4-methylfentanyl (left), 4'-methylfentanyl (centre) and 4"-methylfentanyl (right)]]
+[[File:3-methylthiofentanyl_isomers_structure.png|class=skin-invert-image|left|thumb|300px|The structures of 3-methylthio-fentanyl (left) and 3-methyl-thiofentanyl (right)]]
+
+For instance, 4-methylfentanyl, 4'-methylfentanyl and 4"-methylfentanyl are all known compounds, as are 3-methylthio-fentanyl and 3-methyl-thiofentanyl, all of which have varying potencies and pharmacokinetics.
+
+Confusion between different positional isomers is especially significant in the case of fentanyls because of the huge variation in potency between different members of the class.<ref name="pmid37236405">{{cite journal | vauthors = Varshneya NB, Hassanien SH, Holt MC, Stevens DL, Layle NK, Bassman JR, Iula DM, Beardsley PM | display-authors = 6 | title = Fentanyl analog structure-activity relationships demonstrate determinants of diverging potencies for antinociception and respiratory depression | journal = Pharmacology, Biochemistry, and Behavior | volume = 226 | issue =  | article-number = 173572 | date = May 2023 | pmid = 37236405 | doi = 10.1016/j.pbb.2023.173572 | pmc = 10326888 }}</ref> The weakest compounds such as benzylfentanyl are around the same potency as [[codeine]] (i.e. approximately 1/10th the potency of [[morphine]]), while the strongest compounds such as carfentanil and ohmefentanil can be over 10,000x more potent than morphine, meaning there is a 100,000-fold variation in potency between the strongest and weakest fentanyl derivatives. This means that two positional isomers with the same molecular weight, which may be difficult to tell apart without detailed chemical analysis, may be hundreds or even thousands of times different in pharmacological potency. Also the wide variety of substitutions that have been used on the basic fentanyl structure, each of which can either reduce or increase the potency, can be unpredictable when used in combination, so it may be impossible to estimate the likely potency of newly discovered analogues until pharmacological testing has been carried out.
+{{clear}}
+
+== See also ==
+* [[25-NB]]
+* [[Arylcyclohexylamine]]
+* [[List of benzimidazole opioids]]
+* [[List of orphine opioids]]
+* [[List of phenyltropanes]]
+* [[Opioid]]
+* [[Structural scheduling of synthetic cannabinoids]]
+* [[Substituted cathinone]]
+* [[Utopioid (drug class)|Utopioid]]
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{reflist|32em}}
+
+== External links ==
+* {{cite web |title=Fentanyl landscape {{!}} PiHKAL · info |url=https://isomerdesign.com/PiHKAL/tableLandscape.php?domain=pk&property=fentanyl&sort=name |website=isomerdesign.com}}
+
+{{General anesthetics}}
+{{Analgesics}}
+{{Opioid receptor modulators}}
+{{Chemical classes of psychoactive drugs}}
+
+[[Category:Fentanyl| ]]
+[[Category:Anilides]]
+[[Category:Chemical classes of psychoactive drugs]]
+[[Category:Chemistry-related lists|Fentanyl analogues]]
+[[Category:Designer drugs]]
+[[Category:Euphoriants]]
+[[Category:General anesthetics]]
+[[Category:Janssen Pharmaceutica]]
+[[Category:Mu-opioid receptor agonists]]
+[[Category:Piperidines]]
+[[Category:Propionamides]]
+[[Category:Synthetic opioids]]

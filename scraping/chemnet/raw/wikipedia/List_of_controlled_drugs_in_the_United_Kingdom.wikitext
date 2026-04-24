@@ -1,0 +1,922 @@
+{{Short description|Act of the Parliament of the United Kingdom}}
+{{Use dmy dates|date=January 2026}}
+{{Use British English|date=June 2019}}
+{{Infobox UK legislation
+|short_title=Misuse of Drugs Act 1971{{efn|name=st|Section 40(1).}}
+|type=Act
+|parliament=Parliament of the United Kingdom
+|long_title=An Act to make new provision with respect to dangerous or otherwise harmful drugs and related matters, and for purposes connected therewith.
+|year=1971
+|citation=[[List of acts of the Parliament of the United Kingdom from 1971|1971]] c. 38
+|introduced_commons=[[Reginald Maudling]]
+|territorial_extent=[[United Kingdom]]{{efn|Section 40(2).}}
+|royal_assent=27 May 1971
+|commencement={{ubli|1 February 1972 (sections 1, 32, 35, 37, 38 and 40 and schedule 1){{efn|Section 40(3). The [[Misuse of Drugs Act 1971 (Commencement No. 1) Order 1971]].}}|1 July 1973 (rest of act){{efn|Section 40(3). The [[Misuse of Drugs Act 1971 (Commencement No. 2) Order 1973]].}}}}
+|repeal_date=
+|amends={{ubli|[[Extradition Act 1870]]|[[Matrimonial Proceedings (Magistrates' Courts) Act 1960]]|[[Hovercraft Act 1968]]|[[Medicines Act 1968]]}}
+|replaces={{ubli|[[Drugs (Prevention of Misuse) Act 1964]]|[[Dangerous Drugs Act 1965]]|[[Dangerous Drugs Act 1967]]}}
+|amendments={{ubli
+|[[Northern Ireland Constitution Act 1973]]
+|[[Misuse of Drugs Act 1971 (Modification) Order 1973]]
+|[[Criminal Procedure (Scotland) Act 1975]]
+|[[Misuse of Drugs Act 1971 (Modification) Order 1975]]
+|[[Pharmacy (Northern Ireland) Order 1976]]
+|[[Criminal Law Act 1977]]
+|[[Misuse of Drugs Act 1971 (Modification) Order 1977]]
+|[[Judicature (Northern Ireland) Act 1978]]
+|[[Domestic Proceedings and Magistrates' Courts Act 1978]]
+|[[Customs and Excise Management Act 1979]]
+|[[Magistrates' Courts Act 1980]]
+|[[Criminal Attempts Act 1981]]
+|[[Senior Courts Act 1981]]
+|[[Magistrates' Courts (Northern Ireland) Order 1981]]
+|[[Criminal Justice Act 1982]]
+|[[Medical Act 1983]]
+|[[Criminal Attempts and Conspiracy (Northern Ireland) Order 1983]]
+|[[Misuse of Drugs Act 1971 (Modification) Order 1983]]
+|[[Dentists Act 1984]]
+|[[Police and Criminal Evidence Act 1984]]
+|[[Fines and Penalties (Northern Ireland) Order 1984]]
+|[[Misuse of Drugs Act 1971 (Modification) Order 1984]]
+|[[Controlled Drugs (Penalties) Act 1985]]
+|[[Misuse of Drugs Act 1971 (Modification) Order 1985]]
+|[[Drug Trafficking Offences Act 1986]]
+|[[Misuse of Drugs Act 1971 (Modification) Order 1986]]
+|[[Criminal Justice Act 1988]]
+|[[Extradition Act 1989]]
+|[[Misuse of Drugs Act 1971 (Modification) Order 1989]]
+|[[Criminal Justice (International Co-operation) Act 1990]]
+|[[Courts and Legal Services Act 1990]]
+|[[Misuse of Drugs Act 1971 (Modification) Order 1990]]
+|[[Judicial Pensions and Retirement Act 1993]]
+|[[Criminal Justice and Public Order Act 1994]]
+|[[Drug Trafficking Act 1994]]
+|[[Proceeds of Crime (Northern Ireland) Order 1996]]
+|[[Misuse of Drugs Act 1971 (Modification) Order 1996]]
+|[[Misuse of Drugs Act 1971 (Modification) Order 1998]]
+|[[Criminal Justice and Police Act 2001]]
+|[[Misuse of Drugs Act 1971 (Modification) Order 2001]]
+|[[Proceeds of Crime Act 2002]]
+|[[Criminal Justice Act 2003]]
+|[[Misuse of Drugs Act 1971 (Modification) Order 2003]]
+|[[Misuse of Drugs Act 1971 (Modification) (No. 2) Order 2003]]
+|[[Statute Law (Repeals) Act 2004]]
+|[[Constitutional Reform Act 2005]]
+|[[Drugs Act 2005]]
+|[[Misuse of Drugs Act 1971 (Amendment) Order 2006]]
+|[[Tribunals, Courts and Enforcement Act 2007]]
+|[[Serious Crime Act 2007]]
+|[[European Qualifications (Health and Social Care Professions) Regulations 2007]]
+|[[Misuse of Drugs Act 1971 (Amendment) Order 2008]]
+|[[Northern Ireland Act 2009]]
+|[[Policing and Crime Act 2009]]
+|[[Misuse of Drugs Act 1971 (Amendment) Order 2009]]
+|[[Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010]]
+|[[Misuse of Drugs Act 1971 (Amendment) Order 2010]]
+|[[Misuse of Drugs Act 1971 (Amendment No. 2) Order 2010]]
+|[[Police Reform and Social Responsibility Act 2011]]
+|[[Misuse of Drugs Act 1971 (Amendment) Order 2011]]
+|[[Scotland Act 2012]]
+|[[Misuse of Drugs Act 1971 (Amendment) Order 2012]]
+|[[Misuse of Drugs Act 1971 (Amendment) Order 2013]]
+|[[Misuse of Drugs Act 1971 (Ketamine etc.) (Amendment) Order 2014]]
+|[[Misuse of Drugs Act 1971 (Amendment) Order 2014]]
+|[[Misuse of Drugs Act 1971 (Amendment) (No. 2) Order 2014]]
+|[[Misuse of Drugs Act 1971 (Amendment) Order 2015]]
+|[[Misuse of Drugs Act 1971 (Amendment) Order 2016]]
+|[[Criminal Justice (Scotland) Act 2016 (Consequential and Supplementary Modifications) Regulations 2017]]
+|[[Misuse of Drugs Act 1971 (Amendment) Order 2017]]
+|[[Misuse of Drugs Act 1971 (Amendment) Order 2019]]
+|[[Sentencing (Pre-consolidation Amendments) Act 2020]]
+|[[Sentencing Act 2020]]
+|[[Misuse of Drugs Act 1971 (Amendment) Order 2021]]
+|[[Judicial Review and Courts Act 2022]]
+|[[Public Service Pensions and Judicial Offices Act 2022]]
+|[[Misuse of Drugs Act 1971 (Amendment) Order 2022]]
+|[[Misuse of Drugs Act 1971 (Amendment) Order 2024]]
+|[[Misuse of Drugs Act 1971 (Amendment) (No. 2) Order 2024]]
+}}
+|related_legislation={{ubli|[[Customs and Excise Act 1952]]}}
+|repealing_legislation=
+|status=Amended
+|original_text=http://www.legislation.gov.uk/ukpga/1971/38/contents/enacted
+|revised_text=http://www.legislation.gov.uk/ukpga/1971/38/contents
+|use_new_UK-LEG=yes
+|}}
+
+The '''Misuse of Drugs Act 1971'''{{efn|name=st}} (c. 38) is an [[Act of Parliament (United Kingdom)|act]] of the [[Parliament of the United Kingdom]]. It represents action in line with [[treaty]] commitments under the [[Single Convention on Narcotic Drugs]],<ref>{{cite web|url=https://www.unodc.org/unodc/en/treaties/single-convention.html |title=''Single Convention on Narcotic Drugs, 1961'', United Nations Office on Drugs and Crime website, accessed 6 February 2009 |publisher=Unodc.org |date=2007-10-24 |access-date=2011-01-23}}</ref> the [[Convention on Psychotropic Substances]],<ref>{{cite web|url=https://www.unodc.org/unodc/en/treaties/psychotropics.html |title=''Convention on Psychotropic Substances, 1971'', United Nations Office on Drugs and Crime website, accessed 6 February 2009 |publisher=Unodc.org |date=2007-10-24 |access-date=2011-01-23}}</ref> and the [[United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances]].<ref>{{cite web|url=https://www.unodc.org/unodc/en/treaties/illicit-trafficking.html |title=''Convention against the Illicit Traffic in Narcotic Drugs and Psychotropic Substances, 1988'', United Nations Office on Drugs and Crime website, accessed 6 February 2009 |publisher=Unodc.org |date=2007-10-24 |access-date=2011-01-23}}</ref>
+
+Offences under the act include:<ref>{{cite web|url=http://drugs.homeoffice.gov.uk/drugs-laws/misuse-of-drugs-act/ |title=''Misuse of Drugs Act'', Home Office representation of the act, Home Office website, accessed 27 January 2009 |publisher=Drugs.homeoffice.gov.uk |access-date=2011-01-23 |url-status=dead |archive-url=https://web.archive.org/web/20100504122200/http://drugs.homeoffice.gov.uk/drugs-laws/misuse-of-drugs-act/ |archive-date=4 May 2010 }}</ref>
+* Possession of a [[List of controlled drugs in the United Kingdom|controlled drug]] unlawfully
+* Possession of a controlled drug with intent to supply it
+* Supplying or offering to supply a controlled drug (even where no charge is made for the drug)
+* Allowing premises you occupy or manage to be used unlawfully for the purpose of producing or supplying controlled drugs
+
+The act establishes the [[Home Secretary]] as the principal authority in a drug [[licence|licensing]] system. Therefore, for example, various [[opiate]]s are available legally as prescription-only medicines, and [[cannabis (drug)|cannabis]] ([[hemp]])<ref name="Canna 3"/> may be grown under licence for 'industrial purposes'. The '''{{visible anchor|Misuse of Drugs Regulations 2001}}''' ([[SI 2001]]/3998),<ref name="uksi20012998">{{UK SI|title=The Misuse of Drugs Regulations 2001|year=2001|number=3998}}</ref><!--<ref>{{cite web|url=http://www.opsi.gov.uk/si/si2001/20013998.htm |title="The Misuse of Drugs Regulations 2001", OPSI website, accessed 28 January 2009 |publisher=Opsi.gov.uk |date=2010-07-16 |access-date=2011-01-23}}</ref>--> created under the 1971 Act, are about licensing of production, possession and supply of substances classified under the act. These created drug 'schedules', under which the supply of drugs are controlled.
+
+The act creates three classes of controlled substances, A, B, and C, and ranges of penalties for illegal or unlicensed possession and possession with intent to supply are graded differently within each class. The lists of substances within each class can be amended by [[Order in Council]], so the Home Secretary can list new drugs and upgrade, downgrade or delist previously controlled drugs with less of the bureaucracy and delay associated with passing an act through both [[Houses of Parliament]].
+
+Critics of the act such as [[David Nutt]] say that its classification is not based on how harmful or addictive the substances are, and that it is unscientific to omit substances like tobacco and alcohol.
+
+== List of controlled drugs ==
+These drugs are known in the [[United Kingdom|UK]] as ''controlled drug'', because this is the term by which the act itself refers to them. In more general terms, however, many of these drugs are also controlled by the [[Medicines Act 1968]], there are many other drugs which are controlled by the Medicines Act but not by the Misuse of Drugs Act, and some other drugs ([[alcohol (drug)|alcohol]], for example) are controlled by other laws.
+
+The act sets out four separate categories: Class A, Class B, Class C and temporary class drugs. Substances may be removed and added to different parts of the schedule by [[statutory instrument]], provided a report of the [[Advisory Council on the Misuse of Drugs]] (ACMD) has been commissioned and has reached a conclusion, although the [[Secretary of State (United Kingdom)|Secretary of State]] is not bound by the council's findings.
+
+* Class A includes [[cocaine]], [[heroin]], [[morphine]], [[oxycodone]], [[fentanyl]], [[MDMA]] ("ecstasy"), [[methamphetamine]], [[opium]], [[LSD]], [[hydrocodone]], [[Dimethyltryptamine|DMT]], [[mescaline]] extracts,{{efn|Plants containing mescaline not illegal, only an extract of the substance.}} and [[psilocybin]]/[[psilocin]] ([[magic mushrooms]]).
+* Class B includes [[cannabis (drug)|cannabis]], [[synthetic cannabinoids|synthetic and semisynthetic cannabinoids]], [[ketamine]], [[amphetamine]], [[codeine]], [[methcathinone]], [[barbiturate]]s, [[mephedrone]], [[methaqualone]], [[methylphenidate]], [[gamma-Hydroxybutyric acid|GHB]], and [[Gamma-Butyrolactone|GBL]]. Any class B drug that is prepared for injection use becomes a class A substance.
+* Class C includes [[benzodiazepine]]s, [[xylazine]], [[pregabalin]], and most other non-barbiturate tranquillisers; [[tramadol]], [[gabapentin]]; [[anabolic steroid]]s, [[nitrous oxide]], [[khat]], [[substituted piperazines]], and [[substituted cathinones]].
+* All other psychoactive drugs except [[alcohol (drug)|alcohol]], [[caffeine]], and [[tobacco]] (or other approved [[nicotine]] preparations) are controlled under the [[Psychoactive Substances Act 2016]] and [[Medicines Act 1968]].
+
+In reality the potential harm has little bearing on the class,<ref name="nutt's paper">{{cite journal | title = Drug harms in the UK: a multicriteria decision analysis | journal = The Lancet | date = 6 November 2010 | first = David J | last = Nutt |author2=Leslie A King |author3=Lawrence D Phillips  | volume = 376 | issue = 9752 | pages = 1558–1565| url = http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(10)61462-6/abstract | access-date = 8 February 2012 | quote = Alcohol, heroin and crack were found to be most harmful, while LSD, Buprenorphine and psilocybin mushrooms were found to be least harmful. | doi=10.1016/S0140-6736(10)61462-6 | pmid=21036393| bibcode = 2010Lanc..376.1558N | citeseerx = 10.1.1.690.1283 | s2cid = 5667719 }}</ref> which has led to dissatisfaction with drug laws.<ref>{{cite news | first = David | last = Nutt | title = Trashing evidence-based drugs policy | date = 1 April 2010 | url = https://www.theguardian.com/commentisfree/2010/apr/01/mephedrone-drug-classification-scientific-policy | work = The Guardian | access-date = 8 February 2012 | quote = We will give the public the kind of high-quality evidence on drug harms our current crop of politicians apparently do not feel they need before making far reaching decisions around drugs classification.}}</ref>
+
+Substances may be removed and added to different parts of the schedule by [[statutory instrument (UK)|statutory instrument]], provided a report of the ACMD has been commissioned and has reached a conclusion, although the [[Secretary of State (United Kingdom)|Secretary of State]] is not bound by the council's findings. This list has in practice been modified a great number of times, sometimes removing substances, but more commonly adding some; for example, many [[benzodiazepines]] became Class C drugs in 1985, and many [[cathinones]] became Class B drugs in 2010.
+
+{| class="wikitable" style="float: right; clear:right; margin: 0 0 0.5em 1em; padding: 0.5em; border: 1px solid #ddb; width: 330px; font-size:90%;"
+|-
+|'''Glossary of terminology used in this list'''
+'''[[anabolic steroid]]s''' – hormones that build muscle tissue<br />
+'''[[benzodiazepine]]s''' – a class of [[sedative]]/[[anxiolytic]] drugs<br />
+'''[[cannabinoid]]s''' – drugs that bind to cannabinoid receptors<br />
+'''[[arylcyclohexamine]]s''' – dissociatives which act on the NMDA receptors<br />
+'''[[opioid]]s''' – drugs that bind to [[opioid receptors]]<br />
+'''[[phenethylamine]]s''' – psychedelics based on phenethylamine<br />
+'''[[sedative]]s''' – drugs that lower arousal<br />
+'''[[stimulant]]s''' – drugs that heighten arousal<br />
+'''[[tryptamine]]s''' – psychedelics based on tryptamine
+|}
+
+=== Class A drugs ===
+1. The following substances:<ref name=ABC>{{cite web |url=http://www.legislation.gov.uk/ukpga/1971/38/schedule/2 |title=Misuse of Drugs Act 1971 (c. 38): SCHEDULE 2: Controlled Drugs |publisher=Office of Public Sector Information |access-date=15 June 2009 }}</ref>{{Primary source inline|reason=This is a reference to the act itself, with little explanation and elaboration, and is hard to read.|date=July 2023}}
+{| class="wikitable sortable mw-collapsible mw-collapsed" border="1"
+|-
+! Name as specified<br />in the act
+! Brand or<br />street name
+! Drug type
+! Year<br />added<br />
+! Notes and comments
+|-
+| [[Acetorphine]] || || rowspan="15" | opioid || 1971 || primarily used to sedate elephants, giraffes and rhinos
+|-
+| [[Alfentanil]] || || 1984 ||
+|-
+| [[Allylprodine]] || || rowspan="14" | 1971  ||
+|-
+| [[Alphacetylmethadol]] || || synthetic
+|-
+| [[Alphameprodine]] || ||
+|-
+| [[Alphamethadol]] || ||
+|-
+| [[Alphaprodine]] || ||
+|-
+| [[Anileridine]] || ||
+|-
+| [[Benzethidine]] || ||
+|-
+| [[Benzylmorphine]] || ||
+|-
+| [[Betacetylmethadol]] || ||
+|-
+| [[Betameprodine]] || ||
+|-
+| [[Betamethadol]] || ||
+|-
+| [[Betaprodine]] || ||
+|-
+| [[Bezitramide]] || Burgodin ||
+|-
+| [[Bufotenin]] || Toad skin toxin || tryptamine || found in the skins of [[psychoactive toad]]s, especially ''[[Bufo alvarius]]''
+|-
+| [[Carfentanil]] || Wildnil || rowspan="2" | opioid || 1986 || Strongest known opioid; 10,000 times more potent than morphine, 100 times more potent than fentanyl. Used as a tranquilliser for large game (elephants etc.).
+|-
+| [[Clonitazene]] || || rowspan="7" | 1971 ||
+|-
+| [[Coca]] leaf || || ''[[Erythroxylum]]'' || the plant from which cocaine is derived
+|-
+| [[Cocaine]] || Coke, [[Crack cocaine|crack, rock]], girl, Charlie, sniff, snow, packet, blow, whiff, gear, bugle, toot, bag, the Devil's dandruff, marching powder || Tropane alkaloid ||
+|-
+| [[Desomorphine]] || Krokodil (Russian for crocodile) || rowspan="6" | opioid || Primarily used in Russia and Ukraine. Its full chemical name is dihydrodesoxymorphine, and is a 3,6 diester salt of morphine
+|-
+| [[Dextromoramide]] || Palfium ||
+|-
+| [[Diampromide]] || ||
+|-
+| [[Diethylthiambutene]] || ||
+|-
+| [[Difenoxin]] || Roskies || 1975 ||
+|-
+| [[Codoxime|Dihydrocodeinone O-carboxymethyloxime]] || || 1971 ||
+|-
+| [[Dihydroetorphine]] || || opioid (see notes) || 2003 || Semi-synthetic opioid; derivative of [[etorphine]]<ref name=order2003>{{cite web |url=http://www.legislation.gov.uk/uksi/2003/1243/contents/made |title=The Misuse of Drugs Act 1971 (Modification) Order 2003 |publisher=Office of Public Sector Information |access-date=15 June 2009 }}</ref>
+|-
+| [[Dihydromorphine]] || Paramorphan || rowspan="8" | opioid || rowspan="7" | 1971 ||
+|-
+| [[Dimenoxadol]] || ||
+|-
+| [[Dimepheptanol]] || || An analogue of methadone
+|-
+| [[Dimethylthiambutene]] || ||
+|-
+| [[Dioxaphetyl butyrate]] || ||
+|-
+| [[Diphenoxylate]] || ||
+|-
+| [[Dipipanone]] || ||
+|-
+| [[Drotebanol]] || || 1973 ||
+|-
+| [[Ecgonine]] || || ''[[Precursor (chemistry)|precursor]]'' || rowspan="2" | 1971 || "and any derivative of ecgonine which is convertible to ecgonine or to cocaine"
+|-
+| [[Ethylmethylthiambutene]] || || opioid ||
+|-
+| [[Eticyclidine]] || || arylcyclohexylamine || 1984 ||
+|-
+| [[Etonitazene]] || || rowspan="3" | opioid || rowspan="3" | 1971 ||
+|-
+| [[Etorphine]] || || 1,000–3,000 times more potent than morphine, veterinary use only for large game
+|-
+| [[Etoxeridine]] || ||
+|-
+| [[Etryptamine]] || || Tryptamine || 1998 ||<ref name=order1998>{{cite web |url=http://www.legislation.gov.uk/uksi/1998/750/contents/made |title=The Misuse of Drugs Act 1971 (Modification) Order 1998 |publisher=Office of Public Sector Information |access-date=15 June 2009 }}</ref>
+|-
+| [[Fentanyl]] || Actiq, Duragesic, Sublimaze || rowspan="13" | opioid || rowspan="12" | 1971 || Approximately 100 times the strength of [[morphine]]
+|-
+| [[Furethidine]] || ||
+|-
+| [[Hydrocodone]] || Vicodin, Norco, Lortab ||
+|-
+| [[Hydromorphinol]] || ||
+|-
+| [[Hydromorphone]] || Dilaudid, Palladone, Hymorphan, drug store heroin ||
+|-
+| [[Hydroxypethidine]] || ||
+|-
+| [[Isomethadone]] || || Simple positional isomer of [[Methadone]]
+|-
+| [[Ketobemidone]] || ||
+|-
+| [[Levomethorphan]] || ||
+|-
+| [[Levomoramide]] || || The totally inactive isomer of dextromoramide
+|-
+| [[Levophenacylmorphan]] || ||
+|-
+| [[Levorphanol]] || Levo-Dromoran ||
+|-
+| [[Lofentanil]] || || 1986 ||
+|-
+| [[Lysergamide]] || || rowspan="2" | ergoline || rowspan="3" | 1971 || A precursor to LSD
+|-
+| [[Lysergic acid diethylamide]] || LSD, acid || "Lysergide and other N-alkyl derivatives of lysergamide"
+|-
+| [[Mescaline]] || Mescal || rowspan="3" | phenethylamine || found naturally in types of [[cactus]]; cacti themselves not illegal
+|-
+| [[MDMA]] || MD, Ecstasy (abbreviated E, X, or XTC), Molly (US), or Mandy (UK) || rowspan="2" | 1977 || Not specifically named but covered by the ban of alkylenedioxy-substituted phenethylamines
+|-
+| [[3,4-Methylenedioxyamphetamine|MDA]] || || Not specifically named but covered by the ban of alkylenedioxy-substituted phenethylamines
+|-
+| [[Metazocine]] || || rowspan="3" | opioid || rowspan="3" | 1971 ||
+|-
+| [[Methadone]] || Methadose, Dolophine || Used in opioid replacement therapy to treat addiction
+|-
+| [[Methadyl acetate]] || || used in treating opioid addiction, structurally related to methadone
+|-
+| [[Methamphetamine]] || Desoxyn, crystal meth, meth, ice, glass, tina, crank, gak, and others || stimulant || 2006 || Moved from class B to class A in 2006<ref>{{cite web |url=http://www.legislation.gov.uk/uksi/2006/3331/contents/made |title=Misuse of Drugs Act 1971 (Amendment) Order 2006 |publisher=Office of Public Sector Information |access-date=15 June 2009 }}</ref>
+|-
+| [[Methyldesorphine]] || || rowspan="12" | opioid || rowspan="20" | 1971 ||
+|-
+| [[Methyldihydromorphine]] || ||
+|-
+| [[Metopon]] || ||
+|-
+| [[Morphine]] || MS, dope, hard stuff, Miss Emma, junk, Mister Blue, God's drug, dreamer || Derivative of the [[opium poppy]] and powerful narcotic painkiller
+|-
+| [[Diamorphine|Morphine diacetate]] || H, heroin, smack, dope, boy, junk, black tar, skag, hero || 3,6 diester salt of morphine, morphine [[prodrug]]
+|-
+| [[Morphine methobromide]] || || "[[morphine N-oxide]] and other [[valency (chemistry)|pentavalent]] [[nitrogen]] morphine derivatives"
+|-
+| [[Myrophine]] || ||
+|-
+| [[Nicomorphine]] || || 3,6 diester salt of morphine
+|-
+| [[Noracymethadol]] || ||
+|-
+| [[Norlevorphanol]] || ||
+|-
+| [[Normethadone]] || ||
+|-
+| [[Normorphine]] || ||
+|-
+| [[Norpipanone]] || Hexalgon || methadol ||
+|-
+| [[Opium]] || Laudanum, Pantopon || ''opioid mixture'' || Milky secretion of the [[opium poppy]] – banned "whether raw, prepared or medicinal"
+|-
+| [[Oxycodone]] || OxyContin, Percocet || rowspan="6" | opioid || Widely used strong pain killer
+|-
+| [[Oxymorphone]] || Numorphan, Opana ||
+|-
+| [[Pethidine]] || Meperidine, Demerol, Dolantine ||
+|-
+| [[Phenadoxone]] || ||
+|-
+| [[Phenampromide]] || ||
+|-
+| [[Phenazocine]] || || Discontinued in 2001
+|-
+| [[Phencyclidine]] || Angel dust, PCP || arylcyclohexylamine || 1979 ||
+|-
+| [[Phenomorphan]] || || rowspan="4" | opioid || rowspan="8" | 1971 ||
+|-
+| [[Phenoperidine]] || ||
+|-
+| [[Piminodine]] || ||
+|-
+| [[Piritramide]] || Dipidolor ||
+|-
+| [[Poppy-straw]] || || ''[[Papaver somniferum]]'' || "Poppy-straw and concentrate of poppy-straw."
+|-
+| [[Proheptazine]] || || rowspan="2" | opioid ||
+|-
+| [[Properidine]] || ||
+|-
+| [[Psilocin]] || || Tryptamine || Psychoactive ingredient found in most psychedelic mushrooms; includes the prodrug [[psilocybin]].
+|-
+| [[Psilocybin mushroom]] || Magic mushrooms, shrooms || ''fungi'' || 2005 || "Fungus (of any kind) that contains psilocin or an ester of psilocin."<ref>{{cite web |url=http://www.legislation.gov.uk/ukpga/2005/17/contents |title=Drugs Act 2005 (c. 17) |publisher=Office of Public Sector Information |access-date=15 June 2009 }}</ref>
+|-
+| [[Racemethorphan]] || || rowspan="3" | ''opioid mixture'' || rowspan="3" | 1971 || [[Racemic mixture]] of [[Dextromethorphan]] (DXM) and [[Levomethorphan]]
+|-
+| [[Racemoramide]] || ||
+|-
+| [[Racemorphan]] || ||
+|-
+| [[Remifentanil]] || || opioid || 2003 ||<ref name=order2003 /> Strong painkiller; cannot be used without plasma infusion equipment
+|-
+| [[Rolicyclidine]] || PCPy || arylcyclohexylamine || 1984 || Very similar to [[phencyclidine]] (PCP)
+|-
+| [[Sufentanil]] || Sufenta || opioid || 1983 ||
+|-
+| [[Tenocyclidine]] || TCP || arylcyclohexylamine || 1984 || Very similar to [[phencyclidine]] (PCP), but considerably more potent
+|-
+| [[Tapentadol]] || Nucynta || rowspan="5" | opioid || 2009 || Dual action as a [[norepinephrine reuptake inhibitor]]
+|-
+| [[Thebacon]] || Acedicone || rowspan="2" | 1971 ||
+|-
+| [[Thebaine]] || ||
+|-
+| [[Tilidine|Tilidate]] || Valtran || 1983 ||
+|-
+| [[Trimeperidine]] || || 1971 ||
+|-
+| [[2,5-Dimethoxy-4-bromoamphetamine]] || DOB || phenethylamine || 1975 || a drug of the [[DOx]] family
+|-
+| [[4-Cyano-2-dimethylamino-4,4-diphenylbutane]] || || rowspan="2" | opioid (see note) || rowspan="5" | 1971 || Methadone intermediate
+|-
+| [[4-Cyano-1-methyl-4-phenyl-piperidine]] || || Intermediate chemical in generation of the opioid, Pethidine
+|-
+| [[N,N-Diethyltryptamine]] || DET, T-9 || rowspan="2" | tryptamine ||
+|-
+| [[N,N-Dimethyltryptamine]] || DMT, Changa || Intense psychedelic drug
+|-
+| [[2,5-Dimethoxy-4-methylamphetamine]] || DOM || phenethylamine || a drug of the [[DOx]] family.
+|-
+| [[N-Hydroxy-tenamphetamine]] || MDOH || stimulant || 1990 ||
+|-
+| [[1-Methyl-4-phenylpiperidine-4-carboxylic acid]] || Pethidinic acid || ''[[Precursor (chemistry)|precursor]]'' || rowspan="2" | 1971 ||
+|-
+| [[2-Methyl-3-morpholino-1,1-diphenylpropanecarboxylic acid]] || || opioid (see notes) || Converted in the body into the opioid Moramide
+|-
+| [[4-Methyl-aminorex]] || Ice || rowspan="2" | stimulant || 1990 ||
+|-
+| [[4,4'-Dimethylaminorex|4-Methyl-5-(4-methylphenyl)-4,5-dihydrooxazol-2-amine]] || Serotoni, 4,4'-DMAR || rowspan="2" | 2015<ref name="MT-45statinst">{{cite web | url=http://www.legislation.gov.uk/uksi/2015/215/made | title=The Misuse of Drugs Act 1971 (Amendment) Order 2015 | publisher=UK Home Office | date=11 February 2015 | access-date=11 March 2015}}</ref><ref name="MT45 press release">{{cite web | url=https://www.gov.uk/government/publications/circular-0032015-a-change-to-the-misuse-of-drugs-act-1971-control-of-mt-45-and-44-dmar | title=Circular 003/2015: a change to the Misuse of Drugs Act 1971: control of MT-45 and 4,4'-DMAR | publisher=UK Home Office | date=20 February 2015 | access-date=11 March 2015}}</ref> ||
+|-
+| [[MT-45|1-Cyclohexyl-4-(1,2-diphenylethyl)piperazine]] || MT-45 || opioid ||
+|-
+| [[4-Phenylpiperidine-4-carboxylic acid ethyl ester]] || Norpethidine || opioid (see notes)  || 1971 || Commonly used in the production of Pethidine, although it has little opioid activity in its own right
+|}
+
+: ''N.B. Sub-paragraphs (b) and (c) were added in 1977,<ref>{{Cite web |url=http://www.legislation.gov.uk/uksi/2014/3277/made |title=The Misuse of Drugs (Amendment No. 3) (England, Wales and Scotland) Regulations 2014 |date=11 December 2014 |website=www.nationalarchives.gov.uk/doc/open-government-licence/version/3/ |publisher=UK Home Office}}</ref> sub-paragraphs (d) and (e) were added in 1986. Sub-paragraph (ba) was subsequently added in 2001.<ref name=order2001>{{cite web |url=http://www.legislation.gov.uk/uksi/2001/3932/contents/made |title=The Misuse of Drugs Act 1971 (Modification) Order 2001 |publisher=Office of Public Sector Information |access-date=15 June 2009 }}</ref>''
+
+(b) any compound structurally derived from [[tryptamine]] or from a ring-hydroxy tryptamine by modification.
+
+(ba) a number of [[phenethylamine]] derivatives.<ref>{{cite book | last1 = King | first1 = L. A. | title = Forensic Chemistry of Substance Misuse: A Guide to Drug Control | publisher = RSC Publishing | year = 2009 | location = Cambridge }}</ref><ref>{{cite web | title = UK Misuse of Drugs act 2001 Amendment summary | url = http://isomerdesign.com/Cdsa/scheduleUK.php?schedule=1&ion=30&structure=C | access-date = 12 March 2014 | publisher = Isomer Design | archive-date = 22 October 2017 | archive-url = https://web.archive.org/web/20171022085110/http://isomerdesign.com/Cdsa/scheduleUK.php?schedule=1&ion=30&structure=C | url-status = dead }}</ref>
+
+(c) compounds structurally derived from [[phenethylamine]] an [[N-alkylphenethylamine]], a [[methylphenethylamine]], an [[N-alkyl-α-methylphenethylamine]], an [[ethylphenethylamine]], or an [[N-alkyl-α-ethylphenethylamine]] by certain modifications.
+
+(d) compounds structurally derived from [[fentanyl]] by certain modifications.
+
+(e) compounds structurally derived from [[pethidine]] by certain modifications.
+
+(ea) any compound with a maximum molecular mass of 500 atomic mass units and structurally derived from 2-(2-benzyl-benzimidazol-1-yl)ethanamine.
+
+(f) any compound structurally derived from [[mescaline]], 4-bromo-2,5-dimethoxy-α-methylphenethylamine, 2,5-dimethoxy-α,4-dimethylphenethylamine, [[3,4-Methylenedioxy-N-hydroxyamphetamine|N-hydroxytenamphetamine]] (N-hydroxy-MDA), or a compound specified in sub-paragraph (ba) or (c) above, by substitution at the nitrogen atom of the amino group with a benzyl substituent, whether or not substituted in the phenyl ring of the benzyl group to any extent.
+
+2. Any [[stereoisomer]]ic of a class A substance, excluding [[dextromethorphan]] or [[dextrorphan]].
+
+3. Any [[ester]] or [[ether]] of a class A substance (that is not listed as a class B substance).
+
+4. Any [[Salt (chemistry)|salt]] of a class A substance.
+
+5. Any preparation or other product containing a class A substance
+
+6. Any preparation of a class B substance designed for administration by [[Injection (medicine)|injection]].
+
+=== Class B drugs ===
+1. The following substances:<ref name=ABC />{{Primary source inline|reason=This is a reference to the act itself, with little explanation and elaboration, and is hard to read.|date=July 2023}}
+
+(a)
+{| class="wikitable sortable mw-collapsible mw-collapsed" border="1"
+|-
+! Name as specified<br />in the act
+! Brand or<br />street name<br />
+! Drug type<br />
+! Year<br />added<br />
+! Notes and comments
+|-
+| [[Acetyldihydrocodeine]] || || opioid || rowspan="3" | 1971 ||
+|-
+| [[Amphetamine]] || Adderall, Speed, whizz || stimulant ||
+|-
+| [[Codeine]] || Purple drank, Lean, Wock || opioid || legal without prescription in quantities of up to 12.8&nbsp;mg per dosage unit or 15&nbsp;mg/5&nbsp;ml in oral solution and only in combination with other drug. [[Codeine#United Kingdom|UK Codeine law]]
+|-
+| [[Cannabinol]] and derivatives || || cannabinoid, psychoactive || rowspan="2" | 2009 || downgraded from class A to class C in 2004<ref name="Canna 1">{{cite web |url=http://www.legislation.gov.uk/uksi/2003/3201/contents/made |title=The Misuse of Drugs Act 1971 (Modification)(No. 2) Order 2003 |publisher=Office of Public Sector Information |access-date=15 June 2009 }}</ref> and upgraded to class B in 2009<ref name="Canna 2">{{cite web |url=http://www.legislation.gov.uk/uksi/2008/3130/contents/made |title=The Misuse of Drugs Act 1971 (Amendment) Order 2008 |publisher=Office of Public Sector Information |access-date=15 June 2009 }}</ref> (Legalised for medicinal use in July 2018, and law excludes [[cannabidiol]] entirely)
+|-
+| [[Cannabis (drug)|Cannabis]] ||  Cannabis, Green, Hash, Marijuana, Pot, Puff, Gas, Bud, Skunk, Ganja, Weed (among others) || cannabinoid, psychedelic || All cannabis varieties, including those grown as [[hemp]], are controlled under the act, not just drug varieties<br /> [[Cannabis reclassification in the United Kingdom|Downgraded from class B to class C]] in 2004<ref name="Canna 1"/> and [[Cannabis reclassification in the United Kingdom#Return to class B|upgraded to class B]] in 2009<ref name="Canna 2"/>
+|-
+| [[Dihydrocodeine]] || Paracodine, Synalgos DC|| rowspan="2" | opioid || rowspan="2" | 1971 || legal in amounts up to 30&nbsp;mg prescribed by doctor in tablet form and compounded with an adjunct non-opioid such as paracetamol.
+|-
+| [[Ethylmorphine]] || Codethyline ||
+|-
+| [[Glutethimide]] || Doriden || sedative || 1985 ||
+|-
+
+| [[Ketamine]] || Ketalar, Special K, Ket, Kenny, Kenneth, horse tranquilliser || sedative || 2006,<ref>{{cite web |url=http://www.legislation.gov.uk/uksi/2005/3178/contents/made |title=The Misuse of Drugs Act 1971 (Amendment) Order 2005 |publisher=Office of Public Sector Information |access-date=15 June 2009 }}</ref> moved to class B in 2014<ref name="Ketamine amendment 2014">{{cite web | url=http://www.legislation.gov.uk/uksi/2014/1106/made | title=The Misuse of Drugs Act 1971 (Ketamine etc.) (Amendment) Order 2014 | publisher=UK Government | date=28 April 2014 | access-date=25 September 2014}}</ref>||Used by Doctors on Air Ambulance duties to provide pain relief for serious or life-threatening injuries in extreme circumstances, when casualty sedation is required prior to a potential [[Rapid Sequence Induction|RSI]].
+|-
+| [[Lefetamine]] || || rowspan="2" | stimulant || 1985 ||
+|-
+| [[Lisdexamfetamine]] || Elvanse in the UK, Vyvanse in the US || 2014<ref name="Ketamine amendment 2014"/> ||
+|-
+| [[Mecloqualone]] || || sedative || 1984 ||
+|-
+| [[a-Methylphenethylhydroxylamine]] || || || 2001 ||<ref name=order2001 />
+|-
+| [[Methaqualone]] || Ludes, Mandrake, Mandrax, Quaalude || sedative || 1984 ||
+|-
+| [[Methcathinone]] || || stimulant || 1998 ||<ref name=order1998 />
+|-
+| [[Methoxetamine]] || || dissociative || 2013 ||<ref>[https://www.gov.uk/government/publications/change-to-the-misuse-of-drugs-act-1971 MXE ceased to be covered by the temporary prohibition on 26 February 2013, when it became classified as a Class B drug]</ref>
+|-
+| [[Mephedrone|4–Methylmethcathinone]] || MCAT, Mephedrone, Meow Meow, Bath Salts || rowspan="3" | stimulant || rowspan="2" | 2010 ||<ref>[http://news.bbc.co.uk/1/hi/uk/8623958.stm Mephedrone ban comes into force in UK]</ref>
+|-
+| [[Methylone]] || M1 ||
+|-
+| [[Methylphenidate]] || Ritalin, Concerta || 1971 ||
+|-
+| [[Methylphenobarbitone]] || || sedative || 1984 ||
+|-
+| [[Naphyrone]] || NRG-1 || stimulant || 2010 ||
+|-
+| [[Nicocodeine]] || || rowspan="4" | opioid || 1971 ||
+|-
+| [[Nicodicodine]] || || 1973 ||
+|-
+| [[Norcodeine]] || || 1971 ||
+|-
+| [[Pentazocine]] || Talwin, Fortal || 1985 ||
+|-
+| [[Phenmetrazine]] || Preludin || stimulant || rowspan="2" | 1971 ||
+|-
+| [[Pholcodine]] || || rowspan="3" | opioid ||
+|-
+| [[Propiram]] || || 1973 ||
+|-
+| [[Zipeprol]] || || 1998 ||<ref name=order1998 />
+|}
+
+(aa)<ref name=order2010>{{cite web|url=http://www.legislation.gov.uk/uksi/2010/1207/article/2/made|title=The Misuse of Drugs Act 1971 (Amendment) Order 2010}}</ref>
+Compounds structurally derived from 2–amino–1–phenyl–1–propanone by certain modifications.
+
+(ab)<ref name=order2010 />
+Compounds structurally derived from 2–aminopropan–1–one by certain modifications.
+
+(b)
+any 5,5 disubstituted [[barbituric acid]].
+
+(c)<ref name=order2013>{{cite web|url=http://www.legislation.gov.uk/uksi/2013/239/article/4/made|title=The Misuse of Drugs Act 1971 (Amendment) Order 2013}}</ref>
+and (ca)<ref name=order2016>{{cite web|url=https://www.legislation.gov.uk/uksi/2016/1109/contents/made|title=The Misuse of Drugs Act 1971 (Amendment) Order 2016}}</ref>
+A number of categories of [[synthetic cannabinoids]].
+
+(d)<ref name=order2013 />
+1-Phenylcyclohexylamine or compounds structurally derived from 1-phenylcyclohexylamine or 2-amino-2-phenylcyclohexanone by certain modifications (that are not already class A substances).
+
+(e)
+Any compound structurally derived from 1-benzofuran, 2,3-dihydro-1-benzofuran, 1H-indole, indoline, 1H-indene, or indane by certain modifications.
+
+2. Any [[stereoisomer]]ic form of a class B substance.
+
+3. Any [[Salt (chemistry)|salt]] of a class B substance.
+
+4. Any preparation or other product containing a class B substance, excluding those designed for administration by [[Injection (medicine)|injection]] which are class A.
+
+=== Class C drugs ===
+1. The following substances:<ref name=ABC />{{Primary source inline|reason=This is a reference to the act itself, with little explanation and elaboration, and is hard to read.|date=July 2023}}
+
+(a)
+{| class="wikitable sortable mw-collapsible mw-collapsed" border="1"
+|-
+! Name as specified<br />in the act
+! Brand or<br />street name
+! Drug type
+! Year<br />added
+! Notes and comments
+|-
+| [[Adinazolam]] || Deracyn || rowspan="2" | benzodiazepine || 2017 ||
+|-
+| [[Alprazolam]] || Xanax || 1985 ||
+|-
+| [[Aminorex]] || || rowspan="2" | stimulant || 1998 ||<ref name=order1998 />
+|-
+| [[Benzphetamine]] || [[Didrex]] || 1971 || metabolised into amphetamine and methamphetamine
+|-
+| [[Bromazepam]] || Lexotan || rowspan="2" | benzodiazepine || 1985 ||
+|-
+| [[Brotizolam]] || Lendormin || 1998 ||<ref name=order1998 />
+|-
+| [[Buprenorphine]] || Bupeaze, Buprenex, Subutex || opioid || 1989 || used for opioid replacement therapy to treat addiction
+|-
+| [[Camazepam]] || || benzodiazepine || 1985 ||
+|-
+| [[Cathine]] || || rowspan="2" | stimulant || rowspan="2" | 1986 || [[Khat]] (''Catha edulis''), the plant in which Cathine originates, is now also illegal in the UK<ref name=Klein>{{Cite book|chapter-url=http://www.radcliffe-oxford.com/books/samplechapter/0932/Chapt5-25459c40rdz.pdf|chapter=Khat and the creation of tradition in the Somali diaspora|first=Axel|last=Klein|pages=[https://archive.org/details/drugsinsocietyeu0000unse/page/51 51–61]|title=Drugs in Society: European Perspectives|editor=Fountain, Jane|editor2=Korf, Dirk J.|year=2007|location=Oxford|publisher=Radcliffe Publishing|isbn=978-1-84619-093-3|url=https://archive.org/details/drugsinsocietyeu0000unse/page/51}}</ref><ref name=Warfa>{{Cite journal|title=Khat use and mental illness: A critical review|first1=Nasir|last1=Warfa|first2=Axel|last2=Klein|first3=Kamaldeep|last3=Bhui|first4=Gerard|last4=Leavey|first5=Tom|last5=Craig|first6=Stephen Alfred|last6=Stansfeld|journal=Social Science & Medicine|year=2007|volume=65|issue=2|pmid=17544193|pages=309–318|doi=10.1016/j.socscimed.2007.04.038}}</ref>
+|-
+| [[Cathinone]] || || Khat (''Catha edulis''), the plant in which Cathinone originates, is now also illegal in the UK<ref name="Klein" /><ref name="Warfa" />
+|-
+| [[Chlordiazepoxide]] || Librium || benzodiazepine || 1985 ||
+|-
+| [[Chlorphentermine]] || Apsedon || stimulant || 1971 ||
+|-
+| [[Clobazam]] || Frisium || rowspan="6" | benzodiazepine || rowspan="6" | 1985 ||
+|-
+| [[Clorazepate|Clorazepic acid]] || Tranxène ||
+|-
+| [[Clonazepam]] || Rivotril, Klonopin ||
+|-
+| [[Clotiazepam]] || Clozan ||
+|-
+| [[Cloxazolam]] || ||
+|-
+| [[Delorazepam]] || ||
+|-
+| [[Dextropropoxyphene]] || Darvon, Depronal|| opioid || 1983 ||
+|-
+| [[Diazepam]] || Valium || benzodiazepine || 1985 ||
+|-
+| [[Diethylpropion]] || || stimulant || 1984 ||
+|-
+| [[Estazolam]] || ProSom || benzodiazepine || rowspan="3" | 1985 ||
+|-
+| [[Ethchlorvynol]] || Placidyl || rowspan="2" | sedative ||
+|-
+| [[Ethinamate]] || ||
+|-
+| [[Etilamfetamine]] || || stimulant || 1986 ||
+|-
+| [[Ethyl loflazepate]] || || benzodiazepine || 1985 ||
+|-
+| [[Fencamfamine]] || || rowspan="3" | stimulant || 1971 || Removed from the schedule in 1973, added to the schedule again in 1986
+|-
+| [[Fenethylline]] || || rowspan="2" | 1986 ||
+|-
+| [[Fenproporex]] || ||
+|-
+| [[Fludiazepam]] || || rowspan="3" | benzodiazepine || rowspan="3" | 1985 ||
+|-
+| [[Flunitrazepam]] || Rohypnol ||
+|-
+| [[Flurazepam]] || Dalmane, Staurodorm ||
+|-
+| [[Gabapentin]]<ref>{{cite web |url= https://nursingnotes.co.uk/pregabalin-gabapentin-will-become-controlled-drugs-april/ |title= Pregabalin and gabapentin will become controlled drugs in April |date= 17 October 2018 |website= NursingNotes |access-date= 16 June 2019 |archive-date= 16 June 2019 |archive-url= https://web.archive.org/web/20190616083615/https://nursingnotes.co.uk/pregabalin-gabapentin-will-become-controlled-drugs-april/ |url-status= dead}}</ref><ref>{{cite web |url= https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/491854/ACMD_Advice_-_Pregabalin_and_gabapentin.pdf |title= Re: Pregabalin and Gabapentin advice |date= 14 January 2016 |website=GOV.UK }}</ref> || Neurontin || Gabapentinoid || 2019 ||
+|-
+| [[gamma-Butyrolactone]] || GBL || sedative || 2009 || Metabolised to GHB in the body. Classified in December 2009<ref>The Misuse of Drugs Act 1971 (Amendment) Order 2009 http://www.legislation.gov.uk/ukdsi/2009/9780111486610/contents</ref>
+|-
+| [[Halazepam]] || || rowspan="2" | benzodiazepine || rowspan="2" | 1985 ||
+|-
+| [[Haloxazolam]] || ||
+|-
+| [[Ketazolam]] || || rowspan="4" | benzodiazepine || rowspan="6" | 1985 ||
+|-
+| [[Loprazolam]] || Dormonoct ||
+|-
+| [[Lorazepam]] ||  Ativan ||
+|-
+| [[Lormetazepam]] || Noctamid, Loramet ||
+|-
+| [[Mazindol]] || || stimulant ||
+|-
+| [[Medazepam]] || || benzodiazepine ||
+|-
+| [[Mefenorex]] || || rowspan="2" | stimulant || 1986 || amphetamine derivative, metabolises to amphetamine
+|-
+| [[Mephentermine]] || || 1971 ||
+|-
+| [[Meprobamate]] || Miltown || sedative || 1985 ||
+|-
+| [[Mesocarb]] || || stimulant || 1998 ||<ref name=order1998 /> used to counteract the effects of benzodiazepines
+|-
+| [[Methyprylone]] || || sedative || 1985 ||
+|-
+| [[Midazolam]] || Versed || benzodiazepine || 1990 ||
+|-
+|[[Recreational use of nitrous oxide|Nitrous oxide]]
+|Whippets, balloons, 'loons, NOS
+|Psychedelic
+|2023
+|
+|-
+| [[Nimetazepam]] ||
+| rowspan="5" |benzodiazepine|| rowspan="5" | 1985 ||
+|-
+| [[Nitrazepam]] || Mogadon ||
+|-
+| [[Nordazepam]] || Calmday ||
+|-
+| [[Oxazepam]] || Seresta ||
+|-
+| [[Oxazolam]] || ||
+|-
+| [[Pemoline]] || || rowspan="3" | stimulant || 1989 ||
+|-
+| [[Phendimetrazine]] || Bontril || 1971 ||
+|-
+| [[Phentermine]] || Fastin, Ionamin || rowspan="2" | 1985 ||
+|-
+| [[Pinazepam]] || || benzodiazepine ||
+|-
+| [[Pipradrol]] || || rowspan="2" | stimulant || 1971 ||
+|-
+| <s>[[Propylhexedrine]]</s> || || 1971 || legalised in 1995<ref>{{cite web |url=http://www.legislation.gov.uk/uksi/1995/1966/contents/made |title=The Misuse of Drugs Act 1971 (Modification) Order 1995 |publisher=Office of Public Sector Information |access-date=15 June 2009 }}</ref>
+|-
+| [[Prazepam]] || Lysanxia || benzodiazepine || 1985 ||
+|-
+| [[Pregabalin]] || Axalid, Lyrica || gabapentinoid || 2019 ||
+|-
+| [[Pyrovalerone]] || || stimulant || 1986 ||
+|-
+| [[Temazepam]] || Restoril, jellies || rowspan="2" | benzodiazepine || rowspan="2" | 1985 || becomes class A when prepared for injection
+|-
+| [[Tetrazepam]] || ||
+|-
+| [[Tramadol]] || || opioid || 2014 ||<ref name="Ketamine amendment 2014" /> Also functions as a weak [[Serotonin–norepinephrine reuptake inhibitor|SNRI]].
+|-
+| [[Triazolam]] || Halcion || benzodiazepine || 1985 ||
+|-
+| [[Zaleplon]] || Sonata || rowspan="3" | [[nonbenzodiazepine]] || 2014 ||<ref name="Ketamine amendment 2014" />
+|-
+| [[Zolpidem]] || Ambien || 2003 ||<ref name=order2003 />
+|-
+| [[Zopiclone]] || Imovane || 2014 ||<ref name="Ketamine amendment 2014" />
+|}
+
+: ''N.B. Sub-paragraphs (b), (c), (d) and (e) all refer to [[anabolic steroid]]s that were banned in 1996<ref>{{cite web |url=http://www.legislation.gov.uk/uksi/1996/1300/contents/made |title=The Misuse of Drugs Act 1971 (Modification) Order 1996 |publisher=Office of Public Sector Information |access-date=15 June 2009 }}</ref> (unless referenced otherwise)'':
+
+(b)
+{{div col|colwidth=28em}}
+* [[4-Androstene-3,17-dione]]<ref name=order2003 />
+* [[5-Androstene-3,17-diol]]<ref name=order2003 />
+* [[Atamestane]]
+* [[Bolandiol]]
+* [[Bolasterone]]
+* [[Bolazine]]
+* [[Boldenone]]
+* [[Bolenol]]
+* [[Bolmantalate]]
+* [[Calusterone]]
+* [[4-Chloromethandienone]]
+* [[Clostebol]]
+* [[Desoxymethyltestosterone]]
+* [[Dienedione]]<ref name=order2016 />
+* [[Drostanolone]]
+* [[Enestebol]]
+* [[Epitiostanol]]
+* [[Ethyloestrenol]]
+* [[Fluoxymesterone]]
+* [[Formebolone]]
+* [[Furazabol]]
+* [[Mebolazine]]
+* [[Mepitiostane]]
+* [[Mesabolone]]
+* [[Mestanolone]]
+* [[Mesterolone]]
+* [[Methandienone]]
+* [[Methandriol]]
+* [[Methenolone]]
+* [[Methyltestosterone]]
+* [[Metribolone]]
+* [[Mibolerone]]
+* [[Nandrolone]]
+* [[19-Nor-4-Androstene-3,17-dione]]<ref name=order2003 />
+* [[19-Nor-5-Androstene-3,17-diol]]<ref name=order2003 />
+* [[Norboletone]]
+* [[Norclostebol]]
+* [[Norethandrolone]]
+* [[Ovandrotone]]
+* [[Oxabolone]]
+* [[Oxandrolone]]
+* [[Oxymesterone]]
+* [[Oxymetholone]]
+* [[Prasterone]]
+* [[Propetandrol]]
+* [[Quinbolone]]
+* [[Roxibolone]]
+* [[Silandrone]]
+* [[Stanolone]]
+* [[Stanozolol]]
+* [[Stenbolone]]
+* [[Testosterone (medication)|Testosterone]]
+* [[Thiomesterone]]
+* [[Trenbolone]]
+{{div col end}}
+
+(c)
+Compounds structurally derived from [[17-hydroxyandrostan-3-one]] or from [[17-hydroxyestran-3-one]] by certain modifications, excluding [[Trilostane]] or a compounds listed above.
+
+(ca)
+[[Benzylpiperazine|1–benzylpiperazine]] or compounds structurally derived from 1–benzylpiperazine or [[Phenylpiperazine|1–phenylpiperazine]] by certain modifications.
+
+(d)
+any substance which is an [[ester]] and/or [[ether]] of a substance specified in (b) or (c) above.
+
+(e)
+* [[Chorionic gonadotropin]]
+* [[Clenbuterol]]
+* [[Non-human chorionic gonadotrophin]]
+* [[Somatotropin]]
+* [[Somatrem]]
+* [[Somatropin]]
+
+=== Derivatives and analogues ===
+The act contains several references to "derivatives" of compounds but the extent of this term is not fully clarified. Where unspecified it is thought to indicate derivatives which can be made from the specified compound in a single synthetic step, although such a definition would indicate that alkyllysergamide analogues would be uncontrolled. Where the derivatives are specified to be "structural derivatives" there is precedent that the statute applies whenever the structure could be converted to the ''specified'' derivatives in any number of synthetic steps.<ref>Forensic Chemistry of Substance Misuse : A Guide to Drug Control Edition by Leslie A. King (2009)</ref>
+
+== Penalties ==
+The penalties for drug offences depend on the class of drug involved. These penalties are enforced against those who do not have a valid [[Medical prescription|prescription]] or licence to possess the drug in question. Thus, it is not illegal for someone to possess heroin, a Class A drug, so long as it was administered to them legally (by prescription).
+
+Class A drugs attract the highest penalty, and imprisonment is both "proper and expedient".<ref>''R v Aramah'' (1982) 4 [[Criminal Appeal Reports (Sentencing)|Cr App R (S)]] 407, per [[Geoffrey Lane, Baron Lane|Lord Lane CJ]]</ref> The maximum penalties possible are as follows:<ref>[http://www.homeoffice.gov.uk/drugs/drugs-law/Class-a-b-c/ ''Class A, B and C drugs'', Home Office website, accessed 27 January 2009] {{webarchive|url=https://web.archive.org/web/20070804233232/http://www.homeoffice.gov.uk/drugs/drugs-law/Class-a-b-c/ |date=4 August 2007 }}</ref>
+
+{| class="wikitable"
+|-
+! Offence !! Court !! Class A !! Class B / Temporary class !! Class C
+|-
+| rowspan=2| Possession
+| [[Courts of England and Wales#Magistrates', Family Proceedings and Youth Courts|Magistrates]]
+| 6 months / £5000 fine
+| 3 months / £2500 fine
+| 3 months / £500 fine
+|-
+| [[Courts of England and Wales#Crown Court|Crown]]
+| 7 years / unlimited fine
+| 5 years / unlimited fine
+| 2 years / unlimited fine
+|-
+| rowspan=2| Supply and possession<br>with intent to supply
+| [[Courts of England and Wales#Magistrates', Family Proceedings and Youth Courts|Magistrates]]
+| 6 months / £5000 fine
+| 6 months / £5000 fine
+| 3 months / £2000 fine
+|-
+| [[Courts of England and Wales#Crown Court|Crown]]
+| Life<ref>Increased from 14 years to life in 1985: [[Controlled Drugs (Penalties) Act 1985]].</ref> / unlimited fine
+| 14 years / unlimited fine
+| 14 years / unlimited fine
+|}
+
+== International cooperation ==
+The act makes it a crime to assist in, incite, or induce, the commission of an offence, outside the UK, against another nation's corresponding law on drugs. A corresponding law is defined as another country's law "providing for the control and regulation in that country of the production, supply, use, export and import of drugs and other substances in accordance with the provisions of the Single Convention on Narcotic Drugs" or another drug control treaty to which the UK and the other country are parties. An example might be lending money to a [[United States of America|United States]] drug dealer for the purpose of violating that country's [[Controlled Substances Act]].<!--Source: Article/Section 17-->
+
+==Schedules==
+The acts allow and regulate the use of some '''Controlled Drugs''' (designated '''CD''') by various classes of persons (e.g. doctors) acting in their professional capacity. The [[Royal Pharmaceutical Society]] maintains a live database of the legal classification of medicines.<ref>{{Cite web|date=December 2018|title=Royal Pharmaceutical Society's professional guidance on the safe and secure handling of medicines|url=https://www.rpharms.com/recognition/setting-professional-standards/safe-and-secure-handling-of-medicines/professional-guidance-on-the-safe-and-secure-handling-of-medicines|access-date=2022-02-02|website=www.rpharms.com}}</ref> Special responsibilities are placed upon pharmaceutical wholesalers, pharmacies and doctors in the stocking, distribution, issuing of prescriptions, supply and disposal of items listed under the first three of the schedules.  The regulations have been further tightened since Dr. [[Harold Shipman]] used [[diamorphine]] to murder hundreds of his patients during the late 20th century.
+
+===Schedule 1 - CD Lic{{Anchor|Schedule 1}}===
+Drugs which are not used medically, and thus their possession and supply is prohibited; e.g. [[DMT (drug)|DMT]] and [[LSD]] except when licensed by the [[Home Office]] to carry out research.
+
+===Schedule 2 - CD{{Anchor|Schedule2}}===
+Substances subject to the full controlled drug requirements; e.g. [[Cannabis (drug)|Cannabis]], [[diamorphine]] (heroin), [[pethidine]], [[cocaine]], [[methadone]], [[methylphenidate]], [[dextroamphetamine]], [[fentanyl]] and [[oxycodone]]. Under the Act, a prescription for these drugs need to show full details including the form and strength of the preparation, with the total quantity written out in both words and figures.  It is an offence for a doctor to issue an incomplete prescription or for a pharmacist to dispense a controlled drug unless all the required details are given.
+
+It is the prescriber's responsibility to minimize the risk of dependence or misuse by ensuring that such drugs are not started for a particular patient without good cause, that the dose is not increased to the point where dependency is more likely, and to avoid being an unwitting source of supply for addicts. The quantities of controlled drugs prescribed should match the likely needs of the patients until the next clinical review and prescription forms should be secured against theft.
+
+Requirements for safe custody in pharmacies apply to all Schedule 2 Controlled Drugs except quinalbarbitone.
+
+The safe custody requirements ensure that pharmacists and doctors holding stock of controlled drugs must store them in securely fixed double-locked steel safety cabinets. In addition to traditional written registers, which must be bound, contain separate entries for each drug, and be written in ink with no use of correction fluid, electronic controlled drugs registers are now also permitted under the [[Misuse of Drugs Regulations 2001]] (as amended). These electronic systems must comply with specific regulatory standards to ensure the accurate recording and tracking of controlled substances, and there are [https://pharmacy-suppliers.co.uk/supplier%20cat/cd-register/ a range of commercially available electronic CD registers]. Disposal of expired stock must be witnessed by a designated inspector (either a police officer or a suitably qualified official).
+
+Until 2005 prescriptions for most schedule 2 and 3 drugs required certain details to be handwritten by the prescriber, unless he or she held a handwriting exemption certificate.  [[The Shipman Inquiry]] however, found that this was one of the weaknesses in the audit system. Whereas computer generated prescriptions automatically left an audit trail which was easy to follow, handwritten prescriptions did not, even though all filed prescriptions are eventually sent to a  central UK depositary. Therefore, good practice now calls for these prescriptions to be computer generated.<ref>Home Office (2005). [http://www.homeoffice.gov.uk/about-us/home-office-circulars/circulars-2005/048-2005/ Explanatory memorandum to the misuse of drugs and the misuse of drugs] {{webarchive |url=https://web.archive.org/web/20101216234732/http://www.homeoffice.gov.uk/about-us/home-office-circulars/circulars-2005/048-2005/ |date=16 December 2010 }} (supply to
+addicts) (amendment) regulations 2005.No.2864. Accessed 20-10-03</ref>
+
+===Schedule 3 - CD No Reg{{Anchor|Schedule 3}}===
+Include drugs subject to the same prescription requirements as Schedule 2 drugs, but without the requirement to maintain registers. With the exception of phenobarbitone or related drugs for treatment of epilepsy, no Sch 3 drug can be given as an emergency supply.
+Safe custody is currently only required for Tenuate Dospan (diethylpropion), [[buprenorphine]] products, temazepam and flunitrazepam (Rohypnol). Neither phenobarbitone nor midazolam require safe custody. Other Sch 3 drugs can be stored in the general dispensary.
+
+===Schedule 4{{Anchor|Schedule 4}}===
+Controlled drug prescription requirements and safe custody requirements do not apply. Included drugs are [[Benzodiazepine]]s (Subclass CD Benz), other than [[temazepam]], [[flunitrazepam]] or [[midazolam]], and androgenic and anabolic [[steroid]]s (Subclass CD Anab). However CD Benz products- which also include mild stimulants such as [[mesocarb]] and [[fencamfamine]], formerly prescribed as anorectics- are illegal to supply or possess without prescription and all Sch 4 drugs cannot be legally supplied without medical authority.
+
+As of April 2014 "[[Nabiximols|Sativex]]", the cannabis derived medicine prescribed for [[spasticity]] due to Multiple Sclerosis, is listed as a Schedule 4 Part 1 drug, whereas before that date it was a Schedule 1 drug requiring reporting and recording protocols (as earlier indicated on this page).<ref>{{Cite web|date=2014-02-22|title=DDA - Dispensing Doctors' Association {{!}} Sativex classification changes|url=http://www.dispensingdoctor.org/comments.php?id=2606|access-date=2022-02-02|archive-date=2014-02-22|archive-url=https://web.archive.org/web/20140222064415/http://www.dispensingdoctor.org/comments.php?id=2606|url-status=bot: unknown}}</ref>
+
+===Schedule 5 - CD Inv P & CD Inv POM{{Anchor|Schedule 5}}===
+Includes items which, because of their strength, are exempt from all requirements other than the need to retain invoices for two years.
+
+== History ==
+The [[Drugs (Prevention of Misuse) Act 1964]] controlled [[amphetamines]] in the United Kingdom in advance of international agreements and was later used to control [[LSD]].<!--http://www.drugtext.org/library/articles/five2.html-->
+
+Before 1971, the UK had a relatively liberal drugs policy and it was not until [[United Nations]] influence had been brought to bear that controlling incidental drug activities was employed to effectively criminalise drugs use. It is noted that bar the smoking of [[opium]] and cannabis; section 8, part d, under the Misuse of Drugs Act 1971 was not an offence (relating to the prosecution of the owner of a premises/building inside of which controlled drugs were being used). Section 8 of the Misuse of Drugs Act 1971<ref>{{cite web|url=https://www.opsi.gov.uk/RevisedStatutes/Acts/ukpga/1971/cukpga_19710038_en_1#pb4-l1g8 |title=Misuse of Drugs Act 1971 |publisher=Opsi.gov.uk |access-date=2011-01-23}}</ref> was amended by regulation 13 of [[Misuse of Drugs Regulations 1985]] ([[SI 1985]]/2066)<ref>http://www.drugshelp.info/downloads/modr1985.pdf The Misuse of Drugs Regulations 1985</ref> and section 38 of the [[Criminal Justice and Police Act 2001]].<ref>{{cite web|url=https://opsi.gov.uk/si/si2001/20013998 |title=The Misuse of Drugs Regulations 2001 |publisher=Opsi.gov.uk |date=2010-07-16 |access-date=2011-01-23}}</ref>
+These amendments were, however, repealed in 2005 by Schedule 1 (part 6) of the Drugs Act 2005.<ref>{{cite web|url=https://www.opsi.gov.uk/acts/acts2005/ukpga_20050017_en_1 |title=Drugs Act 2005 |publisher=Opsi.gov.uk |date=2010-07-16 |access-date=2011-01-23}}</ref><ref>{{cite web|url=http://www.statutelaw.gov.uk/Toes.aspx?autoPopulate=Y&affectingyear=2005&affectedyear=1971&affectednumber=38 |title=Tables of legislative effects - Statute Law Database |publisher=Statutelaw.gov.uk |access-date=2011-01-23}}</ref>
+
+The current section 8 covers:
+people knowingly allowing premises they own, manage, or have responsibility for, to be used by any other person for:
+
+* administration or use of any [[controlled drug]]
+* supply of any controlled drug
+* the production or cultivation of controlled drugs, (such as growing cannabis, making [[Methamphetamine|crystal meth]], preparing [[magic mushrooms]]).<ref>{{cite web|author=DrugScope |url=http://www.drugscope.org.uk/resources/faqs/faqpages/what-are-the-uk-drug-laws |title=RESOURCES {{pipe}} What are the UK drug laws? |publisher=DrugScope |access-date=2011-01-23 |url-status=dead |archive-url=https://web.archive.org/web/20110927150956/http://www.drugscope.org.uk/resources/faqs/faqpages/what-are-the-uk-drug-laws |archive-date=2011-09-27 }}</ref>
+
+== Criticism and controversy ==
+Notable criticism of the act includes:
+* ''[[Drug classification: making a hash of it?]]'', Fifth Report of Session 2005–06, House of Commons [[Science and Technology Committee]], which said that the present system of drug classification is based on historical assumptions, not scientific assessment.<ref>{{cite web|url=https://publications.parliament.uk/pa/cm200506/cmselect/cmsctech/1031/1031.pdf |title=Microsoft Word - HC1031.doc |access-date=2011-01-23}}</ref>
+*  ''Development of a rational scale to assess the harm of drugs of potential misuse'', David Nutt, Leslie A. King, William Saulsbury, Colin Blakemore, ''[[The Lancet]]'', 24 March 2007, said the act is "not fit for purpose" and "the exclusion of alcohol and tobacco from the Misuse of Drugs Act is, from a scientific perspective, arbitrary."<ref name="pmid17382831">{{Cite journal
+| journal = The Lancet | first4 = C.
+| last4 = Blakemore
+| author-link4 = Colin Blakemore
+| author-link1 = David Nutt
+| volume = 369
+| issue = 9566
+| pmid=17382831
+| pages = 1047–1053 | first3 = W.
+| last3 = Saulsbury
+| year = 2007
+| title = Development of a rational scale to assess the harm of drugs of potential misuse
+| last1 = Nutt | first1 = D. | first2 = L. A.
+| last2 = King
+| doi = 10.1016/S0140-6736(07)60464-4
+| bibcode = 2007Lanc..369.1047N
+| s2cid = 5903121
+}}</ref><ref>{{cite web|url=http://news.bbc.co.uk/1/hi/health/6474053.stm?ls#drugs |title=''Scientists want new drug rankings'', BBC News website, 23 March 2007, accessed 27 January 2009 |publisher=BBC News |date=2007-03-23 |access-date=2011-01-23}}</ref>
+
+The Transform Drug Policy Foundation offers rational criticism of the harms caused by the Government's  current prohibitionist drug policy.<ref>{{cite web|url=http://www.tdpf.org.uk/ |title=Transform Drug Policy Foundation website, accessed 30 January 2009 |publisher=Tdpf.org.uk |access-date=2011-01-23}}</ref> The [[Drug Equality Alliance]] (DEA) has launched legal actions against the UK Government's partial and unequal administration of the Act's discretionary powers, making particular reference to the arbitrary exclusion of alcohol and tobacco on the subjective  grounds of historical and cultural precedents contrary to the Act's policy and objects.<ref name="DEA">{{cite web | title =Drug Equality Alliance - Mission| publisher =Drug Equality Alliance
+  | url =https://www.drugequality.org
+  | access-date =2009-08-28
+}}</ref>
+
+Following the release of the [[Cambridge Two]] – Ruth Wyner and John Brock – who had been convicted under Section 8 of the Act in 1999, a campaign calling for an overhaul of the Act was backed by [[Michael Winner]], [[Julie Christie]], and [[Tom Stoppard]] in response to the original conviction.<ref>{{Cite news |last=Morris |first=Steven |date=2000-07-12 |title='Cambridge Two' freed pending appeal |url=https://www.theguardian.com/uk/2000/jul/12/stevenmorris |archive-url=https://web.archive.org/web/20250223030924/https://www.theguardian.com/uk/2000/jul/12/stevenmorris |archive-date=2025-02-23 |access-date=2025-02-23 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+
+[[Cannabis reclassification in the United Kingdom|Classification of cannabis]] has become especially controversial. In 2004, [[cannabis]]<ref name="Canna 3">All varieties of cannabis, including those grown as [[hemp]], are controlled under the act, not just [[Cannabis (drug)|drug varieties]].</ref> was reclassified from class B to class C,<ref name="Canna 1"/> in accordance with advice from the ACMD. In 2009, it was returned to class B,<ref name="Canna 2"/> against ACMD advice.
+
+In February 2009 the UK government was accused by its most senior expert drugs adviser, Professor [[David Nutt]], of making a political decision with regard to drug classification in rejecting the scientific advice to downgrade ecstasy from a class A drug. The ACMD report on ecstasy, based on a 12-month study of 4,000 academic papers, concluded that it is nowhere near as dangerous as other class A drugs such as heroin and crack cocaine, and should be downgraded to class B. The advice was not followed.<ref>{{cite web|author=Travis, Alan|date=February 2009|title=Government criticised over refusal to downgrade ecstasy|url=https://www.theguardian.com/politics/2009/feb/11/ecstasy-downgrade-drugs-class|work=The Guardian}}</ref> Jacqui Smith, then Home Secretary, was also widely criticised by the scientific community for bullying Professor David Nutt into apologising for his comments that, in the course of a normal year, more people died from falling off horses than died from taking ecstasy.<ref>{{cite journal |author=Kmietowicz Z |title=Home secretary accused of bullying drugs adviser over comments about ecstasy |journal=BMJ |volume=338 |pages=b612 |year=2009 |pmid=19218327 |doi=10.1136/bmj.b612|s2cid=28874033 }}</ref> Professor Nutt was later sacked by [[Alan Johnson]] (Jacqui Smith's successor as Home Secretary), with Johnson saying: "It is important that the government's messages on drugs are clear and as an adviser you do nothing to undermine public understanding of them. I cannot have public confusion between scientific advice and policy and have therefore lost confidence in your ability to advise me as Chair of the ACMD."<ref>{{cite news|author=Mark Easton|date=30 October 2009|title=Nutt gets the sack|url=https://www.bbc.co.uk/blogs/thereporters/markeaston/2009/10/nutt_gets_the_sack.html|publisher=BBC News |access-date=2011-12-18}}</ref><ref>{{cite web|author=Mark Tran|date=30 October 2009|title=Government drug adviser David Nutt sacked|url=https://www.theguardian.com/politics/2009/oct/30/drugs-adviser-david-nutt-sacked|work=The Guardian |access-date=2011-12-18}}</ref>
+
+In May 2011, a report named Taking Drugs Seriously was released by Demos. It discusses several issues with the current system, since its enactment in 1971. It states that the constant presence of new drugs will make it difficult for the government to keep up with the latest situation – more than 600 drugs are now classified under the act. Comparison levels of harm previously demonstrated by David Nutt show that alcohol and tobacco were among the most lethal, while some class A drugs, such as MDMA, LSD, and magic mushrooms, were among the least harmful.<ref>{{Cite book |author=Jonathan Birdwell |author2=Jake Chapman |author3=Nicola Singleton  |title=taking drugs seriously: A Demos and UK Drug Policy Commission report on legal highs |date=5 March 2011 |publisher=Demos |isbn=978-1-906693-68-8 |url=http://www.demos.co.uk/files/Taking_Drugs_Seriously_-_web.pdf |access-date=2012-12-18}}</ref>
+
+== Use of controlled substances for research ==
+A common misunderstanding amongst researchers is that most national laws (including the Misuse for Drugs Act) allows the use of small amounts of a controlled substance for non-clinical / non-in vivo research without licences. A typical use case might be having a few milligrams or microlitres of a controlled substance within larger chemical collections (often tens of thousands of chemicals) for in vitro screening. Researchers often believe that there is some form of "research exemption" for such small amounts. This incorrect view may be further re-enforced by R&D chemical suppliers often stating and asking scientists to confirm that anything bought is for research use only.
+
+A further misconception is that the Misuse of Drugs Act simply lists a few hundred substances (e.g. MDMA, Fentanyl, Amphetamine, etc.) and compliance can be achieved via checking a CAS number, chemical name or similar identifier. However, the reality is that in most cases all ethers, esters, salts and stereo isomers are also controlled and it is impossible to simply list all of these. The act contains several "generic statements" or "chemical space" laws, which aim to control all chemicals similar to the "named" substance, these provide detailed descriptions similar to [[Markush structure|Markushes]], a good example of a few of these are found in the Misuse of Drugs Act 1971 (amendment) order 2013.<ref>{{Cite web|url=http://www.legislation.gov.uk/ukdsi/2013/9780111532980/article/4/data.htm|title=The Misuse of Drugs Act 1971 (Amendment) Order 2013|website=www.legislation.gov.uk|access-date=2019-01-22}}</ref>
+
+Due to this complexity in legislation the identification of controlled chemicals in research is often carried out computationally, either by in house systems maintained a company's sample logistics department or by the use of commercial software solutions.<ref>{{Cite web |title=Scitegrity {{!}} Controlled Substances Squared |url=https://www.scitegrity.com/controlled-substances |access-date=2019-01-22 |website=www.scitegrity.com}}</ref> Automated systems are often required as many research operations can often have chemical collections running into 10Ks of molecules at the 1–5&nbsp;mg scale, which are likely to include controlled substances, especially within medicinal chemistry research, even if the core research of the company is not narcotic or psychotropic drugs.<ref>{{Cite web |title=Controlled Substances found in research and chemical suppliers collections |url=https://blog.scitegrity.com/news/does-my-chemical-library-contain-controlled-substances |website=www.scitegrity.com}}</ref> These may not have been controlled when created, but they have subsequently been declared controlled, or fall within chemical space close to known controlled substances.
+
+There are no specific research exemptions in the Misuse of Drugs Act 1971. However, the associated Misuse of Drugs Regulations 2001 ([[SI 2001]]/3998)<ref>{{Cite web|url=http://www.legislation.gov.uk/uksi/2001/3998/made/data.htm|title=The Misuse of Drugs Regulations 2001|website=www.legislation.gov.uk|language=en|access-date=2019-01-22}}</ref> does exempt products containing less than 1&nbsp;mg of a controlled substance (1&nbsp;μg for lysergide and derivatives) so long as a number of requirements are met, including that it cannot be recovered by readily applicable means, does not pose a risk to human health and is not meant for administration to a human or animal.
+
+Although this does at first seem to allow research use, in most circumstances the sample, by definition, is "recoverable" – in order to prepare it for use the sample is "recovered" into an assay buffer or solvent such as DMSO or water. In 2017 the Home Office also confirmed that the 1&nbsp;mg limit applies to the total of all preparations across the entire container in the case of sample microtitre plates.<ref>{{Cite web |title=Research Exemptions {{!}} Controlled Substances {{!}} In Vitro |url=https://blog.scitegrity.com/resources/research-exemptions-for-controlled-substances |access-date=2023-01-05 |website=blog.scitegrity.com |language=en-gb}}</ref> Given this, most companies and researchers choose not to rely on this exemption.
+
+However, according to Home Office licensing, "University research departments generally do not require licences to possess and supply drugs in schedules 2, 3, 4 part I, 4 part II and schedule 5, but they do require licences to produce any of those drugs and to produce, possess and/or supply drugs in schedule 1".<ref>{{Cite web|url=https://www.gov.uk/guidance/controlled-drugs-licences-fees-and-returns|title=Controlled drugs: licences, fees and returns|website=GOV.UK|language=en|access-date=2019-02-27}}</ref>
+
+== See also ==
+* [[Cannabis in the United Kingdom]]
+* [[Crime in the United Kingdom]]
+* [[Dangerous Drugs (Supply to Addicts) Regulations 1968]]
+* [[Drug policy of the United Kingdom]]
+* [[Drug-related deaths in the United Kingdom]]
+* [[Legal status of psychedelic drugs in the United Kingdom]]
+* [[Temporary class drug]]
+* [[War on drugs]]
+
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{OGL-attribution|To maintain the accuracy of the article, some of the text is copied directly from the legislation.|version=3.0}}
+{{Reflist}}
+
+== Further reading ==
+* {{Cite book|last1=British Medical Association|title=British national formulary.|last2=Pharmaceutical Society of Great Britain|date=2010|publisher=[[British Medical Association]] and [[Royal Pharmaceutical Society of Great Britain]]|isbn=978-0-85369-929-3|location=London|language=English|oclc=780551036}}
+
+== External links ==
+* {{wikisource-inline|single=true}}
+* {{wikinews inline|Category:Misuse of Drugs Act 1971}}
+* {{UK-LEG}}
+* {{UK-LEG|asmade=yes}}
+* [https://web.archive.org/web/20100413001502/http://isomerdesign.com/Cdsa/scheduleUK.php ''UK Misuse of Drugs Act'', Steve Chapman website]
+* [https://patient.info/doctor/controlled-drugs ''Controlled Drugs'', Patient UK website]
+* [http://isomerdesign.com/Cdsa/scheduleUK.php Schedules and structures] {{Webarchive|url=https://web.archive.org/web/20100107095216/http://isomerdesign.com/Cdsa/scheduleUK.php |date=7 January 2010 }} of the Misuse of Drugs Act 1971 – Isomer Design
+
+{{Drug control laws}}
+{{UK legislation}}
+{{Authority control}}
+
+{{DEFAULTSORT:Misuse Of Drugs Act 1971}}
+[[Category:United Kingdom Acts of Parliament 1971]]
+[[Category:Misuse of Drugs Act 1971| ]]
+[[Category:English criminal law]]
+[[Category:1971 in cannabis]]

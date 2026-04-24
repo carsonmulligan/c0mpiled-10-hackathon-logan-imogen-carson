@@ -1,0 +1,422 @@
+{{Short description|United States drug-regulating law}}
+{{Use American English|date = March 2019}}
+{{Use mdy dates|date=April 2025}}
+{{tone|date=February 2025}}
+{{Infobox U.S. legislation
+| shorttitle = Controlled Substances Act
+| longtitle = An Act to amend the Public Health Service Act and other laws to provide increased research into, and prevention of, drug abuse and drug dependence; to provide for treatment and rehabilitation of drug abusers and drug dependent persons; and to strengthen existing law enforcement authority in the field of drug abuse.
+| colloquialacronym = CSA
+| enacted by = 91st
+| effective date = October 27, 1970
+| public law url = https://www.govinfo.gov/content/pkg/STATUTE-84/pdf/STATUTE-84-Pg1236.pdf
+| cite public law = 91-513
+| cite statutes at large = {{usstat|84|1236}} ''a.k.a.'' 84 Stat. 1242
+| acts amended =
+| title amended   = [[Title 21 of the United States Code|21 U.S.C.: Food and Drugs]]11
+
+| sections created = {{Usc-title-chap|21|13}} § 801 et seq.
+| sections amended =
+| leghisturl      =
+| introducedin    = House
+| introducedbill  = {{USBill|91|H.R.|18583}}
+| introducedby    = [[Harley O. Staggers]] ([[Democratic Party (United States)|D]]–[[West Virginia|WV]])
+| introduceddate  = September 10, 1970
+| committees      = [[United States House Committee on Energy and Commerce|Interstate and Foreign Commerce Committee]] and [[United States Senate Committee on the Judiciary|Senate Judiciary Committee]]
+| passedbody1     = House
+| passeddate1     = September 24, 1970
+| passedvote1     = [http://www.govtrack.us/congress/votes/91-1970/h355 341–6]
+| passedbody2     = Senate
+| passedas2       = <!-- used if the second body changes the name of the legislation -->
+| passeddate2     = October 7, 1970
+| passedvote2     = [http://www.govtrack.us/congress/votes/91-1970/s584 54–0]
+| conferencedate  = October 13, 1970
+| passedbody3     = House
+| passeddate3     = October 14, 1970
+| passedvote3     = passed
+| agreedbody3     = <!-- used when the other body agrees without going into committee -->
+| agreeddate3     = <!-- used when the other body agrees without going into committee -->
+| agreedvote3     = <!-- used when the other body agrees without going into committee -->
+| agreedbody4     = <!-- used if agreedbody3 further amends legislation -->
+| agreeddate4     = <!-- used if agreedbody3 further amends legislation -->
+| agreedvote4     = <!-- used if agreedbody3 further amends legislation -->
+| passedbody4     = Senate
+| passeddate4     = October 14, 1970
+| passedvote4     = passed
+| signedpresident = [[Richard Nixon]]
+| signeddate      = October 27, 1970
+| amendments      = [[Hillory J. Farias and Samantha Reid Date-Rape Prevention Act of 2000]]
+| SCOTUS cases    = {{ubl|''[[United States v. Oakland Cannabis Buyers' Cooperative]]'', {{ussc|532|483|2001}}|''[[Gonzales v. Raich]]'', {{ussc|545|1|2005}}|''[[Gonzales v. Oregon]]'', {{ussc|546|243|2006}}|''[[Burrage v. United States]]'', {{ussc|571|204|2014}}|''[[McFadden v. United States]]'', {{ussc|docket=14-378|volume=576|year=2015}}|''[[Ruan v. United States]]'', {{ussc|docket=20-1410|volume=597|year=2022}}}}
+}}
+{{US drug laws}}
+
+The '''Controlled Substances Act''' ('''CSA''') is the statute establishing [[federal government of the United States|federal]] [[drug policy of the United States|U.S. drug policy]] under which the manufacture, importation, possession, use, and distribution of certain substances is regulated. It was passed by the [[91st United States Congress]] as Title II of the [[Comprehensive Drug Abuse Prevention and Control Act of 1970]] and signed into law by President [[Richard Nixon]].<ref>{{USStatute|91|513|84|1236|1970|10|27}}, codified at {{usc|21|801}} et. seq.</ref> The Act also served as the national implementing legislation for the [[Single Convention on Narcotic Drugs]].
+
+The legislation created five schedules (classifications), with varying qualifications for a substance to be included in each. Two federal agencies, the [[Drug Enforcement Administration]] (DEA) and the [[Food and Drug Administration]] (FDA), determine which substances are added to or removed from the various schedules, although the statute passed by Congress created the initial listing. Congress has sometimes scheduled other substances through legislation such as the [[Hillory J. Farias and Samantha Reid Date-Rape Prevention Act of 2000]], which placed [[gamma hydroxybutyrate]] (GHB) in Schedule I and [[sodium oxybate]] (the isolated sodium salt in GHB) in [[Schedule III controlled substance|Schedule III]] when used under an FDA [[New Drug Application]] (NDA) or [[Investigational New Drug]] (IND).<ref>{{cite web|title=2000 - Addition of Gamma-Hydroxybutyric Acid to Schedule I|url=https://www.deadiversion.usdoj.gov/fed_regs/rules/2000/fr0313.htm|publisher=US Department of Justice via the Federal Register|date=March 13, 2000|access-date=April 16, 2018|archive-date=May 1, 2021|archive-url=https://web.archive.org/web/20210501154805/https://www.deadiversion.usdoj.gov/fed_regs/rules/2000/fr0313.htm|url-status=dead}}</ref><ref>{{cite web|title=William J. Clinton: Statement on Signing the Hillory J. Farias and Samantha Reid Date-Rape Drug Prohibition Act of 2000|url=https://www.presidency.ucsb.edu/ws/index.php?pid=58098|date=February 18, 2000}}</ref> Classification decisions are required to be made on criteria including potential for abuse (an undefined term),<ref name=":1" /> currently accepted medical use in treatment in the United States, and international treaties.
+
+==History==
+{{Regulation of therapeutic goods in the United States}}
+
+The nation first outlawed addictive drugs in the early 1900s, and the [[First International Opium Convention|International Opium Convention]] helped lead international agreements regulating trade.<ref>{{cite web |url=http://www.deamuseum.org/museum_ida.html |title=Illegal Drugs in America: A Modern History |website=DEA Museum & Visitors Center |archive-url=https://web.archive.org/web/20041204213309/http://www.deamuseum.org/museum_ida.html |archive-date=December 4, 2004}}</ref><ref>{{cite book |contribution-url=http://www.druglibrary.org/schaffer/library/studies/canadasenate/vol3/chapter19_hague.htm |title=Public Policy Options |url=http://www.druglibrary.org/schaffer/library/studies/canadiansenate/vol2_table_of_contents.htm |series=Canadian Senate Special Committee on Illegal Drugs |volume=3 |contribution=The 1912 Hague International Opium Convention |publisher=Schaffer Library of Drug Policy }}{{Dead link|date=March 2023 |bot=InternetArchiveBot |fix-attempted=yes}}</ref><ref>{{cite web |url=http://www.druglibrary.org/schaffer/history/ophs.htm |last=Musto |first=David F. |title=History of Legislative Control Over Opium, Cocaine, and Their Derivatives |website=Schaffer Library of Drug Policy |access-date=September 23, 2011 |archive-date=April 21, 2017 |archive-url=https://web.archive.org/web/20170421000634/http://www.druglibrary.org/schaffer/history/ophs.htm |url-status=dead }}</ref> The [[Pure Food and Drug Act]] (1906) was the beginning of over 200 laws concerning public health and consumer protections.<ref>{{cite web |url=https://www.fda.gov/RegulatoryInformation/Legislation/default.htm |archive-url=https://web.archive.org/web/20090531213346/http://www.fda.gov/RegulatoryInformation/Legislation/default.htm |url-status=dead |archive-date=May 31, 2009 |title=Legislation |website=U.S. Food and Drug Administration |date=July 2, 2015}}</ref> Others were the [[Federal Food, Drug, and Cosmetic Act]] (1938), and the [[Kefauver Harris Amendment]] of 1962.<ref>{{cite web |url=http://rx-wiki.org/index.php?title=Medical_Device_Amendments |title=Medical Device Amendments |access-date=December 30, 2012 |website=Rx-wiki |publisher=Parsons Printing Press}}</ref>
+
+In 1969, [[President of the United States|President]] [[Richard Nixon]] announced that the [[United States Attorney General|Attorney General]], [[John N. Mitchell]], was preparing a comprehensive new measure to more effectively meet the narcotic and dangerous drug problems at the federal level by combining all existing federal laws into a single new statute. With the help of [[White House Counsel]] head, [[John Dean]]; the executive director of the [[Shafer Commission]], [[Michael Sonnenreich]]; and the Director of the [[BNDD]], John Ingersoll creating and writing the legislation, Mitchell was able to present Nixon with the bill.<ref>{{cite book |url=https://books.google.com/books?id=a_kBBAAAQBAJ&q=michael+sonnenreich&pg=PT275|title=Strength of the Pack: The Personalities, Politics and Espionage Intrigues|access-date=May 13, 2018|publisher=Douglas Valentine|isbn=9781936296910|date=November 15, 2010}}</ref>
+
+The CSA not only combined existing federal drug laws and expanded their scope, but it also changed the nature of federal drug law policies and expanded [[Federal law enforcement in the United States|federal law enforcement]] pertaining to controlled substances.
+Title II, Part F of the [[Comprehensive Drug Abuse Prevention and Control Act of 1970]] established the [[National Commission on Marijuana and Drug Abuse]]<ref>{{citation |author=91st United States Congress |author-link=91st United States Congress |chapter=Part F—Advisory Commission: Establishment of Commission on Marihuana and Drug Abuse |title=An Act to amend the Public Health Service Act and other laws to provide increased research, into, and prevention of, drug abuse and drug dependence; to provide for treatment and rehabilitation of drug abusers and drug dependent persons; and to strengthen existing law enforcement authority in the field of drug abuse |date=1970 |pages=1280–1281 |publisher=U.S. Government Publishing Office |chapter-url=https://www.gpo.gov/fdsys/granule/STATUTE-84/STATUTE-84-Pg1236/content-detail.html |postscript=.}} {{USStatute|91|513|84|1236|1970|10|27}}</ref>—known as the Shafer Commission after its chairman, [[Raymond P. Shafer]]—to study [[cannabis (drug)|cannabis]] abuse in the United States.<ref name=":1">{{cite report |url=https://archive.org/details/druguseinamerica0000unse_r6o8 |title=Drug Use In America: Problem In Perspective, Second Report of the National Commission on Marihuana and Drug Abuse |author=National Commission on Marihuana and Drug Abuse |author-link=Shafer Commission |date=March 1973 |page=13 |quote="[D]rug abuse may refer to any type of drug or chemical without regard to its pharmacologic actions. It is an eclectic concept having only one uniform connotation: societal disapproval. The Commission believes that the term drug abuse must be deleted from official pronouncements and public policy dialogue. The term has no functional utility and has become no more than an arbitrary codeword for that drug use which is presently considered wrong." |access-date=February 9, 2025}}</ref> During his presentation of the commission's First Report to Congress, Sonnenreich and Shafer recommended the [[decriminalization]] of marijuana in small amounts, with Shafer stating,
+{{Blockquote|[T]he criminal law is too harsh a tool to apply to personal possession even in the effort to discourage use. It implies an overwhelming indictment of the behavior which we believe is not appropriate. The actual and potential harm of use of the drug is not great enough to justify intrusion by the criminal law into private behavior, a step which our society takes only with the greatest reluctance.<ref>{{Cite web|url=http://norml.org/component/zoo/category/celebrating-35-years-of-failed-pot-policies|title=NORML - Working to Reform Marijuana Laws|website=norml.org|language=en-us|access-date=2018-05-15|archive-url=https://web.archive.org/web/20180515183741/http://norml.org/component/zoo/category/celebrating-35-years-of-failed-pot-policies|archive-date=May 15, 2018|url-status=dead}}</ref>}}
+
+Rufus King notes that this stratagem was similar to that used by [[Harry Anslinger]] when he consolidated the previous anti-drug treaties into the Single Convention and took the opportunity to add new provisions that otherwise might have been unpalatable to the international community.<ref name="dontsit">{{cite book |chapter-url=https://www.druglibrary.net/special/king/dhu/dhu28.htm |chapter=The 1970 Act: Don't Sit There, Amend Something |last=King |first=Rufus |title=The Drug Hang Up, America's Fifty-Year Folly |url=https://www.druglibrary.net/special/king/dhu/dhumenu.htm |publisher=Schaffer Library of Drug Policy}}</ref> According to David T. Courtwright, "the Act was part of an omnibus reform package designed to rationalize, and in some respects to liberalize, American drug policy." (Courtwright noted that the Act became, not [[Libertarianism|libertarian]], but instead repressionistic to the point of tyrannical in its intent; a cruel and/or arbitrary exercise of power). It eliminated mandatory minimum sentences and provided support for drug treatment and research.<ref>{{cite journal |title=The Controlled Substances Act: how a "big tent" reform became a punitive drug law |last=Courtwright |first=David T. |date=October 5, 2004 |journal=Drug and Alcohol Dependence |volume=76 |issue=1 |pages=9–15 |pmid=15380284 |doi=10.1016/j.drugalcdep.2004.04.012}}</ref>
+
+King notes that the rehabilitation clauses were added as a compromise to [[Harold Hughes|Senator Harold Hughes]], who favored a moderate approach. The bill, as introduced by Senator [[Everett Dirksen]], ran to 91 pages. While it was being drafted, the [[Uniform Controlled Substances Act]], to be passed by state legislatures, was also being drafted by the [[United States Department of Justice|Department of Justice]]; its wording closely mirrored the Controlled Substances Act.<ref name="dontsit"/>
+
+===Amendments, 1970–2018===
+Since its enactment in 1970, the Act has been amended numerous times:
+# The 1976 [[Medical Device Regulation Act]].<ref>{{cite web |title=S.510 - An Act to amend the Federal Food, Drug, and Cosmetic Act to provide for the safety and effectiveness of medical devices intended for human use, and for other purposes |website=Congress.Gov |date=May 28, 1976 |publisher=Library of Congress |url=https://www.congress.gov/bill/94th-congress/senate-bill/510/ |access-date=August 31, 2016 }}</ref>
+# The [[Psychotropic Substances Act (United States)|Psychotropic Substances Act]] of 1978 added provisions implementing the [[Convention on Psychotropic Substances]].<ref>{{cite web |title=S.2399 - Psychotropic Substances Act |website=Congress.Gov |date=November 10, 1978 |publisher=Library of Congress |url=https://www.congress.gov/bill/95th-congress/senate-bill/2399/ |access-date=August 31, 2016 }}</ref>
+# The [[Controlled Substances Penalties Amendments Act of 1984]].
+# The 1986 [[Federal Analog Act]] for chemicals "substantially similar" in Schedule I and II to be listed
+# The 1988 [[Chemical Diversion and Trafficking Act]] (implemented August 1, 1989, as Article 12) added provisions implementing the [[United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances]] that went into force on November 11, 1990.
+# The 1990 [[Anabolic Steroids Control Act of 1990|Anabolic Steroids Control Act]], passed as part of the [[Crime Control Act of 1990]], which placed [[anabolic steroids]] into Schedule III<ref>Steven B. Karch. ''Pathology, Toxicogenetics, and Criminalistics of Drug Abuse''. CRC Press, 2007 {{ISBN|9781420054569}}</ref>{{rp|30}}
+# The 1993 Domestic Chemical Diversion and Control Act (effective on April 16, 1994) in response to [[methamphetamine]] trafficking.
+# The Hillory J. Farias and Samantha Reid Date-Rape Prevention Act of 2000 placed gamma hydroxybutyrate (GHB) in Schedule I and sodium oxybate (the isolated sodium salt in GHB) in Schedule III when used under an FDA NDA or IND.
+# The 2008 Ryan Haight Online Pharmacy Consumer Protection Act<ref>{{cite wikisource |title=Ryan Haight Online Pharmacy Consumer Protection Act of 2008 |year=2009}}
+</ref>
+# The 2010 Electronic Prescriptions for Controlled Substances (EPCS).
+# The [https://www.govinfo.gov/content/pkg/PLAW-112publ144/pdf/PLAW-112publ144.pdf 2012 Synthetic Drug Abuse Prevention Act Subtitle D] - synthetic drugs, added several Markush like statements that describes synthetic cannabinoid chemical space that are also controlled as Schedule 1 substances. However, since then many new synthetic cannabinoids not covered by this act have emerged
+# The 2010 Secure and Responsible Drug Disposal Act (effective on October 12, 2010), to allow pharmacies to operate [[Collection of unused drugs|take-back programs]] for controlled substance medications in response to the US [[opioid epidemic]].<ref>{{cite web |title=S.3397 - 111th Congress (2009-2010): Secure and Responsible Drug Disposal Act of 2010 |website=Congress.Gov |date=October 12, 2010 |publisher=Library of Congress |url=https://www.congress.gov/bill/111th-congress/senate-bill/3397 |access-date=March 26, 2019}}</ref>
+# The 2017 Protecting Patient Access to Emergency Medications Act (PPAEMA) amended Section 33 of the CSA to include DEA registration for Emergency Medical Service (EMS) agencies, approved uses of standing orders, and requirements for the maintenance and administration of controlled substances used by EMS agencies.<ref>{{Cite web|url=https://www.cdc.gov/phlp/publications/topic/briefs/ema/index.html|title=CDC - The Protecting Patient Access to Emergency Medications Act of 2017 - Publications by Topic - Public Health Law|date=February 22, 2019|website=www.cdc.gov|language=en-us|access-date=April 24, 2019}}</ref>
+# In 2018 the act was also [https://www.ecfr.gov/current/title-21/chapter-II/part-1308/subject-group-ECFRf62f8e189108c4d/section-1308.11#p-1308.11(h)(i) amended to describe and control all chemical space related to Fentanyl like chemicals] using Markush like notation, the first time Markush like statement were directly used in the act itself
+
+==Statute content==
+The Controlled Substances Act consists of two subchapters. Subchapter I defines Schedules I–V, lists chemicals used in the manufacture of controlled substances, and differentiates lawful and unlawful manufacturing, distribution, and possession of controlled substances, including possession of Schedule I drugs for personal use; this subchapter also specifies the dollar amounts of fines and durations of prison terms for violations. Subchapter II describes the laws for exportation and importation of controlled substances, again specifying fines and prison terms for violations.<ref>{{cite web |title=Title 21 United States Code (USC) Controlled Substances Act |website=Drug Enforcement Administration: Office of Diversion Control |publisher=United States Department of Justice |url=http://www.deadiversion.usdoj.gov/21cfr/21usc/ |access-date=July 12, 2015 |archive-date=June 27, 2015 |archive-url=https://web.archive.org/web/20150627174753/http://www.deadiversion.usdoj.gov/21cfr/21usc/ |url-status=dead }}</ref>
+
+==Enforcement authority==
+[[File:FDA and the International Mail Facilities (IMFs) (27057043228).jpg|thumb|U.S. Food and Drug Administration agents inspect packages for illegal drug shipments at an international mail facility in New York.]]
+The [[Drug Enforcement Administration]] was established in 1973, combining the Bureau of Narcotics and Dangerous Drugs (BNDD) and Customs' drug agents.<ref>{{cite web |title=State and Local Task Forces |website=Drug Enforcement Administration |publisher=United States Department of Justice |url=https://www.justice.gov/dea/ops/taskforces.shtml |access-date=December 30, 2012 |archive-date=November 4, 2014 |archive-url=https://web.archive.org/web/20141104002834/http://www.justice.gov/dea/ops/taskforces.shtml |url-status=dead}}</ref> Proceedings to add, delete, or change the schedule of a drug or other substance may be initiated by the DEA,<ref>{{Cite web |last=Weinstein |first=Kenneth |last2=Van Niel |first2=Nicholas |last3=Uthe |first3=Kate |date=March 6, 2024 |title=Assessing CDC's Revised Guideline On Opioid Prescriptions |url=https://www.analysisgroup.com/globalassets/insights/publishing/2024-assessing-cdcs-revised-guideline-on-opioid-prescriprtions.pdf |access-date=July 8, 2025}}</ref> the [[Department of Health and Human Services]] (HHS), or by petition from any interested party, including the manufacturer of a drug, a medical society or association, a pharmacy association, a public interest group concerned with drug abuse, a state or local government agency, or an individual citizen. When a petition is received by the DEA, the agency begins its own investigation of the drug.
+
+The DEA may begin an investigation of a drug at any time based upon information received from laboratories, state and local law enforcement and regulatory agencies, or other sources of information. Once the DEA has collected the necessary data, the Deputy Administrator of DEA,<ref>{{cite journal |title=Schedules of Controlled Substances: Placement of 5-Methoxy-N,N-Dimethyltryptamine Into Schedule I of the Controlled Substances Act |author=Drug Enforcement Administration |journal=[[Federal Register]] |date=August 21, 2009 |volume=74 |issue=161 |pages=42217–42220 |quote=Under the authority vested in the [[United States Attorney General|Attorney General]] by section 201(a) of the CSA (21 USC 811(a)), and delegated to the Administrator of DEA by Department of Justice regulations (28 CFR 0.100), and redelegated to the Deputy Administrator pursuant to 28 CFR 0.104...}} {{Federal Register|74|42217}}</ref>{{rp|42220}} requests from HHS a scientific and medical evaluation and recommendation as to whether the drug or other substance should be controlled or removed from control.
+
+This request is sent to the Assistant Secretary of Health of HHS. Then, HHS solicits information from the Commissioner of the [[Food and Drug Administration]] and evaluations and recommendations from the [[National Institute on Drug Abuse]] and, on occasion, from the scientific and medical community at large. The Assistant Secretary, by authority of the Secretary, compiles the information and transmits back to the DEA a medical and scientific evaluation regarding the drug or other substance, a recommendation as to whether the drug should be controlled, and in what schedule it should be placed.
+
+The HHS recommendation on scheduling is binding to the extent that if HHS recommends, based on its medical and scientific evaluation, that the substance not be controlled, then the DEA may not control the substance. Once the DEA has received the scientific and medical evaluation from HHS, the DEA Administrator evaluates all available data and makes a final decision whether to propose that a drug or other substance be controlled and into which schedule it should be placed. Under certain circumstances, the Government may temporarily schedule<ref>{{cite web |title=Final Order: Temporary Placement of Five Synthetic Cannabinoids Into Schedule I |website=Drug Enforcement Administration: Office of Diversion Control |publisher=United States Department of Justice |url=http://www.deadiversion.usdoj.gov/fed_regs/rules/2011/fr0301.htm |access-date=December 30, 2012 |archive-date=April 9, 2016 |archive-url=https://web.archive.org/web/20160409154145/http://www.deadiversion.usdoj.gov/fed_regs/rules/2011/fr0301.htm |url-status=dead}}</ref> a drug without following the normal procedure.
+
+An example is when international treaties require control of a substance. {{uscsub|21|811|h}} allows the Attorney General to temporarily place a substance in Schedule I "to avoid an imminent hazard to the public safety". Thirty days' notice is required before the order can be issued, and the scheduling expires after a year. The period may be extended six months if rulemaking proceedings to permanently schedule the drug are in progress. In any case, once these proceedings are complete, the temporary order is automatically vacated. Unlike ordinary scheduling proceedings, such temporary orders are not subject to [[judicial review]].
+
+The CSA creates a closed system of distribution<ref>{{cite book |chapter=The Closed System of Controlled Substance Distribution |title=Pharmacy Practice and the Law |page=184 |first=Richard R. |last=Abood |date=November 21, 2012 |publisher=Jones & Bartlett |isbn=978-1-4496-8691-8 |chapter-url=https://books.google.com/books?id=c9gp80lkqXMC&pg=PA184 |access-date=December 30, 2012 }}</ref> for those authorized to handle controlled substances. The cornerstone of this system is the registration of all those authorized by the DEA to handle controlled substances. All individuals and firms that are registered are required to maintain complete and accurate inventories and records of all transactions involving controlled substances, as well as security for the storage of controlled substances.
+
+==Treaty obligations==
+The Congressional findings in [[21 USC]] §§ {{USCSub2|21|801|7}}, {{USCSub2|21|801a|2}}, and {{USCSub2|21|801a|3}} state that a major purpose of the CSA is to "enable the United States to meet all of its obligations" under international [[treaty|treaties]]. The CSA bears many resemblances to these Conventions. Both the CSA and the treaties set out a system for classifying controlled substances in several schedules in accordance with the binding scientific and medical findings of a public health authority. Under {{usc|21|811}} of the CSA, that authority is the [[Secretary of Health and Human Services]] (HHS). Under Article 3 of the Single Convention and Article 2 of the Convention on Psychotropic Substances, the [[World Health Organization]] is that authority.
+
+The domestic and international legal nature of these treaty obligations must be considered in light of the supremacy of the [[United States Constitution]] over treaties or acts and the equality of treaties and Congressional acts. In ''[[Reid v. Covert]]'' the [[Supreme Court of the United States]] addressed both these issues directly and clearly holding:
+
+{{blockquote|
+[N]o agreement with a foreign nation can confer power on the Congress, or on any other branch of Government, which is free from the restraints of the Constitution.
+
+[[Article Six of the United States Constitution|Article VI]], the [[Supremacy Clause]] of the Constitution, declares:
+
+"This Constitution, and the Laws of the United States which shall be made in Pursuance thereof, and all Treaties made, or which shall be made, under the Authority of the United States, shall be the supreme Law of the Land; ..."
+
+There is nothing in this language which intimates that treaties and laws enacted pursuant to them do not have to comply with the provisions of the Constitution. Nor is there anything in the debates which accompanied the drafting and ratification of the Constitution which even suggests such a result. These debates, as well as the history that surrounds the adoption of the treaty provision in Article VI, make it clear that the reason treaties were not limited to those made in "pursuance" of the Constitution was so that agreements made by the United States under the Articles of Confederation, including the important peace treaties which concluded the Revolutionary War, would remain in effect. It would be manifestly contrary to the objectives of those who created the Constitution, as well as those who were responsible for the Bill of Rights—let alone alien to our entire constitutional history and tradition—to construe Article VI as permitting the United States to exercise power under an international agreement without observing constitutional prohibitions. In effect, such construction would permit amendment of that document in a manner not sanctioned by Article V. The prohibitions of the Constitution were designed to apply to all branches of the National Government, and they cannot be nullified by the Executive or by the Executive and the Senate combined.
+
+There is nothing new or unique about what we say here. This Court has regularly and uniformly recognized the supremacy of the Constitution over a treaty. For example, in ''Geofroy v. Riggs'', 133 U. S. 258, 133 U. S. 267, it declared:
+
+"The treaty power, as expressed in the Constitution, is in terms unlimited except by those restraints which are found in that instrument against the action of the government or of its departments, and those arising from the nature of the government itself and of that of the States. It would not be contended that it extends so far as to authorize what the Constitution forbids, or a change in the character of the government, or in that of one of the States, or a cession of any portion of the territory of the latter, without its consent."
+
+This Court has repeatedly taken the position that an Act of Congress, which must comply with the Constitution, is on a full parity with a treaty, and that, when a statute which is subsequent in time is inconsistent with a treaty, the statute to the extent of conflict renders the treaty null. It would be completely anomalous to say that a treaty need not comply with the Constitution when such an agreement can be overridden by a statute that must conform to that instrument.<ref>{{cite web|url=http://supreme.justia.com/us/354/1/case.html|title=Reid v. Covert, 354 U. S. 1 at pp 17–19|work=Justia Law|access-date=30 October 2014}}</ref>}}
+
+According to the Cato Institute, these treaties only bind (legally obligate) the United States to comply with them as long as that nation agrees to remain a state party to these treaties. The [[Congress of the United States|U.S. Congress]] and the [[President of the United States]] have the absolute [[Sovereignty|sovereign]] right to withdraw from or abrogate at any time these two instruments, in accordance with said nation's [[Constitution of the United States|Constitution]], at which point these treaties will cease to bind that nation in any way, shape, or form.<ref name="cato.org">{{cite book |chapter-url=http://www.cato.org/pubs/handbook/hb108/hb108-17.pdf |title=Cato Handbook for Congress: Policy Recommendations for the 108th Congress |chapter=The War on Drugs |pages=171–178 |year=2003 |publisher=Cato Institute |access-date=October 20, 2012 |archive-date=October 7, 2012 |archive-url=https://web.archive.org/web/20121007031243/http://www.cato.org/pubs/handbook/hb108/hb108-17.pdf |url-status=dead }}</ref>
+
+A provision for automatic compliance with treaty obligations is found at {{uscsub|21|811|d|}}, which also establishes mechanisms for amending international drug control regulations to correspond with HHS findings on scientific and medical issues. If control of a substance is mandated by the Single Convention, the Attorney General is required to "issue an order controlling such drug under the schedule he deems most appropriate to carry out such obligations," without regard to the normal scheduling procedure or the findings of the HHS Secretary. However, the Secretary has great influence over any drug scheduling proposal under the Single Convention, because {{uscsub|21|811|d|2|B}} requires the Secretary the power to "evaluate the proposal and furnish a recommendation to the Secretary of State which shall be binding on the representative of the United States in discussions and negotiations relating to the proposal."
+
+Similarly, if the United Nations [[Commission on Narcotic Drugs]] adds or transfers a substance to a schedule established by the Convention on Psychotropic Substances, so that current U.S. regulations on the drug do not meet the treaty's requirements, the Secretary is required to issue a recommendation on how the substance should be scheduled under the CSA. If the Secretary agrees with the commission's scheduling decision, he can recommend that the Attorney General initiate proceedings to reschedule the drug accordingly.
+
+If the HHS Secretary disagrees with the UN controls, the Attorney General must temporarily place the drug in Schedule IV or V (whichever meets the minimum requirements of the treaty) and exclude the substance from any regulations not mandated by the treaty. The Secretary is required to request that the [[United States Secretary of State|Secretary of State]] take action, through the commission or the [[UN Economic and Social Council]], to remove the drug from international control or transfer it to a different schedule under the convention. The temporary scheduling expires as soon as control is no longer needed to meet international treaty obligations.
+
+This provision was invoked in 1984 to place Rohypnol ([[flunitrazepam]]) in Schedule IV. The drug did not then meet the Controlled Substances Act's criteria for scheduling; however, control was required by the Convention on Psychotropic Substances. In 1999, an FDA official explained to Congress:
+
+{{blockquote|Rohypnol is not approved or available for medical use in the United States, but it is temporarily controlled in Schedule IV pursuant to a treaty obligation under the 1971 Convention on Psychotropic Substances. At the time flunitrazepam was placed temporarily in Schedule IV (November 5, 1984), there was no evidence of abuse or trafficking of the drug in the United States.<ref>[https://www.hhs.gov/asl/testify/t990311b.html "Date Rape" Drugs<!-- Bot generated title -->] {{webarchive|url=https://web.archive.org/web/20060516010858/http://www.hhs.gov/asl/testify/t990311b.html |date=2006-05-16 }}</ref>}}
+
+The [[Cato Institute]]'s ''Handbook for Congress'' calls for repealing the CSA, an action that would likely bring the United States into conflict with [[international law]], were the United States not to exercise its sovereign right to withdraw from and/or abrogate the [[Single Convention on Narcotic Drugs]] and/or the 1971 [[Convention on Psychotropic Substances]] prior to repealing the Controlled Substances Act.<ref name="cato.org"/> The exception would be if the U.S. were to claim that the treaty obligations violate the [[United States Constitution]]. Many articles in these treaties—such as Article 35 and Article 36 of the Single Convention—are prefaced with phrases such as "Having due regard to their constitutional, legal and administrative systems, the Parties shall ..." or "Subject to its constitutional limitations, each Party shall ..." According to former [[United Nations Drug Control Programme]] Chief of Demand Reduction [[Cindy Fazey]], "This has been used by the USA not to implement part of article 3 of the 1988 Convention, which prevents inciting others to use narcotic or psychotropic drugs, on the basis that this would be in contravention of [[First Amendment to the United States Constitution|their constitutional amendment guaranteeing freedom of speech]]".<ref>[http://www.fuoriluogo.it/arretrati/2003/apr_17_en.htm fuoriluogo.it – aprile 2003<!-- Bot generated title -->] {{webarchive |url=https://web.archive.org/web/20150423160616/http://www.fuoriluogo.it/arretrati/2003/apr_17_en.htm |date=April 23, 2015 }}</ref>
+
+==Schedules of controlled substances==
+There are five different schedules of controlled substances, numbered I{{ndash}}V. The CSA describes the different schedules based on three factors:
+
+# Potential for [[substance abuse|abuse]]: How likely is this drug to be abused?
+# Accepted medical use: Is this drug used as a treatment in the United States?
+# Safety and potential for [[drug addiction|addiction]]: Is this drug safe? How likely is this drug to cause addiction? What kinds of addiction?
+
+The following table gives a summary of the different schedules.<ref name=schedules>[https://www.law.cornell.edu/uscode/text/21/812 21 U.S.C. § 812 {{ndash}} Schedules of controlled substances].</ref>
+
+{| class="wikitable" style="margin: 1em auto 1em auto;"
+! scope="col" |
+! scope="col" | Potential for abuse
+! scope="col" | Accepted medical use?
+! scope="col" | Potential for addiction
+|-style="text-align:center;"
+| '''Schedule I''' || High || None || Drug is not safe to use, even under medical supervision
+|- style="text-align:center;"
+| '''Schedule II''' || High || Yes; sometimes allowed<br>only with "severe restrictions" || Abusing the drug can cause severe physical and mental addiction
+|-style="text-align:center;"
+| '''Schedule III''' || Medium{{efn|Less than the drugs in Schedule I and Schedule II}} || Yes || Abusing the drug can cause severe mental addiction, or moderate physical addiction
+|-style="text-align:center;"
+| '''Schedule IV''' || Moderate{{efn|When compared with the drugs in Schedule III}} || Yes || Abusing the drug may lead to moderate mental or physical addiction
+|-style="text-align:center;"
+| '''Schedule V''' || Lowest{{efn|When compared with the drugs in Schedule IV}} || Yes || Abusing the drug may lead to mild mental or physical addiction
+|}
+
+Placing a drug or other substance in a certain schedule or removing it from a certain schedule is primarily based on [[21 USC]] §§ {{uscsub2|21|801}}, {{uscsub2|21|801a}}, {{uscsub2|21|802}}, {{uscsub2|21|811}}, {{uscsub2|21|812}}, {{uscsub2|21|813}}, and {{uscsub2|21|814}}. Every schedule otherwise requires finding and specifying the "potential for abuse" before a substance can be placed in that schedule.<ref>{{cite web|url=https://www4.law.cornell.edu/uscode/html/uscode21/usc_sup_01_21_10_13.html|title=21 U.S. Code Chapter 13 - Drug Abuse Prevention and Control |website=LII / Legal Information Institute}}</ref> The specific classification of any given drug or other substance is usually a source of controversy, as is the purpose and effectiveness of the entire regulatory scheme.
+
+{{blockquote|The term "controlled substance" means a drug or other substance, or immediate precursor, included in schedule I, II, III, IV, or V of part B of this subchapter. The term does not include distilled spirits, wine, absinthe, malt beverages, nicotine or tobacco, as those terms are defined or used in subtitle E of the Internal Revenue Code of 1986.|{{uscsub|21|802|6}}<ref>{{cite web|url=https://www.law.cornell.edu/uscode/text/21/802- |title=21 U.S. Code § 802 - Definitions|website=LII / Legal Information Institute}}</ref>}}
+
+Some have argued that this is an important exemption, since [[alcohol (drug)|alcohol]] and tobacco are two of the most widely used drugs in the United States.<ref>{{cite web|url=http://www.drugabusestatistics.samhsa.gov/Dependence/appendixc.htm|title=Appendix C: Measurement of Dependence, Abuse, Treatment, and Treatment Need – 2000 NHSDA – Substance Dependence, Abuse, and Treatment|publisher=SAMHSA, Office of Applied Studies|work=National Household Survey on Drug Abuse|year=2000|url-status=dead|archive-url=https://web.archive.org/web/20130221214222/http://www.drugabusestatistics.samhsa.gov/Dependence/appendixc.htm|archive-date=February 21, 2013}}</ref><ref>{{cite web|url=http://www.drugabuse.gov/Infofacts/Tobacco.html|title=InfoFacts – Cigarettes and Other Tobacco Products|access-date=October 30, 2014|archive-url=https://web.archive.org/web/20060922200550/http://www.drugabuse.gov/infofacts/tobacco.html|archive-date=September 22, 2006|url-status=dead}}</ref>
+
+{{anchor|Schedule I drugs}}
+
+===Schedule I===
+<!-- This Anchor tag serves to provide a permanent target for incoming section links. Please do not move it out of the section heading, even though it disrupts edit summary generation (you can manually fix the edit summary before saving your changes). Please do not modify it, even if you modify the section title. It is always best to anchor an old section header that has been changed so that links to it won't be broken. See [[Template:Anchor]] for details. (This text: [[Template:Anchor comment]]) -->
+{{Main|List of Schedule I drugs (US)}}
+
+Schedule I substances are described as those that have all of the following findings:
+{{blockquote|1=
+{{ordered list|type=A
+ |The drug or other substance has a high potential for abuse.
+ |The drug or other substance has no currently accepted medical use in treatment in the United States.
+ |There is a lack of accepted safety for use of the drug or other substance under medical supervision.<ref name="cornell1">{{USC|21|812}} – Schedules of controlled substances</ref>
+}}}}
+
+No prescriptions may be written for Schedule I substances, and such substances are subject to [[production quota]]s which the DEA imposes.
+
+Under the DEA's interpretation of the CSA, a drug does not necessarily have to have the same "high potential for abuse" as heroin, for example, to merit placement in Schedule I:
+
+{{blockquote|[W]hen it comes to a drug that is currently listed in schedule I, if it is undisputed that such drug has no currently accepted medical use in treatment in the United States and a lack of accepted safety for use under medical supervision, and it is further undisputed that the drug has ''at least some potential for abuse sufficient to warrant control under the CSA'', the drug must remain in schedule I. In such circumstances, placement of the drug in schedules II through V would conflict with the CSA since such drug would not meet the criterion of "a currently accepted medical use in treatment in the United States." 21 USC 812(b). (emphasis added)<ref name=donnie>{{cite journal|last=Marshall|first=Donnie|title=Notice of denial of petition to reschedule marijuana|journal=Federal Register|date=20 March 2001|volume=66|issue=75|pages=20038–20076|url=https://www.federalregister.gov/documents/2001/04/18/01-9306/notice-of-denial-of-petition|access-date=13 June 2013|publisher=[[Drug Enforcement Administration]]}}</ref>|[[Drug Enforcement Administration]]|Notice of denial of petition to reschedule marijuana (2001)}}
+
+'''Drugs listed in this control schedule include:'''
+* [[alpha-Methyltryptamine|αMT]] (alpha-methyltryptamine), a [[psychedelic drug|psychedelic]], [[stimulant]], and [[entactogen]] [[drug]] of the [[tryptamine]] class that was originally developed as an antidepressant by workers at [[Upjohn]] in the 1960s.
+* [[Benzylpiperazine|BZP]] (benzylpiperazine), a synthetic stimulant once sold as a [[designer drug]]. It has been shown to be associated with an increase in seizures if taken alone.<ref>{{Cite journal |last1=Gee |first1=Paul |first2=Mark |last2=Gilbert |first3=Sandra |last3=Richardson |first4=Grant |last4=Moore |first5=Sharon |last5=Paterson |first6=Patrick |last6=Graham |title=Toxicity from the Recreational Use of 1-benzylpiperazine |journal=Clinical Toxicology |volume=46 |issue=9 |year=2008 |pages=802–07 |doi=10.1080/15563650802307602 |pmid=18821145|s2cid=12227038 }}</ref> Although the effects of BZP are not as potent as MDMA, it can produce neuroadaptations that can cause an increase in the potential for abuse of this drug.<ref>{{Cite journal |last1=Brennan |first1=K. |first2=A. |last2=Johnstone |first3=P. |last3=Fitzmaurice |first4=R. |last4=Lea |first5=S. |last5=Schenk |title=Chronic Benzylpiperazine (BZP) Exposure Produces Behavioral Sensitization and Cross-sensitization to Methamphetamine (MA) |journal=Drug and Alcohol Dependence |volume=88 |issue=2–3 |year=2007 |pages=204–13 |doi=10.1016/j.drugalcdep.2006.10.016 |pmid=17125936}}</ref>
+* [[Cathinone]], an amphetamine-like stimulant found in the shrub ''[[Catha edulis]]'' ([[khat]]).
+* [[Dimethyltryptamine|DMT]] (dimethyltryptamine), a naturally occurring [[psychedelic drug]] that is widespread throughout the plant kingdom and endogenous to the human body. DMT is the main psychoactive constituent in the [[psychedelic drug|psychedelic]] South American brew, [[ayahuasca]], for which the [[União do Vegetal|UDV]] are granted exemption from DMT's schedule I status on the grounds of religious freedom.
+* [[Etorphine]], a semi-synthetic opioid possessing an analgesic potency approximately 1,000–3,000 times that of morphine.
+* [[Gamma-hydroxybutyric acid|GHB]] (gamma-Hydroxybutyric acid), a general anesthetic and treatment for [[narcolepsy]]-cataplexy and alcohol withdrawal with a limited safe dosage range and poor ability to control pain when used as an anesthetic (severely limiting its usefulness).<ref>{{cite journal | last1 = Tunnicliff | first1 = G. | year = 1997 | title = Sites of action of gamma hydroxybutyrate (GHB)—A neuroactive drug with abuse potential | journal = Clinical Toxicology | volume = 35 | issue = 6| pages = 581–590 | doi = 10.3109/15563659709001236 | pmid = 9365423 }}</ref> It was placed in Schedule I in March 2000 after widespread recreational use led to increased [[emergency room]] visits, hospitalizations, and deaths.<ref>{{Cite journal |last1=Okun |first1=M. S. |last2=Boothy |first2=L. A. |last3=Bartfield |first3=R. B. |last4=Doering |first4=P. L. |year=2001 |title=GHB: An important pharmacologic and clinical update |journal= Journal of Pharmacy & Pharmaceutical Sciences |volume=4| issue = 2 |pages=167–175|pmid=11466174 }}</ref> A specific formulation of this drug is also listed in Schedule III for limited uses, under the trademark [[Xyrem]].
+* [[Heroin]] is the brand name for ''diacetylmorphine'' or ''morphine diacetate'', which is an inactive [[prodrug]] that exerts its effects after being converted into the major active metabolite morphine, and the minor metabolite 6-MAM - which itself is also rapidly converted to morphine. Some European countries still use it as a potent pain reliever in terminal cancer patients, and as second option, after [[morphine|morphine sulfate]]; it is about twice as potent, by weight, as morphine and, indeed, becomes morphine upon injection into the bloodstream. The two acetyl groups attached to the morphine make a prodrug which delivers morphine to the opioid receptors twice as fast as morphine can.
+* [[Ibogaine]], a naturally occurring psychoactive substance found in plants in the family Apocynaceae. Some countries in North America use ibogaine as an alternative medicine treatment for opioid drug addiction. Ibogaine is also used for medicinal and ritual purposes within [[Africa]]n spiritual traditions of the [[Bwiti]].
+* [[Lysergic acid diethylamide|LSD]] (lysergic acid diethylamide), a [[semi-synthetic]] [[psychedelic drug]] famous for its involvement in the [[counterculture of the 1960s]].
+* [[Cannabis (drug)|Marijuana]] and its [[cannabinoid]]s. Pure (–)-trans-Δ9-tetrahydrocannabinol is also listed in Schedule III for limited uses, under the trademark [[Marinol]]. As a result of ballot initiatives, [[Legality of cannabis by U.S. jurisdiction|many states]] have made recreational and medical use of marijuana legal, while other states have decriminalized possession of small amounts. Such measures operate only on state laws, and have no effect on federal law.<ref name=donnie /><ref name=Angelos>See ''United States v. Angelos'', 433 F.3d 738 ([[United States Court of Appeals for the Tenth Circuit|10th Cir.]] 2006) (55 years for three sales of marijuana).</ref> Whether such users would actually be prosecuted under federal law is a separate question with no definitive answer. Given the widespread medicinal use of cannabis, the maintenance of its Schedule I classification has been controversial, with many calling for a reclassification or holistic federal decriminalization. As of April 30, 2024, cannabis was set to be reclassified by the [[Drug Enforcement Administration|DEA]] as a Schedule III controlled substance.<ref>{{Cite web |title=Biden administration plans to drastically change federal rules on marijuana |url=https://www.usatoday.com/story/news/nation/2024/04/30/dea-reclassifies-marijuana-reports/72865632007/ |access-date=April 30, 2024 |website=USA TODAY |language=en-US}}</ref><ref>{{Cite web |date=April 30, 2024 |title=US drug control agency will move to reclassify marijuana in a historic shift, AP sources say |url=https://apnews.com/article/marijuana-biden-dea-criminal-justice-pot-f833a8dae6ceb31a8658a5d65832a3b8 |access-date=April 30, 2024 |website=AP News |language=en}}</ref> On April 23rd, 2026, FDA approved products containing cannabis and products regulated by a state medical marijuana license were moved to schedule III.<ref>https://www.cbsnews.com/news/marijuana-products-justice-department-reclassification-schedule-3/</ref><ref>https://www.justice.gov/opa/media/1437441/dl?utm_medium=email&utm_source=govdelivery</ref>
+* [[MDMA]] ("ecstasy" or "molly"), a [[stimulant]], [[psychedelic drug|psychedelic]], and [[Empathogen-entactogen|entactogenic]] drug which initially garnered attention in [[psychedelic therapy]] as a treatment for [[post-traumatic stress disorder]] (PTSD). The medical community originally agreed upon placing it as a Schedule III substance, but the government denied this suggestion, despite two court rulings by the DEA's administrative law judge that placing MDMA in Schedule I was illegal. It was temporarily unscheduled after the first administrative hearing from December 22, 1987 – July 1, 1988.<ref>{{cite web|url=http://maps.org/dea-mdma/|title=MAPS Legal History of MDMA|access-date=October 30, 2014|archive-date=August 5, 2007|archive-url=https://web.archive.org/web/20070805015508/http://maps.org/dea-mdma/|url-status=dead}}</ref>
+* [[Mescaline]], a naturally occurring [[psychedelic drug]] and the main psychoactive constituent of [[peyote]] (''Lophophora williamsii''), [[Echinopsis pachanoi|San Pedro cactus]] (''Echinopsis pachanoi''), and [[Echinopsis peruviana|Peruvian torch cactus]] (''Echinopsis peruviana'').
+* [[Methaqualone]] (Quaalude, Sopor, Mandrax), a sedative that was previously used for similar purposes as barbiturates, until it was rescheduled.
+* [[Peyote]] (''Lophophora williamsii''), a cactus growing in nature primarily in northeastern Mexico; one of the few plants specifically scheduled, with a narrow exception to its legal status for religious use in Native American churches.
+* [[Psilocybin]] and [[psilocin]], naturally occurring [[psychedelic drug]]s and the main psychoactive constituents of [[psilocybin mushroom]]s.
+* Controlled substance analogues intended for human consumption, as defined by the [[Federal Analogue Act]].
+In addition to the named substance, usually all possible ethers, esters, salts and stereoisomers of these substances are also controlled and also 'analogues', which are chemically similar.
+
+{{anchor|Schedule II drugs}}
+
+===Schedule II===
+<!-- DO NOT MOVE THE ABOVE ANCHOR TAG.  See detailed comment under the "Schedule I" section. -->
+{{Main|List of Schedule II drugs (US)}}
+
+Schedule II substances are those that have the following findings:
+
+{{blockquote|1=
+{{ordered list|type=A
+ |The drug or other substance has a high potential for abuse
+ |The drug or other substance has a currently accepted medical use in treatment in the United States, or a currently accepted medical use with severe restrictions
+ |Abuse of the drug or other substances may lead to severe psychological or physical dependence.<ref name="cornell1" />
+}}}}
+
+Except when dispensed directly to an ultimate user by a practitioner other than a pharmacist, no controlled substance in Schedule II, which is a prescription drug as determined under the Federal Food, Drug, and Cosmetic Act (21 USC 301 ''et seq.''), may be dispensed without the written or electronically transmitted (21 CFR 1306.08) prescription of a practitioner, except that in emergency situations, as prescribed by the Secretary by regulation after consultation with the Attorney General, such drug may be dispensed upon oral prescription in accordance with section 503(b) of that Act (21 USC 353 (b)). With exceptions, an original prescription is always required even though faxing in a prescription in advance to a pharmacy by a prescriber is allowed.<ref name="deadiversion.usdoj.gov">{{cite web|title=Manuals – Practitioner's Manual – SECTION V|url=http://www.deadiversion.usdoj.gov/pubs/manuals/pract/section5.htm|access-date=January 7, 2014|archive-date=January 7, 2014|archive-url=https://web.archive.org/web/20140107191947/http://www.deadiversion.usdoj.gov/pubs/manuals/pract/section5.htm|url-status=dead}} Retrieved January 7, 2014</ref> Prescriptions shall be retained in conformity with the requirements of section 827 of this title. No prescription for a controlled substance in Schedule II may be refilled.<ref name="cornell2">{{cite web|url=https://www.law.cornell.edu/uscode/text/21/829-|title=21 U.S. Code § 829 - Prescriptions|website=LII / Legal Information Institute}}</ref>
+
+These drugs vary in potency: for example [[fentanyl]] is about 80 times as potent as [[morphine]] ([[heroin]] is roughly two times as potent). More significantly, they vary in nature. Pharmacology and CSA scheduling have a weak relationship.
+
+Because refills of prescriptions for Schedule II substances are not allowed, it can be burdensome to both the practitioner and the patient if the substances are to be used on a long-term basis. To provide relief, in 2007, {{CodeFedReg|21|1306.12}} was amended (at {{Federal Register|72|64921}}) to allow practitioners to write up to three prescriptions at once, to provide up to a 90-day supply, specifying on each the earliest date on which it may be filled.<ref>{{cite web |title=Issuance of Multiple Prescriptions for Schedule II Controlled Substances |url=http://www.deadiversion.usdoj.gov/faq/mult_rx_faq.htm |publisher=[[United States Drug Enforcement Administration|U.S. DEA]], [[United States Department of Justice|U.S. DOJ]] |access-date=September 3, 2014 |date=November 2007 |archive-date=October 16, 2012 |archive-url=https://web.archive.org/web/20121016215736/http://www.deadiversion.usdoj.gov/faq/mult_rx_faq.htm |url-status=dead }}</ref>
+
+Drugs in this schedule include:
+* [[Amphetamine]] drugs including [[Adderall]], [[dextroamphetamine]] (Dexedrine), [[lisdexamfetamine]] (Vyvanse): treatment of [[ADHD]], [[narcolepsy]], severe [[obesity]] (limited use, dextroamphetamine only), [[binge eating disorder]] (lisdexamfetamine only). Originally placed in Schedule III, but moved to Schedule II in 1978 as part of the [[Psychotropic Substances Act (United States)|Psychotropic Substances Act]].
+* [[Barbiturates]] (short-acting), such as [[pentobarbital]]
+* [[Cocaine]]: used as a [[topical anesthetic]] or [[local anesthetic]] and to stop severe [[epistaxis]]
+* [[Codeine]] (pure) and any drug for non-[[wikt:parenteral|parenteral]] administration containing the equivalent of more than 90&nbsp;mg of codeine per dosage unit;
+* [[Diphenoxylate]] (pure)
+* [[Fentanyl]] and most other strong pure [[opioid]] agonists, e.g. [[levorphanol]]
+* [[Hydrocodone]] in ''any'' formulation since October 2014 (examples include Vicodin, Norco, Tussionex). Prior to October 2014, formulations containing hydrocodone and over-the-counter [[analgesic]]s such as [[acetaminophen]] and [[ibuprofen]] were Schedule III.<ref>Federal Register / Vol. 79, No. 163 / Pgs. 49661 - 49682 / August 22, 2014, DEA-Final Rule, Effective October 6, 2014 [https://www.gpo.gov/fdsys/pkg/FR-2014-08-22/html/2014-19922.htm Text (162 KB)] [https://www.gpo.gov/fdsys/pkg/FR-2014-08-22/pdf/2014-19922.pdf PDF (242 KB)]</ref>
+* [[Hydromorphone]] (semi-synthetic opioid; active ingredient in [[Dilaudid]], [[Palladone]])
+* [[Methadone]]: treatment of [[heroin]] addiction, extreme chronic pain
+* [[Methamphetamine]]: treatment of [[ADHD]] (rare), severe [[obesity]] (limited use) under the brandname Desoxyn.
+* [[Methylphenidate]] (Ritalin, Concerta), [[dexmethylphenidate]] (Focalin): treatment of [[ADHD]], [[narcolepsy]]
+* [[Morphine]]: a pain medication of the opiate family.
+* [[Nabilone]] (Cesamet) – A synthetic [[cannabinoid]]. An analogue to [[dronabinol]] (Marinol) which is a Schedule III drug.
+* [[Opium]] tincture ([[laudanum]]): a potent [[antidiarrheal]]
+* [[Oxycodone]] (semi-synthetic opioid; active ingredient in [[Percocet]], [[OxyContin]], and [[Percodan]])
+* [[Oxymorphone]] (semi-synthetic opioid; active ingredient in Opana)
+* [[Pentobarbital|Nembutal (pentobarbital)]] – [[barbiturate]] medication originally developed for [[narcolepsy]]; primarily used today for [[Assisted suicide|physician assisted suicide]] and [[euthanasia]] of animals.
+* [[Pethidine]] ([[United States Adopted Name|USAN]]: Meperidine; Demerol)
+* [[Phencyclidine]] (PCP) – Formerly used as veterinary anesthetic under the trade name Sernylan and before then as an injectable anesthetic under the trade name Sernyl.<ref>{{cite web |url=https://www.unodc.org/LSS/SubstanceGroup/Details/6bf165ed-82e7-47e0-9eaa-daacc42d99cd |title=Details for Phencyclidine-type substances}}</ref>
+* [[Secobarbital]] (Seconal)
+* [[Tapentadol]] (Nucynta) – A drug with mixed opioid agonist and norepinephrine re-uptake inhibitor activity.
+
+{{anchor|Schedule III drugs}}
+
+===Schedule III===
+<!-- DO NOT MOVE THE ABOVE ANCHOR TAG. See detailed comment under the "Schedule I" section. -->
+{{Main|List of Schedule III drugs (US)}}
+
+Schedule III substances are those that have the following findings:
+
+{{blockquote|1=
+{{ordered list|type=A
+ |The drug or other substance has a potential for abuse less than the drugs or other substances in Schedules I and II.
+ |The drug or other substance has a currently accepted medical use in treatment in the United States.
+ |Abuse of the drug or other substance may lead to moderate or low physical dependence or high psychological dependence.<ref name="cornell1"/>
+}}}}
+
+Except when dispensed directly by a practitioner, other than a pharmacist, to an ultimate user, no controlled substance in Schedule III or IV, which is a prescription drug as determined under the [[Federal Food, Drug, and Cosmetic Act]] (21 USC 301 ''et seq.''), may be dispensed without a written, electronically transmitted, or oral prescription in conformity with section 503(b) of that Act (21 USC 353 (b)). Such prescriptions may not be filled or refilled more than six months after the date thereof or be refilled more than five times after the date of the prescription unless renewed by the practitioner.<ref name="cornell2"/>
+
+A prescription for controlled substances in Schedules III, IV, and V issued by a practitioner, may be communicated either orally, in writing, electronically transmitted or by facsimile to the pharmacist, and may be refilled if so authorized on the prescription or by call-in.<ref name="deadiversion.usdoj.gov"/> Control of wholesale distribution is somewhat less stringent than Schedule II drugs. Provisions for emergency situations are less restrictive within the "closed system" of the Controlled Substances Act than for Schedule II though no schedule has provisions to address circumstances where the closed system is unavailable, nonfunctioning or otherwise inadequate.
+
+Drugs in this schedule include:
+* [[Ketamine]], a drug originally developed as a safer, shorter-acting replacement for [[Phencyclidine|PCP]] (mainly for use as a human anesthetic) but has since become popular as a veterinary and pediatric anesthetic;
+* [[Anabolic steroid]]s (including [[prohormone]]s such as [[androstenedione]]); the specific end molecule [[Testosterone (medication)|testosterone]] in many of its forms (Androderm, AndroGel, Testosterone Cypionate, and Testosterone Enanthate) are labeled as Schedule III while low-dose testosterone when compounded with estrogen derivatives have been exempted (from scheduling) by the FDA<ref>Exempt Anabolic Steroids (21 CFR § 1308.33 and 21 CFR § 1308.34) February 5, 2015, Drug Enforcement Administration Office of Diversion Control Drug and Chemical Evaluation Section</ref>
+* Intermediate-acting [[barbiturate]]s, such as [[talbutal]] or [[butalbital]]
+* [[Buprenorphine]] (semi-synthetic opioid; active in [[Suboxone]], [[Subutex]])
+* FDA-approved products containing cannabis and products regulated by a state medical marijuana license <ref>https://www.cbsnews.com/news/marijuana-products-justice-department-reclassification-schedule-3/</ref><ref>https://www.justice.gov/opa/media/1437441/dl?utm_medium=email&utm_source=govdelivery</ref>
+* [[Dihydrocodeine]] when compounded with other substances, to a certain dosage and concentration.
+* FDA-approved [[sodium oxybate]] products (e.g. Xyrem, Xywav and Lumryz)—preparations of [[gamma-Hydroxybutyric acid|GHB]] used to treat [[narcolepsy]]. These products are in Schedule III but with a [[Risk Evaluation and Mitigation Strategies|restricted distribution system]]. All other forms or preparations of GHB are in Schedule I.
+* [[Tetrahydrocannabinol|Marinol]], synthetically prepared [[tetrahydrocannabinol]] (officially referred to by its [[International Nonproprietary Name|INN]], [[tetrahydrocannabinol|dronabinol]]) used to treat [[nausea]] and [[vomiting]] caused by [[chemotherapy]], as well as [[Anorexia (symptom)|appetite loss]] caused by [[AIDS]].
+* [[Paregoric]], an [[antidiarrheal]] and [[anti-tussive]], which contains [[opium]] combined with [[camphor]] (which makes it less addiction-prone than [[laudanum]], which is in Schedule II).
+* [[Phendimetrazine tartrate]], a stimulant synthesized for use as an [[anorexiant]].
+* [[Benzphetamine]] HCl (Didrex), a stimulant designed for use as an [[anorexiant]].
+* Fast-acting barbiturates such as [[secobarbital]] (Seconal) and [[pentobarbital]] (Nembutal), when combined with one or more additional active ingredient(s) not in Schedule II (e.g., Carbrital (no longer marketed), a combination of pentobarbital and [[carbromal]]).
+* [[Ergine]] (lysergic acid amide), listed as a sedative but also has psychedelic effects such as visual and auditory effects.<ref>{{cite journal | last1 = Halpern | first1 = J.H. | year = 2004 | title = Hallucinogens and dissociative agents naturally growing in the United States | journal = Pharmacology & Therapeutics | volume = 102 | issue = 2| pages = 131–138 | doi=10.1016/j.pharmthera.2004.03.003 | pmid=15163594| s2cid = 30734515 }}</ref><ref>Schultes, R.E. and Hofmann, A., 1980. ''The botany and chemistry of hallucinogens'', Charles C. Thomas, Springfield, IL.</ref> An inefficient precursor to its ''N'', ''N''-diethyl analogue, [[Lysergic acid diethylamide|LSD]], ergine occurs naturally in the seeds of the common garden flowers ''[[Turbina corymbosa]]'', ''[[Ipomoea tricolor]]'', and ''[[Argyreia nervosa]]''.
+* [[Perampanel]] (Fycompa), an [[anticonvulsant]]
+<!-- This seems to have been inserted in wrong place as the federal Schedule doesn't vary by state: *pseudoephedrine (sudafed) is a schedule 3 in the state of Oregon. -->
+
+{{anchor|Schedule IV drugs}}
+
+===Schedule IV===
+<!-- DO NOT MOVE THE ABOVE ANCHOR TAG.  See detailed comment under the "Schedule I" section. -->
+{{Main|List of Schedule IV drugs (US)}}
+
+Placement on schedules; findings required
+Schedule IV substances are those that have the following findings:
+{{blockquote|1=
+{{ordered list|type=A
+ |The drug or other substance has a low potential for abuse relative to the drugs or other substances in Schedule III
+ |The drug or other substance has a currently accepted medical use in treatment in the United States
+ |Abuse of the drug or other substance may lead to limited physical dependence or psychological dependence relative to the drugs or other substances in Schedule III<ref name="cornell1"/>
+}}}}
+
+Control measures are similar to Schedule III. Prescriptions for Schedule IV drugs may be refilled up to five times within a six-month period. A prescription for controlled substances in Schedules III, IV, and V issued by a practitioner, may be communicated either orally, in writing, electronically transmitted or by facsimile to the pharmacist, and may be refilled if so authorized on the prescription or by call-in.<ref name="deadiversion.usdoj.gov"/>
+
+Drugs in this schedule include:
+* [[Benzodiazepine]]s, such as [[alprazolam]] (Xanax), [[chlordiazepoxide]] (Librium), [[clonazepam]] (Klonopin), [[diazepam]] (Valium), [[clobazam]] (Onfi), [[midazolam]] (Versed), and [[lorazepam]] (Ativan), as well as:
+** [[temazepam]] (Restoril) (some states require specially coded prescriptions for [[temazepam]])
+** [[flunitrazepam]] (Rohypnol) (flunitrazepam is not FDA approved making it an illegal drug in the United States)
+** [[oxazepam]] (Serax, Serepax, Seresta, Alepam, Opamox, Oxamin)
+* The [[Nonbenzodiazepine|benzodiazepine-like]] [[Z-drug]]s: [[zolpidem]] (Ambien), [[zopiclone]] (Imovane), [[eszopiclone]] (Lunesta), and [[zaleplon]] (Sonata) (zopiclone is not commercially available in the U.S.)
+* [[Chloral hydrate]], a sedative-hypnotic
+* Long-acting [[barbiturates]] such as [[phenobarbital]]
+* Some partial [[agonist]] opioid analgesics, such as [[pentazocine]] (Talwin)
+* The [[eugeroic]] drug [[modafinil]] (sold in the U.S. as Provigil) as well as its ''(R)''-enantiomer [[armodafinil]] (sold in the U.S. as Nuvigil)
+* [[Difenoxin]], an [[antidiarrheal]] drug, when combined with atropine (such as Motofen) (difenoxin is 2–3 times more potent than [[diphenoxylate]], the active ingredient in [[Lomotil]], which is in Schedule V)
+* [[Tramadol]] (Ultram), an opioid analgesic
+*  [[Carisoprodol]] (Soma) has become a Schedule IV medication as of January 11, 2012<ref>[Federal Register Volume 76, Number 238 (Monday, December 12, 2011)] [Rules and Regulations] [Pages 77330-77360]</ref>
+* [[Suvorexant]] and [[lemborexant]], [[Hypocretin (orexin) receptor 1|orexinergic]] sedatives
+
+{{Anchor|Schedule V drugs}}
+
+===Schedule V===
+<!-- DO NOT MOVE THE ABOVE ANCHOR TAG. See detailed comment under the "Schedule I" section. -->
+{{Main|List of Schedule V drugs (US)}}
+
+Schedule V substances are those that have the following findings:
+{{blockquote|1=
+{{ordered list|type=A
+ |The drug or other substance has a low potential for abuse relative to the drugs or other substances in schedule IV
+ |The drug or other substance has a currently accepted medical use in treatment in the United States
+ |Abuse of the drug or other substance may lead to limited physical dependence or psychological dependence relative to the drugs or other substances in schedule IV.<ref name="cornell1"/>
+}}}}
+
+No controlled substance in Schedule V which is a drug may be distributed or dispensed other than for a medical purpose.<ref name="cornell2"/> A prescription for controlled substances in Schedules III, IV, and V issued by a practitioner, may be communicated either orally, in writing, electronically transmitted or by facsimile to the pharmacist, and may be refilled if so authorized on the prescription or by call-in.<ref name="deadiversion.usdoj.gov"/>
+
+Drugs in this schedule include:
+* Cough suppressants containing small amounts of codeine (e.g., [[promethazine]]+codeine);
+* Preparations containing small amounts of opium or [[diphenoxylate]] (used to treat diarrhea);
+* Some [[anticonvulsant]]s, such as [[pregabalin]] (Lyrica), [[lacosamide]] (Vimpat), [[brivaracetam]] (Briviact), and [[retigabine]] ([[ezogabine]]) (Potiga/Trobalt);
+* [[Pyrovalerone]] (used to treat [[Fatigue#Chronic|chronic fatigue]] and as an [[appetite suppressant]] for [[weight loss]]);
+* Some centrally-acting antidiarrheals, such as [[diphenoxylate]] (Lomotil) when mixed with [[atropine]] (to make it poisonous, if taken at euphoria-inducing dosages). [[Difenoxin]] with atropine (Motofen) has been moved to Schedule IV. Without atropine, these drugs are in Schedule II.
+* [[Cannabidiol]], only in a [[cannabis]]-derived pharmaceutical formulation marketed by [[GW Pharmaceuticals]] as '''Epidiolex'''. Other CBD formulations remain Schedule I, except for those derived from hemp which are unscheduled but still FDA-regulated.<ref name="fda-apr2019">{{cite web |title=FDA Regulation of Cannabis and Cannabis-Derived Products: Questions and Answers |url=https://www.fda.gov/news-events/public-health-focus/fda-regulation-cannabis-and-cannabis-derived-products-questions-and-answers |archive-url=https://web.archive.org/web/20190429051623/https://www.fda.gov/news-events/public-health-focus/fda-regulation-cannabis-and-cannabis-derived-products-questions-and-answers |url-status=dead |archive-date=April 29, 2019 |publisher=US Food and Drug Administration |access-date=May 18, 2019 |date=April 2, 2019}}</ref>
+
+===Controlled by other federal laws for legal recreational use===
+These psychoactive drugs are not controlled by the act, and are also allowed for sale intended for [[recreational drug use|recreational use]] at the federal level (others are allowed for sale as [[dietary supplement]]s, but not specifically regulated or intended for recreational use):
+* [[Alcohol (drug)|Alcohol]] (ethanol), a sedative found in [[alcoholic drinks]]. Per the [[National Minimum Drinking Age Act]] (which is voluntarily abided by all 50 U.S. states), sale is limited to persons 21-years-old and above only.<ref>{{cite journal |title=An Act To amend the Surface Transportation Assistance Act of 1982 to require States to use at least 8 per centum of their highway safety apportionments for developing and implementing comprehensive programs concerning the use of child restraint sys- tems in motor vehicles, and for other purposes. |journal=Public Law, United States Government |date=July 17, 1984 |volume=98–363 |url=https://www.govinfo.gov/content/pkg/STATUTE-98/pdf/STATUTE-98-Pg435.pdf |access-date=December 10, 2022}}</ref> Sale regulated by the [[Bureau of Alcohol, Tobacco, Firearms and Explosives]] (ATF) and less commonly the [[Food and Drug Administration]] (FDA).{{citation needed|date=May 2024}} Alcohol was formerly illegal under the [[Eighteenth Amendment to the United States Constitution|Eighteenth Amendment to the Constitution]] from 1919, until the [[Twenty-first Amendment to the United States Constitution|Twenty-first Amendment]] repealed it in 1933.<ref>{{cite web |title=Amendment XXI. Repeal of Prohibition |url=https://www.law.cornell.edu/constitution-conan/amendment-21 |website=LII / Legal Information Institute |access-date=December 10, 2022 |language=en}}</ref>
+* [[Caffeine]], a stimulant found in [[coffee]], [[chocolate]]; and some [[tea]]s and [[soft drink]]s. It is regulated by the FDA under the [[Federal Food, Drug, and Cosmetic Act]], and drinks cannot contain more than 200 parts per million (0.02%) of caffeine. There is no federal age restriction for caffeine-containing products.<ref>{{cite journal |last1=Rosenfeld |first1=Leah S. |last2=Mihalov |first2=Jeremy J. |last3=Carlson |first3=Susan J. |last4=Mattia |first4=Antonia |title=Regulatory status of caffeine in the United States |journal=Nutrition Reviews |date=October 2014 |volume=72 |issue=Suppl 1 |pages=23–33 |doi=10.1111/nure.12136 |pmid=25293541 |issn=1753-4887|doi-access=free }}</ref> Also available medically in some pain medications (usually in combination with other drugs, like in [[aspirin/paracetamol/caffeine|aspirin/acetaminophen/caffeine]]).
+* [[Nicotine]], a stimulant found in [[tobacco]] (including [[cigarette]]s and [[cigar]]s) and [[electronic cigarette]]s. Also used medically in [[nicotine replacement therapy]]. The minimum purchasing age of tobacco and e-cigarettes in the United States is 21-years-old, per the Synar amendment to the [[Public Health Service Act]].<ref>{{cite web|title=Tobacco 21 |url=https://www.fda.gov/tobacco-products/retail-sales-tobacco-products/tobacco-21|website=FDA|date=September 26, 2022 |access-date=June 20, 2023}}</ref> Sales are regulated by the ATF and FDA.
+
+==Regulation of precursors==
+
+The Controlled Substances Act also provides for federal regulation of precursors used to manufacture some of the controlled substances. The [[DEA list of chemicals]] is actually modified when the [[United States Attorney General]] determines that illegal manufacturing processes have changed.
+
+In addition to the CSA, due to [[pseudoephedrine]] (PSE) and [[ephedrine]] being widely used in the manufacture of [[methamphetamine]], the U.S. Congress passed the [[Methamphetamine Precursor Control Act]] which places restrictions on the sale of any medicine containing pseudoephedrine. That bill was then superseded by the [[Combat Methamphetamine Epidemic Act of 2005]], which was passed as an amendment to the [[Patriot Act]] renewal and included wider and more comprehensive restrictions on the sale of PSE-containing products. This law requires<ref>{{cite web |url=http://www.doh.state.fl.us/mqa/pharmacy/info_federallaw.pdf |title=Federal Pseudoephedrine Law |work=doh.state.fl.us |publisher=Florida Department of Health, Division of Medical Quality Assurance |date=October 5, 2006 |access-date=October 20, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120730012637/http://www.doh.state.fl.us/mqa/pharmacy/info_federallaw.pdf |archive-date=July 30, 2012}}</ref> customer signature of a "log-book" and presentation of valid photo ID in order to purchase PSE-containing products from all retailers.<ref>{{cite web |url=http://www.deadiversion.usdoj.gov/meth/cma2005.htm |title=General Information Regarding the Combat Methamphetamine Epidemic Act 2005 |publisher=Drug Enforcement Administration, Office of Diversion Control |access-date=October 20, 2012 |archive-date=October 16, 2012 |archive-url=https://web.archive.org/web/20121016220303/http://www.deadiversion.usdoj.gov/meth/cma2005.htm |url-status=dead }}</ref>
+
+Additionally, the law restricts an individual to the retail purchase of no more than three packages or 3.6 grams of such product per day per purchase – and no more than 9 grams in a single month. A violation of this statute constitutes a misdemeanor. Retailers now commonly require PSE-containing products to be sold behind the pharmacy or service counter. This affects many preparations which were previously available over-the-counter without restriction, such as [[Actifed]] and its generic equivalents.
+
+== Research exemptions ==
+A common misunderstanding amongst researchers is that most national laws (including the Controlled Substance Act) allows the supply/use of small amounts of a controlled substance for non-clinical / non-in vivo research without licenses. A typical use case might be having a few milligrams or microlitres of a controlled substance within larger chemical collections (often tens of thousands of chemicals) for in vitro screening or sale. Researchers often believe that there is some form of "research exemption" for such small amounts. This incorrect view may be further re-enforced by R&D chemical suppliers often stating and asking scientists to confirm that anything bought is for research use only.
+
+A further misconception is that the Controlled Substances Act simply lists a few hundred substances (e.g. MDMA, Fentanyl, Amphetamine, etc.) and compliance can be achieved via checking a CAS number, chemical name or similar identifier. However, the reality is that in most cases all ethers, esters, salts and stereoisomers are also controlled and it is impossible to simply list all of these. The act contains several "generic statements" or "chemical space" laws, which aim to control all chemicals similar to the "named" substance, these provide detailed descriptions similar to [[Markush structure|Markushes]], these include ones for [https://www.ecfr.gov/current/title-21/chapter-II/part-1308/subject-group-ECFRf62f8e189108c4d/section-1308.11#p-1308.11(h)(i) Fentanyl] and also [https://www.govinfo.gov/content/pkg/PLAW-112publ144/pdf/PLAW-112publ144.pdf synthetic cannabinoids].
+
+Due to this complexity in legislation, the identification of controlled chemicals in research or chemical supply is often carried out computationally on the chemical structure, either by in-house systems maintained a company or by the use of commercial [[software]] solutions.<ref name=":0">{{Cite web |title=Controlled Substances Squared |url=https://www.scitegrity.com/controlled-substances}}</ref> Automated systems are often required as many research operations can have collections of 10,000–100,000 different [[Chemical substance|substance]]s at the 1–5 milligram scale, which are likely to include controlled substances, especially within [[medicinal chemistry]] research, even if the core focus of the company is not narcotic or psychotropic drugs. These may not have been controlled when created, but they have subsequently been declared controlled, or fall within chemical space close to known controlled substances, or are used as tool compounds, precursors or synthetic intermediates to a controlled substance.
+
+== Analogues vs Markush descriptions ==
+Historically, in an attempt to prevent psychoactive chemicals which are chemically similar to controlled substance, but not specifically controlled by it, the CSA also controls "analogues" of many listed controlled substances. The definition of what "analogue" means is kept deliberately vague, presumably to make it harder to circumvent this rule, as it's not clear what is / is not controlled, thus placing an element of risk and deterrent in those performing the supply. It is up to the courts to then decide whether a specific chemical is an analogue, often via a "battle of experts" for the defense and prosecution which can lead to extended and more uncertain prosecutions. The use of the "analogue" definition also make it more difficult for companies involved in the legitimate supply of chemicals for research and industrial purposes to know whether a chemical is regulated under the CSA<ref>{{Cite web |title=Controlled Drugs and analogues |url=https://blog.scitegrity.com/news/list-of-controlled-drugs-and-analogues}}</ref>
+
+Starting in 2012, with the [[Synthetic Drug Abuse Prevention Act]], and later an amendment to the CSA in 2018 [https://www.ecfr.gov/current/title-21/chapter-II/part-1308/subject-group-ECFRf62f8e189108c4d/section-1308.11#p-1308.11(h)(i) defining fentanyl chemical space], the CSA started to use [[Markush structure|Markush]] descriptions to clearly define what analogues or chemical space is controlled. These chemical space, chemical family, generic statements or markush statements (depending on the legislation terminology) have been used for many years by other countries,<ref>{{Cite web |title=An overview of chemical space laws and controlled drugs |url=https://blog.scitegrity.com/news/controlled-substances-lists-and-chemical-families}}</ref> notably the UK in the [[Misuse of Drugs Act 1971|Misuse of Drugs Act]].  
+
+These have the advantage of clearly defining what is controlled, making prosecutions easier and compliance by legitimate companies simpler. However the downside is that these tend to be harder to understand for non-chemists and also give those wishing to supply for illegitimate reasons something to "aim" for in terms of non-controlled chemical space. For both Markush and analogue type approaches, typically computational systems<ref name=":0" /> are used to flag likely regulated chemicals.
+
+==Criticism==
+{{further|Removal of cannabis from Schedule I of the Controlled Substances Act}}
+The CSA does not include a definition of "drug abuse".<ref name="regulations.gov">[http://www.regulations.gov/#!docketDetail;D=DEA-2009-0013 Government Regulations] Docket ID: DEA-2009-0013 in [http://www.regulations.gov/#!documentDetail;D=DEA-2009-0013-0003 Basis for the Recommendation to Control 5-Methoxy-Dimethyltryptamine (5-MeO-DMT) in Schedule I of the Controlled Substances Act] The term "abuse" is not defined in the CSA.</ref><ref name="Drug Abuse 1973 p.13">"[D]rug abuse may refer to any type of drug or chemical without regard to its pharmacologic actions. It is an eclectic concept having only one uniform connotation: societal disapproval. ... The Commission believes that the term drug abuse must be deleted from official pronouncements and public policy dialogue. The term has no functional utility and has become no more than an arbitrary codeword for that drug use which is presently considered wrong." – Second Report of the National Commission on Marihuana and Drug Abuse; Drug Use In America: Problem In Perspective (March 1973), p.13</ref> Research shows certain substances on Schedule I, for drugs which have no accepted medical uses and high potential for abuse, actually have accepted medical uses, have low potential for abuse, or both.<ref>{{cite web |title=Drug Scheduling |publisher=Drug Enforcement Administration, United States Department of Justice |url=https://www.dea.gov/druginfo/ds.shtml |access-date=August 18, 2016 |archive-url=https://web.archive.org/web/20170809044016/https://www.dea.gov/druginfo/ds.shtml |archive-date=August 9, 2017 |url-status=dead}}</ref><ref>{{cite journal |last1=Nutt |first1=David J. |last2=King |first2=Leslie A. |last3=Phillips |first3=Lawrence D. |author4=Independent Scientific Committee on Drugs |date=November 6, 2010 |title=Drug harms in the UK: A multicriteria decision analysis |journal=The Lancet |volume=376 |issue=9752 |pages=1558–1565 |pmid=21036393 |doi=10.1016/S0140-6736(10)61462-6 |citeseerx=10.1.1.690.1283 |s2cid=5667719}}</ref><ref>{{cite web |title=DrugFacts: Is Marijuana Medicine? |date=July 2015 |website=National Institute on Drug Abuse |publisher=National Institutes of Health; U.S. Department of Health and Human Services |url=http://www.drugabuse.gov/publications/drugfacts/marijuana-medicine}}</ref> One of those substances is cannabis, which is legal for medical use in 40 states, legal for recreation in 24 states, and decriminalized in 8 states, one of which being North Carolina which has [[Legality of cannabis by U.S. jurisdiction|neither medical or recreational cannabis legalized.]]
+
+==See also==
+{{Portal|United States}}
+{{collist|colwidth=30em|
+* [[Convention on Psychotropic Substances]]
+* [[Drug-Free Workplace Act of 1988]]
+* [[Drug prohibition]]
+* [[Drug Trafficking Safe Harbor Elimination Act]]
+* [[Fair Sentencing Act]]
+* [[Federal drug policy of the United States]]
+* ''[[Gonzales v. Raich]]''
+* [[List of pharmaceutical companies]]
+* [[Medical amnesty policy]]
+* [[Regulation of therapeutic goods]]
+* [[Single Convention on Narcotic Drugs]] (1961)
+* [[Treaty Clause]] and [[Head Money Cases]]
+* ''[[United States v. Oakland Cannabis Buyers' Cooperative]]''
+* [[War on drugs]]
+}}
+
+'''Similar legislation outside of the United States:'''
+* [[Controlled Drugs and Substances Act]] ([[Canada]])
+* [[Misuse of Drugs Act 1971]] ([[United Kingdom]])
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* Full text of Controlled Substances Act: [https://www.govinfo.gov/link/statute/91/public/513?link-type=pdf&.pdf 1970 version] | [https://uscode.house.gov/view.xhtml?path=/prelim@title21/chapter13&edition=prelim Current version]
+* [https://www.govinfo.gov/content/pkg/COMPS-10355/uslm/COMPS-10355.xml Controlled Substances Act] ([https://www.govinfo.gov/content/pkg/COMPS-10355/pdf/COMPS-10355.pdf PDF]/[https://www.govinfo.gov/app/details/COMPS-10355/ details]) as amended in the [[United States Government Publishing Office|GPO]] [https://www.govinfo.gov/help/comps Statute Compilations collection]
+* [https://crsreports.congress.gov/product/pdf/R/R45948 The Controlled Substances Act (CSA): A Legal Overview for the 116th Congress]
+
+{{Drug control laws}}
+{{Cannabis in the United States}}
+
+[[Category:Controlled Substances Act| ]]
+[[Category:Drug Enforcement Administration]]
+[[Category:History of drug control in the United States]]
+[[Category:1970 in American politics]]
+[[Category:United States federal criminal legislation]]
+[[Category:1970 in cannabis]]
+[[Category:Cannabis law in the United States]]

@@ -1,0 +1,149 @@
+{{short description|None}}
+{{Refimprove|date=January 2024}}
+
+{{Chemical agents sidebar}}
+A ''[[chemical weapon agent]] (CWA), or chemical warfare agent,'' is a [[chemical substance]] whose [[toxin|toxic]] [[chemical property|properties]] are meant to kill, injure or incapacitate [[Human|human beings]]. About 70 different chemicals have been used or stockpiled as chemical weapon agents during the 20th century, although the [[Organisation for the Prohibition of Chemical Weapons]] (OPCW) has an online database listing 35,942 chemicals which may be used as weapons.<ref>[https://www.opcw.org/resources/declarations/handbook-chemicals OPCW's Handbook on Chemicals]</ref> These agents may be in liquid, gas or solid form.
+
+In general, chemical weapon agents are organized into several categories (according to the physiological manner in which they affect the human body). They may also be divided by tactical purpose or chemical structure.  The names and number of categories may vary slightly from source to source, but, in general, the different types of chemical warfare agents are listed below.
+
+==Harassing agents==
+These are substances that are not intended to kill or injure.  They are often referred to as Riot Control Agents (RCAs) and may be used by civilian police forces against criminals and rioters, or in the military for training purposes.  These agents also have tactical utility to force combatants out of concealed or covered positions for conventional engagement, and preventing combatants from occupying contaminated terrain or operating weapons.  In general, harassing agents are sensory irritants that have fleeting concentration dependent effects that resolve within minutes after removal.  Casualty effects are not anticipated to exceed 24-hours nor require medical attention.
+
+===Tear agents===
+{{main|Lachrymatory agent}}
+These sensory irritants produce immediate pain to the eyes and irritate mucous membranes (aka ''lachrymatory agent'' or ''lachrymator'').
+* [[Benzyl chloride]]
+* [[Benzyl bromide]]
+* [[Bromoacetone]] (BA)
+* [[Bromobenzyl cyanide]] (CA)<ref>Chemical Warfare Bulletin. Vol 12. p 312.</ref>
+* [[Bromomethyl ethyl ketone]]
+* [[Capsaicin]] (OC)
+* [[CN gas|Chloracetophenone]] (MACE; CN)
+* [[Chloromethyl chloroformate]]
+* [[CR gas|Dibenzoxazepine]] (CR)
+* [[Ethyl iodoacetate]]
+* [[CS gas|Ortho-chlorobenzylidene malononitrile]] (Super tear gas; CS)
+* [[Trichloromethyl chloroformate]]
+* [[Xylyl bromide]]<ref>{{cite web |url=https://www.historylearningsite.co.uk/poison_gas_and_world_war_one.htm |access-date=2010-08-26 |title=Poison Gas and World war One |work=History Learning Site |author=Chris Trueman}}</ref>
+
+===Vomiting agents===
+These sensory irritants are also termed sternators or nose irritants.  They irritate the mucous membranes to produce congestion, coughing, sneezing, and eventually nausea.
+* [[Adamsite]] (DM)
+* [[Diphenylchloroarsine]] (DA)
+* [[Diphenylcyanoarsine]] (DC)
+* [[cyanide]]
+
+===Malodorants===
+{{main|Malodorant}}
+These are compounds with a very strong and unpleasant smell, which produce powerfully aversive effects without the toxic effects of tear agents or vomiting agents.
+
+==Incapacitating agents==
+These are substances that produce debilitating effects with limited probability of permanent injury or loss of life.  The casualty effects typically last over 24 hours, and though medical evacuation and isolation is recommended, it is not required for complete recovery.  These, together with harassing agents, are sometimes called nonlethal agents.  There may be as high as 5% fatalities with the use of these agents.
+
+===Psychological agents===
+These are substances that produce casualty effects through mental disturbances such as delirium or hallucination.
+* [[3-Quinuclidinyl benzilate]] (BZ)
+* [[Phencyclidine]] (SN)
+* [[Lysergic acid diethylamide]] (LSD)
+
+===Other incapacitating agents===
+These substances have also been investigated as incapacitants, though they operate more through interactions outside the central nervous system.
+*[[KOLOKOL-1]] (tranquilizer)
+
+==Lethal agents==
+These substances are for producing chemical casualties without regard to long-term consequences or loss of life.  They cause injuries that require medical treatment.
+
+=== Blister agents ===
+{{main|Blister agent}}
+A ''blister agent'' is a chemical compound that irritates and causes injury to the skin.  These substances also attack the eyes, or any other tissue they contact.
+
+====Vesicants====
+The vesicants are substances that produce large fluid-filled blisters on the skin.
+
+=====Nitrogen mustards=====
+{{main|Nitrogen mustard}}
+* Bis(2-chloroethyl)ethylamine (HN1)
+* Bis(2-chloroethyl)methylamine (HN2)
+* Tris(2-chloroethyl)amine (HN3)
+
+=====Sulfur mustards=====
+{{main|Mustard gas}}
+* 1,2-Bis(2-chloroethylthio) ethane ([[Sesquimustard]]; Q)
+* 1,3-Bis(2-chloroethylthio)-n-propane
+* 1,4-Bis(2-chloroethylthio)-n-butane
+* 1,5-Bis(2-chloroethylthio)-n-pentane
+* 2-Chloroethylchloromethylsulfide
+* Bis(2-chloroethyl) sulfide (Mustard gas; HD)
+* Bis(2-chloroethylthio) methane
+* Bis(2-chloroethylthiomethyl) ether
+* Bis(2-chloroethylthioethyl) ether ([[O-Mustard]]; T)
+
+=====Arsenicals=====
+* [[Ethyldichloroarsine]] (ED)
+* [[Methyldichloroarsine]] (MD)
+* [[Phenyldichloroarsine]] (PD)
+* 2-Chlorovinyldichloroarsine ([[Lewisite]]; L)
+
+====Urticants====
+The urticants are substances that produce a painful [[Wheals|wheal]] on the skin.  These are sometimes termed skin necrotizers and are known as the most painful substances produced.{{According to whom|date=April 2025}}
+*[[Phosgene oxime]] (CX)
+
+=== Blood agents ===
+{{main|Blood agent}}
+These substances are metabolic poisons that interfere with the life-sustaining processes of the blood.
+* [[Cyanogen chloride]] (CK)
+* [[Hydrogen cyanide]] (AC)
+* [[Arsine]] (SA)
+
+===Choking agents===
+{{main|Pulmonary agent}}
+These substances are sometime referred to as ''pulmonary agent'' or ''lung irritants'' and cause injury to the lung-blood barrier resulting in [[Asphyxia]]. 
+* [[Chlorine]] (CL)
+* [[Chloropicrin]] (PS)
+* [[Diphosgene]] (DP)
+* [[Phosgene]] (CG)
+* [[Carbon monoxide]]
+
+=== Nerve agents ===
+{{main|Nerve agent}}
+Nerve agents are substances that disrupt the chemical communications through the nervous system.  One mechanism of disruption, utilized by the G, GV, and V series of chemicals is caused by blocking the [[acetylcholinesterase]], an [[enzyme]] that normally destroys and stops the activity of [[acetylcholine]], a [[neurotransmitter]]. Poisoning by these nerve agents leads to an accumulation of acetylcholine at the [[Neuron|nerve]] [[axon]], producing a perpetual excited state in the nerve (e.g. constant muscle contraction). The eventual exhaustion of muscles leads to respiratory failure and death.
+
+====G series====
+These are high volatility nerve agents that are typically used for a nonpersistent to semipersistent effect.
+* [[Tabun (nerve agent)|Tabun]] (GA)
+* [[Sarin]] (GB)
+* [[Soman]] (GD)
+* [[Cyclosarin]] (GF)
+
+====GV series====
+These agents have a volatility between the V and G agents and are typically used for a semi-persistent to persistent effect. 
+* [[Novichok agent]]s
+*[[GV (nerve agent)]]
+
+====V series====
+These agents have low volatility and are typically used for a persistent effect or liquid contact hazard.
+* [[VE (nerve agent)|VE]]
+* [[VG (nerve agent)|VG]]
+* [[VM (nerve agent)|VM]]
+* [[VX (nerve agent)|VX]]
+
+===Other===
+Natural toxins that are classified as chemical weapons by the [[Chemical Weapons Convention]]<ref>https://www.opcw.org/chemical-weapons-convention/annexes/annex-chemicals/schedule-1 Schedule 1 of the OPCW</ref>
+* [[Saxitoxin]]
+* [[Ricin]]
+
+== See also ==
+
+* [[Chemical warfare]]
+* [[Chemical weapon]]
+* [[List of highly toxic gases]]
+* [[Psychochemical warfare]]
+* [[List of psychoactive drugs used by militaries]]
+
+==References==
+{{Reflist}}
+
+{{Chemical warfare}}
+{{U.S. chemical weapons}}
+
+[[Category:Chemical weapons]]

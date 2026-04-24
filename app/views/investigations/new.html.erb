@@ -1,0 +1,59 @@
+<% content_for :title, "Holocron Intake" %>
+
+<div class="usa-page">
+  <div class="usa-shell max-w-2xl pt-12 md:pt-24">
+    <h1 class="text-4xl font-bold tracking-tight text-slate-900 md:text-6xl">Welcome back, Frances</h1>
+
+    <% if @investigation.errors.any? %>
+      <div class="mt-8 rounded border-l-4 border-red-700 bg-red-50 p-4 text-red-900" role="alert">
+        <h2 class="text-lg font-bold">There’s a problem</h2>
+        <ul class="mt-2 list-disc pl-5 text-base">
+          <% @investigation.errors.full_messages.each do |message| %>
+            <li><%= message %></li>
+          <% end %>
+        </ul>
+      </div>
+    <% end %>
+
+    <%= form_with url: investigations_path, method: :post, local: true, multipart: true, class: "mt-10" do %>
+      <div class="usa-field-group">
+        <label for="intake_objective" class="usa-label">What do you need to do?</label>
+        <textarea id="intake_objective" name="intake[objective]" class="usa-input usa-textarea" required><%= @intake_objective %></textarea>
+      </div>
+
+      <div class="usa-field-group">
+        <label for="intake_files" class="usa-label">Do you have extra context to add?</label>
+        <p class="usa-hint">Add documents, links, or anything that you want to use as we build this case.</p>
+        <label for="intake_files" class="usa-dropzone cursor-pointer">
+          <span class="text-[18px] leading-7 text-slate-700">
+            Drag files here or <span class="text-blue-700 underline">choose from folder</span>
+          </span>
+        </label>
+        <input id="intake_files" name="intake[files][]" type="file" multiple class="sr-only">
+
+        <label for="intake_links" class="sr-only">Paste links here</label>
+        <input id="intake_links" name="intake[links]" type="text" value="<%= @intake_links %>" class="usa-input" placeholder="Paste links here">
+      </div>
+
+      <div class="usa-field-group">
+        <label for="intake_module_name" class="usa-label">Do you want to use a pre-existing module?</label>
+        <div class="relative mt-3">
+          <select id="intake_module_name" name="intake[module_name]" class="usa-input usa-select appearance-none">
+            <% @module_options.each do |module_name| %>
+              <option value="<%= module_name %>" <%= "selected" if module_name == @intake_module %>><%= module_name %></option>
+            <% end %>
+          </select>
+          <div class="pointer-events-none absolute inset-y-0 right-4 flex items-center text-slate-700" aria-hidden="true">
+            <svg viewBox="0 0 20 20" class="h-5 w-5 fill-current">
+              <path d="M5.5 7.5 10 12l4.5-4.5 1.5 1.5-6 6-6-6z" />
+            </svg>
+          </div>
+        </div>
+      </div>
+
+      <div class="mt-12 flex justify-end">
+        <button type="submit" class="usa-button-primary min-w-44">Continue</button>
+      </div>
+    <% end %>
+  </div>
+</div>

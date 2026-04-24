@@ -1,0 +1,86 @@
+{{Short description|none}}
+This is the '''list of Schedule V controlled substances''' in the United States as defined by the [[Controlled Substances Act]].<ref>{{Cite web |title=21 CFR 1308.15 |url=https://www.ecfr.gov/current/title-21/chapter-II/part-1308/subject-group-ECFRf62f8e189108c4d/section-1308.15 |access-date=September 9, 2023 |website=[[Code of Federal Regulations]]}}</ref> The following findings are required for substances to be placed in this schedule:<ref>{{uscsub|21|812|b|5}} retrieved October 7, 2007</ref>
+# The drug or other substance has a low potential for abuse relative to the drugs or other substances in schedule IV.
+# The drug or other substance has a currently accepted medical use in treatment in the United States.
+# Abuse of the drug or other substance may lead to limited physical dependence or psychological dependence relative to the drugs or other substances in schedule IV.
+
+The complete list of Schedule V substances is as follows. The [[Administrative Controlled Substances Code Number]] and [[Federal Register]] citation for each substance is included.
+
+==Opiates and opioids==
+{| class="wikitable sortable"
+|-
+! [[Administrative Controlled Substances Code Number|ACSCN]] !! Drug
+|-
+| N/A
+| Not more than 200 milligrams of [[codeine]] per 100 milliliters or per 100&nbsp;grams<ref name=":1">{{Cite web |last=Bartels Jr. |first=John R. |date=June 20, 1974 |title=PART 1308— SCHEDULES OF CONTROLLED SUBSTANCES: Annual Publication |url=https://archives.federalregister.gov/issue_slice/1974/6/20/22139-22143.pdf#page=2 |archive-url=https://web.archive.org/web/20230906194000/https://archives.federalregister.gov/issue_slice/1974/6/20/22139-22143.pdf |archive-date=September 6, 2023 |access-date=September 6, 2023 |website=[[Government Publishing Office]] |publisher=[[Drug Enforcement Administration]]}}</ref>{{Efn|This substance was expressly scheduled by the [[Controlled Substances Act]] on October 27, 1970. The 1974 [[Federal Register]] ruling (by Administrator John R. Bartels, Jr.) merely organized its listing in the [[Code of Federal Regulations]].|group=note|name=Bartels}}
+|-
+| N/A
+| Not more than 100 milligrams of [[dihydrocodeine]] per 100 milliliters or per 100&nbsp;grams<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| N/A
+| Not more than 100 milligrams of [[ethylmorphine]] per 100 milliliters or per 100&nbsp;grams<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| N/A
+| Not more than 2.5 milligrams of [[diphenoxylate]] and not less than 25 micrograms of [[atropine]] sulfate per dosage unit<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| N/A
+| Not more than 100 milligrams of [[opium]] per 100 milliliters or per 100&nbsp;grams<ref name=":1" />{{Efn|name=Bartels|group=note}}
+|-
+| N/A
+| Not more than 0.5 milligram of [[difenoxin]] and not less than 25 micrograms of [[atropine]] sulfate per dosage unit<ref>{{Cite web |last=Bensinger |first=Peter |date=August 28, 1978 |title=Placement of Preparations Containing Difenoxin in Combination With Atropine Sulfate Into Schedules IV and V |url=http://isomerdesign.com/Cdsa/FR/43FR38382.pdf |url-status=live |archive-url=https://web.archive.org/web/20220303023202/http://isomerdesign.com/Cdsa/FR/43FR38382.pdf |archive-date=March 3, 2022 |access-date=January 16, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|}
+
+==Stimulants==
+{| class="wikitable sortable"
+|-
+! [[Administrative Controlled Substances Code Number|ACSCN]] !! Drug
+|-
+| 1485
+| [[Pyrovalerone]]<ref>{{Cite web |last=Lawn |first=John |date=May 4, 1988 |title=Placement of Propylhexedrine and Pyrovalerone into Schedule V |url=http://www.isomerdesign.com/Cdsa/FR/53FR10869.pdf |url-status=live |archive-url=https://web.archive.org/web/20210926012821/http://www.isomerdesign.com/Cdsa/FR/53FR10869.pdf |archive-date=September 26, 2021 |access-date=January 16, 2023 |website=Isomer Design |publisher=[[Drug Enforcement Administration]]}}</ref>
+|}
+
+==Others==
+[[File:Lyrica_150mg_box_in_Finland_20110618.jpg|thumb|Box of 150 mg Lyrica (pregabalin) capsules from Finland]]
+{| class="wikitable sortable"
+|-
+! [[Administrative Controlled Substances Code Number|ACSCN]] !! Drug
+|-
+| 2710
+| [[Brivaracetam]] ((2S)-2-[(4R)-2-oxo-4-propylpyrrolidin-1-yl] butanamide))<ref>{{Cite web |last=Rosenberg |first=Chuck |date=March 9, 2017 |title=Schedules of Controlled Substances: Placement of Brivaracetam Into Schedule V |url=https://www.federalregister.gov/documents/2017/03/09/2017-04698/schedules-of-controlled-substances-placement-of-brivaracetam-into-schedule-v |access-date=January 16, 2023 |website=Federal Register |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+|2720
+|[[Cenobamate]]<ref>{{Cite web |last=Shea |first=Timothy |date=August 20, 2020 |title=Schedules of Controlled Substances: Placement of Cenobamate in Schedule V |url=https://www.federalregister.gov/documents/2020/08/20/2020-17357/schedules-of-controlled-substances-placement-of-cenobamate-in-schedule-v |access-date=September 7, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 2779
+| [[Ezogabine]]<ref>{{Cite web |last=Leonhart |first=Michele |date=December 15, 2011 |title=Schedules of Controlled Substances: Placement of Ezogabine Into Schedule V |url=https://www.federalregister.gov/documents/2011/12/15/2011-32172/schedules-of-controlled-substances-placement-of-ezogabine-into-schedule-v |access-date=January 16, 2023 |website=Federal Register |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+|2401
+|[[Ganaxolone]]<ref>{{Cite web |last=Milgram |first=Anne |date=November 9, 2022 |title=Schedules of Controlled Substances: Placement of Ganaxolone in Schedule V |url=https://www.federalregister.gov/documents/2022/11/09/2022-24157/schedules-of-controlled-substances-placement-of-ganaxolone-in-schedule-v |access-date=September 7, 2023 |website=[[Federal Register]] |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 2746
+| [[Lacosamide]]<ref>{{Cite web |last=Leonhart |first=Michele |date=May 21, 2009 |title=Schedules of Controlled Substances: Placement of Lacosamide into Schedule V |url=https://www.federalregister.gov/documents/2009/05/21/E9-11927/schedules-of-controlled-substances-placement-of-lacosamide-into-schedule-v |access-date=January 16, 2023 |website=Federal Register |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 2790
+| [[Lasmiditan]]<ref>{{Cite web |last=Evans |first=D. Christopher |date=May 24, 2021 |title=Schedules of Controlled Substances: Placement of Lasmiditan in Schedule V |url=https://www.federalregister.gov/documents/2021/05/24/2021-10827/schedules-of-controlled-substances-placement-of-lasmiditan-in-schedule-v |access-date=January 16, 2023 |website=Federal Register |publisher=[[Drug Enforcement Administration]]}}</ref>
+|-
+| 2782
+| [[Pregabalin]]<ref>{{Cite web |last=Leonhart |first=Michele |date=July 28, 2005 |title=Schedules of Controlled Substances: Placement of Pregabalin Into Schedule V |url=https://www.federalregister.gov/documents/2005/07/28/05-15036/schedules-of-controlled-substances-placement-of-pregabalin-into-schedule-v |access-date=January 16, 2023 |website=Federal Register |publisher=[[Drug Enforcement Administration]]}}</ref>
+|}
+
+==See also==
+* [[List of Schedule I controlled substances (U.S.)]]
+* [[List of Schedule II controlled substances (U.S.)]]
+* [[List of Schedule III controlled substances (U.S.)]]
+* [[List of Schedule IV controlled substances (U.S.)]]
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+{{Drug control laws}}
+
+{{DEFAULTSORT:Schedule V drugs (US)}}
+[[Category:Controlled Substances Act]]
+[[Category:Drug-related lists]]

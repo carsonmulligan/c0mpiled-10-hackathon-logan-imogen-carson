@@ -1,0 +1,15 @@
+# Scrape caches — large, regeneratable from scrapers. Keep a slim sample instead.
+raw/*/**/*.html
+raw/*/**/*.pdf
+raw/*/**/*.json
+
+# But DO keep a few sample files per source for offline dev
+!raw/*/SAMPLE_*.html
+!raw/*/SAMPLE_*.pdf
+!raw/*/SAMPLE_*.json
+!raw/*/README.md
+!raw/*/.keep
+
+# Log files grow unbounded
+logs/*.log
+!logs/.keep

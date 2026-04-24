@@ -1,0 +1,47 @@
+INFO tradeford	JS or anti-bot wall for http://www.tradeford.com/robots.txt
+INFO Skipping tradeford: JS or anti-bot wall for http://www.tradeford.com/robots.txt
+INFO chinaexporter	robots.txt disallows all crawling
+INFO Skipping chinaexporter: robots.txt disallows all crawling
+INFO ecrobot	robots.txt disallows all crawling
+INFO Skipping ecrobot: robots.txt disallows all crawling
+INFO chemnet	query=Piperidone	could not discover GET search form
+INFO chemnet query skipped for Piperidone: could not discover GET search form
+INFO chemnet	query=Nitazene	could not discover GET search form
+INFO chemnet query skipped for Nitazene: could not discover GET search form
+INFO chemnet	query=Xylazine	could not discover GET search form
+INFO chemnet query skipped for Xylazine: could not discover GET search form
+INFO chemnet	query=99918-43-1	could not discover GET search form
+INFO chemnet query skipped for 99918-43-1: could not discover GET search form
+INFO chemnet	query=125541-22-2	could not discover GET search form
+INFO chemnet query skipped for 125541-22-2: could not discover GET search form
+INFO chemnet	query=19099-93-5	could not discover GET search form
+INFO chemnet query skipped for 19099-93-5: could not discover GET search form
+INFO chemnet	query=103-63-9	could not discover GET search form
+INFO chemnet query skipped for 103-63-9: could not discover GET search form
+INFO chemnet	query=28578-16-7	could not discover GET search form
+INFO chemnet query skipped for 28578-16-7: could not discover GET search form
+INFO chemnet	query=437-38-7	could not discover GET search form
+INFO chemnet query skipped for 437-38-7: could not discover GET search form
+INFO chemnet	query=990-73-8	could not discover GET search form
+INFO chemnet query skipped for 990-73-8: could not discover GET search form
+INFO chemnet	query=1443-48-3	could not discover GET search form
+INFO chemnet query skipped for 1443-48-3: could not discover GET search form
+INFO chemnet	query=21409-26-7	could not discover GET search form
+INFO chemnet query skipped for 21409-26-7: could not discover GET search form
+INFO chemnet	query=39742-60-4	could not discover GET search form
+INFO chemnet query skipped for 39742-60-4: could not discover GET search form
+INFO chemnet	query=1235-83-6	could not discover GET search form
+INFO chemnet query skipped for 1235-83-6: could not discover GET search form
+INFO chemnet	query=59708-52-0	could not discover GET search form
+INFO chemnet query skipped for 59708-52-0: could not discover GET search form
+INFO chemnet	query=56030-54-7	could not discover GET search form
+INFO chemnet query skipped for 56030-54-7: could not discover GET search form
+INFO chemnet	query=71195-58-9	could not discover GET search form
+INFO chemnet query skipped for 71195-58-9: could not discover GET search form
+INFO indiamart_export	robots.txt disallows all crawling
+INFO Skipping indiamart_export: robots.txt disallows all crawling
+INFO Run complete
+INFO Hits per site: {}
+INFO Unique suppliers enriched: 0
+INFO Crustdata summary: {}
+INFO Total runtime: 41.94s

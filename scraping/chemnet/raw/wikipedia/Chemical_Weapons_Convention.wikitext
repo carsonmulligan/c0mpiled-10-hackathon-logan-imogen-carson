@@ -1,0 +1,483 @@
+{{short description|Multilateral treaty prohibiting the production, stockpiling, and use of chemical weapons}}
+{{Use dmy dates|date=September 2020}}
+{{Infobox Treaty
+|name                = Chemical Weapons Convention
+|long_name           = Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction
+|image               = CWC Participation.svg
+|image_width         = 400px
+|caption             = Participation in the Chemical Weapons Convention
+{{Col-begin}}
+{{Col-2}}
+{{legend|#00aa00|Signed and ratified}}{{legend|#008000|Acceded}}
+{{Col-2}}
+{{legend|#eeee00|Signed but not ratified}}{{legend|#ff1111|Non-signatory}}
+{{Col-end}}
+|type                =
+|date_drafted        = 3 September 1992<ref name=untc/>
+|date_signed         = 13 January 1993<ref name=untc/>
+|location_signed     = Paris and New York<ref name=untc/>
+|date_sealed         =
+|date_effective      = 29 April 1997<ref name=untc/>
+|condition_effective = Ratification by 65 states<ref>Chemical Weapons Convention, [http://www.opcw.org/chemical-weapons-convention/articles/article-xxi-entry-into-force Article 21].</ref>
+|date_expiration     =
+|signatories         = 165<ref name=untc/>
+|parties             = 193<ref name=untc/> ([[List of parties to the Chemical Weapons Convention|List of state parties]])<br /><small>Four UN states are not party: Egypt, Israel, North Korea and South Sudan.</small>
+|depositor           = [[Secretary-General of the United Nations|UN Secretary-General]]<ref>Chemical Weapons Convention, [http://www.opcw.org/chemical-weapons-convention/articles/article-xxiii-depositary Article 23].</ref>
+|language            =
+|languages           = Arabic, Chinese, English, French, Russian and Spanish<ref>Chemical Weapons Convention, [http://www.opcw.org/chemical-weapons-convention/articles/article-xxiv-authentic-texts Article 24].</ref>
+|wikisource          =
+}}
+{{Non-proliferation, Disarmament, & Arms control}}
+The '''Chemical Weapons Convention''' ('''CWC'''), officially the '''Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction''', is an [[arms control]] [[treaty]] administered by the [[Organisation for the Prohibition of Chemical Weapons]] (OPCW), an intergovernmental organization based in [[The Hague]], Netherlands. The treaty entered into force on 29 April 1997. It prohibits the use of chemical weapons, and the large-scale development, production, stockpiling, or transfer of [[chemical weapon]]s or their [[precursor (chemistry)|precursor]]s, except for very limited purposes (research, medical, [[Medication|pharmaceutical]] or protective). The main obligation of member states under the convention is to effect this prohibition, as well as the destruction of all current chemical weapons. All destruction activities must take place under OPCW verification.
+
+{{As of|August 2022|post=,}} 193 states have become parties to the CWC and accept its obligations. [[Israel]] has signed but not ratified the agreement, while three other [[UN member states]] ([[Egypt]], [[North Korea]] and [[South Sudan]]) have neither signed nor [[Ratification|acceded]] to the treaty.<ref name="untc">{{Cite web |url=https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVI-3&chapter=26&clang=_en |title=Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction |publisher=United Nations Treaty Collection |date=2018-01-03 |accessdate=2018-01-03}}</ref><ref name=nonmembers>{{cite web |title=Angola Joins the Organisation for the Prohibition of Chemical Weapons |url=https://www.opcw.org/news/article/angola-joins-the-organisation-for-the-prohibition-of-chemical-weapons/|work=OPCW |access-date=1 May 2016}}</ref> Most recently, the [[State of Palestine]] deposited its instrument of accession to the CWC on 17 May 2018. In September 2013, [[Syria]] acceded to the convention as part of an agreement for the [[destruction of Syria's chemical weapons]].<ref>{{cite web|title=Resolution 2118 (2013)|url=https://daccess-ods.un.org/access.nsf/GetFile?Open&DS=S/RES/2118%282013%29&Lang=E&Type=DOC|website=United Nations documents|publisher=[[United Nations]]|access-date=28 April 2017|pages=1|language=en|format=doc|date=27 September 2013|quote=Noting that on 14 September 2013, the Syrian Arab Republic deposited with the Secretary-General its instrument of accession to the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction (Convention) and declared that it shall comply with its stipulations and observe them faithfully and sincerely, applying the Convention provisionally pending its entry into force for the Syrian Arab Republic|archive-date=4 July 2017|archive-url=https://web.archive.org/web/20170704170211/https://daccess-ods.un.org/access.nsf/GetFile?Open&DS=S%2FRES%2F2118%282013%29&Lang=E&Type=DOC|url-status=dead}}</ref><ref>{{cite news|title=U.S. sanctions Syrian officials for chemical weapons attacks|url=https://www.reuters.com/article/us-mideast-crisis-syria-usa-idUSKBN14W28W|access-date=28 April 2017|work=[[Reuters]]|date=12 January 2017|language=en}}</ref>
+
+Under the convention, the entirety of the chemical weapons stockpiles declared by the States Parties to the convention have been irreversibly destroyed, an achievement reached in July 2023.<ref name="alldestroyed2023"/> The convention has provisions for systematic evaluation of chemical production facilities, as well as for investigations of allegations of use and [[chemical weapon proliferation|production of chemical weapons]] based on the intelligence of other state parties.
+
+Some chemicals which have been used extensively in warfare but have numerous large-scale industrial uses (such as [[phosgene]]) are highly regulated; however, certain notable exceptions exist. [[Chlorine gas]] is highly toxic, but being a pure element and widely used for peaceful purposes, is not officially listed as a chemical weapon. Certain state powers (e.g. the former [[Assad regime]] of Syria) continued to regularly manufacture and implement such chemicals in combat munitions.<ref>{{cite web|url=https://undocs.org/S/2016/738|title= Third report of the Organization for the Prohibition of Chemical Weapons United Nations Joint Investigative Mechanism|date=24 August 2016}}</ref> Although these chemicals are not specifically listed as controlled by the CWC, the use of any toxic chemical as a weapon (when used to produce fatalities solely or mainly through its toxic action) is in and of itself forbidden by the treaty. Other chemicals, such as [[white phosphorus]],<ref>{{Cite web|title='White phosphorus not used as chemical weapon in Syria'|url=https://www.aa.com.tr/en/americas/white-phosphorus-not-used-as-chemical-weapon-in-syria/1637806|access-date=2021-05-22|website=www.aa.com.tr}}</ref> are highly toxic but are legal under the CWC when they are used by military forces for reasons other than their toxicity.<ref name="news.bbc.co.uk.475">{{cite news
+ | title=White phosphorus: weapon on the edge
+ | author = Paul Reynolds
+ | url=http://news.bbc.co.uk/2/hi/americas/4442988.stm
+ | date = 16 November 2005
+ | access-date=4 April 2007
+ | work=BBC News
+}}</ref>
+
+==History==
+The CWC augments the [[Geneva Protocol]] of 1925, which bans the use of chemical and biological weapons in international armed conflicts, but not their development or possession.<ref>{{Cite web|last=|first=|date=|title=Text of the 1925 Geneva Protocol|url=http://disarmament.un.org/treaties/t/1925/text|access-date=2021-02-09|website=[[United Nations Office for Disarmament Affairs]]}}</ref> The CWC also includes extensive verification measures such as on-site inspections, in stark contrast to the 1975 [[Biological and Toxin Weapons Convention|Biological Weapons Convention]] (BWC), which lacks a verification regime.<ref>{{Cite journal|last=Feakes|first=Daniel|date=2017|title=The Biological Weapons Convention|journal=Revue Scientifique et Technique (International Office of Epizootics)|volume=36|issue=2|pages=621–628|doi=10.20506/rst.36.2.2679|issn=0253-1933|pmid=30152458|s2cid=52100050 }}</ref>
+
+After several changes of name and composition, the ENDC evolved into the [[Conference on Disarmament]] (CD) in 1984.<ref>[http://www.fas.harvard.edu/~hsp/chemical.html The 1993 Chemical Weapons Convention], THE HARVARD SUSSEX PROGRAM ON CBW ARMAMENT AND ARMS LIMITATION</ref> On 3 September 1992 the CD submitted to the [[U.N. General Assembly]] its annual report, which contained the text of the Chemical Weapons Convention. The General Assembly approved the convention on 30 November 1992, and the U.N. Secretary-General then opened the convention for signature in Paris on 13 January 1993.<ref>{{Cite web|last=NATO|title=The Chemical Weapons Convention (CWC), opens for signature|url=http://www.nato.int/cps/en/natohq/news_24123.htm|access-date=2021-05-22|website=NATO|language=en}}</ref> The CWC remained open for signature until its entry into force on 29 April 1997, 180 days after the deposit at the UN by [[Hungary]] of the 65th instrument of ratification.<ref>{{Cite web|last=Herby|first=Peter|date=1997-04-30|title=Chemical Weapons Convention enters into force - ICRC|url=https://www.icrc.org/en/doc/resources/documents/article/other/57jnja.htm|access-date=2021-05-22|website=International Review of the Red Cross|language=en-us}}</ref>
+
+==Organisation for the Prohibition of Chemical Weapons (OPCW)==
+{{main|Organisation for the Prohibition of Chemical Weapons}}
+[[File:HQ of OPCW in The Hague.jpg|thumb|Headquarters in [[The Hague]]]]
+The convention is administered by the [[Organisation for the Prohibition of Chemical Weapons]] (OPCW), which acts as the legal platform for specification of the CWC provisions.<ref>[http://www.sciencediplomacy.org/perspective/2015/intersection-science-and-chemical-disarmament The Intersection of Science and Chemical Disarmament], Beatrice Maneshi and Jonathan E. Forman, Science & Diplomacy, 21 September 2015.</ref> The Conference of the States Parties is mandated to change the CWC and pass regulations on the implementation of CWC requirements. The Technical Secretariat of the organization conducts inspections to ensure compliance of member states. These inspections target destruction facilities (where constant monitoring takes place during destruction), chemical weapons production facilities which have been dismantled or converted for civil use, as well as inspections of the chemical industry. The Secretariat may furthermore conduct "investigations of alleged use" of chemical weapons and give assistance after use of chemical weapons.{{cn|date=April 2022}}
+
+The [[2013 Nobel Peace Prize]] was awarded to the organization because it had, with the Chemical Weapons Convention, "defined the use of chemical weapons as a [[taboo]] under [[international law]]" according to [[Thorbjørn Jagland]], Chairman of the [[Norwegian Nobel Committee]].<ref>{{cite news|url=https://www.bbc.co.uk/news/world-europe-24490925|title=Syria chemical weapons monitors win Nobel Peace Prize|date=11 October 2013|access-date=12 October 2013|work=BBC News}}</ref><ref>{{cite web | url=https://www.nobelprize.org/nobel_prizes/peace/laureates/2013/press.html | title=Official press release from Nobel prize Committee | publisher=Nobel Prize Organization | date=11 October 2013 | access-date=11 October 2013}}</ref>
+
+==Key points of the Convention==
+* Prohibition of production and use of [[Chemical weapon|chemical weapons]]
+* Destruction (or monitored conversion to other functions) of chemical weapons production facilities
+* Destruction of all chemical weapons (including chemical weapons abandoned outside the state parties territory)
+* Assistance between State Parties and the OPCW in the case of use of chemical weapons
+* An OPCW inspection regime for the production of chemicals which might be converted to chemical weapons
+* International cooperation in the peaceful use of chemistry in relevant areas
+
+===Controlled substances===
+{{main|Schedules of substances annexed to the Chemical Weapons Convention}}
+The convention distinguishes three classes of controlled substance,<ref name=opcw-20141207/><ref>{{Cite web|url=https://www.opcw.org/chemical-weapons-convention/annexes/annex-chemicals/annex-chemicals|title=Annex on Chemicals|website=OPCW}}</ref> chemicals that can either be used as weapons themselves or used in the manufacture of weapons. The classification is based on the quantities of the substance produced commercially for legitimate purposes. Each class is split into Part A, which are chemicals that can be used directly as weapons, and Part B, which are chemicals useful in the manufacture of chemical weapons. Separate from the precursors, the convention defines toxic chemicals as "[a]ny chemical which through its chemical action on life processes can cause death, temporary incapacitation or permanent harm to humans or animals. This includes all such chemicals, regardless of their origin or of their method of production, and regardless of whether they are produced in facilities, in munitions or elsewhere."<ref>{{cite web|title=CWC Article II. Definitions and Criteria|url=http://www.opcw.org/chemical-weapons-convention/articles/article-ii-definitions-and-criteria/|work=Chemical Weapons Convention|publisher=[[Organisation for the Prohibition of Chemical Weapons]]|access-date=7 September 2013}}</ref>
+
+*[[List of Schedule 1 substances (CWC)|Schedule 1]] chemicals have few, or no uses outside chemical weapons. These may be produced or used for research, medical, pharmaceutical or chemical weapon defence testing purposes but production at sites producing more than 100&nbsp;grams per year must be declared to the [[Organisation for the Prohibition of Chemical Weapons|OPCW]]. A country is limited to possessing a maximum of 1 tonne of these materials. Examples are [[sulfur mustard]] and [[nerve agent]]s, and substances which are solely used as precursor chemicals in their manufacture. A few of these chemicals have very small scale non-military applications, for example, milligram quantities of [[nitrogen mustard]] are used to treat certain cancers.
+*[[List of Schedule 2 substances (CWC)|Schedule 2]] chemicals have legitimate small-scale applications. Manufacture must be declared and there are restrictions on export to countries that are not CWC signatories. An example is [[thiodiglycol]] which can be used in the manufacture of mustard agents, but is also used as a solvent in [[ink]]s.
+*[[List of Schedule 3 substances (CWC)|Schedule 3]] chemicals have large-scale uses apart from chemical weapons. Plants which manufacture more than 30 tonnes per year must be declared and can be inspected, and there are restrictions on export to countries which are not CWC signatories. Examples of these substances are [[phosgene]] (the most lethal chemical weapon employed in [[World War I]]),<ref>{{cite web|title=CDC Facts about Phosgene|url=https://emergency.cdc.gov/agent/phosgene/basics/facts.asp|access-date=13 April 2017}}</ref> which has been used as a chemical weapon but which is also a precursor in the manufacture of many legitimate organic compounds (e.g. [[pharmaceutical|pharmaceutical agents]] and many common [[pesticides]]), and [[triethanolamine]], used in the manufacture of nitrogen mustard but also commonly used in toiletries and detergents.
+
+
+Many of the chemicals named in the schedules are simply examples from a wider class, defined with [[Markush structure|Markush]] like language. For example, all chemicals in the class "''O-Alkyl (<=C10, incl. cycloalkyl) alkyl (Me, Et, n-Pr or i-Pr)- phosphonofluoridates chemicals''" are controlled, despite only a few named examples being given, such as [[Soman]].
+
+This can make it more challenging for companies to identify if chemicals they handle are subject to the CWC, especially Schedule 2 and 3 chemicals (such as Alkylphosphorus chemicals). For example, Amgard 1045 is a flame retardant, but falls within Schedule 2B<ref>{{Cite web|url=https://www.opcw.org/resources/declarations/most-traded-scheduled-chemicals-2022|title=Most Traded Scheduled Chemicals 2022|website=OPCW}}</ref> as part of Alkylphosphorus chemical class. This approach is also used in controlled drug legislation in many countries and are often termed "class wide controls" or "generic statements".
+
+Due to the added complexity these statements bring in identifying regulated chemicals, many companies choose to carry out these assessments computationally, examining the chemicals structure using in silico tools which compare them to the legislation statements, either with in house systems maintained a company or by the use commercial compliance software solutions.<ref>{{Cite web|url=https://www.scitegrity.com/controlled-substances|title=Regulated Chemicals &#124; Controlled Substance Lists &#124; Scitegrity|website=www.scitegrity.com}}</ref>
+
+A treaty party may declare a "single small-scale facility" that produces up to 1 tonne of Schedule 1 chemicals for research, medical, pharmaceutical or protective purposes each year, and also another facility may produce 10&nbsp;kg per year for protective testing purposes. An unlimited number of other facilities may produce Schedule 1 chemicals, subject to a total 10&nbsp;kg annual limit, for research, medical or pharmaceutical purposes, but any facility producing more than 100 grams must be declared.<ref name=opcw-20141207>{{cite web |url=https://www.opcw.org/fileadmin/OPCW/Fact_Sheets/Fact_Sheet_7_-_Schedule_of_chemicals.pdf |title=Monitoring Chemicals with Possible Chemical Weapons Applications |id=Fact sheet 7 |publisher=Organisation for the Prohibition of Chemical Weapons |date=7 December 2014 |access-date=18 March 2018 |archive-date=14 July 2017 |archive-url=https://web.archive.org/web/20170714154953/https://www.opcw.org/fileadmin/OPCW/Fact_Sheets/Fact_Sheet_7_-_Schedule_of_chemicals.pdf |url-status=dead }}</ref><ref name=sipri-5>{{cite report |page=45 |url=https://www.sipri.org/sites/default/files/files/PP/SIPRIPP05.pdf |title=Non-Compliance with the Chemical Weapons Convention - Lessons from and for Iraq |author=Jean Pascal Zanders, John Hart, Richard Guthrie |id=Policy Paper No. 5 |publisher=Stockholm International Peace Research Institute |date=October 2003 |access-date=14 March 2018}}</ref>
+
+The treaty also deals with carbon compounds called in the treaty "discrete organic chemicals", the majority of which exhibit moderate-high direct toxicity or can be readily converted into compounds with toxicity sufficient for practical use as a chemical weapon.<ref>{{Cite web|url=http://www.chemlink.com.au/chemweap.htm|title=Chemical Weapons Convention|website=www.chemlink.com.au}}</ref> These are any carbon compounds apart from long chain polymers, oxides, sulfides and metal carbonates, such as [[organophosphate]]s. The OPCW must be informed of, and can inspect, any plant producing (or expecting to produce) more than 200 tonnes per year, or 30 tonnes if the chemical contains phosphorus, sulfur or fluorine, unless the plant solely produces explosives or hydrocarbons.
+
+===Category definitions===
+Chemical weapons are divided into three categories:<ref>{{Cite web|url=https://www.armscontrol.org/factsheets/cwcglance|title=The Chemical Weapons Convention (CWC) at a Glance &#124; Arms Control Association|website=www.armscontrol.org}}</ref>
+* Category 1 - based on Schedule 1 substances
+* Category 2 - based on non-Schedule 1 substances
+* Category 3 - devices and equipment designed to use chemical weapons, without the substances themselves
+
+==Member states==
+{{main|List of parties to the Chemical Weapons Convention}}
+Before the CWC came into force in 1997, 165 states signed the convention, allowing them to ratify the agreement after obtaining domestic approval.<ref name=untc/> Following the treaty's entry into force, it was closed for signature and the only method for non-signatory states to become a party was through accession. As of March 2021, 193 states, representing over 98 percent of the world's population, are party to the CWC.<ref name=untc/> Of the four [[United Nations member states]] that are not parties to the treaty, [[Israel]] has signed but not ratified the treaty, while [[Egypt]], [[North Korea]], and [[South Sudan]] have neither signed nor acceded to the convention. Taiwan, though not a member state, has stated on 27 August 2002 that it fully complies with the treaty.<ref name=taiwan>{{cite web|url=http://nl.newsbank.com/nl-search/we/Archives?p_product=NewsLibrary&p_multi=BBAB&d_place=BBAB&p_theme=newslibrary2&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0F97E6CC8BA785BC&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM|title=Taiwan fully supports Chemical Weapons Convention|publisher=BBC|date=27 August 2002|access-date=6 October 2013}}</ref><ref>{{Cite news|title=China Chemical Chronology |url=https://www.nti.org/wp-content/uploads/2021/09/china_chemical_1.pdf |date=June 2012 |access-date=6 October 2023 |publisher=[[Nuclear Threat Initiative]] |location=[[Washington, D.C.]] United States}}</ref><ref>{{Cite web |title=Taiwan Overview |url=https://www.nti.org/analysis/articles/taiwan-overview/ |date=2023-09-06 |access-date=2024-09-14 |publisher=[[Middlebury Institute of International Studies at Monterey#James Martin Center for Nonproliferation Studies|James Martin Center for Nonproliferation Studies, Middlebury Institute of International Studies]] |via=Nuclear Threat Initiative |location=Washington, D.C. United States}}</ref>
+
+===Key organizations of member states===
+Member states are represented at the [[OPCW]] by their Permanent Representative. This function is generally combined with the function of Ambassador. For the preparation of OPCW inspections and preparation of declarations, member states have to constitute a National Authority.<ref>{{Cite web |title=Chemical Weapons Convention |url=https://www.opcw.org/chemical-weapons-convention |access-date=2022-07-19 |website=OPCW |language=en}}</ref>
+
+==World stockpile of chemical weapons==
+{{Weapons of mass destruction}}
+A total of 72,304 metric tonnes of chemical agent, and 97 production facilities have been declared to OPCW.<ref>{{Cite web|last=|first=|date=|title=OPCW by the Numbers|url=https://www.opcw.org/media-centre/opcw-numbers|access-date=2021-02-09|website=[[Organisation for the Prohibition of Chemical Weapons]]|language=en}}</ref><ref name="opcwreport1124"/>
+
+===Treaty deadlines===
+The treaty set up several steps with deadlines toward complete destruction of chemical weapons, with a procedure for requesting deadline extensions. No country reached total elimination by the original treaty date although several finished under allowed extensions.<ref>
+"Russian President Vladimir Putin has announced that Russia is destroying its last supplies of chemical weapons": [http://www.express.co.uk/news/world/859500/Russia-destroys-last-chemical-weapons-USA-next SOPHIE WILLAIMS, ''Russia destroys ALL chemical weapons and calls on AMERICA to do the same'', Express], 27-9-2017.</ref>
+
+{| class="wikitable" style="margin: 1em auto 1em auto"
+|+ Reduction Phases
+! '''Phase''' || '''% Reduction''' || '''Deadline''' || '''Notes'''
+|-
+| I ||1% ||April 2000 ||&nbsp;
+|-
+| II || 20% || April 2002 ||Complete destruction of empty munitions, precursor chemicals,<br /> filling equipment and weapons systems
+|-
+|III ||45% ||April 2004 ||&nbsp;
+|-
+|IV || 100% || April 2007 ||No extensions permitted past April 2012
+|}
+
+===Progress of destruction===
+On 7 July 2023, the OPCW announced that all 72,304.34 metric tonnes of declared chemical agent had been verifiably destroyed.<ref name="alldestroyed2023"/>
+
+Seven state parties have completed the destruction of their declared stockpiles: Albania, India, Iraq, Libya, Syria, the United States, and an unspecified state party (believed to be South Korea). Russia also completed the destruction of its declared stockpile. According to the US [[Arms Control Association]], the [[poisoning of Sergei and Yulia Skripal]] in 2018 and the [[poisoning of Alexei Navalny]] in 2020 indicated that Russia maintained an illicit chemical weapons program.<ref>{{Cite web |title=Syria, Russia, and the Global Chemical Weapons Crisis |publisher=Arms Control Association |url=https://www.armscontrol.org/act/2021-09/features/syria-russia-global-chemical-weapons-crisis |access-date=2022-03-01}}</ref> 
+
+Japan and China in October 2010 began the destruction of [[World War II]] era chemical weapons abandoned by Japan in China by means of mobile destruction units and reported destruction of 35,203 chemical weapons (75% of the Nanjing stockpile).<ref name=CSP16>{{cite web|url=https://www.opcw.org/fileadmin/OPCW/CSP/C-22/en/c22dg20_e_.pdf|title=Opening Statement by the Director-General to the Conference of the States Parties at its Sixteenth Session|date=28 November 2011|access-date=1 May 2012|publisher=[[OPCW]]}}</ref><ref>[https://www.opcw.org/fileadmin/OPCW/EC/61/en/ec61dec01e.pdf Executive Council 61, Decision 1]. OPCW. 2010</ref>
+
+{| class="wikitable" style="text-align: center; font-size: normal; table-layout: fixed;"
+|-
+! Country and link to detail article
+! Date of accession/<br />entry into force
+! Declared stockpile <br />(Schedule 1) (tonnes)
+! % OPCW-verified destroyed <br />(date of full destruction)
+! Destruction <br />deadline
+|-
+! style="text-align: left;" | {{flagicon|Albania}} [[Albania and weapons of mass destruction|Albania]]
+| 29 April 1997  || 17<ref name=albaniadestroy>{{cite web |url=https://www.opcw.org/news/article/albania-the-first-country-to-destroy-all-its-chemical-weapons/ |title=Albania the First Country to Destroy All Its Chemical Weapons |work=OPCW |date=12 July 2007 |access-date=15 May 2015}}</ref>|| 100% (July 2007)<ref name=albaniadestroy />||
+|-
+! style="text-align: left;" | {{flagicon|South Korea}} [[South Korea and weapons of mass destruction|South Korea]]
+| 29 April 1997 || 3,000–3,500<ref name=southkoreadestroy /> ||100% (July 2008)<ref name=southkoreadestroy>{{cite news |title=South Korea Completes Chemical Weapons Disposal |url=http://www.nti.org/gsn/article/south-korea-completes-chemical-weapons-disposal/ |first=Chris |last=Schneidmiller |date=17 October 2008 |access-date=15 May 2015 |work=Nuclear Threat Initiative}}</ref>|| 
+|-
+! style="text-align: left;" | {{flagicon|India}} [[India and weapons of mass destruction|India]]
+|  29 April 1997 ||1,044<ref>{{cite web |url=http://www.nti.org/country-profiles/india/chemical/ |title=India Country Profile – Chemical |work=Nuclear Threat Initiative |date=February 2015 |access-date=15 May 2015 |archive-url=https://web.archive.org/web/20150404163919/http://www.nti.org/country-profiles/india/chemical/ |archive-date=4 April 2015 |url-status=dead }}</ref> ||100% (March 2009)<ref name="India">{{cite web |url=http://www.nti.org/gsn/article/india-completes-chemical-weapons-disposal-iraq-declares-stockpile |title=India Completes Chemical Weapons Disposal; Iraq Declares Stockpile |first=Chris |last=Schneidmiller |work=Nuclear Threat Initiative |date=27 April 2009 |access-date=15 May 2015}}</ref>||
+|-
+! style="text-align: left;" | {{flagicon|Libya}} [[Libya and weapons of mass destruction|Libya]]
+| 5 February 2004 ||25<ref name=libyaend />||100% (January 2014)<ref name=libyaend>{{cite web |title=Libya Completes Destruction of Its Category 1 Chemical Weapons |url=http://www.opcw.org/news/article/libya-completes-destruction-of-its-category-1-chemical-weapons/ |work=OPCW |date=4 February 2014}}</ref>||
+|-
+! style="text-align: left;" | {{flagicon|Syria}} [[Syria and weapons of mass destruction|Syria]] (government held)
+|  14 October 2013<ref>Syria applied the convention provisionally from 14 September 2013</ref> ||1,040<ref name=syriaend>{{cite web |title=OPCW: All Category 1 Chemicals Declared by Syria Now Destroyed |url=http://www.opcw.org/news/article/opcw-all-category-1-chemicals-declared-by-syria-now-destroyed |work=OPCW |date=28 August 2014 |access-date=14 May 2015}}</ref>||100% (August 2014)<ref name=syriaend /> || 
+|-
+! style="text-align: left;" | {{flagicon|Russia}} [[Russia and weapons of mass destruction|Russia]]
+|  5 December 1997 ||40,000<ref name=russiadestroy>{{cite web |url=http://www.international.gc.ca/gpp-ppm/chemical_weapons-armes_chimiques.aspx?lang=eng |title=Chemical Weapons Destruction |work=Government of Canada – Foreign Affairs, Trade and Development Canada |date=16 October 2012 |access-date=15 May 2015 |archive-url=https://web.archive.org/web/20150518092056/http://www.international.gc.ca/gpp-ppm/chemical_weapons-armes_chimiques.aspx?lang=eng |archive-date=18 May 2015 |url-status=dead}}</ref> ||100% (September 2017)<ref>{{cite web|url=https://www.opcw.org/news/article/opcw-director-general-commends-major-milestone-as-russia-completes-destruction-of-chemical-weapons-stockpile-under-opcw-verification/|title=OPCW Director-General Commends Major Milestone as Russia Completes Destruction of Chemical Weapons Stockpile under OPCW Verification|publisher=OPCW|date=2017-09-27 |access-date=2017-09-28}}</ref>||
+|-
+! style="text-align: left;" | {{flagicon|United States}} [[United States and weapons of mass destruction|United States]]
+|  29 April 1997||33,600<ref name=us2015>{{cite news |title=U.S. to begin destroying its stockpile of chemical weapons in Pueblo, Colorado |url=http://www.cnn.com/2015/03/17/us/chemical-weapons-pueblo-debot/ |first=Evelio |last=Contreras |work=CNN |date=17 March 2015 |access-date=15 May 2015}}</ref> ||100% (July 2023)<ref name="alldestroyed2023">{{cite web |title=OPCW confirms: All declared chemical weapons stockpiles verified as irreversibly destroyed |url=https://www.opcw.org/media-centre/news/2023/07/opcw-confirms-all-declared-chemical-weapons-stockpiles-verified |publisher=OPCW |date=7 July 2023 |access-date=11 July 2023}}</ref>
+|
+|-
+! style="text-align: left;" | {{flagicon|Iraq}} [[Iraq and weapons of mass destruction|Iraq]]
+| 12 February 2009 ||remnant munitions<ref name=iraqplan />||100% (March 2018)<ref name="ReferenceA">{{Cite web|url=https://www.opcw.org/news/article/opcw-director-general-congratulates-iraq-on-complete-destruction-of-chemical-weapons-remnants/|title = OPCW Director-General Congratulates Iraq on Complete Destruction of Chemical Weapons Remnants}}</ref>||
+|-
+! style="text-align: left;" | {{flagicon|Japan}} [[Japan and weapons of mass destruction|Japan]] (in China)
+| 29 April 1997 ||- ||66.97% (as of September 2022)<ref>{{cite web |title=OPCW Executive Council and Director-General Review Progress on Destruction of Abandoned Chemical Weapons in China |url=https://www.opcw.org/media-centre/news/2022/09/opcw-executive-council-and-director-general-review-progress-destruction |publisher=OPCW |access-date=12 July 2023}}</ref> ||2027<ref>{{cite web |title=Position Paper on the Chemical Weapons Abandoned by Japan in China |url=https://www.fmprc.gov.cn/mfa_eng/wjb_663304/zzjg_663340/jks_665232/kjfywj_665252/202303/t20230324_11048529.html |publisher=Ministry of Foreign Affairs of the People's Republic of China |access-date=12 July 2023 |date=2023-03-24}}</ref>
+|}
+
+====Iraqi stockpile====
+{{See also|Iraqi chemical weapons program}}
+
+The U.N. Security Council ordered the dismantling of Iraq's chemical weapon stockpile in 1991. By 1998, [[UNSCOM]] inspectors had accounted for the destruction of 88,000 filled and unfilled chemical munitions, over 690 metric tons of weaponized and bulk chemical agents, approximately 4,000 tonnes of precursor chemicals, and 980 pieces of key production equipment.<ref name=iraqprofile>{{cite web |url=http://www.nti.org/country-profiles/iraq/chemical/ |title=Iraq Country Profile – Chemical |work=Nuclear Threat Initiative |date=April 2015 |access-date=16 May 2015 |archive-url=https://web.archive.org/web/20150207121236/http://www.nti.org/country-profiles/iraq/chemical/ |archive-date=7 February 2015 |url-status=dead }}</ref> The UNSCOM inspectors left in 1998.
+
+In 2009, before Iraq joined the CWC, the OPCW reported that the United States military had destroyed almost 5,000 old chemical weapons in open-air detonations since 2004.<ref name=openair>{{cite news |first=C.J. |last=Chivers |title=Thousands of Iraq Chemical Weapons Destroyed in Open Air, Watchdog Says |url=https://www.nytimes.com/2014/11/23/world/middleeast/thousands-of-iraq-chemical-weapons-destroyed-in-open-air-watchdog-says-.html |date=22 November 2014 |work=The New York Times|access-date=16 May 2015}}</ref> These weapons, produced before the 1991 [[Gulf War]], contained [[sarin]] and [[sulfur mustard|mustard agents]] but were so badly corroded that they could not have been used as originally intended.<ref>{{cite news |title=New Intel Report Reignites Iraq Arms Fight |url=https://www.washingtonpost.com/wp-dyn/content/article/2006/06/22/AR2006062201475.html |first=Katherine |last=Shrader |date=22 June 2006 |newspaper=The Washington Post|access-date=16 May 2015 |agency=Associated Press}}</ref>
+
+When Iraq joined the CWC in 2009, it declared "two bunkers with filled and unfilled chemical weapons munitions, some precursors, as well as five former chemical weapons production facilities" according to OPCW Director General Rogelio Pfirter.<ref name="India" /> The bunker entrances were sealed with 1.5 meters of reinforced concrete in 1994 under UNSCOM supervision.<ref name=difficulties /> As of 2012, the plan to destroy the chemical weapons was still being developed, in the face of significant difficulties.<ref name=iraqplan>{{cite web |url=http://www.opcw.org/fileadmin/OPCW/EC/68/en/ns/ec68nat09_e_.pdf |title=Progress report on the preparation of the destruction plan for the al Muthanna bunkers |work=OPCW |date=1 May 2012 |access-date=16 May 2015}}</ref><ref name=difficulties>{{cite web |url=http://cns.miis.edu/stories/100304_iraq_cw_legacy.htm |title=Iraq Faces Major Challenges in Destroying Its Legacy Chemical Weapons |first=Jonathan B. |last=Tucker |publisher=James Martin Center for Nonproliferation Studies |date=17 March 2010 |access-date=16 May 2015 |archive-url=https://web.archive.org/web/20100329221555/http://cns.miis.edu/stories/100304_iraq_cw_legacy.htm |archive-date=29 March 2010 |url-status=dead}}</ref> In 2014, [[ISIS]] took control of the site.<ref name=isis>{{cite news |title=Isis seizes former chemical weapons plant in Iraq |url=https://www.theguardian.com/world/2014/jul/09/isis-seizes-chemical-weapons-plant-muthanna-iraq |work=The Guardian|date=9 July 2014 |access-date=16 May 2015 |agency=Associated Press}}</ref>
+
+On 13 March 2018, the Director-General of the Organisation for the Prohibition of Chemical Weapons (OPCW), Ambassador Ahmet Üzümcü, congratulated the Government of Iraq on the completion of the destruction of the country's chemical weapons remnants.<ref name="ReferenceA"/>
+
+====Syrian destruction====
+{{Main|Destruction of Syria's chemical weapons}}
+Following the August 2013 [[Ghouta chemical attack]],<ref name=julianandpatrick>{{cite web |first1=Julian |last1=Borger |first2=Patrick  |last2=Wintour |url=https://www.theguardian.com/world/2013/sep/09/russia-syria-hand-over-chemical-weapons |title=Russia calls on Syria to hand over chemical weapons |work=The Guardian|date=9 September 2013 |access-date=9 May 2015 }}</ref> Syria, which had long been suspected of possessing chemical weapons, acknowledged them in September 2013 and agreed to put them under international supervision.<ref>{{cite news|url=https://www.nytimes.com/2013/09/11/world/middleeast/Syria-Chemical-Arms.html|title=In Shift, Syrian Official Admits Government Has Chemical Arms|date=10 September 2013|access-date=13 September 2013|newspaper=The New York Times|last=Barnard|first=Anne}}</ref> On 14 September Syria deposited its instrument of accession to the CWC with the United Nations as the [[depositary]] and agreed to its provisional application pending entry into force effective 14 October.<ref name = "Syria_Accession">{{cite web|title=Depositary Norification|url=http://treaties.un.org/doc/Publication/CN/2013/CN.592.2013-Eng.pdf|publisher=United Nations|access-date=15 September 2013}}</ref><ref>{{cite web|url=https://www.un.org/News/Press/docs/2013/sgsm15274.doc.htm|title=Secretary-General Receives Letter from Syrian Government Informing Him President Has Signed Legislative Decree for Accession to Chemical Weapons Convention|date=12 September 2013|work=United Nations}}</ref> An accelerated destruction schedule was devised by Russia and the United States on 14 September,<ref>{{cite news|last=Gordon|first=Michael R.|title=U.S. and Russia Reach Deal to Destroy Syria's Chemical Arms|url=https://www.nytimes.com/2013/09/15/world/middleeast/syria-talks.html|access-date=15 September 2013|newspaper=The New York Times|date=14 September 2013}}</ref> and was endorsed by [[United Nations Security Council Resolution 2118]]<ref name="Michael Corder">{{cite news|author=Michael Corder |title=Syrian Chemical Arms Inspections Could Begin Soon |url=http://world.time.com/2013/09/27/syrian-chemical-arms-inspections-could-begin-soon/ |access-date=9 October 2013 |newspaper=[[Associated Press]]|date=27 September 2013 |url-status=dead |archive-url=https://web.archive.org/web/20131020181433/http://world.time.com/2013/09/27/syrian-chemical-arms-inspections-could-begin-soon/ |archive-date=20 October 2013}}</ref> and the OPCW Executive Council Decision EC-M-33/DEC.1.<ref name="opcw.org">{{cite web|url=http://www.opcw.org/fileadmin/OPCW/EC/M-33/ecm33dec01_e_.pdf|title=Decision: Destruction of Syrian Chemical Weapons|work=OPCW|access-date=28 September 2013|date=27 September 2013}}</ref> Their deadline for destruction was the first half of 2014.<ref name="opcw.org"/> Syria gave the OPCW an inventory of its chemical weapons arsenal<ref>{{Cite news|date=2013-10-06|title=Syria chemical arms removal begins|language=en-GB|work=BBC News|url=https://www.bbc.com/news/world-middle-east-24419468|access-date=2021-08-11}}</ref> and [[destruction of Syrian chemical weapons|began its destruction]] in October 2013, 2 weeks before its formal entry into force, while applying the convention provisionally.<ref name=nbc_kerry>{{cite news |title=Kerry 'very pleased' at Syria compliance over chemical weapons |url=http://worldnews.nbcnews.com/_news/2013/10/07/20843265-kerry-very-pleased-at-syria-compliance-over-chemical-weapons?lite |access-date=9 October 2013 |newspaper=NBC News |date=7 October 2013}}</ref><ref name="reut6">{{cite news|author=Mariam Karouny|url=https://www.reuters.com/article/us-syria-crisis-experts-idUSBRE99508920131007|title=Destruction of Syrian chemical weapons begins: mission|work=Reuters|date=6 October 2013|access-date=8 October 2013|archive-date=7 October 2013|archive-url=https://web.archive.org/web/20131007035957/http://www.reuters.com/article/2013/10/07/us-syria-crisis-experts-idUSBRE99508920131007|url-status=live}}</ref> All declared Category 1 materials were destroyed by August 2014.<ref name=syriaend /> However, the [[Khan Shaykhun chemical attack]] in April 2017 indicated that undeclared stockpiles probably remained in the country. A [[Douma chemical attack|chemical attack on Douma]] occurred on 7 April 2018 that killed at least 49 civilians with scores injured, and which has been blamed on the Assad government.<ref>{{Cite web|url=https://www.cnn.com/2018/04/09/politics/haley-un-russia-syria-attack/index.html|title=Haley says Russia's hands are 'covered in the blood of Syrian children'|author=Nicole Gaouette|website=CNN|date=9 April 2018}}</ref><ref name="bbc">{{cite news|title=Suspected Syria chemical attack kills 70|url=https://www.bbc.co.uk/news/world-middle-east-43686157|access-date=8 April 2018|work=BBC News|date=8 April 2018}}</ref><ref>{{cite news|url=https://www.dw.com/en/opcw-confirms-chemical-weapons-use-in-douma-syria/a-47747999|title=OPCW confirms chemical weapons use in Douma, Syria|work=DW|agency=[[Agence France-Presse]]/[[Associated Press]]|date=1 March 2019|access-date=6 June 2019}}</ref>
+
+Controversy arose in November 2019 over the OPCW's finding on the Douma chemical weapons attack when Wikileaks published emails by an OPCW staff member saying a report on this incident "misrepresents the facts" and contains "unintended bias". The OPCW staff member questioned the report's finding that OPCW's inspectors had "sufficient evidence at this time to determine that chlorine, or another reactive chlorine-containing chemical, was likely released from cylinders".<ref name="opcw2">{{Cite web|url=https://www.foxnews.com/world/syria-watchdog-accused-of-misleading-report|title=Syria watchdog accused of making misleading edits in report on chemical weapons attack|access-date=2019-12-24|publisher=Foxnews.com|year=2019|author=Greg Norman}}</ref> The staff member alleged this finding was "highly misleading and not supported by the facts" and said he would attach his own differing observations if this version of the report was released. On 25 November 2019, OPCW Director General Fernando Arias, in a speech to the OPCW's annual conference in The Hague, defended the Organization's report on the Douma incident, stating "While some of these diverse views continue to circulate in some public discussion forums, I would like to reiterate that I stand by the independent, professional conclusion" of the probe.<ref name="opcw1">{{Cite web|url=https://www.cbsnews.com/news/opcw-chemical-weapons-watchdog-douma-chlorine-gas-wikileaks-russia-syria-claim-bias-today-2019-11-25/|title=Chemical weapons watchdog OPCW defends Syria report as whistleblower claims bias|access-date=2019-12-24|publisher=cbsnews.com|year=2019|author=CBS/AFP}}</ref>
+
+====Financial support for destruction====
+Financial support for the Albanian and Libyan stockpile destruction programmes was provided by the United States. Russia received support from a number of countries, including the United States, the United Kingdom, Germany, the Netherlands, Italy and Canada; with some $2 billion given by 2004. Costs for Albania's program were approximately US$48 million. As of 2007, the United States had spent $20 billion and expected to spend a further $40 billion.<ref name="Chall">{{cite news |url=https://www.reuters.com/article/latestCrisis/idUSL07441714 |title=Russia, U.S. face challenge on chemical weapons |work=[[Reuters]] |date=7 August 2007 |access-date=7 August 2007}}</ref>
+
+===Known chemical weapons production facilities===
+Fourteen states parties declared chemical weapons production facilities (CWPFs):<ref>{{cite web |url=http://tass.com/world/977688 |title=OPCW chief announces destruction of over 96% of chemical weapons in the world |website=Tass |publisher=[[Tass]] |date=27 November 2017}}</ref><ref>{{cite web|url=https://www.opcw.org/sites/default/files/documents/Fact_Sheets/English/Fact_Sheet_6_-_destruction.pdf|title=Eliminating Chemical Weapons and Chemical Weapons Production Facilities|date=November 2017|access-date=2019-02-21|publisher=[[Organisation for the Prohibition of Chemical Weapons]]|archive-date=12 October 2018|archive-url=https://web.archive.org/web/20181012121306/https://www.opcw.org/sites/default/files/documents/Fact_Sheets/English/Fact_Sheet_6_-_destruction.pdf|url-status=dead}}</ref>
+
+:{|width=100% style="background:transparent"
+|- valign=top
+| style="width:25%;"|
+*{{flagcountry|Bosnia and Herzegovina}}
+*{{flagcountry|China}}
+*{{flagcountry|France}}
+*{{flagcountry|India}}
+| style="width:25%;"|
+*{{flagcountry|Iran}}
+*{{flagcountry|Iraq}}
+*{{flagcountry|Japan}}
+| style="width:25%;"|
+*{{flagcountry|Libya}}
+*{{flagcountry|Russia}}
+*{{flagcountry|Serbia}}
+| style="width:25%;"|
+*{{flagcountry|Syria}}
+*{{flagcountry|United Kingdom}}
+*{{flagcountry|United States}}
+|}
+*1 non-disclosed state party (referred to as "A State Party" in OPCW-communications; said to be [[South Korea]])<ref>{{cite web|title=Confidentiality and verification: the IAEA and OPCW|url=http://www.vertic.org/media/assets/TV114.pdf|date=May–June 2004|access-date=3 December 2012|publisher=[[VERTIC]]}}</ref>
+
+By 31 December 2023, all 97 declared production facilities had been deactivated and certified as either destroyed (74) or converted (23) to civilian use.<ref name="opcwreport1124">{{cite report |url=https://www.opcw.org/sites/default/files/documents/2024/12/c2904%28e%29.pdf |title=Report of the OPCW on the implementation of the convention on the prohibition of the development, production, stockpiling and use of chemical weapons and on their destruction in 2023 |page=6 |id=C-29/4 |publisher=[[Organisation for the Prohibition of Chemical Weapons|OPCW]] |date=28 November 2024 |access-date=21 October 2025}}</ref>
+
+== Compliance and Alleged Violations ==
+===Sudan===
+Sudan officially acceded to the Chemical Weapons Convention (CWC) on 24 May 1999, becoming a State Party to the treaty that prohibits the development, production, acquisition, stockpiling, retention, transfer, or use of chemical weapons. By ratifying the CWC, Sudan legally committed to destroy any chemical weapons it possessed, declare chemical facilities as required, and allow verification inspections by the Organisation for the Prohibition of Chemical Weapons (OPCW)—the international body tasked with implementing the Convention. Accession to the CWC marked Sudan’s formal acceptance of international norms against chemical warfare and placed it under binding obligations to refrain from chemical weapons activities and to cooperate with other States Parties in enforcing the global ban.<ref>{{cite web |title=The Republic of the Sudan Accedes to the Chemical Weapons Convention |url=https://www.opcw.org/media-centre/news/1999/05/republic-sudan-accedes-chemical-weapons-convention |website=OPCW |access-date=March 1, 2026}}</ref>
+
+An investigation by Amnesty International documented what it described as at least 30 suspected chemical weapons attacks against civilians between January and September 2016, estimating that up to 200–250 people, many of them children, may have died as a result of exposure to toxic agents. Survivors’ testimonies and expert analysis of imagery suggested the possible use of vesicants (blister agents) such as sulfur mustard or lewisite, substances categorically banned under the CWC when used as weapons. These findings were based on satellite imagery, more than 200 interviews with victims and witnesses, and independent expert interpretation, although Sudan denied the allegations and restricted access to the affected areas. The Organisation for the Prohibition of Chemical Weapons (OPCW) acknowledged receipt of the reports and indicated it would examine the information, but at the time had not publicly verified the claims.<ref>{{cite web |title=Sudan: Credible evidence of the use of chemical weapons to kill and maim hundreds of civilians including children in Darfur revealed |url=https://www.amnesty.org/en/latest/news/2016/09/sudan-credible-evidence-chemical-weapons-darfur-revealed/ |website=Amnesty International |access-date=March 1, 2026}}</ref>
+
+Despite these commitments, credible reports from 2024–2025 indicate that Sudan’s armed forces may have violated the Convention’s core prohibitions by using chemical agents such as chlorine gas during the ongoing civil war. Investigations by media outlets and human rights organizations found evidence suggesting that the Sudanese army deployed barrels of chlorine near Khartoum and other locations, a use of chemical agents that is expressly banned under the CWC when intended as a weapon. Independent groups like Human Rights Watch and statements from U.S. officials concluded that such incidents, if confirmed, constitute a breach of Sudan’s international legal obligations and a serious violation of the global ban on chemical weapons, prompting sanctions from the United States.<ref>{{cite news |last1=Kimball |first1=Daryl |title=Sudan Army Said to Use Chlorine as Weapon |url=https://www.armscontrol.org/act/2026-01/news/sudan-army-said-use-chlorine-weapon |access-date=March 1, 2026 |agency=Arms Control Association}}</ref>
+
+=== Syria===
+Syria acceded to the Chemical Weapons Convention in 2013 following international pressure to dismantle its chemical weapons program. Subsequent investigations by the Organisation for the Prohibition of Chemical Weapons (OPCW) found that Syrian government forces were responsible for multiple chemical weapons attacks, including the use of sarin and chlorine. The OPCW’s Investigation and Identification Team attributed several incidents between 2017 and 2018 to the Syrian Arab Air Force.
+
+Human Rights Watch and United Nations–mandated investigations concluded that Syrian government forces were responsible for the majority of confirmed chemical weapons attacks during the Syrian civil war. In response to Syria’s continued non-compliance, States Parties to the Convention voted in 2021 to suspend certain rights and privileges of Syria under the treaty, including voting rights at conferences of the Chemical Weapons Convention.<ref>{{cite web |last1=Charbonneau |first1=Louis |title=Suspend Syria’s Rights Under Chemical Weapons Convention — Governments Should Bolster Respect for Landmark Arms Ban |url=https://www.hrw.org/news/2021/04/20/suspend-syrias-rights-under-chemical-weapons-convention |website=Human Rights Watch |access-date=March 1, 2026}}</ref>
+
+==See also==
+
+===Related international law===
+*[[Australia Group]] of countries and the European Commission that helps member nations identify exports which need to be controlled so as not to contribute to the spread of chemical and biological weapons
+*[[Agreement on Destruction and Non-production of Chemical Weapons and on Measures to Facilitate the Multilateral Convention on Banning Chemical Weapons|1990 US-Soviet Arms Control Agreement]]
+*[[General-purpose criterion]], a concept in international law that broadly governs international agreements with respect to chemical weapons 
+*[[Geneva Protocol]], a treaty prohibiting the use of chemical and biological weapons among signatory states in international armed conflicts
+
+===Worldwide treaties for other types of weapons of mass destruction ===
+{{Main|List of weapons of mass destruction treaties|List of parties to weapons of mass destruction treaties}}
+*[[Biological Weapons Convention]] (BWC) ([[List of parties to the Biological Weapons Convention|states parties]])
+*[[Nuclear Non-Proliferation Treaty]] (NPT) ([[List of parties to the Treaty on the Non-Proliferation of Nuclear Weapons|states parties]])
+*[[Treaty on the Prohibition of Nuclear Weapons]] (TPNW) ([[List of parties to the Treaty on the Prohibition of Nuclear Weapons|states parties]])
+
+===Chemical weapons===
+{{Main|List of chemical arms control agreements}}
+*[[Chemical warfare]]
+*[[Weapons of mass destruction]]
+*[[Tear gas]]
+
+===Related remembrance day===
+*[[Day of Remembrance for all Victims of Chemical Warfare]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{commons category|Chemical Weapons Convention}}
+* [https://www.opcw.org/fileadmin/OPCW/CWC/CWC_en.pdf Full text of the Chemical Weapons Convention], OPCW
+* Online text of the Chemical Weapons Convention: [https://www.opcw.org/chemical-weapons-convention/articles/ Articles], [https://www.opcw.org/chemical-weapons-convention/annexes/ Annexes including Chemical Schedules], OPCW
+* [https://www.opcw.org/documents-reports/fact-sheets/ Fact Sheets] {{Webarchive|url=https://web.archive.org/web/20180408073252/https://www.opcw.org/documents-reports/fact-sheets/ |date=8 April 2018 }}, OPCW
+* [https://www.opcw.org/about-opcw/member-states/ Chemical Weapons Convention: Ratifying Countries], OPCW
+* [https://web.archive.org/web/20120103055850/http://www.cwc.gov/ Chemical Weapons Convention Website], United States
+* [http://www.armscontrol.org/factsheets/cwcglance.asp The Chemical Weapons Convention at a Glance] {{Webarchive|url=https://web.archive.org/web/20140416183932/http://www.armscontrol.org/factsheets/cwcglance.asp |date=16 April 2014 }}, Arms Control Association
+* [http://www.chemlink.com.au/chemweap.htm Chemical Warfare Chemicals and Precursors], Chemlink Pty Ltd, Australia
+* [http://legal.un.org/avl/ha/cpdpsucw/cpdpsucw.html Introductory note by Michael Bothe, procedural history note and audiovisual material] on the ''Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction'' in the [http://legal.un.org/avl/historicarchives.html Historic Archives of the United Nations Audiovisual Library of International Law]
+* [http://legal.un.org/avl/ls/Onate-Laborde_AC.html Lecture] by [[Santiago Oñate Laborde]] entitled ''The Chemical Weapons Convention: an Overview'' in the [http://legal.un.org/avl/lectureseries.html Lecture Series of the United Nations Audiovisual Library of International Law]
+
+{{Portal bar|Politics}}
+
+[[Category:Arms control treaties]]
+[[Category:Chemical warfare]]
+[[Category:Human rights instruments]]
+[[Category:Chemical weapons demilitarization]]
+[[Category:Non-proliferation treaties]]
+[[Category:Treaties concluded in 1993]]
+[[Category:Treaties entered into force in 1997]]
+[[Category:Treaties of the Afghan Transitional Administration]]
+[[Category:Treaties of Albania]]
+[[Category:Treaties of Algeria]]
+[[Category:Treaties of Andorra]]
+[[Category:Treaties of Angola]]
+[[Category:Treaties of Antigua and Barbuda]]
+[[Category:Treaties of Argentina]]
+[[Category:Treaties of Armenia]]
+[[Category:Treaties of Australia]]
+[[Category:Treaties of Austria]]
+[[Category:Treaties of Azerbaijan]]
+[[Category:Treaties of the Bahamas]]
+[[Category:Treaties of Bahrain]]
+[[Category:Treaties of Bangladesh]]
+[[Category:Treaties of Barbados]]
+[[Category:Treaties of Belarus]]
+[[Category:Treaties of Belgium]]
+[[Category:Treaties of Belize]]
+[[Category:Treaties of Benin]]
+[[Category:Treaties of Bhutan]]
+[[Category:Treaties of Bolivia]]
+[[Category:Treaties of Bosnia and Herzegovina]]
+[[Category:Treaties of Botswana]]
+[[Category:Treaties of Brazil]]
+[[Category:Treaties of Brunei]]
+[[Category:Treaties of Bulgaria]]
+[[Category:Treaties of Burkina Faso]]
+[[Category:Treaties of Myanmar]]
+[[Category:Treaties of Burundi]]
+[[Category:Treaties of Cambodia]]
+[[Category:Treaties of Cameroon]]
+[[Category:Treaties of Canada]]
+[[Category:Treaties of Cape Verde]]
+[[Category:Treaties of the Central African Republic]]
+[[Category:Treaties of Chad]]
+[[Category:Treaties of Chile]]
+[[Category:Treaties of the People's Republic of China]]
+[[Category:Treaties of Colombia]]
+[[Category:Treaties of the Comoros]]
+[[Category:Treaties of the Republic of the Congo]]
+[[Category:Treaties of the Democratic Republic of the Congo]]
+[[Category:Treaties of the Cook Islands]]
+[[Category:Treaties of Costa Rica]]
+[[Category:Treaties of Ivory Coast]]
+[[Category:Treaties of Croatia]]
+[[Category:Treaties of Cuba]]
+[[Category:Treaties of Cyprus]]
+[[Category:Treaties of the Czech Republic]]
+[[Category:Treaties of Denmark]]
+[[Category:Treaties of the Dominican Republic]]
+[[Category:Treaties of Djibouti]]
+[[Category:Treaties of Dominica]]
+[[Category:Treaties of Ecuador]]
+[[Category:Treaties of El Salvador]]
+[[Category:Treaties of Equatorial Guinea]]
+[[Category:Treaties of Eritrea]]
+[[Category:Treaties of Estonia]]
+[[Category:Treaties of Ethiopia]]
+[[Category:Treaties of the Federated States of Micronesia]]
+[[Category:Treaties of Fiji]]
+[[Category:Treaties of Finland]]
+[[Category:Treaties of France]]
+[[Category:Treaties of Gabon]]
+[[Category:Treaties of the Gambia]]
+[[Category:Treaties of Georgia (country)]]
+[[Category:Treaties of Germany]]
+[[Category:Treaties of Ghana]]
+[[Category:Treaties of Greece]]
+[[Category:Treaties of Grenada]]
+[[Category:Treaties of Guatemala]]
+[[Category:Treaties of Guinea]]
+[[Category:Treaties of Guinea-Bissau]]
+[[Category:Treaties of Guyana]]
+[[Category:Treaties of Haiti]]
+[[Category:Treaties of the Holy See]]
+[[Category:Treaties of Honduras]]
+[[Category:Treaties of Hungary]]
+[[Category:Treaties of Iceland]]
+[[Category:Treaties of India]]
+[[Category:Treaties of Indonesia]]
+[[Category:Treaties of Iran]]
+[[Category:Treaties of Iraq]]
+[[Category:Treaties of Ireland]]
+[[Category:Treaties of Italy]]
+[[Category:Treaties of Jamaica]]
+[[Category:Treaties of Jordan]]
+[[Category:Treaties of Japan]]
+[[Category:Treaties of Kazakhstan]]
+[[Category:Treaties of Kenya]]
+[[Category:Treaties of Kiribati]]
+[[Category:Treaties of Kuwait]]
+[[Category:Treaties of Kyrgyzstan]]
+[[Category:Treaties of Laos]]
+[[Category:Treaties of Latvia]]
+[[Category:Treaties of Lebanon]]
+[[Category:Treaties of Lesotho]]
+[[Category:Treaties of Liberia]]
+[[Category:Treaties of the Libyan Arab Jamahiriya]]
+[[Category:Treaties of Liechtenstein]]
+[[Category:Treaties of Lithuania]]
+[[Category:Treaties of Luxembourg]]
+[[Category:Treaties of North Macedonia]]
+[[Category:Treaties of Madagascar]]
+[[Category:Treaties of Malawi]]
+[[Category:Treaties of Malaysia]]
+[[Category:Treaties of the Maldives]]
+[[Category:Treaties of Mali]]
+[[Category:Treaties of Malta]]
+[[Category:Treaties of the Marshall Islands]]
+[[Category:Treaties of Mauritania]]
+[[Category:Treaties of Mauritius]]
+[[Category:Treaties of Mexico]]
+[[Category:Treaties of Moldova]]
+[[Category:Treaties of Monaco]]
+[[Category:Treaties of Mongolia]]
+[[Category:Treaties of Montenegro]]
+[[Category:Treaties of Morocco]]
+[[Category:Treaties of Mozambique]]
+[[Category:Treaties of Namibia]]
+[[Category:Treaties of Nauru]]
+[[Category:Treaties of Nepal]]
+[[Category:Treaties of the Netherlands]]
+[[Category:Treaties of New Zealand]]
+[[Category:Treaties of Nicaragua]]
+[[Category:Treaties of Niger]]
+[[Category:Treaties of Nigeria]]
+[[Category:Treaties of Niue]]
+[[Category:Treaties of Norway]]
+[[Category:Treaties of Oman]]
+[[Category:Treaties of Pakistan]]
+[[Category:Treaties of Palau]]
+[[Category:Treaties of Panama]]
+[[Category:Treaties of Papua New Guinea]]
+[[Category:Treaties of Paraguay]]
+[[Category:Treaties of Peru]]
+[[Category:Treaties of the Philippines]]
+[[Category:Treaties of Poland]]
+[[Category:Treaties of Portugal]]
+[[Category:Treaties of Qatar]]
+[[Category:Treaties of Romania]]
+[[Category:Treaties of Russia]]
+[[Category:Treaties of Rwanda]]
+[[Category:Treaties of Saint Kitts and Nevis]]
+[[Category:Treaties of Saint Lucia]]
+[[Category:Treaties of Saint Vincent and the Grenadines]]
+[[Category:Treaties of Samoa]]
+[[Category:Treaties of San Marino]]
+[[Category:Treaties of São Tomé and Príncipe]]
+[[Category:Treaties of Saudi Arabia]]
+[[Category:Treaties of Senegal]]
+[[Category:Treaties of Serbia and Montenegro]]
+[[Category:Treaties of Seychelles]]
+[[Category:Treaties of Sierra Leone]]
+[[Category:Treaties of Singapore]]
+[[Category:Treaties of Slovakia]]
+[[Category:Treaties of Slovenia]]
+[[Category:Treaties of the Solomon Islands]]
+[[Category:Treaties of Somalia]]
+[[Category:Treaties of South Africa]]
+[[Category:Treaties of South Korea]]
+[[Category:Treaties of Spain]]
+[[Category:Treaties of Sri Lanka]]
+[[Category:Treaties of the Republic of the Sudan (1985–2011)]]
+[[Category:Treaties of Suriname]]
+[[Category:Treaties of Eswatini]]
+[[Category:Treaties of Sweden]]
+[[Category:Treaties of Switzerland]]
+[[Category:Treaties of Syria]]
+[[Category:Treaties of Tajikistan]]
+[[Category:Treaties of Tanzania]]
+[[Category:Treaties of Thailand]]
+[[Category:Treaties of Timor-Leste]]
+[[Category:Treaties of Togo]]
+[[Category:Treaties of Tonga]]
+[[Category:Treaties of Trinidad and Tobago]]
+[[Category:Treaties of Tunisia]]
+[[Category:Treaties of Turkey]]
+[[Category:Treaties of Turkmenistan]]
+[[Category:Treaties of Tuvalu]]
+[[Category:Treaties of Uganda]]
+[[Category:Treaties of Ukraine]]
+[[Category:Treaties of the United Arab Emirates]]
+[[Category:Treaties of the United Kingdom]]
+[[Category:Treaties of the United States]]
+[[Category:Treaties of Uruguay]]
+[[Category:Treaties of Uzbekistan]]
+[[Category:Treaties of Vanuatu]]
+[[Category:Treaties of Venezuela]]
+[[Category:Treaties of Vietnam]]
+[[Category:Treaties of Yemen]]
+[[Category:Treaties of Zambia]]
+[[Category:Treaties of Zimbabwe]]
+[[Category:Treaties establishing intergovernmental organizations]]
+[[Category:Treaties extended to Aruba]]
+[[Category:Treaties extended to the Netherlands Antilles]]
+[[Category:Treaties extended to Guernsey]]
+[[Category:Treaties extended to Jersey]]
+[[Category:Treaties extended to the Isle of Man]]
+[[Category:Treaties extended to Anguilla]]
+[[Category:Treaties extended to Bermuda]]
+[[Category:Treaties extended to the British Antarctic Territory]]
+[[Category:Treaties extended to the British Indian Ocean Territory]]
+[[Category:Treaties extended to the British Virgin Islands]]
+[[Category:Treaties extended to the Cayman Islands]]
+[[Category:Treaties extended to the Falkland Islands]]
+[[Category:Treaties extended to Gibraltar]]
+[[Category:Treaties extended to Montserrat]]
+[[Category:Treaties extended to the Pitcairn Islands]]
+[[Category:Treaties extended to Saint Helena, Ascension and Tristan da Cunha]]
+[[Category:Treaties extended to South Georgia and the South Sandwich Islands]]
+[[Category:Treaties extended to Akrotiri and Dhekelia]]
+[[Category:Treaties extended to the Turks and Caicos Islands]]
+[[Category:Treaties extended to Greenland]]
+[[Category:Treaties extended to the Faroe Islands]]
