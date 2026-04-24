@@ -9,7 +9,8 @@ class InvestigationsController < ApplicationController
   def show
     @investigations = Investigation.order(updated_at: :desc)
     @offices = Office.order(:name)
-    @tab = params[:tab].presence_in(%w[sources scrapers chat shares]) || "sources"
+    @tab = params[:tab].presence_in(%w[entities selectors cases patterns]) || "entities"
+    @demo = demo_dataset
   end
 
   def new
@@ -119,6 +120,44 @@ class InvestigationsController < ApplicationController
       title: "Selected module",
       body: @intake_module
     )
+  end
+
+  def demo_dataset
+    {
+      summary: [
+        "Matched 6 entities from your context to companies in the Fentanyl Module.",
+        "Identified 30 selectors relevant to your investigation.",
+        "Identified 2 related, ongoing cases that link to this investigation.",
+        "Discovered 3 previously unidentified patterns of behavior that these entities engage in."
+      ],
+      entities: [
+        { name: "Anhui Rencheng Technology Co., Ltd.", status: "matched", phone: "+86 551 6262 8311", email: "sales@rencheng-tech.cn", personnel: "Wei Zhang", country: "CN", source: "tradeford" },
+        { name: "Hebei Atun Imp. & Exp. Trading Co.",   status: "matched", phone: "+86 311 8888 4429", email: "info@atun-trade.com", personnel: "Lin Xu", country: "CN", source: "chemnet" },
+        { name: "Wuhan Senwayer Century Chem.",         status: "matched", phone: "+86 27 5970 6112",  email: "sales03@senwayer.com", personnel: "Hai Liu", country: "CN", source: "tradeford" },
+        { name: "Shijiazhuang Sdyano Fine Chem.",       status: "matched", phone: "+86 311 6669 5121", email: "ada@sdyano.com",      personnel: "Ada Chen", country: "CN", source: "chemnet" },
+        { name: "Yuhao Trading Pvt. (HK) Ltd.",         status: "unmatched", phone: "—", email: "—", personnel: "—", country: "HK", source: "alibaba" },
+        { name: "Hubei Norna Technology Ltd.",          status: "matched", phone: "+86 27 8714 0099",  email: "norna@norna-tech.cn", personnel: "Bo Yang",  country: "CN", source: "tradeford" }
+      ],
+      selectors: [
+        { kind: "CAS",      value: "79099-07-3",      label: "1-Boc-4-piperidone (precursor)",            seen: 14 },
+        { kind: "CAS",      value: "288573-56-8",     label: "tert-butyl 4-(phenylamino)piperidine-1-carboxylate", seen: 9 },
+        { kind: "Keyword",  value: "ANPP",            label: "4-Anilino-N-phenethylpiperidine",           seen: 22 },
+        { kind: "Keyword",  value: "NPP",             label: "N-Phenethyl-4-piperidone",                  seen: 18 },
+        { kind: "Phone",    value: "+86 551 6262 ****", label: "Anhui regional supplier number block",   seen: 6 },
+        { kind: "Email",    value: "sales*@senwayer.com", label: "Senwayer outbound sales pattern",      seen: 5 },
+        { kind: "Wallet",   value: "TRX TQrZ…7p2k",   label: "Repeated USDT-TRC20 receive address",       seen: 3 },
+        { kind: "Shipper",  value: "SF Express HK",    label: "Common forwarder for flagged parcels",     seen: 11 }
+      ],
+      cases: [
+        { id: "DEA-2025-04412", title: "Operation Iron Lattice",     office: "DEA · SOD",     overlap: "4 entities, 11 selectors", status: "Active" },
+        { id: "HSI-2025-00891", title: "Bluewater Diversion",        office: "HSI · El Paso", overlap: "2 entities, 6 selectors",  status: "Active" }
+      ],
+      patterns: [
+        { title: "Mirror-domain handoff",          detail: "Suppliers register near-duplicate domains within 14 days of takedown notices and migrate sales emails on a rolling cadence." },
+        { title: "Split-shipment laddering",       detail: "Orders above 250g are fragmented across 3–5 parcels routed through Hong Kong forwarders before consolidation in Mexico." },
+        { title: "Crypto-then-fiat settlement",    detail: "Initial deposit on TRC-20 USDT, balance settled via WeChat or third-party invoice to a Hong Kong shell entity." }
+      ]
+    }
   end
 
   def extracted_links

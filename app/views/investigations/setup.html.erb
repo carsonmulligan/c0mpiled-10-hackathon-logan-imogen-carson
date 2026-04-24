@@ -1,16 +1,13 @@
 <% content_for :title, "Preparing Investigation" %>
-<% content_for :head do %>
-  <meta http-equiv="refresh" content="3;url=<%= investigation_path(@investigation) %>">
-<% end %>
 
 <div class="usa-page">
   <div class="usa-process-list" role="status" aria-live="polite">
     <div class="usa-process-line" aria-hidden="true"></div>
 
-    <% @setup_steps.each do |step| %>
-      <section class="usa-process-item">
-        <div class="usa-step-marker" aria-hidden="true"><%= step[:number] %></div>
-        <h1 class="<%= step[:number] == 1 ? 'usa-step-title' : 'usa-step-title' %>"><%= step[:title] %></h1>
+    <% @setup_steps.each_with_index do |step, idx| %>
+      <section class="usa-process-item" data-step="<%= idx %>">
+        <div class="usa-step-marker" aria-hidden="true" data-marker><%= step[:number] %></div>
+        <h1 class="usa-step-title"><%= step[:title] %></h1>
         <% if step[:details].any? %>
           <ul class="usa-step-details">
             <% step[:details].each do |detail| %>
@@ -21,8 +18,62 @@
       </section>
     <% end %>
 
-    <p class="mt-16 text-[16px] leading-6 text-slate-500">
-      Workspace setup is in progress. If you are not redirected automatically, <%= link_to "open the investigation", investigation_path(@investigation), class: "text-blue-700 underline" %>.
+    <div id="setup-stream" class="usa-stream" aria-hidden="true"></div>
+
+    <p class="mt-10 text-[14px] leading-6 text-slate-500">
+      Workspace setup is in progress. If you are not redirected automatically,
+      <%= link_to "open the investigation", investigation_path(@investigation), class: "text-blue-700 underline" %>.
     </p>
   </div>
 </div>
+
+<script>
+  (function () {
+    var redirectTo = "<%= j investigation_path(@investigation) %>";
+    var stream = document.getElementById("setup-stream");
+    var markers = document.querySelectorAll("[data-marker]");
+    var items = document.querySelectorAll(".usa-process-item");
+
+    var lines = [
+      "[00:00.12] parsing objective: 'foreign actors sending fentanyl'",
+      "[00:00.41] selected module: Fentanyl Module",
+      "[00:00.83] ingesting 0 documents, 0 pasted links",
+      "[00:01.10] scraper:tradeford  GET /search?q=ANPP                200 OK   (24 hits)",
+      "[00:01.62] scraper:chemnet    GET /search?q=NPP                 200 OK   (17 hits)",
+      "[00:02.14] scraper:alibaba    GET /trade/search?cat=fine_chem   429 backoff 1.2s",
+      "[00:02.91] scraper:tradeford  GET /supplier/anhui-rencheng      200 OK",
+      "[00:03.05] enrich:crustdata   POST /companies/match             200 OK   matched 5/6",
+      "[00:03.66] selectors  ← extracted 30 from corpus (CAS · keyword · phone · email · wallet)",
+      "[00:04.18] graph      ← linking selectors to existing leads in Fentanyl Module",
+      "[00:04.71] cases      ← 2 related ongoing cases identified (DEA-2025-04412, HSI-2025-00891)",
+      "[00:05.24] patterns   ← 3 previously-unseen behaviors flagged for review",
+      "[00:05.62] handoff    → Investigation Home"
+    ];
+
+    function setActive(idx) {
+      markers.forEach(function (m, i) {
+        m.classList.remove("usa-step-marker-active", "usa-step-marker-done");
+        if (i < idx) m.classList.add("usa-step-marker-done");
+        if (i === idx) m.classList.add("usa-step-marker-active");
+      });
+    }
+
+    setActive(0);
+    setTimeout(function () { setActive(1); }, 1800);
+    setTimeout(function () { setActive(2); }, 3800);
+    setTimeout(function () { setActive(3); }, 5400); // all done
+
+    lines.forEach(function (line, i) {
+      setTimeout(function () {
+        var el = document.createElement("div");
+        el.className = "usa-stream-line";
+        el.textContent = line;
+        stream.appendChild(el);
+        // keep last ~9 lines visible
+        while (stream.children.length > 9) stream.removeChild(stream.firstChild);
+      }, 250 + i * 420);
+    });
+
+    setTimeout(function () { window.location.assign(redirectTo); }, 6200);
+  })();
+</script>

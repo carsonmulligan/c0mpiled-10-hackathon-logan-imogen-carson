@@ -25,7 +25,7 @@
   .usa-shell { @apply mx-auto w-full max-w-3xl; }
   .usa-form-card { @apply rounded border border-slate-300 bg-white; }
   .usa-field-group { @apply mt-8; }
-  .usa-label { @apply block text-[17px] leading-6 font-normal text-slate-900; }
+  .usa-label { @apply block text-[17px] leading-6 font-bold text-slate-900; }
   .usa-hint { @apply mt-2 text-[16px] leading-6 text-slate-500; }
   .usa-input { @apply mt-3 block w-full rounded border border-slate-400 bg-white px-4 py-3 text-[16px] leading-6 text-slate-900 focus:border-blue-700 focus:outline focus:outline-4 focus:outline-offset-0 focus:outline-blue-200; }
   .usa-textarea { @apply min-h-28; }
@@ -39,4 +39,42 @@
   .usa-step-marker { @apply absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-full border-4 border-slate-900 bg-white text-[24px] font-bold leading-none text-slate-900; }
   .usa-step-title { @apply text-[20px] font-normal leading-8 text-slate-900; }
   .usa-step-details { @apply mt-2 space-y-2 pl-5 text-[16px] leading-6 text-slate-700 list-disc; }
+
+  /* Data hub */
+  .usa-app-shell { @apply min-h-screen bg-slate-50 text-slate-900; }
+  .usa-app-header { @apply flex items-center justify-between border-b border-slate-200 bg-white px-8 py-4; }
+  .usa-app-title { @apply text-[20px] font-bold tracking-tight text-slate-900; }
+  .usa-btn-secondary { @apply inline-flex items-center justify-center rounded border border-slate-900 bg-slate-900 px-4 py-2 text-[14px] font-bold text-white hover:bg-slate-800; }
+  .usa-btn-outline { @apply inline-flex items-center justify-center rounded border border-slate-900 bg-white px-4 py-2 text-[14px] font-bold text-slate-900 hover:bg-slate-50; }
+  .usa-summary-box { @apply rounded border-l-[6px] border-l-sky-500 border border-sky-200 bg-sky-50/60 p-5; }
+  .usa-summary-title { @apply text-[18px] font-bold text-slate-900; }
+  .usa-summary-list { @apply mt-2 space-y-1 pl-5 text-[14px] leading-6 text-slate-800 list-disc; }
+  .usa-tabbar { @apply flex items-center gap-6 border-b border-slate-200 px-0; }
+  .usa-tablink { @apply -mb-px border-b-2 border-transparent px-1 py-3 text-[14px] font-medium text-slate-500 hover:text-slate-900; }
+  .usa-tablink-active { @apply border-slate-900 text-slate-900 font-bold; }
+  .usa-row { @apply relative grid grid-cols-12 items-center gap-4 rounded-sm border border-slate-200 bg-emerald-50/40 px-4 py-3 text-[14px] text-slate-800; }
+  .usa-row::before { content: ""; @apply absolute left-0 top-0 bottom-0 w-[6px] bg-emerald-500 rounded-l-sm; }
+  .usa-row-mute { @apply bg-slate-50; }
+  .usa-row-mute::before { @apply bg-slate-300; }
+  .usa-badge { @apply inline-flex items-center rounded-sm px-2 py-0.5 text-[11px] font-bold uppercase tracking-wide; }
+  .usa-badge-matched { @apply bg-emerald-200 text-emerald-900; }
+  .usa-badge-unmatched { @apply bg-slate-200 text-slate-700; }
+  .usa-cell-label { @apply text-slate-500 text-[12px] uppercase tracking-wide font-semibold; }
+  .usa-view-btn { @apply inline-flex items-center justify-center rounded border border-slate-400 bg-white px-3 py-1.5 text-[13px] font-medium text-slate-900 hover:bg-slate-100; }
+
+  /* Setup animation */
+  .usa-step-marker-active { @apply ring-4 ring-blue-200; }
+  .usa-step-marker-done { @apply bg-emerald-600 text-white border-emerald-700; }
+  .usa-stream { @apply mt-12 mx-auto w-full max-w-xl rounded border border-slate-200 bg-slate-900 text-emerald-300 font-mono text-[12px] leading-5 p-4 h-44 overflow-hidden; }
+  .usa-stream-line { @apply opacity-0; animation: stream-in 0.25s ease-out forwards; }
 }
+
+@keyframes stream-in {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes step-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(59,130,246,0.45); }
+  50%      { box-shadow: 0 0 0 8px rgba(59,130,246,0); }
+}
+.usa-step-marker-active { animation: step-pulse 1.4s ease-in-out infinite; }

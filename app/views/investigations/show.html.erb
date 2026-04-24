@@ -1,35 +1,134 @@
-<% content_for :title, "Holocron — #{@investigation.name}" %>
+<% content_for :title, "Investigation Home" %>
 
-<div class="flex h-screen w-screen overflow-hidden">
-  <%= render "sidebar", investigation: @investigation, investigations: @investigations, offices: @offices %>
+<div class="usa-app-shell">
+  <header class="usa-app-header">
+    <div class="flex items-center gap-6">
+      <h1 class="usa-app-title">Investigation Home</h1>
+      <span class="text-[12px] uppercase tracking-wide text-slate-500">
+        <%= @investigation.name.truncate(60) %>
+      </span>
+    </div>
+    <div class="flex items-center gap-2">
+      <button type="button" class="usa-btn-secondary">Produce Report</button>
+      <button type="button" class="usa-btn-outline">Export Data</button>
+      <button type="button" class="usa-btn-outline">Publish to Spoke</button>
+    </div>
+  </header>
 
-  <section class="flex-1 flex flex-col min-w-0">
-    <header class="flex items-center justify-between border-b border-[#1d2640] px-5 py-3 bg-[#0a0e1a]">
-      <div>
-        <div class="text-[10px] uppercase tracking-[0.3em] text-slate-500 font-mono">Investigation</div>
-        <h1 class="text-lg font-mono text-slate-100"><%= @investigation.name %></h1>
-        <% if @investigation.description.present? %>
-          <p class="text-xs text-slate-400 max-w-2xl mt-1"><%= @investigation.description %></p>
+  <main class="mx-auto w-full max-w-6xl px-8 py-8">
+    <section class="usa-summary-box">
+      <h2 class="usa-summary-title">High Level Summary</h2>
+      <ul class="usa-summary-list">
+        <% @demo[:summary].each do |line| %>
+          <li><%= line %></li>
         <% end %>
-      </div>
-      <div class="flex items-center gap-2 text-xs font-mono text-slate-400">
-        <span class="px-2 py-1 border border-[#1d2640] rounded">id: <%= @investigation.id %></span>
-        <span class="px-2 py-1 border border-[#1d2640] rounded">updated <%= time_ago_in_words(@investigation.updated_at) %> ago</span>
-      </div>
-    </header>
+      </ul>
+    </section>
 
-    <nav class="flex gap-1 border-b border-[#1d2640] px-5 bg-[#0a0e1a]">
-      <% %w[sources scrapers chat shares].each do |t| %>
-        <%= link_to t.upcase, investigation_path(@investigation, tab: t),
-              class: "tab #{'tab-active' if @tab == t}" %>
+    <nav class="usa-tabbar mt-8" aria-label="Investigation views">
+      <% [
+            ["entities",  "Context Entities"],
+            ["selectors", "Selectors"],
+            ["cases",     "Related Cases"],
+            ["patterns",  "Patterns of Behavior"]
+         ].each do |slug, label| %>
+        <%= link_to label,
+              investigation_path(@investigation, tab: slug),
+              class: "usa-tablink #{'usa-tablink-active' if @tab == slug}" %>
       <% end %>
-      <div class="ml-auto py-2 text-[10px] uppercase tracking-widest font-mono text-slate-600">
-        <%= @investigation.sources.count %> sources · <%= @investigation.scrapers.count %> scrapers · <%= @investigation.shares.count %> shares
-      </div>
     </nav>
 
-    <div class="flex-1 overflow-auto">
-      <%= render "tab_#{@tab}", investigation: @investigation, offices: @offices %>
+    <div class="mt-6 space-y-2">
+      <% case @tab %>
+      <% when "entities" %>
+        <% @demo[:entities].each do |row| %>
+          <div class="usa-row <%= 'usa-row-mute' if row[:status] == 'unmatched' %>">
+            <div class="col-span-3 flex items-center gap-3 pl-2">
+              <span class="font-bold text-slate-900"><%= row[:name] %></span>
+              <span class="usa-badge <%= row[:status] == 'matched' ? 'usa-badge-matched' : 'usa-badge-unmatched' %>">
+                <%= row[:status] %>
+              </span>
+            </div>
+            <div class="col-span-2"><%= row[:phone] %></div>
+            <div class="col-span-3 truncate"><%= row[:email] %></div>
+            <div class="col-span-2 flex items-center gap-2">
+              <span aria-hidden="true">👤</span>
+              <span><%= row[:personnel] %></span>
+            </div>
+            <div class="col-span-2 flex justify-end">
+              <button type="button" class="usa-view-btn">View Profile</button>
+            </div>
+          </div>
+        <% end %>
+
+      <% when "selectors" %>
+        <% @demo[:selectors].each do |row| %>
+          <div class="usa-row">
+            <div class="col-span-2 pl-2 font-bold uppercase tracking-wide text-[11px] text-slate-700">
+              <%= row[:kind] %>
+            </div>
+            <div class="col-span-3 font-mono text-[13px] text-slate-900"><%= row[:value] %></div>
+            <div class="col-span-5 text-slate-700"><%= row[:label] %></div>
+            <div class="col-span-1 text-right text-slate-600">
+              <span class="usa-cell-label">Seen</span>
+              <div class="font-bold text-slate-900"><%= row[:seen] %></div>
+            </div>
+            <div class="col-span-1 flex justify-end">
+              <button type="button" class="usa-view-btn">Inspect</button>
+            </div>
+          </div>
+        <% end %>
+
+      <% when "cases" %>
+        <% @demo[:cases].each do |row| %>
+          <div class="usa-row">
+            <div class="col-span-3 pl-2">
+              <div class="usa-cell-label">Case ID</div>
+              <div class="font-mono text-[13px] text-slate-900"><%= row[:id] %></div>
+            </div>
+            <div class="col-span-4">
+              <div class="usa-cell-label">Title</div>
+              <div class="font-bold text-slate-900"><%= row[:title] %></div>
+            </div>
+            <div class="col-span-2">
+              <div class="usa-cell-label">Office</div>
+              <div><%= row[:office] %></div>
+            </div>
+            <div class="col-span-2">
+              <div class="usa-cell-label">Overlap</div>
+              <div><%= row[:overlap] %></div>
+            </div>
+            <div class="col-span-1 flex justify-end">
+              <button type="button" class="usa-view-btn">Open</button>
+            </div>
+          </div>
+        <% end %>
+
+      <% when "patterns" %>
+        <% @demo[:patterns].each_with_index do |row, i| %>
+          <div class="usa-row">
+            <div class="col-span-1 pl-2 text-[28px] font-bold leading-none text-slate-900">
+              <%= format("%02d", i + 1) %>
+            </div>
+            <div class="col-span-9">
+              <div class="font-bold text-slate-900"><%= row[:title] %></div>
+              <p class="mt-1 text-[14px] leading-6 text-slate-700"><%= row[:detail] %></p>
+            </div>
+            <div class="col-span-2 flex justify-end">
+              <button type="button" class="usa-view-btn">Drill in</button>
+            </div>
+          </div>
+        <% end %>
+      <% end %>
     </div>
-  </section>
+
+    <footer class="mt-10 flex items-center justify-between text-[12px] text-slate-500">
+      <div>
+        <%= @investigation.sources.count %> sources ingested ·
+        <%= @investigation.scrapers.count %> scrapers configured ·
+        updated <%= time_ago_in_words(@investigation.updated_at) %> ago
+      </div>
+      <%= link_to "← Start a new investigation", new_investigation_path, class: "underline text-blue-700" %>
+    </footer>
+  </main>
 </div>
