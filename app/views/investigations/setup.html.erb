@@ -2,21 +2,23 @@
 
 <div class="usa-page">
   <div class="usa-process-list" role="status" aria-live="polite">
-    <div class="usa-process-line" aria-hidden="true"></div>
+    <div class="usa-process-steps relative">
+      <div class="usa-process-line" aria-hidden="true"></div>
 
-    <% @setup_steps.each_with_index do |step, idx| %>
-      <section class="usa-process-item" data-step="<%= idx %>">
-        <div class="usa-step-marker" aria-hidden="true" data-marker><%= step[:number] %></div>
-        <h1 class="usa-step-title"><%= step[:title] %></h1>
-        <% if step[:details].any? %>
-          <ul class="usa-step-details">
-            <% step[:details].each do |detail| %>
-              <li><%= detail %></li>
-            <% end %>
-          </ul>
-        <% end %>
-      </section>
-    <% end %>
+      <% @setup_steps.each_with_index do |step, idx| %>
+        <section class="usa-process-item" data-step="<%= idx %>">
+          <div class="usa-step-marker" aria-hidden="true" data-marker><%= step[:number] %></div>
+          <h1 class="usa-step-title"><%= step[:title] %></h1>
+          <% if step[:details].any? %>
+            <ul class="usa-step-details">
+              <% step[:details].each do |detail| %>
+                <li><%= detail %></li>
+              <% end %>
+            </ul>
+          <% end %>
+        </section>
+      <% end %>
+    </div>
 
     <div id="setup-stream" class="usa-stream" aria-hidden="true"></div>
 
