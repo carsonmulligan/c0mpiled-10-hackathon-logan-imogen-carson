@@ -1,0 +1,28 @@
+[
+  {
+    "company_id": 27357628,
+    "company_name": "RC KAIROS",
+    "linkedin_profile_name": "RC KAIROS",
+    "company_slug": "rc-kairos-91b7cdbd",
+    "is_full_domain_match": false,
+    "total_rows": 1,
+    "company_website_domain": null,
+    "company_website": null,
+    "linkedin_profile_url": "https://www.linkedin.com/company/rc-kairos",
+    "linkedin_profile_id": "87200798",
+    "linkedin_headcount": 0,
+    "employee_count_range": "11-50",
+    "estimated_revenue_lower_bound_usd": 1000000,
+    "estimated_revenue_upper_bound_usd": 2500000,
+    "hq_country": null,
+    "headquarters": "Garza García, Nuevo León, Mexico",
+    "linkedin_industries": [
+      "Wholesale Chemical and Allied Products",
+      "Wholesale"
+    ],
+    "acquisition_status": null,
+    "linkedin_logo_url": "https://crustdata-media.s3.us-east-2.amazonaws.com/company/065e8bd22d2a3af4fae71812b2a1212b3b0083c7b422ccb5b721aa0efc5b4f95.jpg",
+    "crunchbase_profile_url": null,
+    "crunchbase_total_investment_usd": null
+  }
+]
