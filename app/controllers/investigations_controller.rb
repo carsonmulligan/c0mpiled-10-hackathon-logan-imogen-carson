@@ -1,5 +1,5 @@
 class InvestigationsController < ApplicationController
-  before_action :set_investigation, only: [:show, :setup, :edit, :update, :destroy]
+  before_action :set_investigation, only: [:show, :setup, :report, :edit, :update, :destroy]
   before_action :set_module_options, only: [:new, :create]
 
   def index
@@ -15,8 +15,8 @@ class InvestigationsController < ApplicationController
 
   def new
     @investigation = Investigation.new
-    @intake_objective = ""
-    @intake_links = ""
+    @intake_objective = "I'm tracking RC Kairos, a Mexico-based wholesale chemicals broker advertising fentanyl precursors on ChemNet — I need their network, selectors, and related cases."
+    @intake_links = "https://www.chemnet.com/sell/RC-Kairos/"
     @intake_module = @module_options.first
   end
 
@@ -60,6 +60,11 @@ class InvestigationsController < ApplicationController
         details: ["Comparing selectors", "Matching context to existing leads", "Pulling entity profiles"]
       }
     ]
+  end
+
+  def report
+    @demo = demo_dataset
+    render layout: "report"
   end
 
   def edit; end
@@ -123,39 +128,48 @@ class InvestigationsController < ApplicationController
   end
 
   def demo_dataset
+    rc_kairos = Crustdata::Cache.identify("RC Kairos").first || {}
     {
+      crustdata: rc_kairos,
       summary: [
-        "Matched 6 entities from your context to companies in the Fentanyl Module.",
-        "Identified 30 selectors relevant to your investigation.",
-        "Identified 2 related, ongoing cases that link to this investigation.",
-        "Discovered 3 previously unidentified patterns of behavior that these entities engage in."
+        "Matched 6 entities from your context to companies in the Fentanyl Module — RC Kairos pinned as the lead entity.",
+        "Identified 30 selectors relevant to your investigation, sourced primarily from ChemNet supplier listings.",
+        "Identified 2 related, ongoing DEA cases that link to this investigation.",
+        "Discovered 3 previously unidentified patterns of behavior across the RC Kairos / China-Mexico precursor corridor."
       ],
       entities: [
+        { name: "RC Kairos", status: "matched", phone: "Not on file", email: "Not on file", personnel: "—",
+          country: "MX", source: "chemnet", crustdata_id: rc_kairos["company_id"],
+          headquarters: rc_kairos["headquarters"],
+          industry: (rc_kairos["linkedin_industries"] || []).first,
+          employee_count_range: rc_kairos["employee_count_range"],
+          revenue_low: rc_kairos["estimated_revenue_lower_bound_usd"],
+          revenue_high: rc_kairos["estimated_revenue_upper_bound_usd"],
+          linkedin_url: rc_kairos["linkedin_profile_url"] },
         { name: "Anhui Rencheng Technology Co., Ltd.", status: "matched", phone: "+86 551 6262 8311", email: "sales@rencheng-tech.cn", personnel: "Wei Zhang", country: "CN", source: "tradeford" },
         { name: "Hebei Atun Imp. & Exp. Trading Co.",   status: "matched", phone: "+86 311 8888 4429", email: "info@atun-trade.com", personnel: "Lin Xu", country: "CN", source: "chemnet" },
         { name: "Wuhan Senwayer Century Chem.",         status: "matched", phone: "+86 27 5970 6112",  email: "sales03@senwayer.com", personnel: "Hai Liu", country: "CN", source: "tradeford" },
         { name: "Shijiazhuang Sdyano Fine Chem.",       status: "matched", phone: "+86 311 6669 5121", email: "ada@sdyano.com",      personnel: "Ada Chen", country: "CN", source: "chemnet" },
-        { name: "Yuhao Trading Pvt. (HK) Ltd.",         status: "unmatched", phone: "—", email: "—", personnel: "—", country: "HK", source: "alibaba" },
-        { name: "Hubei Norna Technology Ltd.",          status: "matched", phone: "+86 27 8714 0099",  email: "norna@norna-tech.cn", personnel: "Bo Yang",  country: "CN", source: "tradeford" }
+        { name: "Yuhao Trading Pvt. (HK) Ltd.",         status: "unmatched", phone: "—", email: "—", personnel: "—", country: "HK", source: "alibaba" }
       ],
       selectors: [
-        { kind: "Person Name",  last_updated: "04/26/26", other_fields: 10 },
-        { kind: "Company Name", last_updated: "04/26/26", other_fields: 10 },
-        { kind: "Username",     last_updated: "04/26/26", other_fields: 10 },
-        { kind: "Username",     last_updated: "04/26/26", other_fields: 10 },
-        { kind: "Person Name",  last_updated: "04/26/26", other_fields: 10 },
-        { kind: "Company Name", last_updated: "04/26/26", other_fields: 10 },
-        { kind: "Phone Number", last_updated: "04/25/26", other_fields: 8 },
-        { kind: "Email Address",last_updated: "04/25/26", other_fields: 7 }
+        { kind: "Company Name (RC Kairos)", last_updated: "04/26/26", other_fields: 12 },
+        { kind: "LinkedIn URL",             last_updated: "04/26/26", other_fields: 9 },
+        { kind: "Marketplace Listing",      last_updated: "04/26/26", other_fields: 11 },
+        { kind: "Person Name",              last_updated: "04/26/26", other_fields: 10 },
+        { kind: "Username",                 last_updated: "04/26/26", other_fields: 10 },
+        { kind: "Phone Number (HOYAN ad)",  last_updated: "04/24/26", other_fields: 8 },
+        { kind: "Email Address",            last_updated: "04/25/26", other_fields: 7 },
+        { kind: "Wickr Handle",             last_updated: "04/24/26", other_fields: 6 }
       ],
       cases: [
-        { name: "Case Name", office: "DEA", linked_selectors: 3, last_updated: "08/09/2025", contact: "John Doe" },
-        { name: "Case Name", office: "DEA", linked_selectors: 2, last_updated: "02/20/2026", contact: "Jane Fawn" }
+        { name: "Operation Iron Lattice", office: "DEA", linked_selectors: 3, last_updated: "08/09/2025", contact: "John Doe" },
+        { name: "Bluewater Diversion",    office: "DEA", linked_selectors: 2, last_updated: "02/20/2026", contact: "Jane Fawn" }
       ],
       patterns: [
-        { description: "Pattern Description", first_seen: "10/07/2025", linked_selectors: 10 },
-        { description: "Pattern Description", first_seen: "1/20/2026",  linked_selectors: 15 },
-        { description: "Pattern Description", first_seen: "11/28/2025", linked_selectors: 8 }
+        { description: "China → Mexico precursor relay (RC Kairos)", first_seen: "10/07/2025", linked_selectors: 10 },
+        { description: "ChemNet ad-pivot to encrypted handles",      first_seen: "1/20/2026",  linked_selectors: 15 },
+        { description: "Coordinated CAS-number listing across HOYAN-tagged sellers", first_seen: "11/28/2025", linked_selectors: 8 }
       ]
     }
   end

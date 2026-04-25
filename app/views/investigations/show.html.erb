@@ -9,7 +9,7 @@
       </span>
     </div>
     <div class="flex items-center gap-2">
-      <button type="button" class="usa-btn-secondary">Produce Report</button>
+      <%= link_to "Produce Report", report_investigation_path(@investigation), target: "_blank", class: "usa-btn-secondary" %>
       <button type="button" class="usa-btn-outline">Export Data</button>
       <button type="button" class="usa-btn-outline">Publish to Spoke</button>
     </div>
@@ -43,17 +43,30 @@
       <% when "entities" %>
         <% @demo[:entities].each do |row| %>
           <div class="usa-row <%= 'usa-row-mute' if row[:status] == 'unmatched' %>">
-            <div class="col-span-3 flex items-center gap-3 pl-2">
+            <div class="col-span-3 flex items-center gap-2 pl-2 flex-wrap">
               <span class="font-bold text-slate-900"><%= row[:name] %></span>
               <span class="usa-badge <%= row[:status] == 'matched' ? 'usa-badge-matched' : 'usa-badge-unmatched' %>">
                 <%= row[:status] %>
               </span>
+              <% if row[:crustdata_id] %>
+                <span class="usa-tag-dark">Crustdata ID <%= row[:crustdata_id] %></span>
+              <% end %>
             </div>
             <div class="col-span-2"><%= row[:phone] %></div>
-            <div class="col-span-3 truncate"><%= row[:email] %></div>
-            <div class="col-span-2 flex items-center gap-2">
-              <span aria-hidden="true">👤</span>
-              <span><%= row[:personnel] %></span>
+            <div class="col-span-3 truncate">
+              <% if row[:linkedin_url] %>
+                <%= link_to "linkedin.com/company/rc-kairos", row[:linkedin_url], target: "_blank", class: "underline text-blue-700" %>
+              <% else %>
+                <%= row[:email] %>
+              <% end %>
+            </div>
+            <div class="col-span-2 flex items-center gap-2 flex-wrap">
+              <% if row[:headquarters] %>
+                <span class="text-[12px] text-slate-700">📍 <%= row[:headquarters].split(",").first %>, MX</span>
+              <% else %>
+                <span aria-hidden="true">👤</span>
+                <span><%= row[:personnel] %></span>
+              <% end %>
             </div>
             <div class="col-span-2 flex justify-end">
               <button type="button" class="usa-view-btn">View Profile</button>

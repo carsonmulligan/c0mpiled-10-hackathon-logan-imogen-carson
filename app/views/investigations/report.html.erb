@@ -1,0 +1,177 @@
+<% content_for :title, "Investigation Summary Report — #{@investigation.name}" %>
+<% rc = @demo[:crustdata] %>
+
+<div class="no-print sticky top-0 z-10 flex items-center justify-between border-b border-slate-200 bg-white px-6 py-3">
+  <div class="text-[12px] uppercase tracking-widest text-slate-500 font-mono">Investigation Summary Report</div>
+  <div class="flex items-center gap-2">
+    <button onclick="window.print()" class="usa-btn-outline">Print / Save as PDF</button>
+    <%= link_to "← Back to Investigation", investigation_path(@investigation), class: "usa-btn-outline" %>
+  </div>
+</div>
+
+<article class="report-page my-8">
+  <header class="border-b border-slate-300 pb-6 mb-8">
+    <span class="report-classification">Law Enforcement Sensitive</span>
+    <h1 class="mt-4 text-[32px] font-bold leading-tight text-slate-900">INVESTIGATION SUMMARY REPORT</h1>
+    <p class="mt-1 text-[18px] text-slate-700">Fentanyl Precursor Network Analysis — RC Kairos Cluster</p>
+
+    <dl class="report-meta mt-6 grid grid-cols-2 gap-x-10 gap-y-2 max-w-xl">
+      <div><dt>Report Date</dt><dd>April 24, 2026</dd></div>
+      <div><dt>Case ID</dt><dd>INV-2026-0417</dd></div>
+      <div><dt>Prepared By</dt><dd>Intelligence Analysis Division — DOS / ONDCP-directed</dd></div>
+      <div><dt>Status</dt><dd>ACTIVE</dd></div>
+      <div><dt>Module</dt><dd>Fentanyl Precursor Tracking</dd></div>
+      <div><dt>Priority</dt><dd>HIGH</dd></div>
+    </dl>
+  </header>
+
+  <section class="mb-10">
+    <h2 class="text-[22px] font-bold text-slate-900 mb-3">1. Executive Summary</h2>
+    <p class="leading-7">
+      This report summarizes the findings of an active investigation into a network of entities linked to
+      the trafficking of fentanyl precursor chemicals. The investigation was seeded by an open-source
+      ChemNet listing for <strong>RC Kairos</strong>, a Mexico-based wholesale chemicals broker, and
+      cross-referenced via Crustdata enrichment and the Fentanyl Module. The analysis surfaced
+      <strong>6 matched entities</strong>, <strong>30 associated selectors</strong>,
+      <strong>2 related DEA cases</strong>, and <strong>3 previously unidentified patterns</strong> of
+      coordinated behavior spanning the China → Mexico precursor corridor.
+    </p>
+    <ul class="mt-4 list-disc pl-6 leading-7">
+      <li>RC Kairos confirmed via Crustdata (company_id <strong><%= rc["company_id"] %></strong>) — HQ <strong><%= rc["headquarters"] %></strong>, industry <em><%= (rc["linkedin_industries"] || []).first %></em>.</li>
+      <li>30 selectors identified, including ChemNet listings, Wickr handles, and HOYAN-tagged CAS numbers.</li>
+      <li>2 ongoing DEA cases share entity / selector overlap (most recent activity February 2026).</li>
+      <li>3 behavioral patterns suggest an accelerating operational tempo, not contraction.</li>
+    </ul>
+  </section>
+
+  <section class="mb-10">
+    <h2 class="text-[22px] font-bold text-slate-900 mb-3">2. Context Entities</h2>
+    <p class="leading-7 mb-4">
+      Seven context entities were submitted; six returned matches against the Fentanyl Module. RC Kairos
+      is pinned as the lead entity given its open-source visibility and the Crustdata firmographic match.
+      One entity (<em>Yuhao Trading Pvt. (HK) Ltd.</em>) was flagged UNMATCHED and warrants further OSINT
+      and HUMINT collection.
+    </p>
+    <table class="report-table">
+      <thead><tr><th>Company</th><th>Status</th><th>HQ / Source</th><th>Phone</th><th>Email</th></tr></thead>
+      <tbody>
+        <% @demo[:entities].each do |e| %>
+          <tr>
+            <td><strong><%= e[:name] %></strong><% if e[:crustdata_id] %><br><span class="text-[11px] text-slate-500">Crustdata <%= e[:crustdata_id] %> · <%= e[:employee_count_range] %> employees · $<%= number_with_delimiter((e[:revenue_low] || 0)/1_000_000) %>M – $<%= number_with_delimiter((e[:revenue_high] || 0)/1_000_000.0) %>M</span><% end %></td>
+            <td><%= e[:status].upcase %></td>
+            <td><%= e[:headquarters] || "#{e[:country]} · #{e[:source]}" %></td>
+            <td><%= e[:phone] %></td>
+            <td><%= e[:email] %></td>
+          </tr>
+        <% end %>
+      </tbody>
+    </table>
+
+    <figure class="report-fig">
+      <img src="/demo_pics/list.png" alt="ChemNet supplier listing showing 1-N-Boc-4-(Phenylamino)piperidine CAS 125541-22-2 from multiple Chinese suppliers">
+      <figcaption>Figure 1. Open-source ChemNet listing surfaced during ingest (CAS 125541-22-2 — 1-N-Boc-4-(Phenylamino)piperidine). Several seller rows match selectors associated with the RC Kairos broker network, including Hongyan / HOYAN-tagged advertisements.</figcaption>
+    </figure>
+  </section>
+
+  <section class="mb-10">
+    <h2 class="text-[22px] font-bold text-slate-900 mb-3">3. Selectors</h2>
+    <p class="leading-7 mb-4">
+      30 selectors were identified, current as of April 26, 2026. Each carries ~10 supplementary fields
+      (registration data, prior aliases, last-seen activity) accessible via "More Details" in the
+      platform. The selector pool is anchored on RC Kairos but extends through encrypted-handle pivots
+      (Wickr, Threema) onto seller advertisements like the HOYAN listing below.
+    </p>
+    <table class="report-table">
+      <thead><tr><th>Selector Type</th><th>Last Updated</th><th>Other Fields</th></tr></thead>
+      <tbody>
+        <% @demo[:selectors].each do |s| %>
+          <tr><td><%= s[:kind] %></td><td><%= s[:last_updated] %></td><td><%= s[:other_fields] %></td></tr>
+        <% end %>
+      </tbody>
+    </table>
+
+    <figure class="report-fig">
+      <img src="/demo_pics/piperodone.png" alt="HOYAN-style packaging photo for 1-Boc-4-Piperidone CAS 79099-07-3 with phone number, email, Wickr and Threema handles overlaid">
+      <figcaption>Figure 2. Open-source product photo recovered from a forwarded ChemNet thread tied to the network: <strong>1-Boc-4-Piperidone (CAS 79099-07-3)</strong>, with overlaid contact selectors — phone <code>+86 199 3307 0948</code>, email <code>claire@hbyingong.com</code>, Wickr <code>clairelee1</code>, Threema <code>ZK8METMF</code>. Each selector has been pivoted into the platform.</figcaption>
+    </figure>
+  </section>
+
+  <section class="mb-10">
+    <h2 class="text-[22px] font-bold text-slate-900 mb-3">4. Related Cases</h2>
+    <p class="leading-7 mb-4">
+      Two ongoing DEA investigations share entity or selector overlap with this case. Coordination with
+      the assigned leads is recommended to deconflict and align operational timing.
+    </p>
+    <table class="report-table">
+      <thead><tr><th>Case</th><th>Agency</th><th>Linked Selectors</th><th>Last Updated</th><th>Lead Analyst</th></tr></thead>
+      <tbody>
+        <% @demo[:cases].each do |c| %>
+          <tr><td><strong><%= c[:name] %></strong></td><td><%= c[:office] %></td><td><%= c[:linked_selectors] %></td><td><%= c[:last_updated] %></td><td><%= c[:contact] %></td></tr>
+        <% end %>
+      </tbody>
+    </table>
+  </section>
+
+  <section class="mb-10">
+    <h2 class="text-[22px] font-bold text-slate-900 mb-3">5. Patterns of Behavior</h2>
+    <p class="leading-7 mb-4">
+      Three previously unidentified behavioral patterns were discovered across 33 linked selectors. The
+      most operationally significant — Pattern 2, "ChemNet ad-pivot to encrypted handles" — has the
+      highest selector density and emerged most recently (January 2026), suggesting an active and
+      expanding cluster.
+    </p>
+    <table class="report-table">
+      <thead><tr><th>Pattern</th><th>First Seen</th><th>Linked Selectors</th></tr></thead>
+      <tbody>
+        <% @demo[:patterns].each do |p| %>
+          <tr><td><strong><%= p[:description] %></strong></td><td><%= p[:first_seen] %></td><td><%= p[:linked_selectors] %></td></tr>
+        <% end %>
+      </tbody>
+    </table>
+  </section>
+
+  <section class="mb-10">
+    <h2 class="text-[22px] font-bold text-slate-900 mb-3">6. Open-Source Intelligence Indicator</h2>
+    <p class="leading-7">
+      During this investigation, an open-source advertisement was identified promoting the sale of
+      fentanyl precursor chemicals attributed to an entity operating under the name <strong>"HOYAN"</strong>.
+      The advertisement explicitly lists CAS numbers associated with known precursor compounds
+      (<code>CAS 19099-93-5</code> and <code>CAS 443998-65-0</code>). Contact details include a WhatsApp
+      number (<code>0086 19972155905</code>), an encrypted messaging handle (<code>K5UZ8CZE</code>), and
+      an email address (<code>Cassiel@whhoyan.com</code>). All three have been pivoted into the
+      platform's selector pool.
+    </p>
+
+    <figure class="report-fig">
+      <img src="/demo_pics/product.png" alt="HOYAN-branded product photograph showing CAS 19099-93-5 and CAS 443998-65-0 with WhatsApp, encrypted messenger ID, and email overlaid">
+      <figcaption>Figure 3. HOYAN-branded product photograph (CAS 19099-93-5 / CAS 443998-65-0). Contact selectors are visible on the image surface and were extracted as new graph nodes; the brand and CAS pair link this listing to two of the existing selectors associated with the RC Kairos broker cluster.</figcaption>
+    </figure>
+  </section>
+
+  <section class="mb-10">
+    <h2 class="text-[22px] font-bold text-slate-900 mb-3">7. Analytical Assessment</h2>
+    <p class="leading-7">
+      The convergence of the RC Kairos firmographic match (Crustdata <%= rc["company_id"] %>), active
+      DEA cases, and newly identified behavioral patterns strongly suggests an organized precursor
+      chemical supply network with international reach. The high match rate (6 of 7 entities) against
+      the Fentanyl Module indicates that the subjects are already known to intelligence systems but
+      may not have been previously linked to one another. The behavioral patterns — spanning October
+      2025 through January 2026 — point to an operational tempo that is accelerating, not contracting.
+    </p>
+  </section>
+
+  <section class="mb-2">
+    <h2 class="text-[22px] font-bold text-slate-900 mb-3">8. Recommendations</h2>
+    <ol class="list-decimal pl-6 leading-7 space-y-2">
+      <li><strong>Deconfliction:</strong> Coordinate with DEA case leads (<%= @demo[:cases].map { |c| c[:contact] }.join(", ") %>) to share intelligence and align operational timelines.</li>
+      <li><strong>Unmatched Entity Triage:</strong> Initiate targeted collection against <em>Yuhao Trading Pvt. (HK) Ltd.</em> using OSINT and HUMINT.</li>
+      <li><strong>Pattern Exploitation:</strong> Prioritize "ChemNet ad-pivot to encrypted handles" (15 linked selectors, most recent emergence) for network disruption planning.</li>
+      <li><strong>OSINT Cross-Reference:</strong> Run the HOYAN advertisement selectors (CAS numbers, phone, email, messaging handle) against the platform's 30 identified selectors for additional overlap.</li>
+      <li><strong>Report Production:</strong> Disseminate this report to partner agencies and publish findings to Spoke for broader visibility.</li>
+    </ol>
+  </section>
+
+  <footer class="mt-10 pt-6 border-t border-slate-300 text-[12px] text-slate-500 font-sans">
+    Generated by Holocron · Investigation <%= @investigation.id %> · <%= Time.current.strftime("%Y-%m-%d %H:%M %Z") %>
+  </footer>
+</article>

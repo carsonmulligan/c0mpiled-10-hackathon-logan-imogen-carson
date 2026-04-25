@@ -4,6 +4,7 @@ Rails.application.routes.draw do
   resources :investigations do
     member do
       get :setup
+      get :report
     end
 
     resources :sources, only: [:create, :destroy]
