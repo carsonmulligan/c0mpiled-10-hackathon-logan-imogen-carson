@@ -63,59 +63,52 @@
 
       <% when "selectors" %>
         <% @demo[:selectors].each do |row| %>
-          <div class="usa-row">
-            <div class="col-span-2 pl-2 font-bold uppercase tracking-wide text-[11px] text-slate-700">
-              <%= row[:kind] %>
+          <div class="usa-row-plain">
+            <div class="col-span-3 pl-2 font-bold text-slate-900"><%= row[:kind] %></div>
+            <div class="col-span-4 text-slate-700">Last Updated Date: <%= row[:last_updated] %></div>
+            <div class="col-span-3 flex items-center gap-2 text-slate-700">
+              <span>Other fields available</span>
+              <span class="usa-count-chip"><%= row[:other_fields] %></span>
             </div>
-            <div class="col-span-3 font-mono text-[13px] text-slate-900"><%= row[:value] %></div>
-            <div class="col-span-5 text-slate-700"><%= row[:label] %></div>
-            <div class="col-span-1 text-right text-slate-600">
-              <span class="usa-cell-label">Seen</span>
-              <div class="font-bold text-slate-900"><%= row[:seen] %></div>
-            </div>
-            <div class="col-span-1 flex justify-end">
-              <button type="button" class="usa-view-btn">Inspect</button>
+            <div class="col-span-2 flex justify-end pr-2">
+              <button type="button" class="usa-row-action">More Details</button>
             </div>
           </div>
         <% end %>
 
       <% when "cases" %>
         <% @demo[:cases].each do |row| %>
-          <div class="usa-row">
-            <div class="col-span-3 pl-2">
-              <div class="usa-cell-label">Case ID</div>
-              <div class="font-mono text-[13px] text-slate-900"><%= row[:id] %></div>
+          <div class="usa-row-plain">
+            <div class="col-span-3 flex items-center gap-2 pl-2">
+              <span class="font-bold text-slate-900"><%= row[:name] %></span>
+              <span class="usa-tag-dark"><%= row[:office] %></span>
             </div>
-            <div class="col-span-4">
-              <div class="usa-cell-label">Title</div>
-              <div class="font-bold text-slate-900"><%= row[:title] %></div>
+            <div class="col-span-3 flex items-center gap-2 text-slate-700">
+              <span>Linked selectors</span>
+              <span class="usa-count-chip"><%= row[:linked_selectors] %></span>
             </div>
-            <div class="col-span-2">
-              <div class="usa-cell-label">Office</div>
-              <div><%= row[:office] %></div>
+            <div class="col-span-3 text-slate-700">Case Last Updated: <%= row[:last_updated] %></div>
+            <div class="col-span-2 flex items-center gap-2 text-slate-700">
+              <span aria-hidden="true">👤</span>
+              <span><%= row[:contact] %></span>
             </div>
-            <div class="col-span-2">
-              <div class="usa-cell-label">Overlap</div>
-              <div><%= row[:overlap] %></div>
-            </div>
-            <div class="col-span-1 flex justify-end">
-              <button type="button" class="usa-view-btn">Open</button>
+            <div class="col-span-1 flex justify-end pr-2">
+              <button type="button" class="usa-row-action">View Investigation <span aria-hidden="true">›</span></button>
             </div>
           </div>
         <% end %>
 
       <% when "patterns" %>
-        <% @demo[:patterns].each_with_index do |row, i| %>
-          <div class="usa-row">
-            <div class="col-span-1 pl-2 text-[28px] font-bold leading-none text-slate-900">
-              <%= format("%02d", i + 1) %>
+        <% @demo[:patterns].each do |row| %>
+          <div class="usa-row-plain">
+            <div class="col-span-4 pl-2 font-bold text-slate-900"><%= row[:description] %></div>
+            <div class="col-span-3 text-slate-700">First Seen: <%= row[:first_seen] %></div>
+            <div class="col-span-3 flex items-center gap-2 text-slate-700">
+              <span>Linked selectors</span>
+              <span class="usa-count-chip"><%= row[:linked_selectors] %></span>
             </div>
-            <div class="col-span-9">
-              <div class="font-bold text-slate-900"><%= row[:title] %></div>
-              <p class="mt-1 text-[14px] leading-6 text-slate-700"><%= row[:detail] %></p>
-            </div>
-            <div class="col-span-2 flex justify-end">
-              <button type="button" class="usa-view-btn">Drill in</button>
+            <div class="col-span-2 flex justify-end pr-2">
+              <button type="button" class="usa-row-action">See Linked Entity Network <span aria-hidden="true">›</span></button>
             </div>
           </div>
         <% end %>

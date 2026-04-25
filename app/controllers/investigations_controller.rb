@@ -139,23 +139,23 @@ class InvestigationsController < ApplicationController
         { name: "Hubei Norna Technology Ltd.",          status: "matched", phone: "+86 27 8714 0099",  email: "norna@norna-tech.cn", personnel: "Bo Yang",  country: "CN", source: "tradeford" }
       ],
       selectors: [
-        { kind: "CAS",      value: "79099-07-3",      label: "1-Boc-4-piperidone (precursor)",            seen: 14 },
-        { kind: "CAS",      value: "288573-56-8",     label: "tert-butyl 4-(phenylamino)piperidine-1-carboxylate", seen: 9 },
-        { kind: "Keyword",  value: "ANPP",            label: "4-Anilino-N-phenethylpiperidine",           seen: 22 },
-        { kind: "Keyword",  value: "NPP",             label: "N-Phenethyl-4-piperidone",                  seen: 18 },
-        { kind: "Phone",    value: "+86 551 6262 ****", label: "Anhui regional supplier number block",   seen: 6 },
-        { kind: "Email",    value: "sales*@senwayer.com", label: "Senwayer outbound sales pattern",      seen: 5 },
-        { kind: "Wallet",   value: "TRX TQrZ…7p2k",   label: "Repeated USDT-TRC20 receive address",       seen: 3 },
-        { kind: "Shipper",  value: "SF Express HK",    label: "Common forwarder for flagged parcels",     seen: 11 }
+        { kind: "Person Name",  last_updated: "04/26/26", other_fields: 10 },
+        { kind: "Company Name", last_updated: "04/26/26", other_fields: 10 },
+        { kind: "Username",     last_updated: "04/26/26", other_fields: 10 },
+        { kind: "Username",     last_updated: "04/26/26", other_fields: 10 },
+        { kind: "Person Name",  last_updated: "04/26/26", other_fields: 10 },
+        { kind: "Company Name", last_updated: "04/26/26", other_fields: 10 },
+        { kind: "Phone Number", last_updated: "04/25/26", other_fields: 8 },
+        { kind: "Email Address",last_updated: "04/25/26", other_fields: 7 }
       ],
       cases: [
-        { id: "DEA-2025-04412", title: "Operation Iron Lattice",     office: "DEA · SOD",     overlap: "4 entities, 11 selectors", status: "Active" },
-        { id: "HSI-2025-00891", title: "Bluewater Diversion",        office: "HSI · El Paso", overlap: "2 entities, 6 selectors",  status: "Active" }
+        { name: "Case Name", office: "DEA", linked_selectors: 3, last_updated: "08/09/2025", contact: "John Doe" },
+        { name: "Case Name", office: "DEA", linked_selectors: 2, last_updated: "02/20/2026", contact: "Jane Fawn" }
       ],
       patterns: [
-        { title: "Mirror-domain handoff",          detail: "Suppliers register near-duplicate domains within 14 days of takedown notices and migrate sales emails on a rolling cadence." },
-        { title: "Split-shipment laddering",       detail: "Orders above 250g are fragmented across 3–5 parcels routed through Hong Kong forwarders before consolidation in Mexico." },
-        { title: "Crypto-then-fiat settlement",    detail: "Initial deposit on TRC-20 USDT, balance settled via WeChat or third-party invoice to a Hong Kong shell entity." }
+        { description: "Pattern Description", first_seen: "10/07/2025", linked_selectors: 10 },
+        { description: "Pattern Description", first_seen: "1/20/2026",  linked_selectors: 15 },
+        { description: "Pattern Description", first_seen: "11/28/2025", linked_selectors: 8 }
       ]
     }
   end
