@@ -172,7 +172,173 @@
     </ol>
   </section>
 
+  <section id="share" class="no-print mt-12 pt-8 border-t-2 border-slate-300">
+    <div class="flex items-center justify-between flex-wrap gap-3">
+      <div>
+        <div class="text-[11px] uppercase tracking-widest text-slate-500 font-sans font-bold">Holocron · Role-Based Share</div>
+        <h2 class="text-[22px] font-bold text-slate-900 mt-1" style="font-family:'Public Sans',sans-serif;">Share this report</h2>
+        <p class="text-[13px] text-slate-700 mt-1" style="font-family:'Public Sans',sans-serif;">
+          Send specific dataset bundles to a named recipient. The recipient's role caps which sensitivity tiers they can receive.
+        </p>
+      </div>
+      <div class="text-[11px] font-mono text-slate-500">classification ceiling: <span class="text-red-700 font-bold">LES</span></div>
+    </div>
+
+    <% if flash[:share_notice] %>
+      <div class="mt-4 rounded border-l-4 border-emerald-600 bg-emerald-50 px-4 py-3 text-[13px] text-emerald-900" style="font-family:'Public Sans',sans-serif;">
+        <%= flash[:share_notice] %>
+      </div>
+    <% end %>
+    <% if flash[:share_alert] %>
+      <div class="mt-4 rounded border-l-4 border-red-600 bg-red-50 px-4 py-3 text-[13px] text-red-900" style="font-family:'Public Sans',sans-serif;">
+        <%= flash[:share_alert] %>
+      </div>
+    <% end %>
+
+    <%= form_with model: @new_share, url: investigation_shares_path(@investigation, return_to: "report"), local: true, html: { class: "mt-6", data: { controller: "share-form" }, id: "share-form" } do |f| %>
+      <%= hidden_field_tag :return_to, "report" %>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-5" style="font-family:'Public Sans',sans-serif;">
+        <div>
+          <label class="block text-[13px] font-bold text-slate-900 mb-1">Recipient email</label>
+          <input type="email" name="share[recipient_email]" required placeholder="analyst@partner.gov"
+                 class="w-full rounded border border-slate-400 bg-white px-3 py-2 text-[14px] focus:border-blue-700 focus:outline focus:outline-4 focus:outline-blue-200">
+        </div>
+
+        <div>
+          <label class="block text-[13px] font-bold text-slate-900 mb-1">Recipient role</label>
+          <select name="share[recipient_role]" id="share-role"
+                  class="w-full rounded border border-slate-400 bg-white px-3 py-2 text-[14px] focus:border-blue-700 focus:outline focus:outline-4 focus:outline-blue-200">
+            <% Share::ROLES.each_with_index do |r, i| %>
+              <option value="<%= r[:slug] %>" data-ceiling="<%= r[:ceiling] %>" <%= "selected" if i.zero? %>>
+                <%= r[:label] %> — ceiling: <%= r[:ceiling] %>
+              </option>
+            <% end %>
+          </select>
+          <p id="share-role-blurb" class="text-[12px] text-slate-600 mt-1"></p>
+        </div>
+      </div>
+
+      <fieldset class="mt-6">
+        <legend class="text-[13px] font-bold text-slate-900 mb-2" style="font-family:'Public Sans',sans-serif;">Dataset bundles</legend>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-2" style="font-family:'Public Sans',sans-serif;">
+          <% Share::DATASETS.each do |d| %>
+            <label class="dataset-row flex items-start gap-3 rounded border border-slate-200 bg-white px-3 py-2 text-[13px] hover:bg-slate-50"
+                   data-sensitivity="<%= d[:sensitivity] %>"
+                   data-tier="<%= Share::SENSITIVITY_TIERS[d[:sensitivity]] %>">
+              <input type="checkbox" name="share[dataset_slugs][]" value="<%= d[:slug] %>" class="mt-1 dataset-check">
+              <span class="flex-1">
+                <span class="flex items-center gap-2">
+                  <span class="font-bold text-slate-900"><%= d[:label] %></span>
+                  <span class="inline-flex items-center rounded-sm px-1.5 py-0.5 text-[10px] font-bold uppercase tracking-wider
+                               <%= d[:sensitivity] == 'LES' ? 'bg-red-100 text-red-800' : d[:sensitivity] == 'FOUO' ? 'bg-amber-100 text-amber-800' : 'bg-emerald-100 text-emerald-800' %>">
+                    <%= d[:sensitivity] %>
+                  </span>
+                </span>
+                <span class="block text-[12px] text-slate-600 mt-0.5"><%= d[:blurb] %></span>
+              </span>
+            </label>
+          <% end %>
+        </div>
+      </fieldset>
+
+      <div class="mt-6" style="font-family:'Public Sans',sans-serif;">
+        <label class="block text-[13px] font-bold text-slate-900 mb-1">Message (optional)</label>
+        <textarea name="share[message]" rows="3" placeholder="Context, deadlines, or handling instructions for the recipient."
+                  class="w-full rounded border border-slate-400 bg-white px-3 py-2 text-[14px] focus:border-blue-700 focus:outline focus:outline-4 focus:outline-blue-200"></textarea>
+      </div>
+
+      <div class="mt-6 flex items-center justify-between">
+        <p class="text-[12px] text-slate-500" style="font-family:'Public Sans',sans-serif;">
+          Bundles above the recipient's ceiling are auto-disabled. Holocron will not transmit excluded bundles.
+        </p>
+        <button type="submit" class="usa-btn-secondary">Send via Holocron</button>
+      </div>
+    <% end %>
+
+    <div class="mt-10">
+      <h3 class="text-[14px] font-bold text-slate-900" style="font-family:'Public Sans',sans-serif;">Recently shared</h3>
+      <% if @recent_shares.empty? %>
+        <p class="text-[13px] text-slate-500 mt-2" style="font-family:'Public Sans',sans-serif;">No shares yet for this investigation.</p>
+      <% else %>
+        <ul class="mt-3 divide-y divide-slate-200 border border-slate-200 rounded">
+          <% @recent_shares.each do |s| %>
+            <li class="flex items-center justify-between gap-4 px-4 py-3 text-[13px]" style="font-family:'Public Sans',sans-serif;">
+              <div class="min-w-0 flex-1">
+                <div class="flex items-center gap-2 flex-wrap">
+                  <span class="font-bold text-slate-900"><%= s.recipient_email %></span>
+                  <% if s.role_definition %>
+                    <span class="inline-flex items-center rounded-sm px-1.5 py-0.5 text-[10px] font-bold uppercase tracking-wider bg-slate-800 text-white">
+                      <%= s.role_definition[:label] %>
+                    </span>
+                    <span class="text-[11px] text-slate-500">ceiling <%= s.role_definition[:ceiling] %></span>
+                  <% end %>
+                </div>
+                <div class="text-[12px] text-slate-600 mt-1 truncate">
+                  <%= s.dataset_definitions.map { |d| d[:label] }.join(" · ") %>
+                </div>
+                <% if s.message.present? %>
+                  <div class="text-[12px] text-slate-500 italic mt-1 truncate">"<%= s.message %>"</div>
+                <% end %>
+              </div>
+              <div class="text-right shrink-0">
+                <div class="text-[11px] text-slate-500">
+                  <%= s.shared_at&.strftime("%b %-d, %Y · %H:%M") || time_ago_in_words(s.created_at) %>
+                </div>
+                <%= button_to "Revoke",
+                      investigation_share_path(@investigation, s, return_to: "report"),
+                      method: :delete,
+                      data: { turbo_confirm: "Revoke this share?" },
+                      class: "mt-1 inline-flex items-center justify-center rounded border border-slate-300 bg-white px-2 py-1 text-[11px] font-medium text-slate-700 hover:bg-slate-100" %>
+              </div>
+            </li>
+          <% end %>
+        </ul>
+      <% end %>
+    </div>
+  </section>
+
   <footer class="mt-10 pt-6 border-t border-slate-300 text-[12px] text-slate-500 font-sans">
     Generated by Holocron · Investigation <%= @investigation.id %> · <%= Time.current.strftime("%Y-%m-%d %H:%M %Z") %>
   </footer>
 </article>
+
+<script>
+  (function () {
+    var roleSelect = document.getElementById("share-role");
+    if (!roleSelect) return;
+
+    var blurbs = <%== {
+      "partner_agency" => "Partner Agency — full operational access. LES ceiling.",
+      "liaison"        => "Foreign / interagency liaison. FOUO ceiling — LES bundles will be excluded.",
+      "spoke_readonly" => "Read-only Holocron spoke at a partner office. FOUO ceiling.",
+      "public_affairs" => "Public Affairs / press use. PUBLIC ceiling — only public-tier bundles can be shared."
+    }.to_json %>;
+
+    var TIER = { PUBLIC: 0, FOUO: 1, LES: 2 };
+    var blurb = document.getElementById("share-role-blurb");
+    var rows = document.querySelectorAll(".dataset-row");
+
+    function applyCeiling() {
+      var opt = roleSelect.options[roleSelect.selectedIndex];
+      var ceiling = TIER[opt.getAttribute("data-ceiling")] || 0;
+      if (blurb) blurb.textContent = blurbs[opt.value] || "";
+      rows.forEach(function (row) {
+        var tier = parseInt(row.getAttribute("data-tier") || "0", 10);
+        var input = row.querySelector(".dataset-check");
+        if (tier > ceiling) {
+          row.style.opacity = "0.45";
+          row.style.pointerEvents = "none";
+          if (input) input.checked = false;
+          if (input) input.disabled = true;
+        } else {
+          row.style.opacity = "";
+          row.style.pointerEvents = "";
+          if (input) input.disabled = false;
+        }
+      });
+    }
+    roleSelect.addEventListener("change", applyCeiling);
+    applyCeiling();
+  })();
+</script>

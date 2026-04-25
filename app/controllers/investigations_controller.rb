@@ -64,6 +64,8 @@ class InvestigationsController < ApplicationController
 
   def report
     @demo = demo_dataset
+    @recent_shares = @investigation.shares.where.not(recipient_email: [nil, ""]).order(shared_at: :desc).limit(8)
+    @new_share = @investigation.shares.new
     render layout: "report"
   end
 

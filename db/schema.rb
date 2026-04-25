@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[8.0].define(version: 2026_04_24_222054) do
+ActiveRecord::Schema[8.0].define(version: 2026_04_25_005149) do
   create_table "investigations", force: :cascade do |t|
     t.string "name"
     t.text "description"
@@ -59,12 +59,19 @@ ActiveRecord::Schema[8.0].define(version: 2026_04_24_222054) do
 
   create_table "shares", force: :cascade do |t|
     t.integer "investigation_id", null: false
-    t.integer "office_id", null: false
+    t.integer "office_id"
     t.string "permission"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.string "recipient_email"
+    t.string "recipient_role"
+    t.json "dataset_slugs"
+    t.text "message"
+    t.datetime "shared_at"
     t.index ["investigation_id"], name: "index_shares_on_investigation_id"
     t.index ["office_id"], name: "index_shares_on_office_id"
+    t.index ["recipient_email"], name: "index_shares_on_recipient_email"
+    t.index ["shared_at"], name: "index_shares_on_shared_at"
   end
 
   create_table "sources", force: :cascade do |t|
