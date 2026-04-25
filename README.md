@@ -4,7 +4,7 @@
 
 `Rails 8` `Hotwire` `Tailwind` `SQLite` `USWDS-inspired UI` `demo dataset`
 
-Holocron is built for an analyst like Frances at State/INL: start with an objective, ingest links and context, map that input onto an existing module, and surface the entities, selectors, related cases, and behavior patterns that matter fastest. The current repo is optimized as a polished demo with seeded data, stubbed scraping/enrichment hooks, and a clear end-to-end workflow.
+Holocron is built for an analyst like Frances at State/INL: define an objective, ingest context, map it to a module, and surface the entities, selectors, related cases, and behavior patterns that matter fastest. The current repo is a polished hackathon demo with seeded data and clear extension points for live integrations.
 
 ## Why This Matters
 
@@ -14,15 +14,29 @@ Holocron is built for an analyst like Frances at State/INL: start with an object
 
 ## Demo Flow
 
-```mermaid
-flowchart LR
-    A[Investigation objective] --> B[Add links and files]
-    B --> C[Select module]
-    C --> D[Parse and ingest context]
-    D --> E[Match entities and selectors]
-    E --> F[Link related cases]
-    F --> G[Flag patterns of behavior]
-    G --> H[Produce report and share]
+```text
+[Objective]
+    |
+    v
+[Links / Files]
+    |
+    v
+[Module Selection]
+    |
+    v
+[Parse + Ingest]
+    |
+    v
+[Entities + Selectors]
+    |
+    v
+[Related Cases]
+    |
+    v
+[Patterns]
+    |
+    v
+[Report + Share]
 ```
 
 ## What Reviewers Should Look At
@@ -42,49 +56,46 @@ The analyst defines the mission, attaches context, and selects a prebuilt module
 ### 2. Parsing
 ![Tool parses input from welcome page](design/workflow/2-tool-parses-input-from-welcome-page.png)
 
-The app stages the work as a pipeline so the user understands what is happening before the workspace opens.
+The app makes ingestion legible before the workspace opens.
 
 ### 3. Investigation Home
 ![Data hub main investigation](design/workflow/3-data-hub-main-investigation.png)
 
-The core workspace summarizes what was matched and turns the investigation into a browsable operating picture.
+The core workspace turns matched context into an operating picture.
 
 ### 4. Related Cases
 ![Investigation home related cases](design/workflow/4-investigation-home-related-cases.png)
 
-Cross-case overlap is surfaced directly so teams can pivot from raw research to active investigations.
+Cross-case overlap helps teams pivot from raw research to active investigations.
 
 ### 5. Patterns of Behavior
 ![Investigation home pattern of behavior](design/workflow/5-investigation-home-pattern-of-behavior.png)
 
-The strongest demo moment is not just data collection, but the system identifying recurring tactics and tradecraft.
+The strongest demo moment is the system surfacing recurring tactics and tradecraft.
 
 ## System Snapshot
 
-```mermaid
-flowchart TD
-    UI[Intake + Investigation UI]
-    DB[(SQLite demo data)]
-    SRC[Sources]
-    SCR[Scrapers]
-    MSG[Analyst chat]
-    SHR[Office sharing]
-    EXT[Future live integrations<br/>Crustdata / web scraping / exports]
+```text
+                 +----------------------+
+                 |  Intake / Workspace  |
+                 +----------+-----------+
+                            |
+        +---------+---------+---------+---------+
+        |         |                   |         |
+        v         v                   v         v
+   [Sources]  [Scrapers]         [Chat]    [Sharing]
+                            \        |        /
+                             \       |       /
+                              v      v      v
+                             [SQLite demo data]
 
-    UI --> DB
-    UI --> SRC
-    UI --> SCR
-    UI --> MSG
-    UI --> SHR
-    SCR -.stubbed hooks.-> EXT
-    MSG -.stubbed enrichment.-> EXT
+   Future hooks: live scraping, enrichment, exports, reports
 ```
 
 ## Current Scope
 
 - Live today: intake flow, setup simulation, investigation views, source records, scraper records, sharing model, seeded/demo data.
-- Stubbed by design for the hackathon: external scraping, live enrichment, report generation, and publish/export actions.
-- Best framing for judges: this is a strong product demo with the right architecture seams already in place.
+- Stubbed by design: external scraping, live enrichment, report generation, and publish/export actions.
 
 ## Run Locally
 
@@ -103,4 +114,3 @@ Open `http://localhost:3000`.
 - SQLite
 - Hotwire + Stimulus
 - Tailwind CSS
-
