@@ -9,6 +9,7 @@
       </span>
     </div>
     <div class="flex items-center gap-2">
+      <%= link_to "View Network Graph", graph_investigation_path(@investigation), target: "_blank", class: "usa-btn-outline" %>
       <%= link_to "Produce Report", report_investigation_path(@investigation), target: "_blank", class: "usa-btn-secondary" %>
       <button type="button" class="usa-btn-outline">Export Data</button>
       <button type="button" class="usa-btn-outline">Publish to Spoke</button>

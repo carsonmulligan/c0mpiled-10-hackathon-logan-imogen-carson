@@ -5,6 +5,7 @@ Rails.application.routes.draw do
     member do
       get :setup
       get :report
+      get :graph
     end
 
     resources :sources, only: [:create, :destroy]

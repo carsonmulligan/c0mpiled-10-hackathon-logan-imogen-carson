@@ -1,5 +1,5 @@
 class InvestigationsController < ApplicationController
-  before_action :set_investigation, only: [:show, :setup, :report, :edit, :update, :destroy]
+  before_action :set_investigation, only: [:show, :setup, :report, :graph, :edit, :update, :destroy]
   before_action :set_module_options, only: [:new, :create]
 
   def index
@@ -64,6 +64,11 @@ class InvestigationsController < ApplicationController
 
   def report
     @demo = demo_dataset
+    render layout: "report"
+  end
+
+  def graph
+    @graph = ontology_graph
     render layout: "report"
   end
 
@@ -170,6 +175,66 @@ class InvestigationsController < ApplicationController
         { description: "China → Mexico precursor relay (RC Kairos)", first_seen: "10/07/2025", linked_selectors: 10 },
         { description: "ChemNet ad-pivot to encrypted handles",      first_seen: "1/20/2026",  linked_selectors: 15 },
         { description: "Coordinated CAS-number listing across HOYAN-tagged sellers", first_seen: "11/28/2025", linked_selectors: 8 }
+      ]
+    }
+  end
+
+  def ontology_graph
+    {
+      nodes: [
+        { id: "rc_kairos",        label: "RC Kairos",                    group: "company",     title: "Mexico-based wholesale chemicals broker. Crustdata 27357628." },
+        { id: "chemnet",          label: "ChemNet",                      group: "marketplace", title: "B2B chemicals marketplace where RC Kairos and HOYAN advertise." },
+        { id: "hoyan",            label: "HOYAN",                        group: "brand",       title: "Brand / alias appearing on packaging photos. Linked to Wuhan-area sellers." },
+        { id: "anhui_rencheng",   label: "Anhui Rencheng",               group: "supplier",    title: "Chinese supplier matched on tradeford listings." },
+        { id: "hubei_norna",      label: "Hubei Norna",                  group: "supplier",    title: "Chinese supplier — repeat seller on ChemNet." },
+        { id: "wuhan_senwayer",   label: "Wuhan Senwayer",               group: "supplier",    title: "Wuhan-area precursor supplier; ANPP listings." },
+        { id: "shijiazhuang",     label: "Shijiazhuang Sdyano",          group: "supplier",    title: "Hebei-based fine chemical supplier." },
+        { id: "yuhao_hk",         label: "Yuhao Trading (HK)",           group: "broker",      title: "Hong Kong forwarder. UNMATCHED — flagged for further collection." },
+        { id: "boc_piperidone",   label: "1-Boc-4-Piperidone",           group: "chemical",    title: "CAS 79099-07-3. Direct precursor to ANPP." },
+        { id: "anpp",             label: "ANPP",                         group: "chemical",    title: "4-Anilino-N-phenethylpiperidine. Immediate fentanyl precursor." },
+        { id: "phenylamino",      label: "1-N-Boc-4-(Phenylamino)pip.",  group: "chemical",    title: "CAS 125541-22-2 — surfaced on ChemNet listing (Figure 1)." },
+        { id: "garza",            label: "Garza García, MX",             group: "location",    title: "RC Kairos HQ — Nuevo León, Mexico." },
+        { id: "wuhan_loc",        label: "Wuhan, CN",                    group: "location",    title: "Cluster of Hubei-area suppliers." },
+        { id: "anhui_loc",        label: "Anhui, CN",                    group: "location",    title: "Anhui Rencheng base." },
+        { id: "wickr_claire",     label: "Wickr: clairelee1",            group: "handle",      title: "Encrypted-messenger handle on the HOYAN packaging." },
+        { id: "threema_zk8",      label: "Threema: ZK8METMF",            group: "handle",      title: "Encrypted-messenger handle on the HOYAN packaging." },
+        { id: "phone_cn",         label: "+86 199 7215 5905",            group: "comm",        title: "WhatsApp number from HOYAN ad (CAS 19099-93-5)." },
+        { id: "email_claire",     label: "claire@hbyingong.com",         group: "comm",        title: "Email selector from 1-Boc-4-Piperidone packaging." },
+        { id: "email_cassiel",    label: "Cassiel@whhoyan.com",          group: "comm",        title: "Email selector from HOYAN ad surface." },
+        { id: "case_iron_lattice",label: "Operation Iron Lattice",       group: "case",        title: "DEA-2025-04412 — active precursor supply-chain case." },
+        { id: "case_bluewater",   label: "Bluewater Diversion",          group: "case",        title: "HSI-2025-00891 — Hong Kong forwarder disruption." },
+        { id: "john_doe",         label: "John Doe",                     group: "person",      title: "Lead analyst, DEA Operation Iron Lattice." },
+        { id: "jane_fawn",        label: "Jane Fawn",                    group: "person",      title: "Lead analyst, HSI Bluewater Diversion." }
+      ],
+      edges: [
+        { id: "e1",  from: "rc_kairos",      to: "chemnet",         label: "advertises_on" },
+        { id: "e2",  from: "rc_kairos",      to: "garza",           label: "hq_in" },
+        { id: "e3",  from: "rc_kairos",      to: "anhui_rencheng",  label: "sources_from" },
+        { id: "e4",  from: "rc_kairos",      to: "hubei_norna",     label: "sources_from" },
+        { id: "e5",  from: "rc_kairos",      to: "wuhan_senwayer",  label: "sources_from" },
+        { id: "e6",  from: "rc_kairos",      to: "yuhao_hk",        label: "ships_via" },
+        { id: "e7",  from: "hoyan",          to: "chemnet",         label: "advertises_on" },
+        { id: "e8",  from: "hoyan",          to: "boc_piperidone",  label: "lists_product" },
+        { id: "e9",  from: "hoyan",          to: "phenylamino",     label: "lists_product" },
+        { id: "e10", from: "hoyan",          to: "wickr_claire",    label: "uses_handle" },
+        { id: "e11", from: "hoyan",          to: "threema_zk8",     label: "uses_handle" },
+        { id: "e12", from: "hoyan",          to: "phone_cn",        label: "uses_phone" },
+        { id: "e13", from: "hoyan",          to: "email_claire",    label: "uses_email" },
+        { id: "e14", from: "hoyan",          to: "email_cassiel",   label: "uses_email" },
+        { id: "e15", from: "anhui_rencheng", to: "boc_piperidone",  label: "supplies" },
+        { id: "e16", from: "anhui_rencheng", to: "anhui_loc",       label: "hq_in" },
+        { id: "e17", from: "wuhan_senwayer", to: "anpp",            label: "supplies" },
+        { id: "e18", from: "wuhan_senwayer", to: "wuhan_loc",       label: "hq_in" },
+        { id: "e19", from: "hubei_norna",    to: "wuhan_loc",       label: "hq_in" },
+        { id: "e20", from: "shijiazhuang",   to: "phenylamino",     label: "supplies" },
+        { id: "e21", from: "boc_piperidone", to: "anpp",            label: "precursor_of" },
+        { id: "e22", from: "case_iron_lattice", to: "rc_kairos",    label: "tracks" },
+        { id: "e23", from: "case_iron_lattice", to: "hoyan",        label: "tracks" },
+        { id: "e24", from: "case_bluewater",   to: "yuhao_hk",      label: "tracks" },
+        { id: "e25", from: "john_doe",       to: "case_iron_lattice", label: "leads" },
+        { id: "e26", from: "jane_fawn",      to: "case_bluewater",  label: "leads" },
+        { id: "e27", from: "yuhao_hk",       to: "shijiazhuang",    label: "forwards_for" },
+        { id: "e28", from: "hoyan",          to: "wuhan_senwayer",  label: "co_brands_with" }
       ]
     }
   end
